@@ -1,0 +1,2 @@
+Tower Shield[N]
+-6 damage when attacked at range.[X]

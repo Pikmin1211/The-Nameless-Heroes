@@ -1,0 +1,2 @@
+Wary Fighter[N]
+Prevents all follow-up attacks.[X]

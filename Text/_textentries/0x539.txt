@@ -1,0 +1,3 @@
+Select which units to[N]
+field this battle. The[N]
+number is restricted.[X]

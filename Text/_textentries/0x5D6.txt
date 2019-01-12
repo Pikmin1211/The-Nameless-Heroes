@@ -1,0 +1,3 @@
+Eclipse (Skill%)[N]
+If the attack does not defeat the[N]
+opponent, it reduces their HP to 1.[X]

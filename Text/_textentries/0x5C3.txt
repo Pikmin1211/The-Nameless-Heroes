@@ -1,0 +1,2 @@
+Nullify[N]
+Negates effective damage.[X]

@@ -1,0 +1,1 @@
+Text Table definition is at Event Assembler / Tools / Tool Helpers.txt

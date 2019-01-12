@@ -1,0 +1,9 @@
+
+[MidLeft][LoadBrownHairMan]
+Oh, no...!![AN]
+It's bandits![N]
+Bandits have attacked us![AN]
+And judging from the direction[N]
+they're coming from,[AN]
+I'd say the neighboring village[N]
+is already done for...[A][X]

@@ -1,0 +1,2 @@
+Pass a rescued ally to[N]
+another ally next to you.[X]

@@ -1,0 +1,2 @@
+Colossus (Skill%)[N]
+Add Con to damage.[X]

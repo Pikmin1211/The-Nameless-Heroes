@@ -1,0 +1,2 @@
+Place a rescued ally in[N]
+an adjacent space.[X]

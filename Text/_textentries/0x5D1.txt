@@ -1,0 +1,2 @@
+Death Blow[N]
+Damage +5 when attacking.[X]

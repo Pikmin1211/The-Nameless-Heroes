@@ -1,0 +1,2 @@
+End the turn. Be sure you're[N]
+done before you select this.[X]

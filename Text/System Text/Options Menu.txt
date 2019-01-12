@@ -1,0 +1,203 @@
+#0x9
+Animation[X]
+
+#0xA
+Terrain[X]
+
+#0xB
+Unit[X]
+
+#0xC
+Combat[X]
+
+#0xD
+Subtitle Help[X]
+
+#0xE
+Autocursor[X]
+
+#0xF
+Text Speed[X]
+
+#0x10
+Game Speed[X]
+
+#0x11
+Music[X]
+
+#0x12
+Sound Effects[X]
+
+#0x13
+Window Color[X]
+
+#0x14
+CPU Level[X]
+
+#0x15
+Autoend Turns[X]
+
+#0x16 Unit_Color
+OFF[X]
+
+#0x17
+Show Objective[X]
+
+#0x18
+Controller[X]
+
+#0x19
+Rank Display[X]
+
+#0x1A
+Show animation without backgrounds[X]
+
+#0x1B
+Show animation with backgrounds[X]
+
+#0x1C
+Turn combat animation off[X]
+
+#0x1D
+Set animation for each unit manually[X]
+
+#0x1E
+Set unit movement speed[X]
+
+#0x1F
+Set unit movement speed (fast)[X]
+
+#0x20
+Set message speed (slow)[X]
+
+#0x21
+Set message speed[X]
+
+#0x22
+Set message speed (fast)[X]
+
+#0x23
+Set message speed (autoscroll)[X]
+
+#0x24
+Turn Terrain window on or off[X]
+
+#0x25
+Show normal unit window[X]
+
+#0x26
+Show unit window with tail[X]
+
+#0x27
+Turn unit window off[X]
+
+#0x28
+Show basic Combat Info window[X]
+
+#0x29
+Show detailed Combat Info window[X]
+
+#0x2A
+Turn Combat Info window off[X]
+
+#0x2B
+Set Easy/Help Scroll display[X]
+
+#0x2C
+Set cursor to start on main hero[X]
+
+#0x2D
+Set turn to end automatically[X]
+
+#0x2E
+Turn music on or off[X]
+
+#0x2F
+Turn sound effects on or off[X]
+
+#0x30
+Change window color[X]
+
+#0x31
+Set enemy AI[X]
+
+#0x32
+Set colors for individual units[X]
+
+#0x33
+Turn Chapter Goal display on or off[X]
+
+#0x34
+Set Control Window display[X]
+
+#0x35
+Rank Display[X]
+
+#0x36
+ON[X]
+
+#0x37
+OFF[X]
+
+#0x38
+1[X]
+
+#0x39
+2[X]
+
+#0x3A
+3[X]
+
+#0x3B
+4[X]
+
+#0x3C
+Slow[X]
+
+#0x3D
+Norm[X]
+
+#0x3E
+Fast[X]
+
+#0x3F
+Max[X]
+
+#0x40
+Solo[X]
+
+#0x41 Strat
+S[X]
+
+#0x42 Detail
+D[X]
+
+#0x43
+Panel[X]
+
+#0x44
+Burst[X]
+
+#0x45
+Players[X]
+
+#0x46
+Hide Units[X]
+
+#0x47
+Victory Cond[X]
+
+#0x4A
+Survival[X]
+
+#0x4B
+ON[X]
+
+#0x4C
+OFF[X]
+
+#0x4D
+Now Loading[X]
+
+#0x63
+End[X]

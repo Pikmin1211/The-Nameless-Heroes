@@ -1,0 +1,2 @@
+Divine Shield[N]
+Halves all damage received.[X]

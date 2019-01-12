@@ -1,0 +1,3 @@
+Your hands are full.[A][ClearText]
+Send it to storage?[N]
+[Yes][X]

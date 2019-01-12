@@ -1,0 +1,2 @@
+Vengeance (Skill%)[N]
+Add half of lost HP to damage.[X]

@@ -1,0 +1,1 @@
+Select the character whose weapon needs repair.[X]

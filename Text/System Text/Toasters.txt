@@ -1,0 +1,306 @@
+#0x7BB
+Yes[X]
+
+#0x7BC
+No[X]
+
+#0x7BD
+Buy[X]
+
+#0x7BE
+Sell[X]
+
+#0x7BF
+Ask[X]
+
+#0x7C0
+Exit[X]
+
+#0x7C1
+Erase[X]
+
+#0x7C2
+Back[X]
+
+#0x7C3
+Exit[X]
+
+#0x7C4
+ON[X]
+
+#0x7C5
+OFF[X]
+
+#0x7C6
+Start[X]
+
+#0x7C7
+Have[X]
+
+#0x7C8
+Save[X]
+
+#0x7CA
+You can't visit villages or[N]
+houses while Silenced.[X]
+
+#0x7CB
+You can't equip[N]
+this weapon.[X]
+
+#0x7CC
+Your weapon level[N]
+is too low.[X]
+
+#0x7CD
+Treasure can't be dropped.[X]
+
+#0x7CE
+Treasure can't be sold.[X]
+
+#0x7CF
+You can't use a staff[N]
+while Silenced.[X]
+
+#0x7D0
+You can't speak[N]
+while Silenced.[X]
+
+#0x7D1
+You can't enter the[N]
+arena while Silenced.[X]
+
+#0x7D2
+You can't fight, so you[N]
+can't enter the arena.[X]
+
+#0x7D3
+Weapons, magic, and[N]
+staves can't be stolen.[X]
+
+#0x7D4
+There's nothing to repair.[X]
+
+#0x7D5
+Only weapons, tomes, and
+staves can be repaired.[X]
+
+#0x7D6
+There's no more ammo for
+the ballista.[X]
+
+#0x7D7
+There's no need for that.[X]
+
+#0x7D8
+This can't be used.[X]
+
+#0x7D9
+Must be above level 10.[X]
+
+#0x7DA
+Must be above level 10.[X]
+
+#0x7DB
+There's no door.[X]
+
+#0x7DC
+There's no chest.[X]
+
+#0x7DD
+For thieves only.[X]
+
+#0x7DE
+Specialized weapon.[X]
+
+#0x7DF
+No doors or chests.[X]
+
+#0x7E0
+Your inventory is full.[X]
+
+#0x7E1
+Item cannot be repaired.[X]
+
+#0x7E2
+You cannot stop in the[N]
+middle of the tutorial.[X]
+
+#0x7E6
+Select a unit to rescue.[X]
+
+#0x7E7
+Select which space to drop the unit into.[X]
+
+#0x7E8
+Select a unit to receive the traveler.[X]
+
+#0x7E9
+Select a unit to give the traveler to.[X]
+
+#0x7EA
+Select which unit to trade with.[X]
+
+#0x7EB
+Select which unit to steal from.[X]
+
+#0x7EC
+Select a unit to use the staff on.[X]
+
+#0x7ED
+Select which unit to speak to.[X]
+
+#0x7EE
+Select unit to refresh.[X]
+
+#0x7EF
+Select warp point.[X]
+
+#0x7F0
+Reorder your units.[X]
+
+#0x7F1
+Select a weapon to attack with.[X]
+
+#0x7F2
+Select a character to restore HP to.[X]
+
+#0x7F3
+Select character to warp.[X]
+
+#0x7F4
+Select which character to bring next to you.[X]
+
+#0x7F5
+Select a character to restore to normal.[X]
+
+#0x7F6
+Select the character whose weapon needs repair.[X]
+
+#0x7F7
+Select which character's resistance to bolster.[X]
+
+#0x7F8
+Select a door to open.[X]
+
+#0x7F9
+Select a unit to use the staff on.[X]
+
+#0x7FA
+Select an area to light up.[X]
+
+#0x7FB
+Select an area to trap.[X]
+
+#0x7FC
+Select an area to trap.[X]
+
+#0x7FD
+Select a character to bless.[X]
+
+#0x7FE
+Select which space to summon into.[X]
+
+#0x7FF
+Select which space to use picks on.[X]
+
+#0x801
+ increased.[X]
+
+#0x802
+ broke![X]
+
+#0x803
+ is gone.[X]
+
+#0x804 got
+Obtained[X]
+
+#0x805 got2
+Obtained[X]
+
+#0x806
+Stole [X]
+
+#0x807
+ gold.[X]
+
+#0x808
+ was pilfered.[X]
+
+#0x809
+ gold was stolen.[X]
+
+#0x80A
+Support level increased.[X]
+
+#0x80B
+ can now be used.[X]
+
+#0x80C
+Sent [X]
+
+#0x80D
+You can now use [X]
+
+#0x80E
+Dropped [X]
+
+#0x80F
+Sent [X]
+
+#0x810
+Strength increased.[X]
+
+#0x811
+Magic increased.[X]
+
+#0x812
+Skill increased.[X]
+
+#0x813
+Speed increased.[X]
+
+#0x814
+Luck increased.[X]
+
+#0x815
+Defense increased.[X]
+
+#0x816
+Resistance increased.[X]
+
+#0x817
+Movement increased.[X]
+
+#0x818
+Constitution increased.[X]
+
+#0x819
+Max HP increased.[X]
+
+#0x81A
+Growths increased.[X]
+
+#0x81B
+Disabled trap.[X]
+
+#0x81C
+Recovered mine.[X]
+
+#0x81D
+Skill Learned.[X]
+
+#0x81E
+Skill Learned.[X]
+
+#0x82B
+Linking error.[N]
+Turn the power off, check[N]
+the connections, and retry.[X]
+
+#0x82C
+Already used[X]
+
+#0x82D
+Inventory full[X]

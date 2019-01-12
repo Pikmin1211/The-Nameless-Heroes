@@ -1,0 +1,16 @@
+
+[MidRight][LoadIsaac][MidLeft][LoadWolf]
+Yo! Old man![N]
+You're making a ruckus, huh?[AN]
+
+[MidRight]
+Welcome back, Wolf.[N]
+Good timing.[AN]
+We could use the help[N]
+against these bandits.[AN]
+Take to the[N]
+front with me.[AN]
+
+[MidLeft]
+Gotcha, gotcha.[N]
+At yer command, sir![A][X]

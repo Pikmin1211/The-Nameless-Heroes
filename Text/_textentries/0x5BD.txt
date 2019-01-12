@@ -1,0 +1,2 @@
+Locktouch[N]
+Open doors and chests without keys.[X]

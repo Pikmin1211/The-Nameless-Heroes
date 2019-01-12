@@ -1,0 +1,2 @@
+Reduces damage[N]
+from magic attacks.[X]

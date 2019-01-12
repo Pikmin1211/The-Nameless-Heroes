@@ -1,0 +1,2 @@
+Blessing[N]
+Cannot be defeated by enemy attacks.[X]

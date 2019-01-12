@@ -1,0 +1,267 @@
+#0x290
+A young monarch who protects[N]
+their home. Equip: Swords.[X]
+
+#0x72
+A mercenary with a commanding[N]
+prescence. Equip: Swords, axes.[X]
+
+#0x2A3
+Powerful pegasi who trample over[N]
+their foes. Equip: Lances.[X]
+
+#0x2C8
+Magicians with a mastery of all magics.[N]
+Equip: Anima, light, dark.[X]
+
+#0x691
+Veteran soldiers who overcome[N]
+any challenge. Equip: Lances.[X]
+
+#0x2CB
+Mountain theives who attack with[N]
+razor sharp axes. Equip: Axes.[X]
+
+#0x2D1
+Powerful soldiers with highly trained[N]
+offensive techniques. Equip: Lances.[X]
+
+#0x2D0
+Titans in heavy armor who wield many[N]
+weapons. Equip: Sword, bow, staff, light.[X]
+
+#0x2D2
+Titans in heavy armor who wield many[N]
+weapons. Equip: Lance, axe, anima, dark.[X]
+
+#0x2D4
+Knights who have trained in a variety of[N]
+weapons. Equip: Sword, lance, staff, anima.[X]
+
+#0x2D5
+Knights who have trained in a variety of[N]
+weapons. Equip: Axe, bow, light, dark.[X]
+
+#0x6A1
+Loyal servents who heal and defend[N]
+their masters. Equip: Sword, staff.[X]
+
+#0x2DA
+Army commanders whose footsteps leave[N]
+death in their wake. Equip: Axe, dark.[X]
+
+#0xDD0
+A mysterious fencer who fights[N]
+with a holy blade. Equip: Swords.[X]
+
+#0x2D3
+Strong leaders who command their allies[N]
+to victory. Equip: Sword, anima, staff.[X]
+
+#0x9A8
+Heavy tanks specialized in attacking[N]
+from a long range. Equip: Ballistae.[X]
+
+#0x2C7
+Plainsmen with high speed and[N]
+strong movement. Equip: Bows.[X]
+
+#0x2CF
+An honorific bestowed upon nomads[N]
+of great skill. Equip: Swords, bows.[X]
+
+#0x294
+Mounted knights with swift[N]
+movement. Equip: Swords.[X]
+
+#0xD3C
+Mounted knights with swift[N]
+movement. Equip: Lances.[X]
+
+#0x2CE
+Mounted knights with swift[N]
+movement. Equip: Axes.[X]
+
+#0x295
+Mounted knights with superior abilities.[N]
+Equip: Swords, lances.[X]
+
+#0xDCE
+Mounted knights with superior abilities.[N]
+Equip: Lances, axes.[X]
+
+#0xDCD
+Mounted knights with superior abilities.[N]
+Equip: Swords, axes.[X]
+
+#0x296
+Heavily armored knights with high[N]
+defenses. Equip: Lances.[X]
+
+#0x907
+Heavily armored knights with high[N]
+defenses. Equip: Axes.[X]
+
+#0x297
+Knights of great skill.[N]
+Equip: Lances, axes.[X]
+
+#0x2A8
+Knights of great skill.[N]
+Equip: Swords, lances.[X]
+
+#0x298
+Multitalented knaves with an eye for[N]
+riches. Equip: Swords, staves.[X]
+
+#0x299
+Well-balanced professional soldiers-[N]
+for-hire. Equip: Swords.[X]
+
+#0x29A
+Seasoned veterans with remarkable[N]
+skill. Equip: Swords, axes.[X]
+
+#0x29B
+Talented swordsmen skilled in swift[N]
+killing strokes. Equip: Swords.[X]
+
+#0x29C
+Lightning-fast swordsmen of peerless[N]
+and lethal skill. Equip: Swords.[X]
+
+#0x29D
+Masters of the killing arts.[N]
+Equip: Swords, bows.[X]
+
+#0x29E
+Warriors who use bows to attack from[N]
+afar. Equip: Bows.[X]
+
+#0x29F
+Archers of unparralled accuracy that can[N]
+shoot from a longer distance. Equip: Bows.[X]
+
+#0x2A0
+Fighters skilled in both sword and bow.[N]
+Equip: Swords, bows.[X]
+
+#0x2A1
+High-flying knights vulnerable only to[N]
+bows and magic. Equip: Lances.[X]
+
+#0x2A2
+Wyvern-mounted knights of superior[N]
+skill. Equip: Lances, axes.[X]
+
+#0x2A9
+Wyvern-mounted knights of superior[N]
+skill. Equip: Swords, lances.[X]
+
+#0x2C5
+Wyvern riders who can pierce enemy[N]
+defenses. Equip: Lances.[X]
+
+#0x2A4
+Magic wielders with solid skills but low[N]
+physical strength. Equip: Anima.[X]
+
+#0x2A5
+Advanced scholars of magical codices.[N]
+Equip: Anima, light, staves.[X]
+
+#0x2A6
+Knights trained in both anima and[N]
+swords. Equip: Swords, anima.[X]
+
+#0x2A7
+Seasoned priests with strong healing[N]
+skills. Equip: Light, staves.[X]
+
+#0x2B3
+Wielders of magic who are stronger,[N]
+but slower, than mages. Equip: Dark.[X]
+
+#0x2B4
+Wielders of deep and ancient magic.[N]
+Equip: Dark, anima, staves.[X]
+
+#0x2B5
+Master sorcerers who summon fighters.[N]
+Equip: Anima, dark.[X]
+
+#0x2AD
+Knaves who need no tools or keys to[N]
+open locks. Equip: Swords.[X]
+
+#0x2B2
+Knights with great mobility and[N]
+defense. Equip: Swords, lances, axes.[X]
+
+#0x2AE
+Ruffians with great strength but[N]
+poor defense. Equip: Axes.[X]
+
+#0x2AF
+Stalwart warriors whose power is[N]
+their pride. Equip: Axes, bows.[X]
+
+#0x2C1
+Tough brawlers who call the[N]
+sea their home. Equip: Axes.[X]
+
+#0x2B0
+Mighty mercenaries who thrive[N]
+in mountains. Equip: Axes.[X]
+
+#0x2B1
+Fighters at home both in mountains[N]
+and at sea. Equip: Axes.[X]
+
+#0x2B6
+Spiritual guides who use sacred staves[N]
+to heal allies. Equip: Light, staves.[X]
+
+#0x2BA
+Airborne knights who resist magic but[N]
+are weak against bows. Equip: Lances.[X]
+
+#0x2BB
+Swift sky warriors who shrug off magic[N]
+attacks. Equip: Swords, lances, staves.[X]
+
+#0x2BC
+Holy women who use sacred staves to heal[N]
+their allies. Equip: Light, staves.[X]
+
+#0x2BD
+Maidens who wield staves from[N]
+horseback. Equip: Staves.[X]
+
+#0x2BE
+Battle maidens who wield both staves[N]
+and anima magic. Equip: Anima, staves.[X]
+
+#0x2BF
+Dancers whose dances revitalize[N]
+their allies. They cannot attack.[X]
+
+#0x2C0
+Standard infantry with high[N]
+durability. Equip: Lances.[X]
+
+#0x2C4
+Phantom warriors who possess great strength[N]
+but vanish when attacked. Equip: Axes.[X]
+
+#0x2D8
+An innocent peasant lacking any[N]
+combat skills at all.[X]
+
+#0x292
+A knight sworn to fight for[N]
+justice. Equip: Sword, lance.[X]
+
+#0x293
+An inspiring commander who strikes fear[N]
+into his enemies. Equip: Sword, axe.[X]

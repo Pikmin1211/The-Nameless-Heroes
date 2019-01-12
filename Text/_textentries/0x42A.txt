@@ -1,0 +1,2 @@
+A trap that damages[N]
+units that step on it.[X]

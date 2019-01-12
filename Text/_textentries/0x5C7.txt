@@ -1,0 +1,3 @@
+Void Curse[N]
+Unit gives no experience[N]
+points upon being defeated.[X]

@@ -1,0 +1,2 @@
+A device that negates[N]
+enemy critical attacks.[X]

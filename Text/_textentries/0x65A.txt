@@ -1,0 +1,2 @@
+Normal attack with a bow[N]
+occurs.[X]

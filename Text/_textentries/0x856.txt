@@ -1,0 +1,2 @@
+That's worth [G] gold.[N]
+Is that all right?[Yes][X]

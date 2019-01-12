@@ -1,0 +1,2 @@
+Defense.[N]
+Decreases damage from attacks.[X]

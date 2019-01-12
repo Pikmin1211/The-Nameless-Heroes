@@ -1,0 +1,263 @@
+#0x509
+Pick Units[X]
+
+#0x50A
+Fortune[X]
+
+#0x50B
+Items[X]
+
+#0x50C
+Check Map[X]
+
+#0x50D
+Save[X]
+
+#0x50E
+Character[X]
+
+#0x50F
+Choose[X]
+
+#0x510 War
+Evaluation[X]
+
+#0x511 Martial_Arts
+Evaluation[X]
+
+#0x512 Capture_Fortune_Telling
+Capture[X]
+
+#0x513
+Support[X]
+
+#0x514
+Fortune[X]
+
+#0x515 CaptureAssesment
+Capture[X]
+
+#0x516 SurvivalEvaluation
+Survival[X]
+
+#0x517 AssetEvalutation
+Assets[X]
+
+#0x518 ExperienceEvalutaion
+EXP[X]
+
+#0x519 BattleEvaluation
+Combat[X]
+
+#0x51A PurposeEvaluation
+Goals[X]
+
+#0x51B
+View Map[X]
+
+#0x51C
+Formation[X]
+
+#0x51D
+Options[X]
+
+#0x51E
+Debug[X]
+
+#0x51F
+Trade[X]
+
+#0x520
+List[X]
+
+#0x521
+Use[X]
+
+#0x522
+Sell[X]
+
+#0x523
+Supply[X]
+
+#0x524
+Shop[X]
+
+#0x525
+Dump[X]
+
+#0x526
+Sell?[X]
+
+#0x527
+Sell     Quit[X]
+
+#0x528
+Value[X]
+
+#0x529
+Give[X]
+
+#0x52A
+Take[X]
+
+#0x52B
+Bag[X]
+
+#0x52C
+Pick[X]
+
+#0x52D
+Units Left[X]
+
+#0x5DE
+Sell unwanted items.[X]
+
+#0x52F
+Are you sure?[X]
+
+#0x530
+What'll you do?[X]
+
+#0x531
+I'll take it.[X]
+
+#0x532
+Here you go![X]
+
+#0x533
+Nothing[X]
+
+#0x534
+Owner:[X]
+
+#0x535
+Success[X]
+
+#0x536
+Remaining[X]
+
+#0x537
+x[X]
+
+#0x538
+Choose unit[X]
+
+#0x539
+Select which units to[N]
+field this battle. The[N]
+number is restricted.[X]
+
+#0x53A
+Manage your units'[N]
+items. Item names[N]
+that appear in gray[N]
+cannot be used by[N]
+that unit.[X]
+
+#0x53B
+Manage your units' items.[X]
+
+#0x53C
+This command cannot be[N]
+used at this time.[X]
+
+#0x53D
+Valuable battle[N]
+information can be[N]
+viewed here, as well[N]
+as tactician data.[X]
+
+#0x53E
+View the map. Check[N]
+the number and type of[N]
+enemies. Also, check for[N]
+shops and change your[N]
+allies' starting positions.[X]
+
+#0x53F
+Save any changes.[N]
+Choose Restart Chapter[N]
+to restart this chapter.[N]
+You can't return to the[N]
+world map after saving.[X]
+
+#0x540
+Exchange items[N]
+between units.[X]
+
+#0x541
+Use items.[X]
+
+#0x542
+Send items[N]
+to convoy.[X]
+
+#0x543
+Buy and sell[N]
+items in the shop.[X]
+
+#0x544
+Item display list.[X]
+
+#0x545
+Sell unwanted items.[N]
+Important items[N]
+cannot be sold.[X]
+
+#0x546
+Place all items in storage.[X]
+
+#0x547
+Put items in storage. Up to[N]
+100 items can be put in storage.[X]
+
+#0x548
+Receive item.[N]
+A unit can carry up to 5 items.[X]
+
+#0x54E
+Arrange your army.[X]
+
+#0x54F
+Set game and[N]
+window speeds.[X]
+
+#0x550
+Save the current[N]
+state of your army.[X]
+
+#0x551
+Start battle.[X]
+
+#0x600
+Enter Armory[X]
+
+#0x601
+Enter Shop[X]
+
+#0x602
+Enter ? Shop[X]
+
+#0x603
+Manage Items[X]
+
+#0x604
+Enter Armory[X]
+
+#0x605
+Enter Shop[X]
+
+#0x606
+Enter ? Shop[X]
+
+#0x607
+Manage Items[X]
+
+#0x608
+The party's next destination.[X]
+
+#0x609
+The current number of units.[X]
+
+#0x60A
+Manage your party's items.[X]

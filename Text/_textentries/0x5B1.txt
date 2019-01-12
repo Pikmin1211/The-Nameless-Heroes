@@ -1,0 +1,3 @@
+Renewal[N]
+Restore 20%HP at the[N]
+start of every turn.[X]

@@ -1,0 +1,506 @@
+#0x01 AffinityTexts
+Fi[X]
+
+#0x02
+Th[X]
+
+#0x03
+Wn[X]
+
+#0x04
+Ic[X]
+
+#0x05
+Dr[X]
+
+#0x06
+Li[X]
+
+#0x07
+An[X]
+
+#0x5D9 dodgetext
+Dgd[X]
+
+#0x6D leadershipstarstxt
+Ldr[X]
+
+#0x64A dodgedescription
+Ability to avoid critical[N]
+hits. Affected by luck.[X]
+
+#0x6E leadershipstarsdesc
+Leadership ability. Your army's[N]
+power increases with each star.[X]
+
+#0x78 skillstext
+Skills[X]
+
+#0x800
+Weapon Rank[X]
+
+#0x494
+Sword[X]
+
+#0x495
+Lance[X]
+
+#0x496
+Axe[X]
+
+#0x497
+Bow[X]
+
+#0x498
+Staff[X]
+
+#0x499
+Fire[X]
+
+#0x49A
+Thunder[X]
+
+#0x49B
+Wind[X]
+
+#0x49C
+Ice[X]
+
+#0x49D
+Anima[X]
+
+#0x49E
+Light[X]
+
+#0x49F
+Dark[X]
+
+#0x4A2
+Breath[X]
+
+#0x18C
+Current[X]
+
+#0x18D
+Record[X]
+
+#0x46D
+Fire[X]
+
+#0x46E
+Thunder[X]
+
+#0x46F
+Wind[X]
+
+#0x470
+Ice[X]
+
+#0x471
+Dark[X]
+
+#0x472
+Light[X]
+
+#0x473
+Anima[X]
+
+#0x474
+Name[X]
+
+#0x475
+Class[X]
+
+#0x476
+Lv[X]
+
+#0x477
+Exp[X]
+
+#0x478
+HP[X]
+
+#0x479
+Max[X]
+
+#0x47A
+S/M[X]
+
+#0x47B
+Skl[X]
+
+#0x47C
+Spd[X]
+
+#0x47D
+Luk[X]
+
+#0x47E
+Def[X]
+
+#0x47F
+Res[X]
+
+#0x480
+Affin[X]
+
+#0x481
+Equip[X]
+
+#0x482
+Atk[X]
+
+#0x483
+Hit[X]
+
+#0x484 Avid
+Avo[X]
+
+#0x485
+Move[X]
+
+#0x486
+Con[X]
+
+#0x487
+Aid[X]
+
+#0x488
+Trv[X]
+
+#0x489
+Cond[X]
+
+#0x48A
+Ally[X]
+
+#0x48B
+Anim[X]
+
+#0x48C
+Sort:[X]
+
+#0x48D
+Str[X]
+
+#0x48E
+Mag[X]
+
+#0x48F
+Rng[X]
+
+#0x490
+Crit[X]
+
+#0x491
+Wt[X]
+
+#0x492
+Mt[X]
+
+#0x493
+AS[X]
+
+#0x4A3
+Poison[X]
+
+#0x4A4
+Sleep[X]
+
+#0x4A5
+Silence[X]
+
+#0x4A6
+Berserk[X]
+
+#0x4A7
+Sick[X]
+
+#0x4A8
+Recovr[X]
+
+#0x4A9
+Petrify[X]
+
+#0x4AA
+Attack[X]
+
+#0x4AB
+Defend[X]
+
+#0x4AC
+Critical[X]
+
+#0x4AD
+Dodge[X]
+
+#0x4AE
+MP/2[X]
+
+#0x4B6
+Total[X]
+
+#0x4C0
+Purpose:[X]
+
+#0x4C1
+Total[X]
+
+#0x4C2
+Assets[X]
+
+#0x4C3
+Play[X]
+
+#0x4CB
+Are you sure?[X]
+
+#0x4CC Fights
+B[X]
+
+#0x4CD Wins
+W[X]
+
+#0x4CE Losses
+L[X]
+
+#0x4CF
+Total[X]
+
+#0x4D0
+Assets[X]
+
+#0x4D1
+Time[X]
+
+#0x4D2
+Total[X]
+
+#0x4D3
+Normal[X]
+
+#0x4D4
+Hard[X]
+
+#0x4D5
+Complete[X]
+
+#0x4D6
+Total[X]
+
+#0x4D7
+Unit level. The unit becomes[N]
+stronger as it gains levels.[X]
+
+#0x4D8
+Experience points gained. Gain[N]
+100 points to earn a new level.[X]
+
+#0x4D9
+Unit hit points. The unit loses[N]
+consciousness if this reaches 0.[X]
+
+#0x4DA
+Weapon name and type.[X]
+
+#0x4DB
+Strength. A higher number means[N]
+more damage with physical weapons.[X]
+
+#0x4DC
+Magical power. Equates to higher[N]
+power using magical weapons and staves.[X]
+
+#0x4DD
+Fighting skill. A higher[N]
+number improves the unit's hit.[X]
+
+#0x4DE
+Speed. This affects both[N]
+evasion and attacks.[X]
+
+#0x4DF
+Luck. This affects many[N]
+different things.[X]
+
+#0x4E0
+Defensive skill. Reduces[N]
+damage from weapons.[X]
+
+#0x4E1
+Magical resistance. Reduces[N]
+damage from magic attacks.[X]
+
+#0x4E2
+Movement. The normal distance[N]
+you can cross in 1 turn.[X]
+
+#0x4E3
+Constitution, or physical size.[N]
+Affects rescues.[X]
+
+#0x4E4
+Max rescuing constitution. Units[N]
+with lower Cons can be rescued.[X]
+
+#0x4E5
+Traveler. The name of the unit[N]
+with whom this unit is traveling.[X]
+
+#0x4E6
+Elemental affinity. Determines[N]
+compatibility with other units.[X]
+
+#0x4E7
+Normal.[N]
+Feeling healthy.[X]
+
+#0x4E8
+Ooooog...[N]
+Poison slowly steals HP.[X]
+
+#0x4E9
+Zzzz... Zzzzz...[N]
+Sleeping now... Can't move...[X]
+
+#0x4EA
+Rarrrrr! Attack the nearest[N]
+unit, be it friend or foe![X]
+
+#0x4EB
+......[N]
+Magic and staves are unusable.[X]
+
+#0x4EC
+Craaack! Turned...to...[N]
+stone. Can't...move![X]
+
+#0x4ED
+Attack power is increased,[N]
+thanks to Filla's Might.[X]
+
+#0x4EE
+Defense and resistance increased,[N]
+thanks to Ninis's Grace.[X]
+
+#0x4EF
+Critical hit is increased,[N]
+thanks to Thor's Ire.[X]
+
+#0x4F0
+Dodge is increased, thanks[N]
+to Set's Litany.[X]
+
+#0x4F1
+Amount of damage this weapon[N]
+causes. Affected by defenses.[X]
+
+#0x4F2
+Chance that the attack will hit.[N]
+Affected by terrain and enemies.[X]
+
+#0x4F3
+Weapon Range. A range of 1[N]
+can only hit adjacent spaces.[X]
+
+#0x4F4
+Chance the weapon will strike a[N]
+critical blow, doing triple damage.[X]
+
+#0x4F5
+Ability to dodge enemy attacks.[N]
+Affects enemy's hit.[X]
+
+#0x4F6
+Sword mastery level.[X]
+
+#0x4F7
+Lance mastery level.[X]
+
+#0x4F8
+Axe mastery level.[X]
+
+#0x4F9
+Bow mastery level.[X]
+
+#0x4FA
+Anima mastery level.[X]
+
+#0x4FB
+Light mastery level.[X]
+
+#0x4FC
+Dark mastery level.[X]
+
+#0x4FD
+Staff mastery level.[X]
+
+#0x4FE
+Strengthen the bond[N]
+between units by talking.[X]
+
+#0x4FF
+The name of the unit[N]
+to whom you can talk.[X]
+
+#0x500
+Weapon or magic in use.[X]
+
+#0x501
+Weapon or magic in use.[N]
+Does more damage than normal.[X]
+
+#0x502
+Wielder and weapon are well[N]
+suited. Hit and power increase.[X]
+
+#0x503
+Wielder and weapon are well[N]
+suited. Hit and dmg increase.[X]
+
+#0x504
+Wielder and weapon are ill[N]
+suited. Hit and power decrease.[X]
+
+#0x505
+Wielder and weapon are ill[N]
+suited. Hit and power decrease.[X]
+
+#0x506
+Damage this weapon will do.[N]
+x2: two attacks, x4: four.[X]
+
+#0x507
+Attack Speed.[N]
+Determines number of attacks.[X]
+
+#0x508
+Defense.[N]
+Decreases damage from attacks.[X]
+
+#0x4BF
+Prf[X]
+
+#0x74
+[Star][X]
+
+#0x4AF
+  1[X]
+
+#0x4B0
+1 - 2[X]
+
+#0x4B1
+1 - 3[X]
+
+#0x4B2
+  2[X]
+
+#0x4B3
+2 - 3[X]
+
+#0x4B4
+3- 10[X]
+
+#0x4B5
+3- 15[X]

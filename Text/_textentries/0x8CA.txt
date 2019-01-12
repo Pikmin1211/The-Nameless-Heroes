@@ -1,0 +1,5 @@
+
+[MidLeft][LoadIsaac]
+Bandits...[....][AN]
+Alright, we have a job to do.[N]
+Let's move![A][X]

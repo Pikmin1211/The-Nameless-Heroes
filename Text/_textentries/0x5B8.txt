@@ -1,0 +1,2 @@
+Proximity Shot[N]
+Can use bows at close range.[X]

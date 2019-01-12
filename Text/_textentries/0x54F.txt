@@ -1,0 +1,2 @@
+Set game and[N]
+window speeds.[X]

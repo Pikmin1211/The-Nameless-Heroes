@@ -1,0 +1,2 @@
+You can't enter the[N]
+arena while Silenced.[X]

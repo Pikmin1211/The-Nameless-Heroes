@@ -1,0 +1,2 @@
+Shootout (Random%)[N]
+Deal quintuple damage.[X]

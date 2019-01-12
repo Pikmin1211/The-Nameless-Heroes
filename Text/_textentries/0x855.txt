@@ -1,0 +1,2 @@
+How does [G] gold[N]
+sound to you?[Yes][X]

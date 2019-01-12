@@ -1,0 +1,66 @@
+1: plain
+2: road
+3: village
+4: village
+5: house
+6: armory
+7: vendor
+8: arena
+9: room
+10: fort
+11: gate
+12: forest
+13: thicket
+14: sand
+15: desert
+16: river
+17: mntn
+18: peak
+19: bridge
+20: bridge
+21: sea
+22: lake
+23: floor
+24: floor
+25: fence
+26: wall
+27: wall
+28: rubble
+29: pillar
+30: door
+31: throne
+32: chest
+33: chest
+34: roof
+35: gate
+36: church
+37: ruins
+38: cliff
+39: ballista
+40: long b
+41: killer b
+42: flat
+43: wreck
+44: 
+45: stairs
+46:
+47: glacier
+48: arena
+49: valley
+50: fence
+51: snag
+52: bridge
+53: sky
+54: deeps
+55: ruins
+56: inn
+57: barrel
+58: bone
+59: dark
+60: water
+61: gunnels
+62: deck
+63: brace
+64: mast
+
+Plain Road Village House Armory Vendor Arena Room Fort Gate Forest Thicket Sand Desert River Mntn Peak Bridge Sea Lake Floor Fence Wall Rubble Pillar Door Throne Chest Roof Gate Church Ruins Cliff Ballista Long B Killer B Flat Wreck Stairs Glacier Valley Snag Sky Deeps Inn Barrel Bone Dark Water Gunnels Deck Brace Mast

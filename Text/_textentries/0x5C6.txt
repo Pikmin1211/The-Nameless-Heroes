@@ -1,0 +1,2 @@
+Bunker[N]
+Reduces follow-up damage received by half.[X]

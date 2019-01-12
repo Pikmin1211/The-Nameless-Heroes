@@ -1,0 +1,3 @@
+Looks like you're full.[A][ClearText]
+Send it to storage?[N]
+[Yes][X]

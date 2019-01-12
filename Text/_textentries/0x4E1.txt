@@ -1,0 +1,2 @@
+Magical resistance. Reduces[N]
+damage from magic attacks.[X]

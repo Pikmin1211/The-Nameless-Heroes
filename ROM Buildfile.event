@@ -1,0 +1,66 @@
+#ifdef _FE8_
+    #include "EAstdlib.event"
+    #include "Custom Definitions.event"
+
+    ORG FreeSpace
+
+    //Menu stuff
+	PUSH
+		ORG $AAF8C8 //align combat option 1
+		BYTE 0x8F
+		ORG $AAF8D0 //^
+		BYTE 0xB6
+		ORG $2341A //make the Use menu wider
+		BYTE 0xE0
+		ORG $5C56F6 //make the main menu wider
+		BYTE 0x7
+		ORG $AC1B0A //make world map menu wider
+		BYTE 0x7
+		//ORG $9aeac //prep menu width
+		//BYTE 0x0A
+	POP
+
+	//Item R-button menu stuff
+	PUSH
+		ORG $8B576 //Make monster weapons show stats
+		SHORT 0xE006
+		ORG $8BF6E //line up Rng and Hit labels
+		BYTE 0x2F
+		ORG $8C000 //shift Rng number over so it doesn't overlap with the label
+		BYTE 0x43
+		ORG $8BFEE //shift weapon rank over so it doesn't overlap with *its* label
+		BYTE 0x20
+		ORG $8C080 //shift staff weapon rank over
+		BYTE 0x1B
+	POP
+
+	//Map Menu Stuff
+	PUSH
+		ORG $8F69A //shift number over for rout map's units remaining
+		BYTE 0x34
+	POP
+
+	//Affinity Text
+	PUSH
+		ORG $DC950
+		WORD 0x01 //original text id 499
+		WORD 0x02 //original text id 49A
+		WORD 0x03 //original text id 49B
+		WORD 0x04 //original text id 49C
+		WORD 0x05 //original text id 49F
+		WORD 0x06 //original text id 49E
+		WORD 0x07 //original text id 49D
+	POP
+
+
+    //#include "Patch/Master Hack Installer.event"
+
+    #include "Secondary Text/Special Text.event"
+
+    #include "Text/Install Text Data.event"
+
+    #include "Graphics/Graphics Installer.event"
+    
+#else
+    ERROR You are not assembling FE8 events!
+#endif

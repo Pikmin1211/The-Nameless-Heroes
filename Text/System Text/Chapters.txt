@@ -1,0 +1,156 @@
+#0xE6
+Turns[X]
+
+#0xD5
+0[X]
+
+#0xD6
+1[X]
+
+#0xD7
+2[X]
+
+#0xD8
+3[X]
+
+#0xD9
+4[X]
+
+#0xDA
+5[X]
+
+#0xDB
+6[X]
+
+#0xDC
+7[X]
+
+#0xDD
+8[X]
+
+#0xDE
+9[X]
+
+#0xDF
+Ch.[X]
+
+#0xE1
+x[X]
+
+#0xE2
+Final[X]
+
+#0xE3
+Prologue[X]
+
+#0x124
+Survive[X]
+
+#0x125
+Defeat boss[X]
+
+#0x126
+Rout[X]
+
+#0x127
+Seize gate[X]
+
+#0x128
+Seize gate[X]
+
+#0x129
+Seize throne[X]
+
+#0x12A
+Seize throne[X]
+
+#0x12B
+Defeat demon[X]
+
+#0x12E
+Rout bandits[X]
+
+#0x12F
+Seize throne[X]
+
+#0x130
+Defeat boss in 20 turns[X]
+
+#0x131
+Escape in 30 turns[X]
+
+#0x132
+Seize throne[X]
+
+#0x133
+Talk to Vulcan[X]
+
+#0x135
+Seize throne[X]
+
+#0x136
+Rout enemy[X]
+
+#0x138
+Rout monters[X]
+
+#0x139
+Defeat Hyuuga[X]
+
+#0x13A
+Survive for 13 turns,[N]
+or defeat Haguro[X]
+
+#0x13B
+Seize throne[X]
+
+#0x13C
+Rout[X]
+
+#0x13D
+Seize throne[X]
+
+#0x13E
+Wait for specified turn[X]
+
+#0x13F
+Protect[X]
+
+#0x140
+Escape or defeat boss[X]
+
+#0x141
+Talk to Lizzy[X]
+
+#0x142
+Collaborate with the Liberation[X]
+
+#0x143
+Defend base[X]
+
+#0x144
+Seize throne[X]
+
+#0x146
+Seize two castles[X]
+
+#0x147
+Defeat boss[X]
+
+#0x148
+Rout[X]
+
+#0x149
+Seize throne[X]
+
+#0x14A
+Rout monsters[X]
+
+
+
+
+
+
+
+
+

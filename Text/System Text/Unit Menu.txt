@@ -1,0 +1,359 @@
+#0x60B
+ Seize[X]
+
+#0x60C
+ Attack[X]
+
+#0x60D
+ Staff[X]
+
+#0x60E
+ Play[X]
+
+#0x60F
+ Dance[X]
+
+#0x610
+ Steal[X]
+
+#0x611
+ Talk[X]
+
+#0x612
+ Support[X]
+
+#0x613
+ Visit[X]
+
+#0x614
+ Chest[X]
+
+#0x615
+ Door[X]
+
+#0x616
+ Armory[X]
+
+#0x617
+ Vendor[X]
+
+#0x618
+ Secret[X]
+
+#0x619
+ Arena[X]
+
+#0x61A
+ Rescue[X]
+
+#0x61B
+ Drop[X]
+
+#0x61C
+ Take[X]
+
+#0x61D
+ Give[X]
+
+#0x61E
+ Item[X]
+
+#0x61F
+ Trade[X]
+
+#0x620
+ Supply[X]
+
+#0x621
+ Stat[X]
+
+#0x622
+ Wait[X]
+
+#0x623
+ Use[X]
+
+#0x624
+ Equip[X]
+
+#0x625
+ Trade[X]
+
+#0x626
+ Discard[X]
+
+#0x627
+Range[X]
+
+#0x628
+Options[X]
+
+#0x629
+Status[X]
+
+#0x62A
+Retreat[X]
+
+#0x62B
+Rcd[X]
+
+#0x62C
+Susp[X]
+
+#0x62D
+End[X]
+
+#0x62E
+Lead[X]
+
+#0x62F
+Debug[X]
+
+#0x630
+M. Save[X]
+
+#0x631
+Manual Save[X]
+
+#0x632
+Map[X]
+
+#0x633 DebInfo
+Info[X]
+
+#0x634
+Weather[X]
+
+#0x635 SearchEnemy
+Search[X]
+
+#0x636 NumberofLaps
+Laps[X]
+
+#0x637
+Clear[X]
+
+#0x638 GoodNight
+Sleep[X]
+
+#0x639
+[X]
+
+#0x63A Beforeclearingthefile
+Preclear[X]
+
+#0x63B willyoudo
+Are you sure?[X]
+
+#0x63D Icannotplayafterthat
+End[X]
+
+#0x63E rogerthat
+Okay[X]
+
+#0x63F
+There are no messages for[N]
+this menu item.[X]
+
+#0x6E8
+Speak to an allied unit and[N]
+strengthen the bond you share.[X]
+
+#0x640
+End the turn. Be sure you're[N]
+done before you select this.[X]
+
+#0x641
+Attack an enemy unit.[X]
+
+#0x642
+Use the magic stored[N]
+within a staff.[X]
+
+#0x643
+Dance[N]
+Perform a dance that allows[N]
+your allies to move again.[X]
+
+#0x644
+Use a ring that allows your[N]
+allies to move again.[X]
+
+#0x645
+Shhh...[N]
+(Steal enemy items!)[X]
+
+#0x646
+Rescue an ally from[N]
+an adjacent space.[X]
+
+#0x647
+Place a rescued ally in[N]
+an adjacent space.[X]
+
+#0x648
+Pass a rescued ally to[N]
+another ally next to you.[X]
+
+#0x649
+Receive a rescued ally from[N]
+another ally next to you.[X]
+
+#0x64B
+Talk to an ally or enemy[N]
+in an adjacent space.[X]
+
+#0x64C
+Visit a village or a home.[X]
+
+#0x64D
+Seize a designated point[N]
+to complete the chapter.[X]
+
+#0x64E
+A door.[N]
+Use a key to open it.[X]
+
+#0x650
+A chest.[N]
+Use a key to open it.[X]
+
+#0x651
+An armory.[N]
+Enter to buy weapons.[X]
+
+#0x652
+A shop.[N]
+Enter to buy items.[X]
+
+#0x653
+Congratulations! Only for[N]
+one as lucky as you...[X]
+
+#0x654
+An arena. Wager your life[N]
+in battle for gold.[X]
+
+#0x655
+Use and equip items.[X]
+
+#0x656
+Trade items with allies[N]
+in adjacent spaces.[X]
+
+#0x657
+Adjacent units can exchange[N]
+items with your supply convoy.[X]
+
+#0x658
+Get on ballista and[N]
+use it to attack.[X]
+
+#0x659
+Get off of ballista.[X]
+
+#0x65A
+Normal attack with a bow[N]
+occurs.[X]
+
+#0x65B
+Use the ballista to target[N]
+distant enemies.[X]
+
+#0x65C
+Ready weapons or magic.[N]
+Use them to counterattack.[X]
+
+#0x65D
+Use items.[X]
+
+#0x65E
+Discard items. Important[N]
+items cannot be discarded.[X]
+
+#0x65F
+Summon a phantom.[X]
+
+#0x660
+Open doors and chests without[N]
+using keys.[X]
+
+#0x661
+Attack an enemy and[N]
+attempt to capture them.[X]
+
+#0x662
+Display a chart of all[N]
+units on the field.[X]
+
+#0x663
+Display current battle[N]
+progress.[X]
+
+#0x664
+Set game speed and windows.[X]
+
+#0x665
+Retreat from the current battle.[X]
+
+#0x666
+View tower and ruins battle records.[X]
+
+#0x667
+Stop a battle in progress.[N]
+Battle can be continued later.[X]
+
+#0x668
+View game-play and terminology[N]
+explanations.[X]
+
+#0x669
+End player's phase.[X]
+
+#0x66A
+Name of the unit.[X]
+
+#0x66B
+The unit's class. Each class[N]
+possesses unique traits.[X]
+
+#0x66C
+Current Max HP.[X]
+
+#0x66D
+Strength or magic power.[N]
+This affects attack ability.[X]
+
+#0x66E
+Weapon or magical tome[N]
+being used.[X]
+
+#0x66F
+Physical condition.[N]
+Default is normal.[X]
+
+#0x670
+Number of allied units.[X]
+
+#0x671
+Number of enemy units.[X]
+
+#0x672
+Name of the army commander.[X]
+
+#0x673
+Total time played.[X]
+
+#0x674
+The goal of this chapter.[X]
+
+#0x675
+Number of turns played at this[N]
+point in the current chapter.[X]
+
+#0x676
+Money on hand.[X]
+
+#0x677
+Only units with animation turned[N]
+on can perform combat animation.[X]

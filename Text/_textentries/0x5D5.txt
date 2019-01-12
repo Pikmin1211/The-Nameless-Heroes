@@ -1,0 +1,3 @@
+Mysterious Rhythm[N]
+Once every 4 turns, skills occur[N]
+at a 100% activation rate.[X]

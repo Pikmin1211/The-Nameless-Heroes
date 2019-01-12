@@ -1,0 +1,5 @@
+
+[MidRight][LoadWolf]
+Sorry, it seems like[N]
+I can't fight much longer.[AN]
+I'll retreat for now.[A][X]

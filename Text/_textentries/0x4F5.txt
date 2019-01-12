@@ -1,0 +1,2 @@
+Ability to dodge enemy attacks.[N]
+Affects enemy's hit.[X]

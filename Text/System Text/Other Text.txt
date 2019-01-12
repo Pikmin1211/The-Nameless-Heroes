@@ -1,0 +1,79 @@
+#0x54
+Holy War[X]
+
+#0x57
+Mystery of the Emblem[X]
+
+#0x58
+Tales Series[X]
+
+#0x61
+Yggdra Union[X]
+
+#0x62
+Thracia 776[X]
+
+#0x67
+Shadow Dragon[X]
+
+#0x6F
+Personal Skill[X]
+
+#0x9C
+Lord[X]
+
+#0xA8
+In front of the Church[X]
+
+#0xA9
+Liberation Base[X]
+
+#0xAE
+Robert[X]
+
+#0xAF
+Settings[X]
+
+#0xBA
+Liberation Conference Room[X]
+
+#0xE4
+Gaiden[X]
+
+#0xE5
+Chapter[X]
+
+#0x18E
+Clear count[X]
+
+#0x195
+1 year ago[X]
+
+#0x196
+1 and a half years ago[X]
+
+#0x197
+Two years ago[X]
+
+#0x198
+Four years ago[X]
+
+#0x55E
+Allies[X]
+
+#0x562
+Enemies[X]
+
+#0x564
+World[X]
+
+#0x565
+Other[X]
+
+#0x596
+Armory / Vendor[X]
+
+
+
+
+

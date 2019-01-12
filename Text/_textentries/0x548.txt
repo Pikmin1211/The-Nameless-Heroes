@@ -1,0 +1,2 @@
+Receive item.[N]
+A unit can carry up to 5 items.[X]

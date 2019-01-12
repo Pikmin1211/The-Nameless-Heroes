@@ -1,0 +1,9 @@
+
+[MidRight][LoadCurrent][MidLeft][LoadBraidGirl]
+Your female companion[N]
+left this here.[AN]
+There you go.[AN]
+You're the only ones[N]
+able to protect us.[AN]
+For God's sake,[N]
+save our village...[A][X]

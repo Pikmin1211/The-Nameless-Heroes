@@ -1,0 +1,54 @@
+#0xD13
+Old Order[X]
+
+#0x55E
+Companions[X]
+
+#0x565
+Others[X]
+
+#0x562
+Enemies[X]
+
+#0xAF
+The Base[X]
+
+#0x558
+Chapter 6[X]
+
+#0x559
+Chapter 7[X]
+
+#0x55A
+Chapter 8[X]
+
+#0x560
+Terrain[X]
+
+#0x561
+Allies[X]
+
+#0x563
+Save[X]
+
+#0x564
+World Map[X]
+
+#0x565
+Other[X]
+
+#0xD37
+Liam[X]
+
+#0xD40
+Jeronimo[X]
+
+#0xE2D
+Support Down[X]
+
+#0xE30
+Secrets[X]
+
+#0x566
+: About[X]
+

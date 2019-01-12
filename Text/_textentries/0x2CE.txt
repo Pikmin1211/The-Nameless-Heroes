@@ -1,0 +1,2 @@
+Mounted knights with swift[N]
+movement. Equip: Axes.[X]
