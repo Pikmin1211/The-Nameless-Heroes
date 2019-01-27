@@ -1,0 +1,2 @@
+A carriage that carries[N]
+valuable wares. Cannot fight.[X]

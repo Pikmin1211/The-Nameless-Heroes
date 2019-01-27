@@ -231,3 +231,6 @@ Commandeur[X]
 
 #0x287
 Command Kn.[X]
+
+#0x27A
+War Monk[X]

@@ -47,7 +47,7 @@ Lizzy[X]
 Kerbes[X]
 
 #0x1A9
-Olga[X]
+Hamilton[X]
 
 #0x1AA
 Lillia[X]
@@ -83,7 +83,7 @@ Rem[X]
 Hermes[X]
 
 #0xB0
-Murasame[X]
+Murphy[X]
 
 #0x1BA
 Mythra[X]
@@ -237,3 +237,48 @@ Snag[X]
 
 #0x56
 Pirate[X]
+
+#0xD54
+Haltmann[X]
+
+#0x1C0
+Breguet[X]
+
+#0x1D2
+Harvey[X]
+
+#0x1EB
+Civilian[X]
+
+#0x1C2
+Bazba[X]
+
+#0x1C3
+Saar[X]
+
+#0x1D7
+Scoundrel[X]
+
+#0x1CC
+Denny[X]
+
+#0x1C6
+Tirado[X]
+
+#0x1CB
+Caellach[X]
+
+#0x1C8
+Pablo[X]
+
+#0x1E4
+Klimt[X]
+
+#0x1CE
+Gheb[X]
+
+#0x152
+Novala[X]
+
+#0x1C5
+Murray[X]

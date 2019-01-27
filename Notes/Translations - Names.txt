@@ -14,7 +14,7 @@
 ジョニー > Johnny
 リディ > Liddy > Lizzy
 ケルベス > Kellbeth > Kerbes
-オルガ > Olga
+ハミルトン > Hamilton
 リリア > Lillia
 ジーナ > Gina > Jeana
 タイター > Taitaa > Titor (Reference: John Titor)
@@ -26,7 +26,7 @@
 ヴァルカン > Vulcan
 レム > Rem
 ヘルメス > Hermes
-ムラサメ > Murasame
+ムラサメ > Murasame > Murphy
 クロノス > Kronos
 リヒター > Richter
 ロザリー > Rosalie
@@ -55,6 +55,9 @@
 アーヴ > Ahru > Ahvu > Alvin
 リオン > Rion > Leon
 ガリウス > Galius
+ハルトマン > Haltmann
+デミ > Denny
+ハーディス - Hardys - Harvey
 
 
 Generics

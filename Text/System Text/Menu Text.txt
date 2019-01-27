@@ -18,3 +18,7 @@ a real challenge.[N]
 No instructions are[N]
 given and difficulty[N]
 is set to high.[X]
+
+#0x701
+Suspended data will be lost.[N]
+Is that all right?[X]

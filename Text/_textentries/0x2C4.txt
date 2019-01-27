@@ -1,2 +1,2 @@
-Phantom warriors who possess great strength[N]
-but vanish when attacked. Equip: Axes.[X]
+Phantom warriors who vanish[N]
+when attacked. Equip: Axes.[X]

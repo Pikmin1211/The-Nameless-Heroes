@@ -1,2 +1,2 @@
 Your supply convoy is full.[N]
-Select an item to discard.[A][X]
+Select an item to discard.[X]

@@ -1,0 +1,36 @@
+
+[Right][LoadBreguet][MidLeft][LoadIsaac]
+Come on, tell us where[N]
+your damned base is.[AN]
+Where have you taken the people[N]
+of this town and the village?[AN]
+
+[Right]
+Y, you...[AN]
+Don't think I'll let[N]
+you get away with this...[AN]
+Y-you shall pay...[AN]
+
+[MidLeft]
+I see. So that's your answer.[N]
+You've got a lot of nerve.[AN]
+If that's the case, then...[AN]
+
+[Right][MoveMidRight]
+Wait, wait![AN]
+I'll talk! I'll tell ya,[N]
+so please forgive me![AN]
+To the northwest... from this port,[N]
+there is an isolated island...[AN]
+I have a map on this ship...[AN]
+You'll... you'll spare me, right?[AN]
+
+[MidLeft]
+Spare you?[AN]
+You sound exactly like[N]
+all the people you killed.[AN]
+And I'll make sure[N]
+you meet the same fate.[AN]
+
+[MidRight]
+S-stop![A][X]

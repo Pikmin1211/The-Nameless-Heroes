@@ -1,2 +1,2 @@
 Knaves who need no tools or keys to[N]
-open locks. Equip: Swords.[X]
+open locks. Equip: Swords, staves.[X]

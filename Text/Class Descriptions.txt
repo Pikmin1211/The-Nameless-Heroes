@@ -11,12 +11,12 @@ Powerful pegasi who trample over[N]
 their foes. Equip: Lances.[X]
 
 #0x2C8
-Magicians with a mastery of all magics.[N]
-Equip: Anima, light, dark.[X]
+Magicians with a mastery of all[N]
+magics. Equip: Anima, light, dark.[X]
 
 #0x691
-Veteran soldiers who overcome[N]
-any challenge. Equip: Lances.[X]
+Elite soldiers who have honed their[N]
+skills to perfection. Equip: Lances.[X]
 
 #0x2CB
 Mountain theives who attack with[N]
@@ -35,19 +35,19 @@ Titans in heavy armor who wield many[N]
 weapons. Equip: Lance, axe, anima, dark.[X]
 
 #0x2D4
-Knights who have trained in a variety of[N]
-weapons. Equip: Sword, lance, staff, anima.[X]
+Knights trained in a variety of weapons.[N]
+Equip: Sword, lance, staff, anima.[X]
 
 #0x2D5
-Knights who have trained in a variety of[N]
-weapons. Equip: Axe, bow, light, dark.[X]
+Knights trained in a variety of weapons.[N]
+Equip: Axe, bow, light, dark.[X]
 
 #0x6A1
 Loyal servents who heal and defend[N]
 their masters. Equip: Sword, staff.[X]
 
 #0x2DA
-Army commanders whose footsteps leave[N]
+Commanders whose footsteps leave[N]
 death in their wake. Equip: Axe, dark.[X]
 
 #0xDD0
@@ -55,8 +55,8 @@ A mysterious fencer who fights[N]
 with a holy blade. Equip: Swords.[X]
 
 #0x2D3
-Strong leaders who command their allies[N]
-to victory. Equip: Sword, anima, staff.[X]
+A seasoned leader upon whom victory[N]
+hinges. Equip: Sword, anima, staff.[X]
 
 #0x9A8
 Heavy tanks specialized in attacking[N]
@@ -112,7 +112,7 @@ Equip: Swords, lances.[X]
 
 #0x298
 Multitalented knaves with an eye for[N]
-riches. Equip: Swords, staves.[X]
+riches. Equip: Swords.[X]
 
 #0x299
 Well-balanced professional soldiers-[N]
@@ -139,8 +139,8 @@ Warriors who use bows to attack from[N]
 afar. Equip: Bows.[X]
 
 #0x29F
-Archers of unparralled accuracy that can[N]
-shoot from a longer distance. Equip: Bows.[X]
+Archers that can shoot from[N]
+a longer distance. Equip: Bows.[X]
 
 #0x2A0
 Fighters skilled in both sword and bow.[N]
@@ -192,7 +192,7 @@ Equip: Anima, dark.[X]
 
 #0x2AD
 Knaves who need no tools or keys to[N]
-open locks. Equip: Swords.[X]
+open locks. Equip: Swords, staves.[X]
 
 #0x2B2
 Knights with great mobility and[N]
@@ -231,7 +231,7 @@ Swift sky warriors who shrug off magic[N]
 attacks. Equip: Swords, lances, staves.[X]
 
 #0x2BC
-Holy women who use sacred staves to heal[N]
+Holy women who use staves to heal[N]
 their allies. Equip: Light, staves.[X]
 
 #0x2BD
@@ -247,12 +247,12 @@ Dancers whose dances revitalize[N]
 their allies. They cannot attack.[X]
 
 #0x2C0
-Standard infantry with high[N]
-durability. Equip: Lances.[X]
+Militants with well-rounded[N]
+abilities. Equip: Lances.[X]
 
 #0x2C4
-Phantom warriors who possess great strength[N]
-but vanish when attacked. Equip: Axes.[X]
+Phantom warriors who vanish[N]
+when attacked. Equip: Axes.[X]
 
 #0x2D8
 An innocent peasant lacking any[N]
@@ -265,3 +265,24 @@ justice. Equip: Sword, lance.[X]
 #0x293
 An inspiring commander who strikes fear[N]
 into his enemies. Equip: Sword, axe.[X]
+
+#0x2C9
+Giant poisonous mountain[N]
+spiders with venom-filled fangs.[X]
+
+#0x2CA
+Giant spiders infused with tremendous[N]
+magical strength. Their venom is lethal.[X]
+
+#0x2CC
+Blood-hungry demon dogs that[N]
+attack with keen-edged fangs.[X]
+
+#0x2CD
+Savage, three-headed hellhounds.[N]
+Their fangs are cruel death dealers.[X]
+
+#0x2C6
+A carriage that carries[N]
+valuable wares. Cannot fight.[X]
+

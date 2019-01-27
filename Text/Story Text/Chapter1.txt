@@ -1,0 +1,558 @@
+#0x87F Chapter1Opening
+
+After they drove away the[N]
+bandits who attacked the village,[AN]
+Isaac and the mercenaries leave[N]
+for the neighboring town, Valetta,[AN]
+to rescue those who were taken away.[AN][Event]
+Valetta is a port town with many fisheries[N]
+and easy naval access to Etruria,[AN]
+so many travel there to trade goods.[AN]
+The bandits are very likely to return[N]
+to their base via the Valettan port.[AN][Event]
+Assuming the worst, the[N]
+mercenaries walk heavily.[AN][Event]
+Valletta, the biggest port town in[N]
+Dia, has become a hell on earth.[AN]
+The scent of death hangs in the air.[A][Event][X]
+
+
+
+
+
+#0x8E9 Chapter1StartEvent
+
+[MidRight][LoadBlondeHairMan][MidLeft][LoadBreguet]
+Hey! Are you sure these are all[N]
+the girls and treasures in town!?[AN]
+
+[MidRight]
+Y...[....][N]
+Yes...[....][AN]
+There is nothing[N]
+left in town...[....][AN]
+
+[MidLeft]
+Hmph. I expected a lot more[N]
+out of a port town like this.[AN]
+Boys, take another look around![N]
+Kill the bastards if you have to![AN]
+
+[MidRight]
+P-please spare mercy...[....][AN]
+We have to pay taxes to the lords,[N]
+so this is all we have left...[....][AN]
+
+[MidLeft]
+Do I look like I care?![AN]
+Shut up, and bring me[N]
+more damn valuables![A][X]
+
+
+
+
+
+#0x8EA Chapter1StartEventPart2
+
+[MidRight][LoadBreguet][MidLeft][LoadPirate]
+Boss man! We're in trouble![AN]
+I heard the guys who bumped[N]
+off O'Neill are heading here![AN]
+You didn't tell us we[N]
+would be fighting anybody![AN]
+
+[MidRight]
+Hey now, you don't[N]
+have to be afraid.[AN]
+That idiot O'Neill was[N]
+just taken off guard.[AN]
+Those "mercenaries" can barely[N]
+swing their own weapons.[AN]
+Don't worry about them.[AN]
+Focus on loading up the[N]
+ship with goods and women.[AN]
+C'mon lads, don't be[N]
+afraid of those jackoffs![A][X]
+
+
+
+
+
+#0x8ED Chapter1StartEventPart3
+
+[FarLeft][LoadMorris][Right][LoadAudrey][Left][LoadIsaac]
+This is...[CloseEyes][....][N]
+much worse than I thought.[AN][OpenEyes]
+
+[Right]
+Isaac...[....][N]
+It's horrible...[....][AN]
+Piled corpses of men,[N]
+women taken away...[AN]
+It's like a hell on earth...[AN]
+
+[FarRight][LoadKara]
+Gah... it's so terrible...[....][N]
+Ugh...[AN]
+
+[Left]
+Kara, I know you're not[N]
+used to this kind of thing.[AN]
+You don't have to strain[N]
+yourself. You're still a novice.[AN]
+
+[FarRight]
+N... no.[AN]
+I'll fight too.[N]
+I can't allow this![AN]
+
+[Clear][LoadOlson]
+Commander, give[N]
+us your orders.[AN]
+
+[FarLeft]
+How cruel...[AN]
+There must be people in need of[N]
+our aid. We have to make haste.[AN]
+
+[FarRight][Clear][LoadKara]
+
+[Left]
+Let's calm down.[AN]
+Gathering information[N]
+must come first.[AN]
+Kara, can I ask[N]
+you to scout?[AN]
+
+[FarRight][MoveFarRight]
+Y-yes.[N]
+I'll go.[AN]
+
+[FarRight][Clear][FarLeft][Clear]
+Wahhhhh![N]
+Mommyyy![AN]
+
+[Left]
+...![AN]
+It's a survivor![N]
+Sorry, Kara.[AN]
+
+[FarRight][LoadKara]
+
+[Left]
+You can scout later.[AN]
+We need to tend to that[N]
+survivor right away.[A][X]
+
+
+
+
+
+#0x8EB Chapter1OpeningPart4 
+
+[MidRight][LoadPirate]
+Huh? A kid? We don't[N]
+need you around. Just die![A][X]
+
+
+
+
+
+#0x8CE Chapter1OpeningPart5
+
+[MidRight][LoadIsaac]
+Hey, asshole. I'm over here.[N]
+Try taking me on instead![A][X]
+
+
+
+
+
+#0x8D0 Chapter1OpeningPart6
+
+[MidRight][LoadBlondeKid][MidLeft][LoadIsaac]
+Are you all right?[AN]
+
+[MidRight]
+Um... yes.[AN]
+
+[MidLeft]
+Go now. Get out of here.[N]
+It's not safe for you.[AN]
+
+[MidRight]
+...[....][N]
+Thank you...[AN][Clear]
+
+[MidLeft]
+Sorry, Kara.[AN]
+Can you go[N]
+scouting now?[AN]
+
+[MidRight][LoadKara]
+Of course.[N]
+Leave it to me![AN]
+
+[MidLeft]
+Don't overdo it.[A][X]
+
+
+
+
+
+#0x8EC Chapter1OpeningPart7
+
+[MidLeft][LoadIsaac][MidRight][LoadKara]
+Commander! It's urgent![AN]
+Those pirates are holding the village[N]
+girls under the deck of their boat.[AN]
+I wanted to get a closer look but...[....][AN]
+There was a Wyvern Rider and a Ballista[N]
+preventing me from getting in closer...[AN]
+
+[MidLeft]
+That's good enough.[N]
+Nice work, Kara.[AN]
+Strange, though.[AN]
+Why is a Wyvern Rider[N]
+with a group of Pirates?[AN]
+
+[MidRight]
+[CloseEyes]Hm, I'm not sure...[....][OpenEyes][N]
+But, I know I saw them![AN]
+
+[MidLeft]
+At any rate, if that's true,[N]
+we don't have very much time.[AN]
+We'll have to seize the boat[N]
+now, before it goes out to sea.[A][X]
+
+
+
+
+
+
+#0x8F4 Chapter1FlagEvent
+
+[MidRight][LoadPirate]
+Go, fellas![AN]
+Don't let 'em[N]
+make a fool of us![A][X]
+
+
+
+
+
+#0x8F0 Chapter1Turn2Event
+
+[MidRight][LoadBreguet]
+Alright lads![AN]
+Here comes those[N]
+righteous heroes![AN]
+Let's give them[N]
+a warm welcome, eh?![AN]
+And make sure to bring[N]
+their women back alive![A][X]
+
+
+
+
+
+#0xA99 Chapter1PhelixSpawns
+
+
+[MidRight][LoadPhelix]
+Damn! I hurried here, but it[N]
+looks like I was too late.[AN]
+Commander! Everyone![N]
+Please be safe, guys...[A][X]
+
+
+
+
+
+#0x8F1 Chapter1FerrisBrianSpawns
+
+[MidRight][LoadBrian][MidLeft][LoadFerris]
+Huff...[....]huff...[....][N]
+Did we make it...?[AN]
+
+[MidRight]
+That wasn't too bright.[AN]
+As a gentleman, you shouldn't[N]
+display such arrogant tardiness.[AN]
+
+[MidLeft]
+Brian, aren't you tired with that physique?[N]
+Actually, how are you faster than me?![AN]
+
+[MidRight]
+Heh heh, my friend, I know how[N]
+to work with my lovely shape.[AN]
+That aside...[....][N]
+This is a horrible sight, no?[AN]
+
+[MidLeft]
+We must be too late...[....][N]
+Gods, damn it all![AN]
+
+[MidRight]
+No no, it's too[N]
+early to give up.[AN]
+Also, it seems somebody[N]
+was here before us.[AN]
+See...[....]oh, could[N]
+that be...[....]Isaac?[AN]
+
+[MidLeft]
+You mean the commander and[N]
+the others are in this town?[AN]
+
+[MidRight]
+That seems to be the case.[N]
+We should join them.[AN]
+
+[MidLeft]
+Yeah, let's hurry![A][X]
+
+
+
+
+
+#0xDCC Chapter1TalkIsaacPhelix
+
+[MidRight][LoadIsaac][MidLeft][LoadPhelix]
+Commander! Sorry.[N]
+I seem to be a bit late.[AN]
+
+[MidRight]
+Phelix, I'm just glad you came.[N]
+And with perfect timing as well.[AN]
+Now we move against those pirates.[N]
+Lead the front, Phelix.[AN]
+
+[MidLeft]
+Affirmative![AN]
+I'll teach those[N]
+bastards a due lesson![A][X]
+
+
+
+
+
+#0x8FA Chapter1TalkIsaacFerris
+
+[MidRight][LoadIsaac][MidLeft][LoadFerris]
+Commander![AN]
+I didn't expect you[N]
+all to be here...[AN]
+
+[MidRight]
+Ferris, I would love to[N]
+properly greet you,[AN]
+But I must ask for[N]
+your assisstance.[AN]
+We need your[N]
+skills with a bow.[AN]
+
+[MidLeft]
+Leave it to me, Commander.[N]
+I never miss my target.[A][X]
+
+
+
+
+
+#0x8F9 Chapter1TalkIsaacBrian
+
+[MidRight][LoadIsaac][MidLeft][LoadBrian]
+Ho, Isaac.[AN]
+Are these ruffians[N]
+giving you a hard time?[AN]
+
+[MidRight]
+Brian, you're late.[N]
+Is Ferris with you?[AN]
+
+[MidLeft]
+He's a bit winded, but he's here.[N]
+I'm releived we made it in time.[AN]
+
+[MidRight]
+Yeah, me too.[AN]
+To get to the point,[N]
+can you lend a hand?[AN]
+
+[MidLeft]
+With pleasure, Sir Isaac.[N]
+I'm always happy to assist you.[A][X]
+
+
+
+
+
+#0x8F5 Chapter1VsBreguet
+
+[MidLeft][LoadBreguet]
+Damn! I can't count on[N]
+those goons for anything![AN]
+Bah! I'll handle this myself![A][X]
+
+
+
+
+
+#0x8F6 BreguetDeath
+
+[MidLeft][LoadBreguet]
+Wh...[....]what?[N]
+Me... beaten...?[A][X]
+
+
+
+
+
+#0xBFF PhelixDeath
+
+[MidRight][LoadPhelix]
+Th-this can't be...[N][CloseEyes]
+Goddamnit...[A][X]
+
+
+
+
+
+#0x8CF FerrisRetreat
+
+[MidRight][LoadFerris]
+...Damn![N]
+Forgive me, Commander.[AN]
+Like this, I'll just[N]
+slow everyone down.[AN]
+I'll retreat for now.[A][X]
+
+
+
+
+
+#0x8D2 BrianRetreat
+
+[MidRight][LoadBrian]
+I think I'm pushing it...[N][CloseEyes]
+I'll have to back away awhile.[A][X]
+
+
+
+
+
+#0x8FB Chapter1Village1
+
+[MidRight][LoadCurrent][MidLeft][LoadBrownHairMan]
+Y... you guys...[N]
+are... mercenaries?[AN]
+Heh... as ya can see...[N]
+I can't hold out long...[AN]
+My wife... taken away...[AN]
+Take this... help her...[N]
+P... please...[A][X]
+
+
+
+
+
+#0x8FC Chapter1Village2
+[MidRight][LoadCurrent][MidLeft][LoadMoneyMan]
+Help... has come?[N]
+Pirates... attacked our house...[AN]
+I couldn't help anyone...[AN]
+Here... Take this staff...[AN]
+Please... avenge us...[AN][CloseEyes]
+Oh... I can't...[N]
+see any longer...[A][X]
+
+
+
+
+
+#0x901 Chapter1House
+
+[MidRight][LoadCurrent][MidLeft][LoadBlondeHairMan]
+I was allowed to live...[AN]
+Just because I'm the[N]
+mayor of this town.[AN]
+I could only look on[AN]
+while the people were[N]
+taken away, or killed.[AN]
+I'm sorry...[AN]
+I'm so sorry.[A][X]
+
+
+
+
+
+#0x8F7 Chapter1EndEvent
+
+[Right][LoadBreguet][MidLeft][LoadIsaac]
+Come on, tell us where[N]
+your damned base is.[AN]
+Where have you taken the people[N]
+of this town and the village?[AN]
+
+[Right]
+Y, you...[AN]
+Don't think I'll let[N]
+you get away with this...[AN]
+Y-you shall pay...[AN]
+
+[MidLeft]
+I see. So that's your answer.[N]
+You've got a lot of nerve.[AN]
+If that's the case, then...[AN]
+
+[Right][MoveMidRight]
+Wait, wait![AN]
+I'll talk! I'll tell ya,[N]
+so please forgive me![AN]
+To the northwest... from this port,[N]
+there is an isolated island...[AN]
+I have a map on this ship...[AN]
+You'll... you'll spare me, right?[AN]
+
+[MidLeft]
+Spare you?[AN]
+You sound exactly like[N]
+all the people you killed.[AN]
+And I'll make sure[N]
+you meet the same fate.[AN]
+
+[MidRight]
+S-stop![A][X]
+
+
+
+
+
+#0x8F8 Chapter1EndEvent2
+
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+Isaac, we found the map[N]
+to that isolated island.[AN]
+
+[MidLeft]
+It seems that the women were[N]
+taken away to this island.[AN]
+We couldn't save the people in town...[AN]
+The least we can do is recue[N]
+those who were kidnapped.[AN]
+That is... our duty.[AN]
+
+[MidRight]
+I feel the same way, Isaac.[AN]
+Let's kill those pirates,[N]
+rescue those people and come home.[AN]
+That would avenge those[N]
+who have been killed.[AN]
+
+[MidLeft]
+Yeah...[N]
+I hope so.[A][X]

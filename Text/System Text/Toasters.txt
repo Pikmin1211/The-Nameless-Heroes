@@ -40,6 +40,10 @@ Have[X]
 #0x7C8
 Save[X]
 
+#0x7C9
+[Item] will be dropped.[N]
+[No][X]
+
 #0x7CA
 You can't visit villages or[N]
 houses while Silenced.[X]
@@ -125,6 +129,16 @@ Item cannot be repaired.[X]
 #0x7E2
 You cannot stop in the[N]
 middle of the tutorial.[X]
+
+#0x7E3
+Your supply convoy is full.[N]
+Select an item to discard.[X]
+
+#0x7E4
+Your inventory is full. Select an item to discard.[X]
+
+#0x7E5
+Your inventory is full. Send an item to Supply.[X]
 
 #0x7E6
 Select a unit to rescue.[X]
@@ -304,3 +318,43 @@ Already used[X]
 
 #0x82D
 Inventory full[X]
+
+#0x6F2
+Exchange items[N]
+between units.[X]
+
+#0x6F4
+This unit cannot take part[N]
+in this chapter.[X]
+
+#0x6F5
+We select two units and exchange items.[X]
+
+#0x6F6
+Please select the person you want to exchange items with.[X]
+
+#0x6F7
+Sell your unneeded items.[N]
+Important items cannot be sold.[X]
+
+#0x6F8
+Transfer items to and[N]
+from storage.[X]
+
+#0x6F9
+Display all units' items.[X]
+
+#0x6FA
+Buy and sell items.[X]
+
+#0x6FB
+I can not fight because I do not[N]
+have weapons that I can use.[X]
+
+#0x6FC
+You can not sortie if you[N]
+do not have usable weapons.[X]
+
+#0x6FD
+You can not sort this unit.[X]
+

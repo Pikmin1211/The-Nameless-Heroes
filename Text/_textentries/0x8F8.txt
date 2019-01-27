@@ -1,0 +1,23 @@
+
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+Isaac, we found the map[N]
+to that isolated island.[AN]
+
+[MidLeft]
+It seems that the women were[N]
+taken away to this island.[AN]
+We couldn't save the people in town...[AN]
+The least we can do is recue[N]
+those who were kidnapped.[AN]
+That is... our duty.[AN]
+
+[MidRight]
+I feel the same way, Isaac.[AN]
+Let's kill those pirates,[N]
+rescue those people and come home.[AN]
+That would avenge those[N]
+who have been killed.[AN]
+
+[MidLeft]
+Yeah...[N]
+I hope so.[A][X]

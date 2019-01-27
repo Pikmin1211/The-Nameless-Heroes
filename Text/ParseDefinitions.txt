@@ -70,7 +70,7 @@
 [LoadMorris] = [LoadFace][0x7][0x1]
 [LoadKara] = [LoadFace][0x8][0x1]
 [LoadJester] = [LoadFace][0x9][0x1]
-[LoadFelix] = [LoadFace][0xA][0x1]
+[LoadFerris] = [LoadFace][0xA][0x1]
 [LoadBrian] = [LoadFace][0xC][0x1]
 [LoadBarelle] = [LoadFace][0xE][0x1]
 [LoadDylan] = [LoadFace][0xF][0x1]
@@ -79,7 +79,7 @@
 [LoadJohnny] = [LoadFace][0x13][0x1]
 [LoadLizzy] = [LoadFace][0x14][0x1]
 [LoadKerbes] = [LoadFace][0x16][0x1]
-[LoadOlga] = [LoadFace][0x18][0x1]
+[LoadHamilton] = [LoadFace][0x18][0x1]
 [LoadLillia] = [LoadFace][0x2C][0x1]
 [LoadJeana] = [LoadFace][0x1A][0x1]
 [LoadTitor] = [LoadFace][0x1B][0x1]
@@ -101,6 +101,7 @@
 [LoadEchidna] = [LoadFace][0x58][0x1]
 [LoadElfin] = [LoadFace][0x0D][0x1]
 [LoadLalum] = [LoadFace][0x1C][0x1]
+[LoadPhelix] = [LoadFace][0x17][0x1]
 
 
 [LoadDarth] = [LoadFace][0x44][0x1]
@@ -114,6 +115,7 @@
 [LoadHaguro] = [LoadFace][0x19][0x1]
 [LoadMike] = [LoadFace][0x6E][0x1]
 [LoadZot] = [LoadFace][0x39][0x1]
+[LoadBreguet] = [LoadFace][0x31][0x1]
 
 
 [LoadWrys] = [LoadFace][0x2D][0x1]
@@ -132,6 +134,7 @@
 [LoadKelikGirl] = [LoadFace][0x63][0x1]
 [LoadLoli] = [LoadFace][0x64][0x1]
 [LoadYggdra] = [LoadFace][0x65][0x1]
+[LoadPirate] = [LoadFace][0x4D][0x1]
 [LoadArmory] = [LoadFace][][0x1]
 [LoadShop] = [LoadFace][][0x1]
 [LoadArena] = [LoadFace][][0x1]

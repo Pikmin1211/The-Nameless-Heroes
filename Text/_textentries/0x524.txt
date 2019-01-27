@@ -1,1 +1,1 @@
-Armory[X]
+Shop[X]

@@ -1,2 +1,2 @@
-Magicians with a mastery of all magics.[N]
-Equip: Anima, light, dark.[X]
+Magicians with a mastery of all[N]
+magics. Equip: Anima, light, dark.[X]

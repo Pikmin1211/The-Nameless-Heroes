@@ -1,0 +1,2 @@
+Suspended data will be lost.[N]
+Is that all right?[X]

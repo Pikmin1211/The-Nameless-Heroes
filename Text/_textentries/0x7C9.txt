@@ -1,1 +1,2 @@
-Throw away?[X]
+[Item] will be dropped.[N]
+[No][X]

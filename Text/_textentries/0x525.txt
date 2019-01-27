@@ -1,1 +1,1 @@
-Give All[X]
+Dump[X]

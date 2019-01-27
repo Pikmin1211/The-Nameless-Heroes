@@ -5,7 +5,7 @@ Now the leader of a mercenary band.[X]
 
 #0x1F6
 A former knight of Etruria.[N]
-A very experienced veteran,[N]
+An experienced veteran,[N]
 and hates to back out of a fight.[X]
 
 #0x1F7
