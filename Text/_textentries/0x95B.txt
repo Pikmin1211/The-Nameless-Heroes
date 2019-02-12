@@ -1,0 +1,7 @@
+
+[MidLeft][LoadWrys]
+Dear me...![AN]
+It seems that you[N]
+don't have enough gold.[AN]
+When you have the 500 gold,[N]
+come talk to me again.[A][X]

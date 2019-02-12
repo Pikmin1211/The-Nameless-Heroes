@@ -1,3 +1,3 @@
-Rend Heaven (Skill%)[N]
-Adds half of the opponent's[N]
-strength to your attack.[X]
+Dragon Fang (Skill%)[N]
+Adds half of strength[N]
+to the damage dealt.[X]

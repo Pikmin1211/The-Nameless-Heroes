@@ -425,8 +425,7 @@
 [59]
 [OpenMidLeft][LoadFace][0x12D][OpenMidRight][LoadFace][0x102][OpenMidRight]リフ殿
 今回も『指南』を頼む[A]
-・・・[.....][A]
-なんだ・・・ここは
+・・・ここは
 敵がいない？[A]
 [OpenMidLeft]ほっほ[A]
 ここは『拠点』
@@ -447,18 +446,17 @@
 その他４人まではＢまで組めます[A]
 ただし効果は『１５％』まで　です[A]
 [OpenMidRight]誰とでも組みやすいが、制限に
-すぐかかってしまうのか[A]
+すぐかかってしまうのだな[A]
 支援は分かった[A]
 武器屋、道具屋は・・・[.....]
 品揃えはいいな[A]
-だが質問がある、この「解除Ｍ」と
-言うのは・・・？[A]
+一つ質問がある　この「解除Ｍ」と
+言うのは？[A]
 [OpenMidLeft]ああ、それはスキル書で覚えたスキルを
 書に戻すことが出来るアイテムです[A]
 [OpenMidRight]それはいい　なら『書』は入手出来次第・・・
-すぐに、使いたい者に使うほうがいいだろうな[A]
-さて、闘技場だが・・・[A]
-雑に塞がれてるが
+すぐに、使いたい者に使うほうがいいだろう[A]
+闘技場は雑に塞がれてるが
 使えるときはくるのか？[A]
 [OpenMidLeft]ええ、そのうちです・・・[A]
 あとは『拠点』で、できる事といえば・・・
@@ -466,28 +464,27 @@
 一応ここは、物語の一部なので
 それに沿った　会話になりますね[A]
 [OpenMidRight]ここみたいに　物語外の設定では
-なかったんだな[A]
+なかったのだな[A]
 [OpenMidLeft]はい、そうですね
 『拠点』は物語内です[A]
-[OpenMidRight]最後に、聞きたいことがあるんだが・・・[A]
-[OpenMidLeft]はい？なんでしょう[A]
-[OpenMidRight]ここは・・・どうしたらクリアになる？[A][Clear]
+[OpenMidRight]最後に、聞きたいことがある[A]
+[OpenMidLeft]はい？　なんでしょう[A]
+[OpenMidRight]ここのクリア条件は？[A][Clear]
 ターン制限も、玉座も城門も
-ないようだが・・・[A]
+ないようだが[A]
 [OpenMidLeft]ここはですね・・・アイザック殿の
 床をごらんください[A]
 何か、矢印マークがでてませんか？[A]
-[OpenMidRight]・・・[A][.....]
-離脱で、よく使われてるマークか[A]
+[OpenMidRight]離脱でよく使われてるマークか[A]
 [OpenMidLeft]そのマスに、アイザック殿が乗ると・・・？[A]
 [OpenMidRight]『制圧』の文字があるな
-これで、クリアになるのか[A]
+これで、クリアになるのだな[A]
 [OpenMidLeft]その通りです[A]
 準備が完了したと、思ったら
 制圧してください[A]
 次の章に進みますので[A]
-[OpenMidRight]分かった[A]
-しかし、ただの床に『制圧』・・・な[A]
+[OpenMidRight]了解した[.....]
+しかし、ただの床に『制圧』・・・か[A]
 [OpenMidLeft]それは、言わないお約束です[A]
 では、今回はここまでで[A]
 [5A]
@@ -543,22 +540,20 @@
 その説明がないだけで、困る人が
 いるかもしれませんよ[A]
 その場合は責任はとれるのですか？[A]
-[OpenMidRight]・・・[A]
-そう言われると
-必要な気がしてきた[A]
-やり直しさせてくれ[A]
-[OpenMidLeft]・・・[A]
+[OpenMidRight]・・・たしかにその通りだった
+もう一度、やり直させてほしい[A]
+[OpenMidLeft][ToggleMouthMove]・・・[ToggleMouthMove][A]
 分かってもらえて何より
 では、仕切りなおしです[A]
 ここは『指南所』
 この作品のヒントコーナーです[A]
 [OpenMidRight]ヒントコーナー？[A]
 ここで、この章のヒントが
-もらえるんだな？[A]
+もらえるわけだ？[A]
 [OpenMidLeft]その通りです　アイザック殿[A]
 ではさっそく、この章の解説の前に
 『奥義』についての解説です[A]
-[OpenMidRight]オレが　持っているスキルか[A]
+[OpenMidRight]私が　所持しているスキルか[A]
 だが、今のところは一度も発動を
 みたことはない[A]
 [OpenMidLeft]それもそのはず[A]
@@ -567,15 +562,15 @@
 つまり、今回登場の上級職[A]
 『ウォーリア』の奥義も
 いまの所は　発動しません[A]
-[OpenMidRight]それは聞けて、安心だが・・・[A]
-俺の場合も、剣か斧をＳにしないと
+[OpenMidRight]それを聞けて安心だが・・・[A]
+私の場合も、剣か斧をＳにしないと
 使えないわけだな[A]
 [OpenMidLeft]その通りです[A]
 アイザック殿の奥義『太陽』も
 非常に強力なスキルですが・・・[A]
 Ｓレベルにならないと、お飾りですぞ[A]
 [OpenMidRight]・・・まあ
-妥当なところか[A]
+妥当なところだろう[A]
 [OpenMidLeft]では、遅れましたが
 この章の解説へ・・・[A]
 珍しくターン制限がない章なので
@@ -593,17 +588,16 @@
 よろしいですか？[A]
 これはすぐにしとめないと
 追いつけませんぞ[A][Clear]
-[OpenMidRight]たしかにな[A]
-しかも、この盗賊・・・
+[OpenMidRight]この盗賊・・・
 持ってる武器も奪取したい[A][Clear]
-となると、かなり手間がかかる[A]
+となると、さらに手間がかかる[A]
 [OpenMidLeft]まっ無理しない程度に
 頑張ってください[A]
 この章は単独でつっこむと
 返り討ちにあいやすいので[A]
 ゆっくり、ゆっくり攻めるんですぞ[A]
 それでは以上[A]
-[OpenMidRight]この章のヒントが少なくはないか？[A]
+[OpenMidRight]次回もよろしく頼む[A]
 
 [5C]
 [OpenMidLeft][LoadFace][0x12D][OpenMidRight][LoadFace][0x102][OpenMidLeft]では攻略への
@@ -857,7 +851,7 @@
 アイザック　お主も
 呼ばれておったんじゃろう[A]
 でなくてよかったのか？[A]
-[OpenMidLeft]ああ　俺がいても
+[OpenMidLeft]ああ　私がいても
 協力できそうなことはない[A]
 もう　夜も遅いし寝るとする[A]
 [OpenMidRight]寝る前に酒はやめておくんじゃぞ[A]
@@ -867,7 +861,7 @@
 酒でも飲んで寝てるんじゃないかと
 思ったんじゃが・・・[A]
 ほれ、寝酒は良くないというじゃろう？[A]
-[OpenMidLeft]・・・俺は酒は飲まない
+[OpenMidLeft]・・・私は酒は飲まない
 弱いからな[A]
 [OpenMidRight]じゃあ、イビキがうるさいのは
 もとからかのう[A]
@@ -879,10 +873,10 @@
 [63]
 終了
 [64]
-[OpenLeft][LoadFace][0x114][OpenFarLeft][LoadFace][0x11C][OpenMidRight][LoadFace][0x102]どうだ　何か分かったか？[A]
+[OpenLeft][LoadFace][0x114][OpenFarLeft][LoadFace][0x11C][OpenMidRight][LoadFace][0x102]どうかな？　何か情報は？[A]
 [OpenFarLeft]悪い噂と、もっと悪い噂があるわよ？
 どっちが先に聞きたい？[A]
-[OpenMidRight]なら、悪い方だ[A]
+[OpenMidRight]・・・悪い方からお願いする[A]
 [OpenFarLeft]じゃ、『解放軍』の噂からね！[A]
 聞こえて来るのは　『解放軍』への
 悪評と　敗北の話ばかりよ[A]
@@ -1197,15 +1191,15 @@
 黙示の闇
 [91]
 [OpenMidLeft][LoadFace][0x102][OpenRight][LoadFace][0x106][OpenFarRight][LoadFace][0x10A]
-[OpenMidLeft]よし、みんなそろったな
+[OpenMidLeft]よし、全員そろったな
 これより、ブリーフィングを始める[A]
 [OpenRight]ブリーフィングを始めるって・・・
 一応俺達は、牢の中ですよ？[A]
 どうやって、隊長のとこまで
 移動したんですか？[A]
 [OpenMidLeft]細かいことは
-気にするな[A]
-それにこれは『指南』[A]
+気にしなくていい[A]
+ここは『指南』だ[A]
 物語には一切関係ない[A]
 [OpenFarRight]それで、隊長
 僕らは一体何をすれば・・・？[A]
@@ -1220,10 +1214,9 @@
 そこから、更に７から９ターンにかけて
 犬が出る[A][OpenRight]い・・いぬですか？[A]
 [OpenMidLeft]いうならば軍用犬だ[A]
-こいつらは速さと移動力が高い
+奴らは速さと移動力が高い
 しっかり壁を張って対処だ[A]
-それと、動き回るなと
-言った理由だが・・・[A]
+それと、動き回るなと言った理由だが・・・[A]
 この章は、特定の位置に入った瞬間に
 増援が出る仕組みが多い[A]
 とくに、左側の扉の付近に
@@ -1233,44 +1226,54 @@
 [OpenFarRight]不用意に動き回ると不利になるのは
 よくわかりました[A]
 [OpenMidLeft]４ターン目に、オドレイ達が
-右の通路から増援でくる[A]
+右の通路から増援で来る[A]
 その辺りからの行動がオススメだ[A][OpenRight][ClearFace][OpenFarRight][ClearFace]
 [OpenRight][LoadFace][0x104][OpenFarRight][LoadFace][0x10C]
 [OpenRight]それで、大将
 中央の部屋の友軍は仲間になるのか？[A]
 [OpenMidLeft]もちろんだ
-俺で話しかければいい[A]
+私で話しかければいい[A]
 この章での『話す』コマンドは
-ほぼ全部俺だ[A]
-市民に話かけるのも俺だぞ[A]
+ほぼ全部私だ[A]
+市民に話かけるのも私だぞ[A]
 [OpenMidRight]ねえ、アイザック[A]
 僕がいる部屋に、宝剣のようなものが
 祭ってあるんだけど[A]
 これはなんだと、思う？[A]
-[OpenMidLeft]ああ、それか　その近くに
+[OpenMidLeft]それは、その近くに
 待機すれば、隠し財宝が手に入る[A]
 [OpenFarRight]なるほど　今回はわかりやすいね
 それに良いものだ[A]
-[OpenMidLeft]隠し財宝に関しては
-少しわかりやすいようにしたいと思っている[A]
+[OpenMidLeft]隠し財宝に関しては、今作は
+少し分かりやすく工夫されているようだ[A]
 さて、攻略に戻るぞ[A]
 左上の階段に続く、扉だが[A]
 『カギ開け』、『ばんのうカギ』では
-ひらかない[A]
+開けない[A]
 ボスを倒して、『制圧』しないと
-扉は開かないからな[A]
+扉を開くことはできない[A]
 その後は、階段の上部から
 全員『離脱』でクリアだ[A]
-俺が最後じゃないと、離脱もできないし
+私が最後ではないと、離脱もできないし
 クリアもできない[A]
 注意が必要だ[A]
-最後に、おさらいするが・・・
-この章は、エリア侵入の増援が多い[A]
-広い場所で、敵を受けようとすると
-取りこぼしが出るぞ[A]
-後退しながら、敵がふくすうの位置からこれない
-場所取りを心がけるんだ[A]
-では、今回は解散
+[OpenRight][ClearFace][OpenFarRight][ClearFace]
+[OpenMidRight][LoadFace][0x117][OpenMidRight][MoveMidRight][OpenMidRight]
+ま、まってくれ隊長！[A]
+『離脱』って何なんだ？[A]
+聞いたことないんだが
+俺達はどうすればいい？！[A]
+[OpenMidLeft]そう、深く考える必要はないフェリクス[A]
+最初に私が離脱地点を指示したハズだな
+そこで『待機』するだけだ[A]
+特別なコマンドは一切でない[A]
+『待機』したユニットは
+そのマップから離脱する[A]
+そして、その最後が私なら
+クリアになるということだ[A]
+[OpenMidRight]あんがとよ！　隊長！
+たぶん、これで大丈夫だ！[A]
+[OpenMidLeft]それではブリーフィングを終了する
 全員、牢に帰れ！[A]
 [92]
 マーゲイ
@@ -1300,7 +1303,7 @@
 では攻略に戻ります[A]
 この章はターン制限章ってこともあり
 増援が多いです[A]
-とくに注目しなければ　ならないのは
+とくに注目しなければ　ならないのは[A]
 難易度『むずかしい』で１から１３ターン
 出現するグレードランス持ちソルジャーさん[A]
 １０ターン目に下の船を橋でつないで
@@ -1326,7 +1329,7 @@
 敵の必殺率も下げますからね[A]
 ボスを倒すなら　アイザック殿は必要かも
 しれません[A]
-[OpenMidRight]うーん　ボス側からの増援も多いので
+[OpenMidRight]うーん　ボス側からの増援も多いので[A]
 早めにボスに向かわないと
 到達できないかもしれません・・・[A]
 どのターンから部隊を分けるかが
@@ -1338,8 +1341,8 @@
 [OpenMidLeft][LoadFace][0x165][OpenMidLeft]中断しますか？[A]
 [ToggleMouthMove]・・・
 ・・・・・・[ToggleMouthMove][A]
-[OpenMidRight][LoadFace][0x102]おい
-信じて閉じる奴がいたらどうする[A]
+[OpenMidRight][LoadFace][0x102]信じて閉じる者が
+いたらどうする？[A]
 [OpenMidLeft]その時は　その時です
 では今回のヒントへ[A]
 [OpenMidRight][ToggleMouthMove]・・・[ToggleMouthMove][A]
@@ -1351,7 +1354,7 @@
 山賊がいるな[A]
 空から処理したいがアーチがある[A]
 もし　村を守りたいなら中央の軍団を
-突破していくしか　ないだろう[A]
+突破していくしかないだろう[A]
 [OpenMidLeft]そしてターン経過で　
 左上から山賊がでます[A]
 当然村を襲うので　どこかで部隊を
@@ -1365,11 +1368,11 @@
 気をぬかないようにしてくださいね？[A]
 気をつける点は　以上でしょうか[A]
 [OpenMidRight]賊の退治に　増援の対処
-バタバタしそうだ[A]
+バタバタするな[A]
 それにこの章から　敵の上級職が
 増えてきている[A]
-こっちも誰か　ＣＣできていれば
-楽になるんだがな[A]
+こちらも誰か　ＣＣできていれば
+楽になるんだが[A]
 まあ　いなくても
 注意して戦えばなんとかなるだろう[A]
 [OpenMidLeft]一応おさらいのために
@@ -2174,7 +2177,7 @@
 [C6]
 コマンダー
 [C7]
-ミレディ
+ハービンジャー
 [C8]
 ラ・ピュセル
 [C9]
@@ -3241,7 +3244,7 @@
 装備『槍・斧』　奥義『衝撃』
 [02A3]
 戦場を駆け　敵を圧倒する
-装備『槍』　スキル『疾風迅雷』『回復』
+装備『槍』　スキル『疾風迅雷』
 [02A4]
 力は弱いが　安定した能力を持つ
 装備『理』
@@ -3410,9 +3413,9 @@
 全教会を統率する　最高位聖職者
 司祭ラトナを祖に持つ
 [02DA]
-特殊部隊の部隊長
-自身も高い能力を誇る
-装備『斧・闇』　スキル『恐怖』
+あらゆる任務を達成させてきた強者
+その存在はあらゆる戦場を覆す
+
 [02DB]
 てつの剣
 [02DC]
@@ -4066,7 +4069,7 @@
 魔防＋２　使うと失われます
 [0412]
 魔法がかかったブーツ
-移動力＋２　使うと失われます
+移動力＋１　使うと失われます
 [0413]
 戦う力を高める魔法の粉
 魔力＋２　使うと失われます
@@ -4731,11 +4734,11 @@
 [052F]
 それでよろしいですか？
 [0530]
-何をいたしますか？
+何をしますかね？
 [0531]
-あずかります
+あずかりますよ
 [0532]
-おわたしします
+おわたししますね
 [0533]
 何もありません
 [0534]
@@ -4804,7 +4807,7 @@
 輸送隊に預けます
 [0547]
 アイテムをあずけます
-１００個まであずけられます
+２００個まであずけられます
 [0548]
 アイテムを受けとります
 １ユニットは５つまでもてます
@@ -4894,10 +4897,9 @@
 作戦の第一段階は終了だ[A]
 これより予定通り、暴動をせん動するぞ[A]
 [0568]
-[OpenMidRight][LoadFace][0x102][OpenMidRight]だめだ[A]
-他の隊員を置いて、先に
+[OpenMidRight][LoadFace][0x102][OpenMidRight]・・・他の隊員を置いて先に
 撤退はできない[A]
-俺が撤退するのは全員が
+私が撤退するのは全員が
 『離脱』した後だ[A]
 [0569]
 [OpenMidRight][LoadFace][0x108][OpenMidRight][MoveMidRight]ええー！[A]
@@ -5639,8 +5641,8 @@
 オンのユニットのみ
 戦闘アニメーションを実行します
 [0678]
-ルネス王国王子
-重要な役わりをになう槍の使い手
+天をかけぬけ　槍を極めた　空の騎士
+防御を貫く貫通の技を持つ
 [0679]
 戦場を渡り歩く歴戦の傭兵
 その威圧感は　他を圧倒する
@@ -6946,8 +6948,8 @@
 [0839]
 ぜひいらしてね[A]
 [083A]
-ここは武器屋だぜ[A][Clear]
-いろいろ売り買いしてくれよ
+ここは武器屋です[A][Clear]
+いろいろ売り買いして下さいね
 [Buy/Sell]
 [083B]
 ここは道具屋よ[A][Clear]
@@ -6958,7 +6960,7 @@
 ここは秘密の店だ
 [Buy/Sell]
 [083D]
-ほかにも用があるのか
+ほかにもご用ですか？
 [Buy/Sell]
 [083E]
 ほかになにかご用は？
@@ -6967,7 +6969,7 @@
 ほかにご用はあるかい？
 [Buy/Sell]
 [0840]
-ほかにも用があるのか
+ほかにも用があります？
 [ShopContinue]
 [0841]
 ほかになにかご用は？
@@ -6976,44 +6978,44 @@
 ほかにご用があれば！
 [ShopContinue]
 [0843]
-どれがほしいんだい
+どれにします？
 [0844]
 どれがほしいの？
 [0845]
 どれを　お求めかな？
 [0846]
-ほかにも買うか？
+ほかにも買います？
 [0847]
 ほかにも買うの？
 [0848]
 ほかにも　お求めかな？
 [0849]
-どれを売るんだ？
+どれを売りますか？
 [084A]
 どれを売ってくれるの？
 [084B]
 どれを　売ってくれるのかな？
 [084C]
-売るものがねえじゃねえか[A]
+売るものがないみたいですね[A]
 [084D]
 売れるものをお持ちじゃないわ[A]
 [084E]
 売れるものを持ってないね[A]
 [084F]
-ほかにも売るのか？
+ほかにも売ります？
 [0850]
 ほかにも売ってくれるの？
 [0851]
 ほかにも　売ってくれるのかな？
 [0852]
-お金が足りねえぜ[A]
+お金が足りませんね[A]
 [0853]
 お金が足りないわ[A]
 [0854]
 お金が足りないみたいだ[A]
 [0855]
-[G]ゴールドだ
-それでいいのかい？　[Yes]
+[G]ゴールドです
+それでいいですか？　[Yes]
 [0856]
 [G]ゴールドよ
 それでいいの？　[Yes]
@@ -7021,21 +7023,21 @@
 [G]ゴールドだね
 それでいいかい？　[Yes]
 [0858]
-また来てくれよな[A]
+ありがとうございましたー[A]
 [0859]
 またいらしてね[A]
 [085A]
 またきてほしいな[A]
 [085B]
-それは買い取りできねぇな[A]
+それは買い取りできませんね・・・[A]
 [085C]
 それは買い取りできないわ[A]
 [085D]
 ごめん・・・
 それは買い取りできないんだ[A]
 [085E]
-手持ちがいっぱいみたいだな
-輸送隊へ送るかい？　[Yes]
+手持ちがいっぱいみたいです
+輸送隊へ送りますか？　[Yes]
 [085F]
 手持ちがいっぱいね
 輸送隊へ送る？　[Yes]
@@ -7043,20 +7045,20 @@
 手持ちがいっぱいみたいだ
 輸送隊へ送るかい？　[Yes]
 [0861]
-手持ちがいっぱいみたいだな[A]
+手持ちもいっぱいみたいです[A]
 [0862]
 手持ちがいっぱいね[A]
 [0863]
 手持ちがいっぱいだね[A]
 [0864]
-じゃあ　送っておくよ[A]
+じゃあ　送っておきますね[A]
 [0865]
 じゃあ　送っておくわ[A]
 [0866]
 分かった　送っておくよ[A]
 [0867]
-そうかい　残念だ
-手持ちをへらせば持てるんだがな[A]
+残念です・・・
+手持ちをへらせば持てるのですが[A]
 [0868]
 そう・・・　残念ね
 手持ちをへらせば持てるのだけど[A]
@@ -7064,7 +7066,7 @@
 そうか・・・　残念だな
 手持ちをへらせば持てるのに[A]
 [086A]
-残念だ　輸送隊さえいれば
+残念です　輸送隊さえいれば
 送ることもできたのに[A]
 [086B]
 残念ね　輸送隊さえいれば
@@ -7073,8 +7075,8 @@
 残念だなぁ　輸送隊さえいれば
 送ることもできたんだけど[A]
 [086D]
-おっと　輸送隊もいっぱいみたいだな
-整理して　また来てくれよ[A]
+えっと　輸送隊もいっぱいみたいですね
+整理して　また来て下さいね[A]
 [086E]
 あら　輸送隊もいっぱいみたいね
 整理して　また来てくださいな[A]
@@ -7409,9 +7411,8 @@
 ヴィルヘルムに歓迎され、
 晴れて、『解放軍』へと合流した[A]
 [LoadOverworldFaces]ヴィルヘルムという人物は・・・[A]
-元はエトルリアの将軍であったが
-民衆のためにその地位を捨て、[A]
-名前と立ち上がった・・・
+エトルリアの将軍であるが[A]
+民衆のために突如立ち上がった
 カレドニアの英雄と呼ばれる人物である[A][LoadOverworldFaces]
 その旗本を頼りに、反領主の組織が[LoadOverworldFaces]集い・・・
 『解放軍』を巨大な軍へと
@@ -7999,9 +8000,9 @@
 [08CB]
 [OpenFarLeft][LoadFace][0x102][OpenRight][LoadFace][0x108][OpenFarRight][LoadFace][0x106][OpenFarLeft]・・・思ったより
 敵の侵攻が早い[A]
-俺とオドレイが前を張る[A]
+私とオドレイが前を張る[A]
 オルソンとモールスは
-後ろから俺達を援護[A]
+後ろから私達を援護[A]
 カーラはとにかく、敵の情報を
 すみやかに伝達しろ[A]
 くれぐれも前に
@@ -8119,8 +8120,8 @@
 [OpenFarLeft]・・・おかしいな
 そんな予定は、聞いてないが[A]
 [08CE]
-[OpenMidLeft][LoadFace][0x102]おい　こっちを向け
-俺が相手だ！[A]
+[OpenMidLeft][LoadFace][0x102]こちらを向け！
+私が相手だ[A]
 [08CF]
 [OpenMidRight][LoadFace][0x10A][OpenMidRight]・・・っ！[A]
 すいません　隊長
@@ -8185,8 +8186,8 @@
 持ち帰るつもりなんじゃろう[A]
 [OpenMidRight]アイザックさん　どうか・・どうか・・・
 町の娘を・・・[A]
-[OpenFarLeft]ああ　村長
-いい情報を期待しててくれ[A]
+[OpenFarLeft]ええ　村長
+すぐに出撃しましょう[A]
 [A][OpenMidRight][ClearFace][OpenLeft][ClearFace]
 [OpenMidRight][LoadFace][0x110][OpenFarLeft]
 オドレイ　すぐ隣町へ行く
@@ -8237,7 +8238,7 @@
 この距離なら・・・振り切れねえか！？[A]
 [OpenFarFarRight]だっダメです！
 相手のほうが、速度がはええ！[A]
-[OpenMidRight]俺達の出番か[A]
+[OpenMidRight]私達の出番か[A]
 [OpenMidLeft]悪いな・・・
 まさかこんなことになるなんて・・・[A]
 『ゾット団』ってのはこの辺りをナワバリに
@@ -8399,7 +8400,7 @@
 [OpenMidLeft][ToggleMouthMove]・・・[ToggleMouthMove][A]
 まあ、ここに残った以上は
 仕方ない・・・[A]
-もう少し、俺達で
+もう少し、私達で
 面倒を見ることにしよう[A]
 ただ、オドレイ達には　謝っておけ
 いいな？[A]
@@ -8623,7 +8624,7 @@
 僕達も合流したほうが　よさそうだね[A]
 [OpenMidLeft]はい　急ぎましょう！[A]
 [08F2]
-[OpenFarLeft][LoadFace][0x11C][OpenLeft][LoadFace][0x114][OpenMidRight][LoadFace][0x102][OpenMidRight]エルフィン殿の体調はどうだ？
+[OpenFarLeft][LoadFace][0x11C][OpenLeft][LoadFace][0x114][OpenMidRight][LoadFace][0x102][OpenMidRight]エルフィン殿の体調はいかがか？
 まだ、うなされていたようだが[A]
 [OpenLeft]さっきやっと　発作がおさまったわ・・・[A]
 体調は日に日に　悪くなるばかり・・・
@@ -8633,22 +8634,21 @@
 エルフィンは・・・エルフィンは・・・！[A]
 [OpenLeft]ごっ　ごめんなさい・・・ララム・・・[A]
 [OpenMidRight]・・・[A]
-いま　俺達とギース船長の船員で
-治療ができそうな者と場所を探してる[A]
-悪いが　見つかるまで
+いま　私達とギース船長の船員で
+治療ができそうな者と場所を探している[A]
+もうしばらく
 待っていて欲しい[A]
 [OpenFarLeft]ねぇ・・・アイザックさん
 貴方はエルフィンは助かると思う？[A]
 [OpenMidRight]分からない
-俺はその分野に詳しくないからな[A]
-ただ　できる限りはするつもりだ[A]
+私はその分野に詳しくないからな[A]
+ただ　できる限りは尽力しよう[A]
 [OpenFarLeft]うん・・・ありがと[A][OpenFarLeft][ClearFace]
-[OpenMidRight]だいぶ参ってるみたいだな・・・[A]
+[OpenMidRight]・・・だいぶ参ってるみたいだな[A]
 [OpenLeft]無理もないわ・・・[A]
 容態は悪くなるばかり・・・
 回復もまだ　見込めないんですもの・・・[A]
-[OpenMidRight]・・・
-もう一度　人をあたってみよう[A]
+[OpenMidRight]・・・もう一度　人をあたってみよう[A]
 [OpenLeft]私も・・・手伝うわ・・・[A]
 [08F3]
 [OpenMidRight][LoadFace][0x108][OpenMidRight]うう・・・
@@ -8694,7 +8694,7 @@
 この町の人達は　助けることが
 できなかったが・・・[A]
 せめて連れ去られた人達だけでも
-オレは助けたい[A]
+私は助けたい[A]
 それが・・・我々の役目だ[A]
 [OpenMidRight]それは　ワシらも
 同じじゃ　アイザック[A]
@@ -8777,9 +8777,9 @@
 
 [0900]
 [OpenMidLeft][LoadFace][0x102]・・・来たか[.....][A]
-傭兵団　出撃するぞ[A]
-海賊団のアジトを潰し
-島の人々を救出する[A]
+傭兵団　出撃する[A]
+本作戦では、霧がでているため
+警戒して前進するぞ！[A]
 [0901]
 [OpenMidLeft][LoadFace][0x15C][OpenMidRight][LoadFace][0xFFFF][OpenMidLeft]わしは　ただ・・・[A]
 この町の　町長だという理由で生かされた[A]
@@ -9050,15 +9050,14 @@
 アデュー[A]
 
 [0914]
-[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x110][OpenMidLeft]ここのようだな
-海賊団のアジトは[A]
+[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x110][OpenMidLeft]ここか　海賊団のアジトは[A]
 [OpenMidRight]うむ　
 ここで　間違いなかろう[A]
 このアジトさえ　つぶしてしまえば[A]
 このあたり　一帯は
 ひとまずは安心じゃろう[A]
 [OpenMidLeft]しかし、気味の悪い所だ[A]
-霧もでてるし、偵察も
+霧もでているし、偵察も
 飛ばせそうにない[A]
 地図のおかげである程度の地形は
 わかるが・・・[A]
@@ -9191,10 +9190,8 @@
 それにその剣技は
 エトルリアの剣技だ[A]
 [OpenMidLeft][ClearFace][OpenMidRight][LoadFace][0x102]
-それがどうした。[A][OpenMidRight][ClearFace][OpenMidLeft][LoadFace][0x132]
+それが？[A][OpenMidRight][ClearFace][OpenMidLeft][LoadFace][0x132]
 実に惨めだ・・・くくく・・・[A][OpenMidLeft][ClearFace][OpenMidRight][LoadFace][0x102]
-いきなり、笑い始めて
-気持ちの悪い野郎だ[A]
 悪いが時間稼ぎのつもりなら、
 付き合うつもりはない[A][OpenMidRight][ClearFace][OpenMidLeft][LoadFace][0x132]
 貴方・・・どこかの
@@ -9412,14 +9409,11 @@
 だがまあ・・・すでに事切れていた者も
 おるがの・・・[A]
 いつでも、もどれるぞ[A]
-[OpenMidLeft]ああ・・・オドレイ
-ありがとう[A]
-さっさと、帰還しよう[.....]
-こんな思いはウンザリだ[A]
+[OpenMidLeft]ああ、オドレイありがとう
+帰還しよう[.....]
 [OpenMidRight]・・・思い出すか？[A]
-[OpenMidLeft]そうだな・・・　だから余計に
-気持ちが　落ち着かないのかもしれん[A]
-[OpenMidRight]・・・[A][.....]
+[OpenMidLeft]・・・思い出さないと言うのは嘘になるな[A]
+[OpenMidRight][ToggleMouthMove]・・・[ToggleMouthMove][A][.....]
 助け出した人たちは　町や村が
 どうなってるか想像もしておらんじゃろう[A]
 帰る場所も、迎えてくれる人も
@@ -9427,19 +9421,17 @@
 彼女らが、これから何を思うか・・[A]
 それを想像するだけで
 ワシも、あまりいい気はせん[A]
-[OpenMidLeft]俺達、傭兵が
-そこまで考える必要もないがな・・・[A]
+[OpenMidLeft]私達、傭兵が
+そこまで考える必要もない[A]
 [OpenMidRight]そうじゃな・・・
 あまり深入りするのも良くないが・・・[A]
 それでも、彼女達の今後を考えてしまうと・・・[A]
 どうもやりきれん・・・[A]
-[OpenMidLeft]考えるな、オドレイ[A]
-俺達はたしかに、依頼通りに
+[OpenMidLeft]・・・私達はたしかに、依頼通りに
 彼女達を救出した[A]
 それだけで十分だ[A]
 これ以上考えるな[A]
-[OpenMidRight]・・・[A]
-そうじゃな・・・[A]
+[OpenMidRight]そうじゃな・・・[A]
 そのほうが・・・
 いいじゃろうな・・・[A]
 [0926]
@@ -9462,8 +9454,8 @@
 さあさあ、いきましょう！[A]
 [OpenMidLeft]・・・[A]
 [0927]
-[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x105][OpenMidLeft]バッカス・・・・
-お前・・・ここにいたのか[A]
+[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x105][OpenMidLeft]・・・バッカス
+お前もここにいたのか[A]
 [OpenMidRight]・・・隊長か　悪いな[A]
 クロエに　伝言を任せて
 追加の依頼を受けたんだが・・・[A]
@@ -9710,11 +9702,11 @@
 意味がないではないか・・・[A]
 [OpenLeft]どうやら　あの時の報復では
 ないらしいが・・・[A]
-俺達は　このままエブラクム行きらしい[A]
+私達は　このままエブラクム行きらしい[A]
 [OpenFarLeft]あのこう山にか？[A]
 [OpenLeft]ああ・・・[A]
 もう・・・[A]
-これは俺達の力で
+これは私達の力で
 どうこうなるような問題じゃない[A]
 完全に油断していた[A]
 こうなってしまった以上は
@@ -9724,34 +9716,31 @@
 そうなんじゃろう[A]
 それで・・・
 どうするんじゃ？[A]
-[OpenLeft]どうしようもないから[A]
-俺はエブラクムにでも
-いってくるさ[A]
+[OpenLeft]どうしようもないから
+私はエブラクムにでもいってくる[A]
 その前に、カーラにこれを渡して
 イリアに返してやってくれ[A]
-新人が変に巻き込まれるのも
-可哀想だ[A]
+もう彼女の世話は
+見てやれないだろうからな[A]
 あいつなら、これからも
 うまくやるだろう[A]
 [OpenFarLeft]これは・・・さっきの
 合格書か・・・[A]
 まさか、こんな形で
 渡すことになろうとは・・・[A]
-[OpenLeft]ああ、俺もびっくりだ[A]
-・・・後は任せた[A]
-俺は男連中と
-山でも掘ってるさ[A]
-いいか？
-余計な事だけはするな[A]
-傭兵団もここで解散だ[A]
-残った奴で好きにしろ[A][OpenMidRight]よし、では村の男は
+[OpenLeft]ああ、私もびっくりだ[A]
+オドレイ　最後に頼みがある[A]
+残った隊員の事はお前に任せたい
+無責任ですまないな・・・[A]
+[OpenFarLeft][ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
+[A][OpenMidRight]よし、では村の男は
 中央に集結せよ[A]
 急げ！　急ぐのだ！[A]
 [OpenFarLeft]アイザック・・・[A]
 [OpenLeft]お前には世話になった[A]
 どうか、お前のこれからの人生に
 祝福を[A]
-・・・[A]
+・・・[.....]
 じゃあな[A]
 
 [0933]
@@ -9827,11 +9816,10 @@
 これが　おぬしが
 目指しておった「騎士」なのか？[A]
 [OpenLeft]・・・作戦中に余計は話はするな[A]
-敵は　エトルリアに反逆の容疑がある
-絶対にこの村から脱走者を出すな[A]
-それがエトルリアを救う行為になる[A]
-情に惑わされるな
-必ず任務を成功させろ[A]
+この任務は必ず
+成功させなければならない[A]
+それがエトルリアの為なのだからな[A][Clear]
+いまは、言い争っている場合ではない
 [OpenRight]じゃが・・・[A]
 [OpenFarRight][LoadFace][0x16C]隊長の言う通りだ[A]
 今は　言い争ってる場合じゃないよ？[A]
@@ -9842,7 +9830,7 @@
 攻撃してきてやがる！[A]
 [OpenLeft]・・・任務は「村にいる者全員」の処理だ[A]
 [OpenFarLeft]いいんだな？！　大将！[A]
-[OpenLeft]俺もそちらに向かおう
+[OpenLeft]私もそちらに向かおう
 案内してくれ[A]
 [OpenFarLeft]こっちだ　大将！[A][OpenFarLeft][ClearFace][OpenLeft][MoveFarLeft]
 [OpenRight]待つんじゃ　アイザック！[A]
@@ -9866,20 +9854,20 @@
 逃げたかで　ほぼ残っておらんかったからのぉ[A]
 たまたま、この町に訪れた商船と
 話をつけたんじゃ[A]
-[OpenMidRight]なるほどな　どうやら俺達は
+[OpenMidRight]なるほど　どうやら私達は
 運がいいらしい[A]
 行き先はちゃんと　伝えたのか？[A]
-俺達の行き先は　海賊の拠点だ[A]
+私達の行き先は　海賊の拠点だ[A]
 まともな奴なら
-関わろうとも　しないハズだからな[A]
+関わろうともしないハズだろう[A]
 [OpenMidLeft]安心せえ　その話はしてある
 その上で　ワシらを連れて行ってくれるらしい[A]　
 この町の得意先の　商船だったらしくてのう・・・
 お金もいらんらしい[A]
 むしろ　協力したいと言っておったわ[A]
 [OpenMidRight]そいつは　気前のいい海の男だ[A]
-船の手配さえ　ついたのなら
-俺達が拠点に　乗り込むだけか[A]
+船の手配さえ着いたのなら
+後は私達が拠点を制圧するだけか[A]
 [OpenMidLeft]そうじゃな　なめたマネしてくれた賊には
 相応の報いを与えねばな！[A][OpenMidLeft][ClearFace]
 [OpenMidRight]気合があるのはいいが
@@ -10092,9 +10080,9 @@
 サンダーソード
 [0946]
 [OpenMidLeft][LoadFace][0x102]どうやら　あれで最後の
-避難者らしいな・・・[A]
-俺達も　撤退する
-無理に　戦う必要はない[A]
+避難者らしい[A]
+私達も徹底するぞ
+無理に戦う必要はない[A]
 [0947]
 レジスタンスの隠れアジト
 [0948]
@@ -10295,22 +10283,21 @@
 [0955]
 [OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x110]気はぬけんな[A]
 [OpenMidLeft]ここさえ、抜ければもう出口だ[A]
-こんなクソみたいな所から
-早くおさらばしたいもんだ[A]
+早くここを立ち去りたいものだ
+いい思い出がない[A]
 そういえば、詳しく聞いてなかったが・・・[A]
-俺達が連れて行かれた後
+私達が連れて行かれた後
 どうなった？[A]
-ちなみに俺達は
-こうざん発掘に勤しんでたが[A]
+私達はこうざん発掘に励んでいたが[A]
 [OpenMidRight]それは、なんぎじゃったのう[A]
 ワシらは、さっき話したかもしれんが
 『レジスタンス』と合流したんじゃ[A]
 といっても、途方にくれてるところに[A]
 向こうから接触してきたと
 いったほうが正しいな[A]
-[OpenMidLeft]『レジスタンス』・・・[A]
-この島のために戦う組織だって
-名乗っていたな[A]
+[OpenMidLeft]『レジスタンス』[A]
+この島のために戦う組織だと
+聞いているな[A]
 [OpenMidRight]まさしく、その通りじゃよ[A]
 『賊』と『エトルリア領主』への抵抗が
 主な活動になっとる[A]
@@ -10325,11 +10312,11 @@
 それで、そのレジスタンスの首領は
 どのような人物だ？[A]
 エトルリアに抵抗しようって連中の頭だ
-たいした奴なんだろう？[A]
+たいした人物なのだろう？[A]
 [OpenMidRight]そうじゃな・・・彼女・・・
 いや首領は・・・[A]
 [OpenMidLeft]へぇ　女性がリーダーか
-随分な豪傑なんだろう[A]
+随分な豪傑か[A]
 [OpenMidRight]まあ、そうじゃな
 事実、彼女のカリスマ性はとてつもない[A]
 彼女の声１つで組織が
@@ -10339,7 +10326,7 @@
 その影響もあってか・・・[A]
 噂では『西方の勇者』とも
 呼ばれておるようじゃな[A]
-[OpenMidLeft]こうして、俺達が助かりそうなのも
+[OpenMidLeft]こうして、私達が助かりそうなのも
 その彼女達のおかげだ[A]
 ぜひ一度は会ってお礼を言いたい[A]
 [OpenMidRight]ここを脱出できたらじゃな[A]
@@ -10905,7 +10892,7 @@
 全員、上の階段から『離脱』しろ！[A]
 先に抜けた奴から、味方の開放を
 優先して動け[A]
-俺はお前達、全員が『離脱』したら
+私はお前達、全員が『離脱』したら
 後に続く[A]
 行け！[A]
 [096C]
@@ -11008,11 +10995,11 @@
 ここが出口になっているようだな[A]
 だがこの階段のカギは　関所にある
 玉座で保管されているらしい[A]
-つまり、俺は今後・・・
+つまり、私は今後・・・
 隙をみて、ここを抜け出した後・・・[A]
 仲間を救出した後に、関所を『制圧』[A]
-全員で、上の階段から『離脱』すれば
-いいわけだな[A]
+全員で上の階段から『離脱』すれば
+いいわけだ[A]
 そして注意しないといけない事は[A]
 ２刻（６ターン）過ぎると、それを合図に
 暴動が起きるようになっているらしい[A]
@@ -11219,11 +11206,11 @@
 [OpenMidLeft]気が早いぞ
 まだ、出れると決まったわけじゃない[A]
 [OpenMidRight]すまんすまん、そうじゃったな[A]
-[OpenMidLeft]さっきも『レジスタンス』の奴に
-勧められたよ[A]
-この島から出たほうがいいってな[A]
+[OpenMidLeft]さっきも『レジスタンス』の人物に
+勧められた[A]
+この島から出たほうがいい、と[A]
 [OpenMidRight]ほう？[A]
-[OpenMidLeft]俺達も善意で活動しているわけじゃない[A]
+[OpenMidLeft]私達も善意で活動しているわけじゃない[A]
 傭兵として食っていくには
 この島は少し、厳しすぎる[A]
 こんな目にもあってるわけだしな[A]
@@ -11397,7 +11384,7 @@
 指示を出してくれ！[A]
 [098C]
 [OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x122][OpenMidLeft]ソフィア・・・
-お前も　無事でよかった[A]
+君も　無事でよかった[A]
 [OpenMidRight]隊長・・・ですか
 お久しぶりです[A]
 すぐに隊に戻らず
@@ -11405,11 +11392,9 @@
 [OpenMidLeft]いや、それはいい
 状況が状況だ[A]
 その様子だと、相変わらず
-人助けをしてまわってるみたいだな[A]
+人助けをしてまわっているようだな[A]
 [OpenMidRight]・・・私には、これくらいしか
 できませんから・・・[A]
-[OpenMidLeft]変わってないな　お前は[A]
-[OpenMidRight]そうでしょうか・・・[A]
 私は　バッカスさん達が
 連れ去られた後・・・[A]
 何かの間違いだと　何度も抗議を
@@ -11422,15 +11407,15 @@
 合流できました[A]
 その後、ずっと「レジスタンス」の怪我人の
 手当てを・・・[A]
-[OpenMidLeft]・・・見るからに、疲れているな[A]
+[OpenMidLeft]・・・見るからに、疲れている[A]
 ソフィア[A]
 他人のために、尽くすのはいいが
 自分にも気を使え[A]
 [OpenMidRight]先ほど、エキドナさんにも
 同じようなことをいわれました[A]
 [OpenMidLeft]・・・噂の勇者様にもか[A]
-じゃあ、他人からみても
-お前は頑張りすぎ　だってことだ[A]
+第三者からみても
+君は頑張りすぎのようだ[A]
 [OpenMidRight]そうなんでしょうか・・・[A]
 とりあえず　私も隊長に
 合流しますね[A]
@@ -11792,9 +11777,8 @@
 その誘いには乗るつもりはない[A]
 ハグロ・・・もうやめろ
 うぬぼれた発言になるが・・・[A]
-俺を探しているなら　お前が
-こちらにくればいい話だ[A]
-違うか？[A][OpenMidRight][ClearFace]
+私を探しているなら　お前が
+こちらにくればいい話だ[A][OpenMidRight][ClearFace]
 [OpenMidLeft][LoadFace][0x119]それじゃあ・・・ダメです[A][Clear]
 余計な人たちが
 たくさんいますから・・・[A]
@@ -11828,8 +11812,6 @@
 元隊長として
 お前の間違いを正そう[A][OpenMidRight][ClearFace]
 [OpenMidLeft][LoadFace][0x119]ああ・・・嬉しいです！[A]
-見せてください
-久しぶりにその力を！[A]
 
 
 
@@ -12064,7 +12046,7 @@
 [OpenRight]ああ、問題ない[A]
 だが・・・船の運転と客人とやらの
 護衛はそちらに任せる[A]
-そのかわり俺達は　ここで賊を追い払う[A]
+そのかわり私達は　ここで賊を追い払う[A]
 [OpenMidLeft]了解だぜ　行くぞお前ら！
 船を少しでも早く動かすんだ[A]
 [OpenFarRight]へっ　へい[A][OpenFarRight][ClearFace][OpenMidLeft][ClearFace]
@@ -12349,15 +12331,14 @@
 [09B3]
 [OpenMidLeft][LoadFace][0x156][OpenMidRight][LoadFace][0x102][OpenMidLeft]よう！　兄ちゃん
 船にはなれたかい？[A]
-[OpenMidRight]まあ、なんとか[A]
-それにしてもでかくて、いい船だな
-とりあえず酔うことはなさそうだ[A]
-しかし　よかったのか？[A]
-普段は運送業を
-しているんだろう？[A]
+[OpenMidRight]ええ、なんとか[A]
+それにしてもでかくて、いい船だ
+酔うことはなさそうで安心するよ[A]
+しかし　よろしいのか？[A]
+普段は運送業をしていると聞く[A]
 それだけでも、十分
 食っていけるはずだ[A]
-エブラクムの脱走者の輸送なんて[A]
+エブラクムの脱走者の輸送などと[A]
 面倒事にしかならないと
 分かりきっていたハズだが・・・[A]
 [OpenMidLeft]まあ、俺達にも
@@ -12660,7 +12641,7 @@
 [OpenFarLeft]吟遊詩人のほうは　知らないが[A]
 あの騒がしい踊り子が酔いで
 寝込んでるのか[A]
-それはそれで　面白いな[A]
+それはそれで　面白い[A]
 [OpenFarRight]お　見えてきたぜ
 港町『ディール』だ[A]
 野郎共！　船を着ける用意をしろ！
@@ -12993,7 +12974,7 @@
 ごめん・・・なさい
 私の・・・せい・・・で[A]
 [OpenMidLeft]謝罪は後だ[A]
-助けたかったんだろう？　目の前の人を[A]
+助けたかったのだろう？　目の前の人を[A]
 だったら　クヨクヨせずに
 力を貸せ[A]
 相手は　エトルリアの騎士だが
@@ -13694,7 +13675,7 @@
 [OpenMidRight]変なことを聞いたな[A]
 「ネームレス」は、俺達が騎士だった頃に
 呼ばれていた部隊の名前だ[A]
-正式名称はエトルリア４０４小隊[A]
+正式名称はエトルリア４２２小隊[A]
 聞いた事がないのも、無理はない
 すでに記録は消されているだろうからな[A]
 [OpenMidLeft]記録が・・・？[A]
@@ -13901,7 +13882,7 @@
 収容されてるんだ[A]
 そいつらの事も、奥で抵抗しているかもしれない
 仲間の事も見捨てる事はできねーよ！[A]
-[OpenFarRight]・・・！　分かりました、デュランさん　行きましょう！
+[OpenFarRight]・・・！　行きましょう！
 貴方達のお仲間のために！[A]
 [OpenRight]まだ探索始めて、間もないだろう
 急いで向かえば、間に合うかもしれない[A]
@@ -13973,7 +13954,7 @@
 いつまでも邪魔されるのはかなわん[A]
 じゃから　今回で一掃しようと思ってのう[A]
 ほれ　そろそろ連中も行動を起こすじゃろう
-ワシらはそれは一網打尽に叩き潰す[A]
+ワシらはそれを一網打尽に叩き潰す[A]
 ぐふふふ[A]
 貴様を　皆から見えるこの場所で
 いたぶって　いたぶって[A]
@@ -14778,7 +14759,7 @@
 [OpenMidLeft]なら　ここを突破し
 二人を救出に行く[A]
 ヴァルカン殿　道案内を
-よろしくたのむ[A]
+お願いしたい[A]
 [OpenFarRight]ええ　お任せを[A]
 [0A0D]
 [OpenMidLeft][LoadFace][0x143][ToggleSmile]はーはっはっは！[ToggleSmile]
@@ -15173,8 +15154,7 @@
 
 
 [0A19]
-[OpenMidRight][LoadFace][0x102][OpenMidRight]俺達が向かうのは・・・
-ここだ[A]
+[OpenMidRight][LoadFace][0x102][OpenMidRight]私達が向かうのはここだ[A]
 砂嵐が起きる前に
 通過できるといいが・・・[A]
 [0A1A]
@@ -15822,13 +15802,12 @@
 おまけに、こんな広い屋敷で寝られるんじゃ[A]
 昔を思い出すのう　アイザック
 なんだか、懐かしい気持ちになるわい[A]
-[OpenMidRight]俺は昔を思い出して、悲しい気持ちだ[A]
+[OpenMidRight]私は昔を思い出して、悲しい気持ちだ[A]
 [OpenMidLeft]そう言うな、ぼっちゃん
 またとない機会じゃ　しっかり堪能しよう[A]
 [OpenMidRight]ぼっちゃんはやめろ
-いくつだと思っているんだ[A]
-オドレイ、用がないなら
-さっさと寝るんだな[A]
+いくつだと思っているんだ[A][Clear]
+用がないならさっさと寝るんだな[A]
 [OpenMidLeft]そうさせてもらうぞ[A]
 ぼっちゃんの機嫌を悪くさせてしもうたから
 ばあやは撤退するかの[A][OpenMidLeft][ClearFace]
@@ -15978,13 +15957,11 @@
 [OpenFarLeft]・・・手強い相手だった[A]
 皆を守るための「騎士」なのに、[A]
 その力をこんな事に使うなんて・・・[A]
-[OpenMidRight]強大な力を持った者は
-他人を支配したくなる・・・という[A]
-こいつらは、そうだったんだろうな[A]
+[OpenMidRight][ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
 [OpenFarLeft]私は、そうはならない・・・[A]
 絶対みんなのための、騎士に
 なってみせるわ[A]
-[OpenMidRight]ああ、お前ならなれるさ[A]
+[OpenMidRight]ああ、お前ならなれる[A]
 きっとな・・・[A][.....]
 [OpenFarLeft][ClearFace][OpenMidRight][ClearFace][OpenLeft][OpenEyes]
 [OpenFarLeft][LoadFace][0x10D][OpenMidRight][LoadFace][0x15A]我々、モリュウの民を救って頂き
@@ -16069,9 +16046,9 @@
 [OpenLeft]リディ！　聞いているのか[A]
 いいか、お前に頼みだ[A]
 [OpenFarLeft][OpenEyes][OpenFarLeft][ToggleMouthMove]・・・[ToggleMouthMove][A]
-[OpenLeft]俺が合図したら、お前は
+[OpenLeft]私が合図したら、お前は
 皆の下に向かい、事態を伝えろ[A]
-その間の時間は、俺は稼ぐ[A]
+その間の時間は、私が稼ぐ[A]
 [OpenFarLeft]バカな事言わないで！[A]
 いくらなんでもムチャよ！
 貴方でもあの数は無理！[A]
@@ -16147,7 +16124,7 @@
 殺すつもりか？[A]
 [OpenFarLeft]で　でも・・・
 貴方が・・・貴方が！[A]
-[OpenLeft]俺が、お前に護衛を申し入れたのは
+[OpenLeft]私が、お前に護衛を申し入れたのは
 お前を死なせないためだ[A]
 このままだと意味がなくなる
 だから・・・早く行け[A]
@@ -16398,12 +16375,15 @@
 [0A44]
 [OpenMidLeft][LoadFace][0x144][OpenMidRight][LoadFace][0x142][OpenMidLeft]ガリウス殿　お見事でした
 おかげ様で門を、開くことができました[A]
-[OpenMidRight]それはどうも[A]
-我々『ネームレス』はヴィルヘルムの処理が
-ありますので、これにて失礼します[A]
-[OpenMidLeft]ええ　お願いしますよ[A]
-エトルリアを裏切った馬鹿な元将軍を
-こらしめてやって下さい[A]
+[OpenMidRight]それはそれは
+お力になれて光栄です[A]
+ダリス殿　我々はこれより正門に加勢し、
+ヴィルヘルムの首を狙います[A]
+もし、我々の力が必要になれば
+お声かけ下さい[A]
+[OpenMidLeft]ええ　その時はお願いしますよ[A]
+それまでエトルリアを裏切った
+馬鹿な将軍をこらしめてやって下さい[A]
 そのための『シュヴァルツ・リッター』
 なのですから[A]
 [OpenMidRight]ええ
@@ -16432,8 +16412,6 @@
 おっと、長々とすいませんでした
 行ってよろしいですよ[A]
 [OpenMidRight]は・・・はっ！[A][OpenMidRight][ClearFace]
-[OpenMidLeft]さて、[.....]あがいてごらんなさい
-私が見守って差し上げますよ[A]
 [0A45]
 [OpenMidRight][LoadFace][0xFFFF]
 [OpenMidLeft]負傷者の治療を頼む！[A]
@@ -16781,7 +16759,7 @@
 ここが抜けられたら、完全に終わりだ[A]
 どうか・・・[.....]任せた[A]
 では、生きて会おう！[A]
-[OpenMidLeft]ああ[A]
+[OpenMidLeft]ええ[A]
 
 [0A57]
 [OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x125][OpenMidRight]待て　アイザック殿
@@ -17585,7 +17563,7 @@
 貴様ら絶対に・・・・
 ゆる・・・さ・・・ん・・・[A]
 [0A83]
-[OpenMidLeft][LoadFace][0x114][OpenMidRight][LoadFace][0x125][OpenMidLeft]大量の兵士に、バリスタ・・・
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x125][OpenMidLeft]大量の兵士に、バリスタ・・・
 噂通り楽ではなさそうですね[A]
 [OpenMidRight]敵もここに戦力を集めてきている[A]
 さらには、相手は守戦を得意とする将軍
@@ -17615,7 +17593,7 @@
 ここで合流する事になっているのだが・・・[A]
 [OpenFarRight]すまない　少々遅れたようだ[A]
 [OpenMidLeft][ToggleMouthMove]！！[ToggleMouthMove][A][OpenMidRight][ClearFace][OpenMidLeft][ClearFace]
-[OpenFarLeft][LoadFace][0x114][OpenLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x129]
+[OpenFarLeft][LoadFace][0x157][OpenLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x129]
 [OpenLeft]クロノス殿　よくご無事で戻られたな
 早速だが・・・[A]
 [OpenMidRight]いや、ヴィルヘルム殿
@@ -17807,7 +17785,7 @@
 その間に、少し後退しましょう！
 ヴィルヘルム殿と合流するのよ！[A]
 [0A8F]
-[OpenMidLeft][LoadFace][0x114][OpenMidRight][LoadFace][0x125][OpenMidLeft][CloseEyes][ToggleMouthMove]・・・[ToggleMouthMove][A][OpenMidLeft][ClearFace]
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x125][OpenMidLeft][CloseEyes][ToggleMouthMove]・・・[ToggleMouthMove][A][OpenMidLeft][ClearFace]
 [OpenFarLeft][LoadFace][0x102][OpenFarLeft][MoveMidLeft][OpenMidLeft]・・・！[A]
 緊張の糸が切れたようだ
 どうか彼女の無礼を許してほしい[A]
@@ -19780,7 +19758,7 @@
 こちらにも銘があります。[A][Clear]
 【雷剣ジークリンデ】・・・[A]
 [0B17]
-[OpenMidRight][LoadFace][0x114][OpenMidRight][CloseEyes][ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
+[OpenMidRight][LoadFace][0x157][OpenMidRight][CloseEyes][ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
 [OpenMidRight][OpenEyes][OpenMidRight]・・・私がこうなるなんて
 想像もつかなかった[A][Clear]
 実感が湧かないな・・・[A]
@@ -26804,144 +26782,110 @@
 [ToggleSmile][ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
 [OpenLeft][HalfCloseEyes][OpenLeft][ToggleSmile]ありがとう・・・お兄ちゃん。[A][ToggleSmile]
 [0C81]
-[OpenMidLeft][LoadFace][0x121][OpenMidRight][LoadFace][0x109][ToggleSmile][OpenMidRight]おっ、いたいた。
-やっといたぜ。[A]
-ようっ！[A][OpenMidLeft]やあ。[A][OpenMidRight]おれはロスっていうんだ。
-おまえは？[A][OpenMidLeft]僕、ユアンだよ。[A][OpenMidRight]そうか、ユアン。よろしくな。[A]
-実は、俺と同じくらいの年の
-男のヤツを探してたんだ。今度、遊ぼうぜ。[A][OpenMidLeft]うん、いいよ。
-でも、今度じゃなくて今遊ぼうよ。[A][OpenMidRight][ToggleSmile]ば・・・ばっか、おまえ、
-仮にも戦闘中だぜ？[A][ToggleSmile][OpenMidLeft]他の大人の人たちが頑張ってるから、
-僕たちくらい大丈夫だよ。[A]
-それに、僕はこの間やっと魔法を使えるように
-なったばっかりだけど、それなりに強いし。[A]
-いざとなったら大丈夫だよ。[A][OpenMidRight][ToggleSmile]お、俺も戦い初めて日は浅いけど、
-ま、まぁなんていうか、それなりに自信はある。[A]
-でもよ、やっぱりなんて言うんだ、こういうの。
-そう、士気。軍の士気にかかわるだろ？[A][ToggleSmile][OpenMidLeft][ToggleSmile]へぇ。思ったより真面目なんだね、ロスは。
-[ToggleSmile]意外だなぁ。[A][OpenMidRight][ToggleSmile]意外は余計だ！[A][ToggleSmile][OpenMidLeft]じゃあさ、こういうのはどうかな？
-僕が問題を出すよ。[A]
-それにロスが答える。[A][OpenMidRight][ToggleSmile]問題？　楽しいのかそれ？
-それに、おまえは面白いのかよ？[A][ToggleSmile][OpenMidLeft]うん、
-きっと楽しいよ。[A]
-僕は、ロスが考えてるの見てるだけで
-面白いし。[A][OpenMidRight][ToggleSmile]なんだよ、それ・・・
-まぁいい。言ってみろよ。[A][ToggleSmile][OpenMidLeft]うん。じゃあ、問題出すよ。
-ロス、天秤・・・って知ってる？[A][OpenMidRight][ToggleSmile]し、知ってるぜ。
-バカにするなよな。[A]
-重さを確認する事のできる、
-はかりの一種だろ？[A][ToggleSmile][OpenMidLeft]そう、その天秤。
-左右にオモリを乗せる同じ皿がついていて、[A]
-両方の皿に乗せた物の重さが丁度おなじなら、
-水平になって釣りあうの。[A]
-さて、ここからが問題。
-２５個の小さな石がある。[A][OpenMidRight][ToggleSmile]石？[A][ToggleSmile][OpenMidLeft]そう。本当に小さな、豆粒みたいなの。[A]
-その石は、
-色も形も見た目はすべて一緒なんだけど、[A]
-２５個のうち、たった１つだけ、
-他のより軽いのが混じってるんだ。[A][OpenMidRight][ToggleSmile]で、それを見つけるのにはどうしたらいいか、
-っていうのか？[A][ToggleSmile][OpenMidLeft]違うよ。
-そんなの問題にならないじゃないか。[A]
-問題は、その重さの違う１つの石を見つける為
-には、最低、何回天秤を使えばいいか、だよ。[A][OpenMidRight][ToggleSmile]何回？
-ええっと・・・[A]
-２４回・・・じゃないよな？[A][ToggleSmile][OpenMidLeft][ToggleSmile][ToggleMouthMove]！[ToggleMouthMove][......]
-[ToggleSmile][OpenMidLeft][MoveMidLeft][OpenMidLeft][MoveMidLeft][OpenMidLeft]あはははは！
-そんな答え出したの、ロスが初めてだよ。[A]
-なるほど、１個ずつ１個ずつ量るのかぁ。
-そうかぁ、そうだよね。すごいよ、ロス！[A]
-やっぱり面白いよ！[A][OpenMidRight][ToggleSmile]ぐっ・・・おまえ、それ褒めてないだろ？
-思いっきりバカにしてるな？[A][ToggleSmile][OpenMidLeft]えへへへ。そんな事無いよ。[A][OpenMidRight][ToggleSmile]ちっくしょ～！！　見てろよ！
-次に会った時に正解をを言ってやらぁ！[A][ToggleSmile][OpenMidLeft]うん、楽しみにしてるよ。[A]
+[OpenMidLeft][LoadFace][0x11A][OpenMidRight][LoadFace][0x118][OpenMidLeft]・・・ハミルトンさん
+何か御用ですか？[A]
+[OpenMidRight]ジーナ・・・見ていましたよ[A]
+また、同じ隊の人に冷たい態度を
+取りましたね？[A]
+[OpenMidLeft]・・・そんな事、今に始まった事じゃないでしょ
+どうして今更？[A]
+[OpenMidRight]確かにそれはそうですが・・・[A]
+まあ、今回を機に
+皆さんと仲良くして欲しいのですよ[A]
+[OpenMidLeft][CloseEyes][OpenMidLeft]・・・そんな必要ない[OpenMidLeft][OpenEyes][OpenMidLeft]
+どうせすぐに別れる事になるんだから[A]
+[OpenMidRight][CloseEyes][OpenMidRight]まったくあなたと言う人は・・・
+イリア育ちは心まで冷たくなってしまうのか・・・[A]
+[OpenMidLeft]故郷はハミルトンさんも同じでしょ[A]
+[OpenMidRight][OpenEyes][OpenMidRight][ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
+まあ、とにかくです[A]
+あなたが冷たい人である以上[A]
+私の面子が立たないのですよ[A]
+困った困った[A]
+[OpenMidLeft]・・・それ嫌味のつもり？[A]
+[OpenMidRight]冷たいあなたが冷たい態度を取り続ければ
+雇い主はどんな印象を受けると思います？[A]
+[OpenMidLeft]そりゃ、いい印象なんてないわね[A]
+[OpenMidRight]その通りです　世間体を気にする人から見れば
+そんな事をされる人がいれば困ります[A]
+[OpenMidLeft]その気にする人って誰の事？
+私気になっちゃうわね[A]
+[OpenMidRight]あー誰でしょうね？
+もしかしたら近くにいるのかもしれません[A]
+ま、少しずつでも構いませんから
+改善していきましょう[A]
+分かりましたね？[A]
+[OpenMidLeft][ToggleMouthMove]・・・[ToggleMouthMove]はい[A]
+
 [0C82]
-[OpenMidLeft][LoadFace][0x121][OpenMidRight][LoadFace][0x109][OpenMidRight]おい、おまえ！[A][ToggleSmile][OpenMidLeft]あっ、ロス！[A][OpenMidRight][ToggleSmile]この間の問題の、正解を言いにきたぜ！[A][ToggleSmile][OpenMidLeft]本当！？
-凄いね、分かったんだ？[A][OpenMidRight][ToggleSmile]お、おう。
-答えは・・・[A][ToggleSmile][OpenMidLeft]うんうん。[A][OpenMidRight][ToggleSmile]４回だ！[A][ToggleSmile][OpenMidLeft]やるじゃん、ロス！
-一生懸命考えたんだね。[A][OpenMidRight]へっへーん！
-どうだ、みたか！[A]
-俺は、戦うだけが能じゃないんだぜ！[A][OpenMidLeft]でも、ハ・ズ・レ・だよ。[A][OpenMidRight][MoveMidRight][OpenMidRight][ToggleSmile]な、何！？
-ぐっ・・・！[A]
-じ、じゃあ、何回なんだよ？[A][ToggleSmile][OpenMidLeft]惜しいね、３回だよ。[A][OpenMidRight][ToggleSmile]３回だけ？
-どうやるんだよ、説明しろよ。[A][ToggleSmile][OpenMidLeft]うん。それじゃあ正解を言うね。[A]
-まず、最初に天秤に乗せる石の数が
-ポイントなんだ。[A]
-最初は左右に８個ずつ石
-を乗せるんだよ。[A]
-そうして、
-軽い石のある方をしぼり込む。[A]
-そうした場合、[A]
-天秤が上に傾いた８個の方に、
-軽い石があるって事になるよね？[A]
-あるいは、
-ここで天秤が傾かなかった場合は、[A]
-残りの９個の中に、
-軽い石がある事になる。[A]
-さあ、これで天秤は１回使った。
-でも、あとはもう同じ要領で簡単だよ。[A]
-９個の中に軽い石があった場合として
-説明するね。[A]
-今度はその９個のうち、
-３個ずつを両方の皿に乗せるんだ。[A]
-これで２回、天秤を使った事になる。[A]
-この時、天秤が傾いたら
-そのどちらかの皿に、[A]
-傾かなかったら、残りの３個に
-軽い石がある事になる。[A]
-あとは、３個のうちの１つずつを両方の皿に
-乗せればおしまい。[A]
-傾いた場合は
-そのうちの軽い方が、[A]
-傾かなかったら、
-残りの１つが軽い石って訳さ。[A]
-はい、これで３回さ。
-分かった？[A][OpenMidRight][ToggleSmile]あ？　う、うん。
-分かったような分からないような・・・[A][ToggleSmile][OpenMidLeft]えっ？　答えを言っても分からないの？
-それってかなり・・・[A][OpenMidRight][ToggleSmile]かなりなんだよ？[A][ToggleSmile][OpenMidLeft]ううん、何でもないよ。
-忘れて。あははは。[A][OpenMidRight][ToggleSmile]気になるだろうが！[A][ToggleSmile][OpenMidLeft]けど、楽しかったよ。
-また遊ぼうね、ロス！[A][OpenMidRight]俺はちっとも楽しくなかったぞ、おい！[A]
+[OpenMidLeft][LoadFace][0x11A][OpenMidRight][LoadFace][0x118][OpenMidRight]頑張っているようではないですかジーナ[A]
+私も鼻が高いです[A]
+[OpenMidLeft]お世辞のつもりですか？
+そういう気遣いなら不要よ[A]
+[OpenMidRight]あなたと言う人は・・・そんなつもりで
+言ったのではないんですけどね[A]
+[OpenMidLeft]まさか、わざわざ私を労う為に
+来た訳じゃないんでしょ？[A]
+[OpenMidRight]それは勿論[A]
+ジーナ　君は一番肝心なことが
+出来ていない[A]
+即ちそれは・・・笑顔です
+スマイルという奴です[A]
+[OpenMidLeft][MoveMidLeft][OpenMidLeft]は、はぁ？！
+いきなり何を言い出すのよ！[A]
+[OpenMidRight]元は良いんですけどね[A]
+いつも不機嫌な顔をしているのが
+マイナスポイントでしょう[A]
+[OpenMidLeft][MoveMidLeft][OpenMidLeft]私は元からこうなの！
+そっとしておいて！[A]
+[OpenMidRight]いや、よくありません・・・[A]
+私はいつもジーナ声をかけるのが
+怖くて怖くて・・・[A]
+[OpenMidLeft]・・・得意げに話してる、
+の間違いじゃないの？[A]
+[OpenMidRight]・・・うーん[A]
+私なりのジョークのつもりでしたが
+笑えませんでした？[A]
+[OpenMidLeft]はい、まったく[A]
+いつもハミルトンさんは
+つまらない冗談ばかり言うもの[A]
+[OpenMidRight]心外ですね、まるで私に
+ジョークのセンスがないと？[A]
+[OpenMidLeft]・・・あながち間違いではないと思うわ[A]
+
 [0C83]
-[OpenMidLeft][LoadFace][0x121][OpenMidRight][LoadFace][0x109][ToggleSmile][OpenMidLeft]あっ、ロス。[A][OpenMidRight][ToggleSmile]あっ、おまえ！[A][ToggleSmile][OpenMidLeft]この間は楽しかったね。
-答え、理解できた？[A][OpenMidRight][ToggleSmile]俺はちっとも楽しくなかったって言っただろ。[A]
-大体、あれが遊びだなんて、
-おまえ、小さい頃はどうやって育ったんだ？[A][ToggleSmile][OpenMidLeft]僕、小さい頃は捨て子だったんだ。[A][OpenMidRight][ToggleSmile][ToggleMouthMove]！！[ToggleMouthMove][A][ToggleSmile][OpenMidLeft]まだ物心がつく前なんだけどね、
-お姉ちゃんと一緒に捨てられたんだって。[A]
-僕が幼かった頃から、
-お姉ちゃんはもう踊り子として働いてて・・・[A]
-まだ小さかった僕を食べさせてくれてたんだ。
-だから、お姉ちゃんにはすごく感謝してる。[A][OpenMidRight][ToggleSmile]お、おまえ・・・
-[ToggleMouthMove]・・・・・・[ToggleMouthMove][A][ToggleSmile][OpenMidRight][HalfCloseEyes][OpenMidRight][ToggleSmile]す、すまねぇ。悪かったよ。
-そうとは知らずに・・・聞いちゃってよ。[A][ToggleSmile][OpenMidRight][OpenEyes][OpenMidLeft]ううん、いいよ。気にしないで。
-捨てられた頃の記憶なんて全然ないし、[A]
-そうなったおかげで、こうやって
-色んな所に行けて、色々な人に出会えて・・・[A]
-そう、ロスとも会えたんじゃないか。
-だから、ちっとも悲しくなんてないよ。[A][OpenMidRight][HalfCloseEyes][OpenMidRight][OpenEyes][OpenMidRight][ToggleSmile]・・・そうか・・・
-[ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
-[Clear][ToggleSmile][OpenMidRight][0x0080][ToggleSmile][OpenMidRight][ToggleSmile]よし、分かった！[A]
-ユアン。おまえ、
-今日から俺のことを『アニキ』って呼べよ！[A][ToggleSmile][ToggleSmile][OpenMidLeft]ええっ！？　いきなりなんでさ？
-変だよ？[A][OpenMidRight]いいから言ってみろよ。[A][OpenMidLeft]・・・それじゃ、
-[ToggleMouthMove]・・・・・・[ToggleMouthMove]アニキ。[A][OpenMidRight]うわっ、似合わねぇ・・・
-おまえ、全然ハマらねぇな・・・[A][OpenMidLeft]だから言ったじゃないか。[A][OpenMidRight]ちぇっ、仕方がないな。やっぱロスでいいよ。[A]
-[ToggleSmile]でも、これからは俺の事を
-兄貴分だと思っていいぜ。[A][ToggleSmile][OpenMidLeft]何それ？[A][OpenMidRight]えっ！？　う～ん、何ていうんだろ。[A]
-頼ってもいい、
-なんでも任せられる友達っていうか・・・[A][ToggleSmile][OpenMidLeft]あははは。うん、分かったよ。
-ありがとう、ロス。[A]
-ロスは頭は良くないけど、
-イイヤツだね。[A][OpenMidRight][MoveMidRight][OpenMidRight][ToggleSmile]おいっ！　頭良くないは余計だ！！[A][ToggleSmile][OpenMidLeft]あはははは。
-ところでロスはさ、好きな女の子とかいるの？[A][OpenMidRight][ToggleSmile]なっ！　ば、ばか言ってんじゃねぇよ。
-いねぇよ、そんなの。[A]
-正直、そんなの良く分かんねぇし・・・[A][ToggleSmile][OpenMidLeft]へぇ～・・・
-えへへへへ。[A][OpenMidRight][ToggleSmile]な、なんだよその反応！
-大体、おまえはどうなんだよ、いるのかよ？[A][ToggleSmile][OpenMidLeft]うんっ、いるよ。たぁ～くさん！[A][OpenMidRight][ToggleSmile]たくさん・・・って、何だか違うだろ、それ！
-ま、まぁいい。俺たちはまだまだ子供だ。[A]
-女にうつつを抜かすのも、もうちょっと大人に
-なって、実力をつけてからだな・・・[A][ToggleSmile][OpenMidLeft]頑張ってね、ロス。[A][OpenMidRight][ToggleSmile]他人事みたいに言うな！　まったく・・・[A][ToggleSmile][OpenMidLeft]ねぇ、ロス。[A]
-僕たちはこの先、もっともっといい友達に
-なっていけると思うよ。[A]
-これからもよろしくね！[A][OpenMidRight]お、おう！　よろしくな！
-まったく、マイペースな奴だぜ・・・[A]
+[OpenMidLeft][LoadFace][0x11A][OpenMidRight][LoadFace][0x118][OpenMidRight]ジーナ・・・もしかしたら私は
+間違っていたのかもしれません[A]
+[OpenMidLeft][ToggleMouthMove]・・・・・・・・・？？[ToggleMouthMove][A]
+[OpenMidRight]気づいてしまったのですよ
+あなたはそのままでも魅力的であると[A]
+[OpenMidLeft][HalfCloseEyes][OpenMidLeft]・・・何か変なものでも食べました？[A]
+[OpenMidRight]この部隊に入ってからそれなりに経ち
+自然体でありながら、あなたは馴染んでいる[A]
+[OpenMidLeft][OpenEyes][OpenMidLeft]別にそんな事ないと思うけど
+勘違いじゃないんですか？[A]
+[OpenMidRight]他人から見た自分の姿と言うものは
+案外分からないものです[A]
+一見マイナス要素に思えるものは
+プラスに成り得たりするのですよ[A]
+[OpenMidLeft]発想の逆転でしょうかね
+私の場合は、ただの無愛想だろうけど[A]
+[OpenMidRight]そうですね、でも周りからはクールで
+ストイックな感じが好意的に見えるようです[A]
+[OpenMidLeft]・・・ハミルトンさんに言われると
+嘘くさい感じがして信じられません[A]
+[OpenMidRight]・・・嘘なら、もっと
+おどけた感じで言いますとも[A]
+いやー、浅はかでした[A]
+近くにいながら、その周りの評価に
+気づくことが出来なかったのですから[A]
+[OpenMidLeft]嫌味ばっかり言ってるから
+視野が狭くなったんじゃないですか？[A]
+[OpenMidRight]んー・・・[A]
+やはり君には笑顔も必要だと
+私は思うんですけどね[A]
+[OpenMidLeft]・・・まだそれ言うんですか？[A]
+[OpenMidRight]ええ、もちろん[A]
 [0C84]
 
 [0C85]
@@ -30913,92 +30857,79 @@
 
 
 [0CFA]
-[OpenMidRight][LoadFace][0x124][OpenMidLeft][LoadFace][0x122][SendToBack][OpenMidLeft]やっと会えましたわね、レナック。[A]
-この前の約束、覚えてまして？[A][OpenMidRight]ラーチェル様！[A]
-そりゃ、覚えてますけど・・・
-まさか、よりによってこんな所で・・・？[A]
-もっと他に機会があったでしょう？[A][OpenMidLeft]つべこべうるさいですわ！[A]
-あなたはいつでも、
-わたくしの都合に合わせていればいいのですわ。[A]
-さぁ、踊りますわよ。[A][OpenMidRight]マジですか！？[A]
-まったく、こんな場所で。
-ムチャクチャだ・・・[A][OpenMidLeft][MoveRight][OpenMidRight][MoveFarRight][OpenRight]さあ、それではまいりますわよ。[A][OpenFarRight]はいはい、分かりましたよ。
-やれやれ・・・[A][OpenRight]１・・・２・・・３・・・[A][CloseSpeechSlow][OpenRight][MoveRight][OpenRight][MoveMidRight][OpenMidRight][MoveMidRight][OpenMidRight][MoveRight][OpenFarRight][MoveFarRight][OpenFarRight][MoveMidRight][OpenRight]スロー・・・スロー・・・
-クイック、クイック、スロー・・・[A][OpenMidRight][MoveMidRight][OpenMidRight][MoveFarRight][OpenRight][MoveRight][OpenRight][MoveMidRight][OpenMidRight][MoveMidRight][OpenMidRight][MoveRight][OpenFarRight][MoveFarRight][OpenFarRight][MoveMidRight][OpenRight][MoveMidLeft][OpenMidLeft]！[A][CloseSpeechSlow][OpenMidRight][MoveLeft][OpenMidLeft]こ、これは・・・[A][CloseSpeechSlow][OpenMidLeft][MoveMidLeft][OpenMidLeft][MoveFarLeft][OpenLeft][MoveLeft][OpenLeft][MoveMidLeft][OpenFarLeft]なかなか・・・[A][CloseSpeechSlow][OpenMidLeft][MoveMidLeft][OpenMidLeft][MoveLeft][OpenFarLeft][MoveFarLeft][OpenFarLeft][MoveMidLeft][OpenMidLeft]いえ、結構・・・[A][CloseSpeechSlow][OpenMidLeft][MoveMidLeft][OpenMidLeft][MoveFarLeft][OpenLeft][MoveLeft][OpenLeft][MoveMidLeft][OpenMidLeft][MoveMidLeft][OpenMidLeft][MoveLeft][OpenFarLeft][MoveFarLeft][OpenFarLeft][MoveMidLeft][OpenMidLeft]というより、かなり・・・[A][CloseSpeechSlow][OpenMidLeft][MoveMidLeft][OpenMidLeft][MoveFarLeft][OpenLeft][MoveLeft][OpenLeft][MoveMidLeft][OpenFarLeft]やりますわね！[A][CloseSpeechSlow][OpenFarLeft][MoveFarLeft][OpenFarLeft][0x0080][LoadFace][0x00E][ClearFace][OpenMidLeft][MoveMidLeft][OpenMidLeft][0x0080][LoadFace][0x00E][ClearFace][.......][......][OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x124][OpenMidLeft]・・・思ったより、
-結構やるじゃありませんの。[A][OpenMidRight][ToggleSmile]そいつはどうも。[A]
-俺、おやじの商売柄、色んなパーティに
-招待される事が多かったんですよ。[A]
-そこで、ご婦人やお嬢さんがたのダンスの
-お相手をしてた訳なんですが、[A]
-たしなみとして練習してるうち、
-いつの間にか上手くなってたんですよ。[A][ToggleSmile][OpenMidLeft]そ、そうでしたの。そうならそうと・・・
-黙っているとは人が悪いですわ。[A]
-ま、まぁダンスは合格ですわね。[A]
-でも、レディの扱いとしては
-まだまだですわ。次は・・・[A][OpenMidRight]おっと。[.....]
-俺、そろそろ行きますよ。[A]
-あんまり油売ってる訳にも
-いかなそうなんで。[A]
-じゃあ。[A][OpenMidRight][ClearFace][OpenMidLeft][MoveMidLeft][OpenMidLeft]ちょ、ちょっとお待ちなさいレナック！[......]
-まあっ！[A]
-[ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
-・・・なぜでしょう。
-なんだかとても悔しいですわ・・・[A]
+[OpenMidLeft][LoadFace][0x117][OpenMidRight][LoadFace][0x126]ねーあんたら見てるけど
+いつも「隊長、隊長！」って指示従ってるわよね[A]
+どんな危険があるかも分からないのにね
+りっちぎ～[A]
+[OpenMidLeft]・・・そりゃあレムが自由すぎるだけだぜ[A]
+集団行動ってのは隊長の指示は絶対だ[A]
+勝手な行動が部隊全員に
+危険を及ぼすんだからな[A]
+[OpenMidRight]ふーん　分かんないわ[A]
+私、他人なんかに命なんて
+絶対預けらんない[A]
+だから、あんたらみたいに真面目に命令を
+聞いてなんかいられないわ[A]
+[OpenMidLeft]俺も馬鹿正直に上の人間を
+信用して命令を実行してるわけじゃないぜ？[A]
+アイザック隊長とは長年の付き合いだし、
+何より信頼できる！[A]
+これまで、幾度となく戦場を越えてきたんだ
+そりゃ、疑いなんて持てねえよ！[A]
+[OpenMidRight][HalfCloseEyes][OpenMidRight]ふーん、何かのオカルトみたい[A][OpenMidRight][OpenEyes]
+[OpenMidLeft]お、おかると・・・扱いかよ[A]
+・・・レムはよ
+誰かを信じた事はないのか？[A]
+[OpenMidRight]ない
+他人なんて汚い連中ばっかよ[A]
+信用するだけムダ！[A]
+[OpenMidLeft]こじってんな・・・[A]
+[OpenMidLeft][MoveMidLeft][OpenMidLeft]じゃあ、レム！
+俺の事を信頼してみてくんねえか！[A]
+他人が汚ねえ連中ばかりじゃねえって
+俺が証明してやる！[A]
+[OpenMidRight][HalfCloseEyes][OpenMidRight]・・・じゃあさ　私がどんなに死にそうな
+状況でも助けてくれるわけ？[A]
+[OpenMidLeft]ああ！　もちろん！
+俺の命に代えても、俺は君を守ってみせる！[A]
+だから、まずは俺だけでもいい
+俺を信じてくれ！[A]
+[OpenMidRight]よくもまあ、恥ずかしげもなく
+そんなセリフ言えるわねぇ？[A]
+口だけならなんとでも言える
+これからの行動で決めさせてもらうわ[A]
+[OpenMidLeft]おう！！[A]
+
+
+
 [0CFB]
-[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x124][OpenMidRight]・・・はあっ・・・[A][OpenMidLeft]まあ。会っていきなりため息とは
-失礼すぎましてよ、レナック。[A]
-ダンスが少し踊れたくらいでは、
-やはりまだまだ全然だめですわね。[A]
-このわたくしを見習いなさいな。
-幸せならば、ため息など出ませんわよ。[A]
-・・・そもそもレナック。
-あなたの幸せとは一体なんですの？[A][OpenMidRight]えっ、俺の幸せですか？[A]
-そうですねぇ。
-うーん・・・[A]
-あまり考えた事なかったですが、
-当面はやっぱり・・・金、ですかね。[A][OpenMidLeft]まあ、お金ですって？[A]
-お金さえあれば、
-幸せになれるんですの？[A][OpenMidRight]そりゃあ
-金さえあれば、[A]
-何でも欲しいものが
-手に入るじゃないですか。[A]
-金が貰えるから
-傭兵だって働くんですよ。[A]
-騎士たちだって
-忠誠を誓ってはいるけれど、[A]
-けっきょくは
-その見返りとして、[A]
-身分や報奨を約束されているから
-働いている訳で・・・[A][OpenMidLeft]欲しいものが手に入る事が
-幸せなのですの？[A][OpenMidRight]えっ？[A][OpenMidLeft]無いものを嘆くより、
-あるものに感謝する。[A]
-その心が
-大切なんじゃありませんの？[A]
-それが本当の幸せになる・・・
-ということじゃ、ございませんの？[A][OpenMidRight]ラーチェル様・・・[A]
-・・・すっごくまともな事を
-おっしゃってると思うんですが、[A]
-ラーチェル様のような身分の方が言っても、
-いまいち説得力がないような・・・[A][OpenMidLeft]わたくしの身分など
-関係ありませんことよ。[A]
-それに、あなたには
-お金や名誉やそんなものより、[A]
-このわたくしが
-いるじゃありませんの。[A]
-わたくしに仕えているだけで、[A]
-幸せだと
-思って頂かないといけませんわ。[A][OpenMidRight][MoveMidRight][OpenMidRight]けっきょくはそれっすか！[A][OpenMidLeft]仕える相手が可憐で美しい。[A]
-あなたは、すでにそれを
-手に入れてるのですわよ。[A]
-[ToggleSmile]これよりも大きな幸せは、
-そうそう無いじゃありませんの。[A][ToggleSmile][OpenMidRight][ToggleMouthMove]・・・・・・[ToggleMouthMove][A]
-いつも思うんですが、なんでラーチェル様って
-そんなに自己中心的・・・[A][OpenMidLeft][MoveMidLeft][OpenMidLeft]つべこべうるさいですわ！[A]
-さあ、レナック。もう行きますわよ。
-遅れずについて来なさいな。[A][OpenMidLeft][ClearFace][OpenMidRight]あっ、ラーチェル様！[.....]
-・・・まったく・・・[A]
-本当の幸せねぇ？
-これって、幸せなのか・・・？[A]
+[OpenMidLeft][LoadFace][0x126][OpenMidLeft][HalfCloseEyes][OpenMidLeft][OpenMidRight][LoadFace][0x117]いよぉ！　レム！
+いい加減俺を信じてくれる気になったか？！[A]
+[OpenMidLeft][OpenEyes][OpenMidLeft]ま、まあ・・・
+口だけじゃないのはよぉく分かったわよ[A]
+お兄さん、どんな状況でも呼んだら
+駆けつけてくれたもんね[A]
+[OpenMidRight]そりゃあ、当然だ！[A]
+騎士たるもの、交わした約束は
+ぜってえ破らねえよ！[A]
+おっと、今は騎士じゃねえな[ToggleSmile]
+はっはっは[ToggleSmile][A]
+[OpenMidLeft]まっ、お兄さんの事だけなら
+ちょーーーーっとだけ信じてあげる[A]
+そもそも、お兄さん
+嘘とか隠し事できないタイプだろうけど[A]
+[OpenMidRight]おう！　俺を通じてみんなの事を
+信じられるようになったら俺は嬉しい！[A]
+[OpenMidLeft]別に完全に
+信じたわけじゃないんだからね[A]
+本当にちょーーっとだけだから！[A]
+[OpenMidRight]それでもいいぜ！[A]
+君の信頼を得るためなら
+どんな事でもやってみせるさ！[A]
+こじれた子供を更生させるのも
+大人の義務だ！[A]
+[OpenMidLeft]・・・前から思ってたけど
+貴方、一言多いわ[A]
 [0CFC]
 [OpenFarLeft][LoadFace][0x12F][OpenFarLeft]レム様～？[A]
 [OpenFarLeft][MoveMidLeft][OpenMidLeft]レム様？　どこにおられるのですか？[A]
@@ -31926,7 +31857,8 @@
 後悔を残した。
 
 [0D39]
-騎士団「シュヴァルツ・リッター」に所属する暗殺者
+騎士団「シュヴァルツ・リッター」に
+所属する暗殺者
 昔は部隊「ネームレス」に所属していた
 元はアイザックの部下であり、
 アイザックに強い恋心を持っていた
@@ -32111,7 +32043,7 @@
 見たら、隊長みたいに
 なっちゃうかもしれませんねー[A]
 なーんちゃって[A]
-[OpenMidRight][ToggleSmile][OpenMidRight][CloseEyes][OpenMidRight][ToggleMouthMove]・・・・・・[ToggleMouthMove]
+[OpenMidRight][CloseEyes][OpenMidRight][ToggleMouthMove]・・・・・・[ToggleMouthMove]
 アイザック・・・[A]
 [OpenMidLeft][MoveMidLeft][OpenMidLeft]だー！！
 またやってしまった・・・[A]
@@ -33080,11 +33012,17 @@
 [OpenMidRight][LoadFace][0x117]おーーい！！
 誰か落し物してないかーーー！！[A]
 [0E60]
-
+特別な鎧をまとう特殊兵
+斧と闇で、あらゆる事態を対処する
 [0E61]
-
+システムメッセージ
+[ToggleRed]クリア条件が追加されました[ToggleRed][A]
+クリア条件『アイザックが左上の門に到達』
+もしくは、『下の門から全員の離脱』[A]
 [0E62]
-
+神の加護と自らの武力で仲間を
+護り抜く聖職者
+武器『斧・杖』　スキル『回復』『治癒』
 [0E63]
 
 [0E64]

@@ -1,0 +1,528 @@
+#0x922 Chapter1BaseTurn1
+
+[MidLeft][LoadIsaac][MidRight][LoadChloe]
+Commander, sorry I'm late.[AN]
+
+[MidLeft]
+Chloe, welcome back.[N]
+Don't worry about it.[AN]
+I'm just glad you're back safe.[AN]
+What about Titor, Sofia,[N]
+Berkus and Johnny?[AN]
+Not that I expect[N]
+them to be in danger...[AN]
+
+[MidRight]
+They got another mission...[N]
+I came back alone to deliver a message.[AN]
+
+[MidLeft]
+Alright. If that's the case,[AN]
+then I guess you already[N]
+completed your mission.[AN]
+
+[MidRight]
+Hm. Yeah.[N]
+No problems there, but...[AN]
+This town looks like it's[N]
+become quite a mess...[AN]
+
+[MidLeft]
+...This whole area was[N]
+assaulted by the pirates.[AN]
+They even attacked the[N]
+village where our base is.[AN]
+
+[MidRight]
+They went that far...[N]
+So, what are we going to do now?[AN]
+
+[MidLeft]
+Right now we're looking for[N]
+someone to give us passage.[AN]
+As soon as we find one, we'll[N]
+attack the pirate's hideout.[AN]
+
+[MidRight]
+All right, I suppose I'll join you.[N]
+It's always good to have more people.[AN]
+
+[MidLeft]
+Are you sure?[N]
+You just returned.[AN]
+
+[MidRight]
+No need to worry about me.[N]
+I've got it under control.[AN]
+
+[MidLeft]
+Thank you then, Chloe.[N]
+Lend us your blade.[A][X]
+
+
+
+
+
+#0x94F Chapter1BaseTurn1Part2
+
+[Red]About the base:[Red][AN]
+In the Base, you can[N]
+do many things,[AN]
+including [Red]Talk[Red], [Red]Buy[Red], [Red]Sell[Red],[N]
+[Red]Support[Red], and so on.[AN]
+You [Red]cannot Support[N]
+outside the base[Red],[AN]
+and you [Red]cannot gain[N]
+support points in the base[Red].[AN]
+Please remember this.[AN]
+You can also [Red]undo all[N]
+Support ranks [Red]of a unit[AN]
+by paying money at the[N]
+house in the [Red]upper right[Red].[AN]
+Remember that you can use[N]
+the [Red]Unit[Red] menu command[AN]
+to see which characters[N]
+can [Red]Talk[Red] to each other.[AN]
+In addition, the [Red]Story[Red] menu[N]
+command appears only in the Base.[AN]
+Selecting [Red]Story[Red] will show[N]
+you brief explanations of characters[AN]
+and specifications of the base.[AN]
+There are new entries in the story[N]
+menu [Red]every time[Red] you visit the base.[A][X]
+
+
+
+
+
+#0x938 Chapter1BaseTalkIsaacAudrey
+
+[MidRight][LoadIsaac][MidLeft][LoadAudrey]
+Isaac, we've arranged a boat.[AN]
+
+[MidRight]
+Well, that's good.[N]
+Sooner than I expected.[AN]
+Although the pirates'[N]
+boat was available...[AN]
+There was nobody who[N]
+knew how to drive it.[AN]
+
+[MidLeft]
+Most of the town's men were killed[N]
+or evacuated, so very few remained.[AN]
+We arranged with people on the merchant[N]
+ship which happened to stop at the port.[AN]
+
+[MidRight]
+I see. Guess we[N]
+got lucky.[AN]
+Have you told them[N]
+where we're going?[AN]
+We're going to the[N]
+hideout of the pirates.[AN]
+Nobody would want to get[N]
+involved with that.[AN]
+
+[MidLeft]
+Don't worry, Isaac. I've already told them.[AN]
+They said they'll take us there,[AN]
+even knowing it's the pirates' base.[N]
+They were the town's favorite customers...[AN]
+They don't need money from us.[N]
+They say they want to support us.[AN]
+
+[MidRight]
+How generous of them. They're kind folks.[N]
+Now that we've arranged a boat,[AN]
+we've got nothing left but to break[N]
+into the pirates' hideout, huh?[AN]
+
+[MidLeft]
+Right. Those pirates made fools of us.[N]
+We must make them pay dearly for that![AN][Clear]
+
+[MidRight]
+I don't mind the enthusiasm, but...[N]
+try to keep your cool, Audrey.[A][X]
+
+
+
+
+
+#0xA9D Chapter1BaseTalkWolfPhelix
+
+[MidLeft][LoadWolf][MidRight][LoadPhelix]
+Hey! Wolf![AN]
+Guess we're both[N]
+still OK, huh?[AN]
+
+[MidLeft]
+Moron...[AN]
+Who d'ya think I am, eh?![AN]
+I can tell ya I'm not a man[N]
+to get bested by some sea-dogs.[AN]
+
+[MidRight]
+I know that![AN]
+Anyways, if you need something,[N]
+just give me a shout, alright?[AN]
+Later![AN][Clear]
+
+[MidLeft]
+That bonehead seems to be running[N]
+around checking up on everyone.[AN]
+I remember when I had[N]
+energy like that... heh.[A][X]
+
+
+
+
+
+#0x903 Chapter1BaseTalkIsaacBrian
+
+[MidLeft][LoadBrian][MidRight][LoadIsaac]
+Brian, have you seen Hermes?[AN]
+I wanted to check up[N]
+on our supplies, but...[AN]
+
+[MidLeft]
+Oh, Hermes?[AN]
+Now that you mention it,[N]
+I think I saw him over the counter.[AN]
+He'll show up if you call[N]
+him over the counter, no?[AN]
+
+[MidRight]
+I see, thanks.[N]
+I'll try that, then.[AN]
+
+[MidLeft]
+By the by, he seemed to be [N]
+clenching onto something,[AN]
+muttering "Looks like I can[N]
+make some good money".[AN]
+Until next time.[AN][Clear]
+
+[MidRight]
+What is he up to now...?[AN]
+I guess I'll have to[N]
+find out for myself.[AN]
+He should just be[N]
+over the counter.[A][X]
+
+
+
+#0x995 Chapter1BaseTalkKaraFerris
+
+[MidLeft][LoadFerris][MidRight][LoadKara]
+Ah, hey Ferris![AN]
+Welcome back from[N]
+your mission![AN]
+
+[MidLeft]
+Ahaha, thanks, Kara.[AN]
+
+[MidRight]
+I was worried you wouldn't make it,[N]
+since you had left the village.[AN]
+
+[MidLeft]
+On our way back to the village, we[N]
+heard the town was being attacked.[AN]
+We headed here, thinking that we[N]
+could help save the town...[AN]
+But I was surprised that[N]
+everyone was already there.[AN]
+And that the village...[N]
+Well, about what happened...[....][AN]
+
+[MidRight]
+Right.[AN]
+Pirates suddenly attacked. They'd[N]
+been capturing the town's women.[AN]
+
+[MidLeft]
+I see. So that's what happened.[AN]
+If that's the case, we'll just[N]
+have to work hard to save them.[AN]
+
+[MidRight]
+That's true, but...[AN]
+[ToggleMouthMove]...[....][AN][ToggleMouthMove]
+Can I talk to you[N]
+for a moment, Ferris?[AN]
+
+[MidLeft]
+What's the matter, Kara?[AN]
+
+[MidRight]
+It's been a full year since[N]
+I joined these mercenaries...[AN]
+And that whole time, we haven't[N]
+fought anybody but bandits,[AN]
+and we're always just[N]
+protecting viallges.[AN]
+
+[MidLeft]
+That's true...[AN]
+
+[MidRight]
+I'm really happy to be in this group,[N]
+even if it's just for my training.[AN]
+But...[AN]
+I'm worried that we're only doing[N]
+such simple work because of me.[AN]
+I don't want to hold everyone back.[AN]
+
+[MidLeft]
+That has nothing to[N]
+do with you, Kara.[AN]
+Isaac just wants to have[N]
+a stable base somewhere,[AN]
+and take his time with work.[AN]
+Besides, the rest of us[N]
+are all okay with it too.[AN]
+
+[MidRight]
+If you say so, Ferris, then...[AN]
+
+[MidLeft]
+Huh, really? I'm surprised[N]
+you'd take my word like that.[AN]
+It's kind of... unexpected.[AN]
+
+[MidRight][MoveMidRight]
+H-hey! Jeez![AN]
+Don't make a big[N]
+deal out of this![AN]
+
+[MidLeft]
+Alright, alright...[A][X]
+
+
+
+
+
+#0xA59 Chapter1BaseTalkIsaacHermes
+
+[MidRight][LoadIsaac][MidLeft][LoadHermes]
+Ah, welcome, sir..[....][AN]
+Oh! Well if it isn't[N]
+you, Commander![AN]
+How did you notice[N]
+I was doing business here?[AN]
+Did someone tell you?[AN]
+Or was it our good Lady Luck?[AN]
+
+[MidRight]
+This some kinda stall?[AN]
+I just happened to run into it...[AN]
+See, someone was worried about a[N]
+pickpocket, so I've been looking around.[AN]
+
+[MidLeft]
+Oh, well...[AN]
+That isn't[N]
+wrong, though...[AN]
+
+[MidRight]
+I don't care if you do business here.[N]
+Just... stay out of trouble, alright?[AN]
+[Clear]
+
+[MidLeft][MoveMidLeft]
+W-wait! Wait! Commander![AN]
+
+[MidRight][LoadIsaac]
+What?[AN]
+
+[MidLeft]
+You're already here, right?[N]
+Why not pick something up?[AN]
+
+[MidRight]
+I guess I could, if you[N]
+have anything useful.[AN]
+What exactly are[N]
+you dealing here?[AN]
+
+[MidLeft]
+This stall sells rare items.[N]
+You won't find them anywhere else![AN]
+Today I'm selling something[N]
+really valuable, only 1000 gold![AN]
+
+[MidRight]
+1000 gold...?[N]
+That's not exactly expensive...[AN]
+
+[MidLeft]
+So, what do you think?[A][X]
+
+
+
+
+
+#0xA5A Chapter1BaseRefusal
+
+[MidRight][LoadIsaac][MidLeft][LoadHermes]
+You won't?[AN]
+Can you not[N]
+afford it?[AN][X]
+
+
+
+
+
+#0xA5B Chapter1BaseNoFunds
+
+[MidRight]
+I'm afraid I[N]
+can't afford it...[AN]
+
+[MidLeft]
+Oh dear, is that so?[N]
+I guess you're having trouble...[AN]
+But, don't worry about it.[AN]
+If you can find the gold,[N]
+come talk to me again![A][X]
+
+
+
+
+
+#0xA5C Chapter1BaseSelection
+
+[MidRight]
+What should I do?[N][Yes][X]
+
+
+
+
+
+#0xA5D Chapter1BasePaying
+
+[MidRight]
+All right, I'll[N]
+pay. There you are.[AN]
+
+[MidLeft]
+Wonderful, thank you![AN]
+Here, this is it.[AN]
+If you come by next time,[N]
+I'll have something else for you.[AN]
+I look forward to seeing you again![AN]
+
+[MidRight]
+Oh, will you stay here?[AN]
+
+[MidLeft]
+Yes. I'll be waiting for you.[AN]
+Feel free to drop by again.[N]
+Until next time, Commander![AN][Clear]
+
+[MidRight]
+Hm...[N]
+This doesn't seem half bad.[A][X]
+
+
+
+#0xA5E Chapter1BaseRefusal2
+
+[MidRight]
+I'm sorry to say...[N]
+I'm not buying it this time.[AN]
+
+[MidLeft]
+Oh, dear...[N]
+I'm sorry to hear that.[AN]
+If you change your mind,[N]
+please come see me again![A][X]
+
+
+
+
+
+#0xD3E Chapter1BaseVillageEvent
+
+[MidRight][LoadCurrent][MidLeft][LoadGeronimo]
+I'm Geronimo, the recorder.[AN]
+I'm in charge of recording[N]
+everyone's Ranking.[AN]
+Please, take a look at it.[A][X]
+
+
+
+
+
+#0xD36 Chapter1BaseVillageEvent2
+
+[MidRight][LoadCurrent][MidLeft]
+This is the dojo.[AN]
+You can train here.[AN]
+Are you ready? Here we go![A][X]
+
+
+
+
+
+#0x55C Chapter1BaseVillageEvent3
+
+[MidLeft][LoadWrys]
+Ho-ho.[AN]
+How nice of you to come here.[AN]
+This is the "Support[N]
+Consultation Office".[AN]
+If you donate 500 gold,[N]
+I can erase your supports.[A][ClearText]
+Shall I?[N][No][X]
+
+
+
+
+
+#0x55D Chapter1BaseVillageEvent3Part2
+
+[MidLeft][LoadWrys]
+I sincerely appreciate your donation.[N]
+Now, the past has been undone.[AN]
+Do not fret, my child. The[N]
+path to new bonds is now opened.[AN]
+Ho-ho.[A][X]
+
+
+
+
+
+#0x95B Chapter1BaseVillageEvent3Part3
+
+[MidLeft][LoadWrys]
+Dear me...![AN]
+It seems that you[N]
+don't have enough gold.[AN]
+When you have the 500 gold,[N]
+come talk to me again.[A][X]
+
+
+
+
+#0x979 Chapter1BaseVillageEvent3Part4
+
+[MidLeft][LoadWrys]
+This is the "Support[N]
+Consultation Office"...[AN]
+but you seem to like[N]
+being by yourself.[AN]
+However, by having[N]
+relationships with people,[AN]
+you can gain various[N]
+things, in my opinion.[AN]
+If you build a[N]
+relationship with someone,[AN]
+and overcome[N]
+hardships with them...[AN]
+Then, you are welcome[N]
+to come and see me.[AN]
+I'm certain that I'll[N]
+be of service to you.[A][X]

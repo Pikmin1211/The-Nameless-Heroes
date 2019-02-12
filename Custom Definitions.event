@@ -1,2 +1,3 @@
-#define FreeSpace 0xb2a610
-#define FreeSpace2 0xefca40
+//#define FreeSpace 0xb2a610
+#define FreeSpace 0x1BBD15C
+//#define FreeSpace2 0xefca40

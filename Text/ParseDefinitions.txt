@@ -120,6 +120,7 @@
 
 [LoadWrys] = [LoadFace][0x2D][0x1]
 [LoadSoldier] = [LoadFace][0x6B][0x1]
+[LoadGeronimo] = [LoadFace][0x6B][0x1]
 [LoadRedSoldier] = [LoadFace][0x6C][0x1]
 [LoadMoneyMan] = [LoadFace][0x59][0x1]
 [LoadOldMan] = [LoadFace][0x5A][0x1]

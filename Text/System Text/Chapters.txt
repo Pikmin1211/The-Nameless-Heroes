@@ -85,6 +85,9 @@ Seize throne[X]
 #0x133
 Talk to Vulcan[X]
 
+#0x829
+Talk[X]
+
 #0x135
 Seize throne[X]
 

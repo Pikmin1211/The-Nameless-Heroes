@@ -239,9 +239,9 @@ Add Str/2 when attacking magically.[N]
 Add Mag/2 when attacking physically.[X]
 
 #0x5C8
-Rend Heaven (Skill%)[N]
-Adds half of the opponent's[N]
-strength to your attack.[X]
+Dragon Fang (Skill%)[N]
+Adds half of strength[N]
+to the damage dealt.[X]
 
 #0x5BE
 Steal[N]

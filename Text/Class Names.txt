@@ -205,7 +205,7 @@ Civilian[X]
 #0x279
 Maid[X]
 
-#0xC6
+#0xC7
 Harbinger[X]
 
 #0xC8
@@ -234,3 +234,6 @@ Command Kn.[X]
 
 #0x27A
 War Monk[X]
+
+#0xC6
+Commander[X]

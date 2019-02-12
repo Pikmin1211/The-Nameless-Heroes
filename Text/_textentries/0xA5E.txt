@@ -1,0 +1,10 @@
+
+[MidRight]
+I'm sorry to say...[N]
+I'm not buying it this time.[AN]
+
+[MidLeft]
+Oh, dear...[N]
+I'm sorry to hear that.[AN]
+If you change your mind,[N]
+please come see me again![A][X]

@@ -46,7 +46,7 @@ Equip: Axe, bow, light, dark.[X]
 Loyal servents who heal and defend[N]
 their masters. Equip: Sword, staff.[X]
 
-#0x2DA
+#0xE60
 Commanders whose footsteps leave[N]
 death in their wake. Equip: Axe, dark.[X]
 
@@ -283,6 +283,13 @@ Savage, three-headed hellhounds.[N]
 Their fangs are cruel death dealers.[X]
 
 #0x2C6
-A carriage that carries[N]
+Carriages that carry[N]
 valuable wares. Cannot fight.[X]
 
+#0xE62
+Clerics familiar with the divine and[N]
+the battlefield. Equip: Axe, staff.[X]
+
+#0x2DA
+Peerless leaders who can turn the[N]
+tides of battle. Equip: Sword, axe.[X]
