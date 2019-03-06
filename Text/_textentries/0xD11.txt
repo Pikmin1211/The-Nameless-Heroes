@@ -1,7 +1,7 @@
 
 [MidRight][LoadIsaac][MidLeft][LoadWolf]
 Yo! Old man![N]
-You're making a ruckus, huh?[AN]
+Ya makin' a ruckus, huh?[AN]
 
 [MidRight]
 Welcome back, Wolf.[N]
@@ -13,4 +13,4 @@ front with me.[AN]
 
 [MidLeft]
 Gotcha, gotcha.[N]
-At yer command, sir![A][X]
+At yer command, boss![A][X]

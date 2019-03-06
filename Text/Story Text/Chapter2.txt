@@ -1,0 +1,516 @@
+#0x880 Chapter2WorldMap
+
+After they liberated[N]
+the port town of Valetta,[AN]
+Isaac and the mercenaries found a[N]
+map leading to the pirate's base.[AN]
+They got ready right away,[AN]
+and looked for a ship which would[N]
+take them to the pirates' island.[AN]
+It was quite clear that it[N]
+was a treacherous voyage,[AN]
+but it turned out to be easy to find[N]
+someone to offer them passage.[AN]
+After a day-long voyage, the Island[N]
+of Devils appeared on the horizon.[AN][Event]
+It is an isolated island,[N]
+covered with ominous fog.[AN]
+Isaac and the others step ashore[N]
+with a great degree of caution...[A][Event][X]
+
+
+
+
+
+#0x914 Chapter2Opening1
+ 
+[MidRight][LoadAudrey][MidLeft][LoadIsaac]
+It looks like we're near[N]
+the pirates' stronghold.[AN]
+
+[MidRight]
+No mistaking it.[AN]
+Once we clear it out, the surrounding[N]
+area should be safe for the time being.[AN]
+
+[MidLeft]
+I have a bad feeling[N]
+about this place.[AN]
+The fog is so thick, we[N]
+can't even send a scout...[AN]
+At least this map gives me[N]
+a good idea of the terrain.[AN]
+But I think we should[N]
+advance with great caution.[A]
+
+[MidRight]
+For everyone's safety, I think it's[N]
+best that we try and stay grouped up.[AN]
+
+[MidLeft]
+Agreed. Those pirates[N]
+have the advantage here.[AN]
+We need to be careful[N]
+not to be taken by surprise.[A][X]
+
+
+
+
+
+#0x915 Chapter2Opening2
+
+[MidLeft][LoadPirate][ToggleSmile]
+Hey, Boss![AN]
+They're saying that some[N]
+mercenary folk've showed up![AN]
+And that O'Neill[N]
+and Breguet were...[AN]
+
+[MidRight][LoadBazba]
+Killed, and they say[N]
+it was these worms.[AN]
+Cocky bastards...[AN]
+They think they can just[N]
+prance around my island?![AN]
+Do they really think so[N]
+highly of themselves?[AN]
+This is my turf,[N]
+I know the terrain.[AN]
+They won't see us coming in[N]
+the fog until it's too late![AN]
+
+[MidLeft]
+Yeah![A][X]
+
+
+
+
+
+#0x917 Chapter2Opening3
+
+[MidRight][LoadBazba]
+Well, that was a ruckus.[AN]
+Those mercenaries'll soon be[N]
+cleared out, so don't worry.[AN]
+
+[MidLeft][LoadHaltmann]
+Hmph.[N]
+I don't particularly care.[AN]
+What I do care about is[N]
+my share of half the coin.[AN]
+Give it here.[AN]
+
+[MidRight]
+Alright, ya greedy bastard.[AN]
+You military folk are more villanous[N]
+than me, and I'm a damned pirate.[AN]
+
+[MidLeft]
+I don't need your lip.[AN]
+Just do what you're[N]
+ordered to do.[AN]
+...[....][AN]
+Excellent.[N]
+Now then...[AN]
+
+[MidRight]
+Hold on! We're not finished here.[N]
+Aren't you going to help me?[AN]
+
+[MidLeft]
+Help you?[N]
+...Help you?[AN]
+By the gods, I am[N]
+not your governor.[AN]
+You made your bed,[N]
+now lie in it.[AN]
+
+[MidRight]
+You kidding me?[AN]
+You're the ones who[N]
+ordered us to do this![AN]
+Now I have to put[N]
+up with it by myself?![A][X]
+
+
+
+
+#0x900 Chapter2Opening4
+
+[MidLeft][LoadIsaac]
+Alright, let's move out.[AN]
+For this mission, we can't[N]
+see well because of the fog.[AN]
+Everybody stay vigilant.[A][X]
+
+
+
+
+#0x916 Chapter2Opening5
+
+[MidRight][LoadBrian]
+Hm, this fog just gets[N]
+worse by the minute...[AN]
+Oh? Is it my turn?[AN]
+Fear not, sir. My eyes[N]
+are a sharp as a hawk's.[AN]
+Allow me to direct[N]
+you through the fog.[A][X]
+
+
+
+
+#0x91D Chapter2Opening6
+
+[MidRight][LoadFerris]
+Commander, I can see a[N]
+ballista over there![AN]
+Allow me to commandeer it.[AN]
+I'm pretty well practiced[N]
+on the ballista.[AN]
+I can use it to attack[N]
+from a long distance.[AN]
+However, I'll be wide open[N]
+while I'm operating it.[AN]
+If possible, I'd ask you[N]
+to try and protect me.[A][X]
+
+
+
+
+
+#0x923 Chapter2Ending1
+
+[MidLeft][LoadIsaac][Right][LoadBraidGirl]
+Thank you for your help![N]
+We... finally...[AN]
+
+[MidLeft]
+It's alright. I understand.[AN]
+
+[Right]
+It hasn't been long, but...[AN]
+Even in the short time we've been[N]
+here, we've suffered so much...[AN]
+
+[FarRight][LoadLoli]
+Can... can we leave?[N]
+Can we go home?[AN]
+
+[MidLeft]
+Young ladies, you're free now.[AN]
+You can rest assured[N]
+that's the end of them.[AN]
+
+[FarRight]
+I'm so happy![AN]
+Oh, um... what[N]
+about Daddy?[AN]
+What about everyone[N]
+else in the town?[AN]
+
+[Right]
+I'm worried, too.[N]
+I hope my husband is safe...[AN]
+I was taken away before[N]
+I could hear anything...[AN]
+
+[MidLeft]
+[ToggleMouthMove]...[AN][ToggleMouthMove]
+
+[FarRight]
+Huh?[N]
+What's wrong, mister?[AN]
+
+[MidLeft]
+I don't know if I'm the right person[N]
+to tell you this, but the people-[AN]
+
+[Right]
+Stop![AN]
+Please, don't[N]
+say anymore...[AN]
+I... I had a feeling[N]
+It was something like this...[AN][CloseEyes]
+Sniff...[N]
+Ugh...[AN]
+
+[MidLeft]
+[ToggleMouthMove]...[A][X]
+
+
+
+
+
+#0x925 Chapter2Ending2
+
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+Isaac, everyone who[N]
+had been taken away[AN]
+has been moved[N]
+onto the ship,[AN]
+though I'm afraid...[AN]
+some of them had[N]
+already... expired.[AN]
+We can leave at any time.[AN]
+
+[MidLeft]
+Oh, Audrey.[AN]
+Thank you for[N]
+informing me.[AN]
+Let's get out here[N]
+quickly, then.[AN]
+
+[MidRight]
+...Do you remember?[AN]
+
+[MidLeft]
+I'd be lying if I said I don't.[AN]
+
+[MidRight]
+Those people we've rescued[N]
+can't possibly imagine[AN]
+what has become of the town.[AN]
+They don't have anywhere[N]
+to come back to,[AN]
+or anyone waiting[N]
+for their return.[AN]
+How are they going to react...?[AN]
+The mere thought of it[N]
+makes me feel ill.[AN]
+
+[MidLeft]
+We are mercenaries.[AN]
+It's not our job to[N]
+think about things like that.[AN]
+
+[MidRight]
+That's true...[AN]
+It's not good to[N]
+dwell on it...[AN]
+Still, if I think[N]
+about their futures...[AN]
+it's unbearable...[AN]
+
+[MidLeft]
+We did as requested.[N]
+We rescued them.[AN]
+That alone is enough,[AN]
+and we don't need to[N]
+think about it any longer.[AN]
+
+[MidRight]
+You're right...[AN]
+That would be[N]
+for the best...[A][X]
+
+
+
+
+
+#0x940 Chapter2Ending3
+
+[MidRight][LoadIsaac]
+[ToggleMouthMove]...[....][AN][CloseEyes]
+.....[.....][A][X]
+
+
+
+
+
+#0x935 Chapter2Ending4
+
+[FarRight][LoadIsaac][MidLeft][LoadMoneyMan]
+S-stop it...[AN]
+What... what did we do![AN]
+What are they[N]
+telling you we've done?![AN]
+
+[FarRight]
+...I have nothing to say[N]
+to the likes of you.[AN]
+
+[MidLeft]
+Stop!![N]
+Please stop, for god's sake![AN]
+
+[FarRight][MoveLeft][Event]
+
+[Left]
+[ToggleMouthMove]...[ToggleMouthMove][AN]
+
+
+[MidLeft][CloseEyes]
+God... please...[AN]
+[Clear]
+
+[FarRight]
+Commander![AN]
+
+[Left][Clear][LoadIsaac]
+
+[Right][LoadRedSoldier]
+Commander![AN]
+
+[Left]
+I'm almost done here.[N]
+How is it going over there?[AN]
+
+[Right]
+...Why won't you call[N]
+them off, Commander?![AN]
+This order is absurd.[AN]
+Why do we have to kill[N]
+everyone in this village?![AN]
+
+[Left]
+I asked how it was going.[AN]
+
+[Right]
+We're just about done...[N][....]
+Hey... Commander![AN]
+Are you sure you want to[N]
+be a "knight" like... like this?[AN]
+
+[Left]
+...Don't talk about unimportant[N]
+things during the mission.[AN]
+We must execute our orders[N]
+for the sake of Etruria.[AN]
+Now, we don't have time to argue.[AN]
+
+[Right]
+But...[AN]
+
+[FarRight][LoadRedSoldier]
+The Commander is right.[N]
+We don't have any time to argue, do we?[AN]
+
+[FarLeft][LoadRedSoldier]
+Sir! It's urgent.[AN]
+There's an Etrurian platoon in the[N]
+village who aren't informed of us.[AN]
+What do we do? Those[N]
+bastards are attacking us![AN]
+
+[Left]
+...Our orders are to dispose[N]
+of all the people in the village.[AN]
+
+[FarLeft]
+Are you serious?! Commander![AN]
+
+[Left]
+I'll take care of it.[N]
+Lead me there.[AN]
+
+[FarLeft]
+This way, sir![AN][Clear]
+
+[Left][MoveFarLeft]
+
+[Right]
+Wait, Isaac![AN]
+
+[FarLeft]
+...[A][Clear][.....][X]
+ 
+
+
+
+
+#0x936 Chapter2Ending5
+
+[MidRight][LoadIsaac][CloseEyes]
+[ToggleMouthMove]...[....][AN][OpenEyes]
+.....[.....][A][X]
+
+
+
+
+
+#0xE36 Chapter2Village
+
+[FarRight][LoadKelikGirl][MidLeft][LoadCurrent]
+Hey, please come over here...[N]
+Over here, quickly...[AN]
+
+[MoveLeft][Left][ToggleMouthMove]
+
+...?[AN][ToggleMouthMove]
+
+[FarRight]
+Just a little more... here.[AN]
+
+[CloseEyes][MoveFarRight][FarRight]
+
+Eek!!![AN]
+
+[Left]
+!![AN][Clear]
+
+[FarRight][MoveRight][FarRight][LoadPirate]
+Tsk, useless cunt.[AN]
+We almost caught that guy...[N]
+Hurry! They shouldn't be far![A][X]
+
+
+
+
+
+#0xBF8 ChloeRetreat
+
+[MidRight][LoadChloe]
+Ugh...[N]
+This is also...[AN][CloseEyes]
+The duty of a swordswoman...[A][X]
+
+
+
+
+
+#0x8FD Chapter2IsaacVsBazba
+
+[MidRight][LoadIsaac]
+You're the boss, right?[AN][Clear]
+
+[MidLeft][LoadBazba]
+Huh? So you're the lot[N]
+runnin' around my island?[AN]
+I'll make ya pay[N]
+for that, lad.[AN][Clear]
+
+[MidRight][LoadIsaac]
+You have two options.[AN]
+To be killed here,[AN]
+or to surrender and[N]
+be arrested by us.[AN][ClearText]
+Choose which you like.[AN][Clear]
+
+[MidLeft][LoadBazba]
+Oi, you forgot the[N]
+third option here, eh?[AN]
+To kill all[N]
+of ya bastards![A][X]
+
+
+
+
+
+#0x953 Chapter2VsBazba
+
+[MidLeft][LoadBazba]
+I'm the head of this pirate[N]
+crew, the mighty Bazba![AN][ClearText]
+Hope you've enjoyed your life,[N]
+'cuz it's about to end![A][X]
+
+
+
+
+
+#0x954 Chapter2BazbaDeath
+
+[MidLeft][LoadBazba]
+I'm the... mighty... Bazba...[N]
+This ain't... uuugh...[A][X]

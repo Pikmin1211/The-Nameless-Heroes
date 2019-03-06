@@ -3,4 +3,4 @@
 I'm Geronimo, the recorder.[AN]
 I'm in charge of recording[N]
 everyone's Ranking.[AN]
-Please, take a look at it.[A][X]
+Please, take a look.[A][X]

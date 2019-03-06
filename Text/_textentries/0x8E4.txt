@@ -1,5 +1,5 @@
 
 [MidRight][LoadWolf]
-Sorry, it seems like[N]
-I can't fight much longer.[AN]
+Sorry, it seems like I[N]
+can't fight fer' much longer.[AN]
 I'll retreat for now.[A][X]

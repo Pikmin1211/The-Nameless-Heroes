@@ -33,8 +33,8 @@
 ミスラ > Mithra > Mythra
 イーリス > Eris > Elise
 エキドナ > Echidna (Official)
-エルフィン > Elfin (Official)
-ララム > Lalum (Official)
+エルフィン > Elffin (Official)
+ララム > Larum (Official)
 ヴィルヘルム > Wilhelm
 フェリクス > Felix > Phelix
 アリシア > Alicia
@@ -57,7 +57,7 @@
 ガリウス > Galius
 ハルトマン > Haltmann
 デミ > Denny
-ハーディス - Hardys - Harvey
+ハーディス > Hardys > Harvey
 
 
 Generics

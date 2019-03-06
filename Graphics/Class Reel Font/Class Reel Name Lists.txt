@@ -1,0 +1,435 @@
+PUSH
+
+ORG 0xAB0324
+POIN LegionnaireList
+BYTE 0x06
+
+ORG 0xAB0340
+POIN PaladinList
+BYTE 0x07
+
+ORG 0xAB035C
+POIN KnightList
+BYTE 0x06
+
+ORG 0xAB0378
+POIN CavalierList
+BYTE 0x08
+
+ORG 0xAB0394
+POIN PegKnightList
+BYTE 0x06
+
+ORG 0xAB03B0
+POIN PriestList
+BYTE 0x06
+
+ORG 0xAB03CC
+POIN TacticianList
+BYTE 0x04
+
+ORG 0xAB03E8
+POIN FighterList
+BYTE 0x07
+
+ORG 0xAB0404
+POIN ThiefList
+BYTE 0x05
+
+ORG 0xAB0420
+POIN ArcherList
+BYTE 0x06
+
+ORG 0xAB043C
+POIN MageList
+BYTE 0x04
+
+ORG 0xAB0458
+POIN MonkList
+BYTE 0x04
+
+ORG 0xAB0474
+POIN FighterList
+BYTE 0x07
+
+ORG 0xAB0490
+POIN WarriorList
+BYTE 0x07
+
+ORG 0xAB04AC
+POIN WitchList
+BYTE 0x05
+
+ORG 0xAB04C8
+POIN BaronList
+BYTE 0x05
+
+ORG 0xAB04E4
+POIN BallisticianList
+BYTE 0x08
+
+ORG 0xAB0500
+POIN MyrmidonList
+BYTE 0x08
+
+ORG 0xAB051C
+POIN ClericList
+BYTE 0x06
+
+ORG 0xAB0538
+POIN ChevalierList
+BYTE 0x04
+
+ORG 0xAB0554
+POIN PirateList
+BYTE 0x06
+
+ORG 0xAB0570
+POIN BrigandList
+BYTE 0x07
+
+ORG 0xAB058C
+POIN ShamanList
+BYTE 0x06
+
+ORG 0xAB05A8
+POIN SniperList
+BYTE 0x06
+
+ORG 0xAB05C4
+POIN MercenaryList
+BYTE 0x04
+
+ORG 0xAB05E0
+POIN DancerList
+BYTE 0x06
+
+ORG 0xAB05FC
+POIN DragoonList
+BYTE 0x07
+
+ORG 0xAB0618
+POIN MyrmidonList
+BYTE 0x08
+
+ORG 0xAB0634
+POIN SwordmasterList
+BYTE 0x07
+
+ORG 0xAB0650
+POIN MasterKnightList
+BYTE 0x08
+
+ORG 0xAB066C
+POIN MageKnightList
+BYTE 0x07
+
+ORG 0xAB0688
+POIN DarkFlierList
+BYTE 0x08
+
+ORG 0xAB06A4
+POIN MaidList
+BYTE 0x04
+
+ORG 0xAB06C0
+POIN NomadList
+BYTE 0x05
+
+ORG 0xAB06DC
+POIN TroubadourList
+BYTE 0x05
+
+ORG 0xAB06F8
+POIN BerserkerList
+BYTE 0x06
+
+ORG 0xAB0714
+POIN RogueList
+BYTE 0x05
+
+ORG 0x0AB0730
+POIN SageList
+BYTE 0x04
+
+ORG 0xAB074C
+POIN GreatKnightList
+BYTE 0x08
+
+ORG 0xAB0768
+POIN CommandKnightList
+BYTE 0x08
+
+ORG 0xAB0784
+POIN RangerList
+BYTE 0x06
+
+ORG 0xAB07A0
+POIN WarriorList
+BYTE 0x07
+
+ORG 0xAB07BC
+POIN AssassinList
+BYTE 0x08
+
+ORG 0xAB07D8
+POIN MageKnightList
+BYTE 0x07
+
+ORG 0xAB07F4
+POIN AssassinList
+BYTE 0x08
+
+ORG 0xAB0810
+POIN ValkyrieList
+BYTE 0x08
+
+ORG 0xAB082C
+POIN DruidList
+BYTE 0x05
+
+ORG 0xAB0848
+POIN GeneralList
+BYTE 0x07
+
+ORG 0xAB0864
+POIN SwordmasterList
+BYTE 0x07
+
+ORG 0xAB0880
+POIN WyvernKnightList
+BYTE 0x08
+
+ORG 0xAB089C
+POIN BishopList
+BYTE 0x06
+
+ORG 0xAB08B8
+POIN WyvernLordList
+BYTE 0x08
+
+ORG 0x0AB08D4
+POIN HeroList
+BYTE 0x04
+
+ORG 0xAB08F0
+POIN FalcoknightList
+BYTE 0x07
+
+ORG 0xAB090C
+POIN HalberdierList
+BYTE 0x07
+
+ORG 0xAB0928
+POIN CavalierList
+BYTE 0x08
+
+ORG 0xAB0944
+POIN MasterKnightList
+BYTE 0x08
+
+ORG 0xAB0960
+POIN CerberusList
+BYTE 0x08
+
+ORG 0xAB097C
+POIN StrayThiefList
+BYTE 0x08
+
+ORG 0xAB0998
+POIN NecromancerList
+BYTE 0x05
+
+ORG 0xAB09B4
+POIN SummonerList
+BYTE 0x08
+
+ORG 0xAB09D0
+POIN FireDragonList
+BYTE 0x06
+
+ORG 0xAB09EC
+POIN BaronList
+BYTE 0x05
+
+ORG 0xAB0A08
+POIN WyvernRiderList
+BYTE 0x08
+
+ORG 0xAB0A24
+POIN SoldierList
+BYTE 0x07
+
+POP
+
+ALIGN 4
+
+LegionnaireList:
+BYTE Letter_L Letter_e Letter_g Letter_i Letter_o Letter_n
+
+PaladinList:
+BYTE Letter_P Letter_a Letter_l Letter_a Letter_d Letter_i Letter_n
+
+KnightList:
+BYTE Letter_K Letter_n Letter_i Letter_g Letter_h Letter_t
+
+CavalierList:
+BYTE Letter_C Letter_a Letter_v Letter_a Letter_l Letter_i Letter_e Letter_r
+
+PegKnightList:
+BYTE Letter_P Letter_e Letter_g Letter_Space Letter_K Letter_n
+
+PriestList:
+BYTE Letter_P Letter_r Letter_i Letter_e Letter_s Letter_t
+
+TacticianList:
+BYTE Letter_T Letter_a Letter_c Letter_t
+
+FighterList:
+BYTE Letter_F Letter_i Letter_g Letter_h Letter_t Letter_e Letter_r
+
+ThiefList:
+BYTE Letter_T Letter_h Letter_i Letter_e Letter_f
+
+ArcherList:
+BYTE Letter_A Letter_r Letter_c Letter_h Letter_e Letter_r
+
+MageList:
+BYTE Letter_M Letter_a Letter_g Letter_e
+
+MonkList:
+BYTE Letter_M Letter_o Letter_n Letter_k
+
+WarriorList:
+BYTE Letter_W Letter_a Letter_r Letter_r Letter_i Letter_o Letter_r
+
+WitchList:
+BYTE Letter_W Letter_i Letter_t Letter_c Letter_h
+
+BaronList:
+BYTE Letter_B Letter_a Letter_r Letter_o Letter_n
+
+BallisticianList:
+BYTE Letter_B Letter_a Letter_l Letter_l Letter_i Letter_s Letter_t Letter_a
+
+MyrmidonList:
+BYTE Letter_M Letter_y Letter_r Letter_m Letter_i Letter_d Letter_o Letter_n
+
+ClericList:
+BYTE Letter_C Letter_l Letter_e Letter_r Letter_i Letter_c
+
+ChevalierList:
+BYTE Letter_C Letter_h Letter_e Letter_v
+
+PirateList:
+BYTE Letter_P Letter_i Letter_r Letter_a Letter_t Letter_e
+
+BrigandList:
+BYTE Letter_B Letter_r Letter_i Letter_g Letter_a Letter_n Letter_d
+
+ShamanList:
+BYTE Letter_S Letter_h Letter_a Letter_m Letter_a Letter_n
+
+SniperList:
+BYTE Letter_S Letter_n Letter_i Letter_p Letter_e Letter_r
+
+MercenaryList:
+BYTE Letter_M Letter_e Letter_r Letter_c
+
+DancerList:
+BYTE Letter_D Letter_a Letter_n Letter_c Letter_e Letter_r
+
+DragoonList:
+BYTE Letter_D Letter_r Letter_a Letter_g Letter_o Letter_o Letter_n
+
+SwordmasterList:
+BYTE Letter_S Letter_M Letter_a Letter_s Letter_t Letter_e Letter_r
+
+MasterKnightList:
+BYTE Letter_M Letter_a Letter_s Letter_t Letter_e Letter_r Letter_K Letter_n
+
+MageKnightList:
+BYTE Letter_M Letter_a Letter_g Letter_e Letter_Space Letter_K Letter_n
+
+DarkFlierList:
+BYTE Letter_D Letter_r Letter_k Letter_F Letter_l Letter_i Letter_e Letter_r
+
+MaidList:
+BYTE Letter_M Letter_a Letter_i Letter_d
+
+NomadList:
+BYTE Letter_N Letter_o Letter_m Letter_a Letter_d
+
+TroubadourList:
+BYTE Letter_T Letter_r Letter_o Letter_u Letter_b
+
+BerserkerList:
+BYTE Letter_Z Letter_e Letter_r Letter_k Letter_e Letter_r
+
+RogueList:
+BYTE Letter_R Letter_o Letter_g Letter_u Letter_e
+
+SageList:
+BYTE Letter_S Letter_a Letter_g Letter_e
+
+GreatKnightList:
+BYTE Letter_G Letter_r Letter_e Letter_a Letter_t Letter_Space Letter_K Letter_n
+
+CommandKnightList:
+BYTE Letter_C Letter_m Letter_m Letter_n Letter_d Letter_Space Letter_K Letter_n
+
+RangerList:
+BYTE Letter_R Letter_a Letter_n Letter_g Letter_e Letter_r
+
+AssassinList:
+BYTE Letter_A Letter_s Letter_s Letter_a Letter_s Letter_s Letter_i Letter_n
+
+ValkyrieList:
+BYTE Letter_V Letter_a Letter_l Letter_k Letter_y Letter_r Letter_i Letter_e
+
+DruidList:
+BYTE Letter_D Letter_r Letter_u Letter_i Letter_d
+
+GeneralList:
+BYTE Letter_G Letter_e Letter_n Letter_e Letter_r Letter_a Letter_l
+
+WyvernKnightList:
+BYTE Letter_W Letter_y Letter_v Letter_e Letter_r Letter_n Letter_K Letter_n
+
+BishopList:
+BYTE Letter_B Letter_i Letter_s Letter_h Letter_o Letter_p
+
+WyvernLordList:
+BYTE Letter_W Letter_y Letter_v Letter_Space Letter_L Letter_o Letter_r Letter_d
+
+HeroList:
+BYTE Letter_H Letter_e Letter_r Letter_o
+
+FalcoknightList:
+BYTE Letter_F Letter_a Letter_l Letter_c Letter_o Letter_K Letter_n
+
+HalberdierList:
+BYTE Letter_H Letter_a Letter_l Letter_b Letter_e Letter_r Letter_d
+
+CerberusList:
+BYTE Letter_C Letter_e Letter_r Letter_b Letter_e Letter_r Letter_u Letter_s
+
+StrayThiefList:
+BYTE Letter_S Letter_t Letter_r Letter_a Letter_y Letter_T Letter_h Letter_f
+
+NecromancerList:
+BYTE Letter_N Letter_e Letter_c Letter_r Letter_o
+
+SummonerList:
+BYTE Letter_S Letter_u Letter_m Letter_m Letter_o Letter_n Letter_e Letter_r
+
+FireDragonList:
+BYTE Letter_D Letter_r Letter_a Letter_g Letter_o Letter_n
+
+WyvernRiderList:
+BYTE Letter_W Letter_y Letter_v Letter_R Letter_i Letter_d Letter_e Letter_r
+
+SoldierList:
+BYTE Letter_S Letter_o Letter_l Letter_d Letter_i Letter_e Letter_r
+
+ALIGN 4

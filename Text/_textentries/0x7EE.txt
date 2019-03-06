@@ -1,1 +1,1 @@
-Select unit to refresh.[X]
+Select a unit to refresh.[X]

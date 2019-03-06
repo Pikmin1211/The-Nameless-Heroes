@@ -1,3 +1,2 @@
 Dragon Fang (Skill%)[N]
-Adds half of strength[N]
-to the damage dealt.[X]
+Multiplies damage by 1.5x.[X]

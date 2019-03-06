@@ -1,2 +1,2 @@
-Mountain theives who attack with[N]
+Mountain thieves who attack with[N]
 razor sharp axes. Equip: Axes.[X]

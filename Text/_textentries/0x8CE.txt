@@ -1,4 +1,4 @@
 
 [MidRight][LoadIsaac]
-Hey, asshole. I'm over here.[N]
+Hey, asshole. Over here.[N]
 Try taking me on instead![A][X]

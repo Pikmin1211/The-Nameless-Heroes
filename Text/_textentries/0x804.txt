@@ -1,1 +1,1 @@
-Obtained[X]
+obtained[X]

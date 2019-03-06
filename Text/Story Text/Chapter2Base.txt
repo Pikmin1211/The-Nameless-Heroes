@@ -1,0 +1,129 @@
+#0x881 Chapter2BaseWorldMap
+
+Isaac and the mercenaries[N]
+conquered the pirates' base,[AN]
+and rescued the people[N]
+from The Island of Devils.[AN]
+Although they were[N]
+succesful in their mission,[AN]
+the group is still on edge.[AN][Event]
+After a half-day voyage[N]
+towards Valletta,[AN][Event]
+they notice an unknown[N]
+boat approaching.[AN][Event]
+The boat is flying[N]
+an Etrurian flag...[A][Event][X]
+
+
+
+
+
+#0x93D Chapter2BaseTalkWolfAudrey
+
+[MidRight][LoadAudrey][MidLeft][LoadWolf]
+Oi, Audrey.[AN]
+Why are ya[N]
+lookin' so glum?[AN]
+Ya feelin'[N]
+seasick?[AN]
+
+[MidRight]
+No, that's not it.[AN]
+Just thinking about...[N]
+the people we've helped.[AN]
+
+[MidLeft]
+Well, they're in a[N]
+crappy situation.[AN]
+In a sense, it may be[N]
+harder for 'em to go back.[AN]
+But, ya shouldn't worry[N]
+about them so much.[AN]
+It'll jus' drag ya down.[AN]
+
+[MidRight]
+That might be easier if I could[N]
+distance myself like you do.[AN]
+
+[MidLeft]
+Don't make me out[N]
+to be so cold.[AN]
+Audrey, we ain't[N]
+knights no more.[AN]
+We don't have that[N]
+kind 'er responsibility.[AN]
+We jus fight to[N]
+live on to tomorrow.[AN]
+'Sides, we ain't done with[N]
+this mission jus' yet.[AN]
+They'll be doin' ya in[N]
+quick if yer not focused.[AN]
+
+[MidRight]
+Yeah. Sorry, Wolf.[AN]
+
+[MidLeft]
+[ToggleMouthMove]...[A][X]
+
+
+
+
+
+#0x9E0 Chapter2BaseTalkChloeMorris
+
+[MidLeft][LoadChloe][HalfCloseEyes]
+Ugh...[AN]
+
+[MidRight][LoadMorris]
+Is something the matter, Chloe?[N]
+You look pale as a sheet.[AN]
+
+[MidLeft]
+Oh, Father Morris...[N]
+I-I feel horribly seasick...[AN]
+I'm so ashamed... as a[N]
+swordswoman, I... urp...[AN]
+
+[MidRight]
+Oh, dear.[AN]
+If I had a Restore[N]
+staff with me,[AN]
+I could cure you...[AN]
+I think they're sold[N]
+at the shop nearby.[AN]
+Maybe I should get one...[A][X]
+
+
+
+
+
+#0x937 Chapter2BaseHermes
+
+[MidLeft][LoadIsaac][MidRight][LoadHermes]
+Oh, Issac, hello.[AN]
+Sorry to say, but I have[N]
+nothing to sell at the moment.[AN]
+Um, you can have this, though.[AN]
+Just a little something to[N]
+thank you for your business...[A][X]
+
+
+
+
+
+#0xD42 Chapter2BaseGeronimo
+
+[MidRight][LoadCurrent][MidLeft][LoadGeronimo]
+I'm Geronimo, the recorder.[AN]
+I'm in charge of recording[N]
+everyone's Ranking.[AN]
+I'm relieved that[N]
+everyone's safe![AN]
+Unfortunately I can't[N]
+travel with you,[AN]
+since Hermes and I have[N]
+to guard the base.[AN]
+Between you and me,[AN]
+I'm a bit lonely staying[N]
+here by myself.[AN]
+Now, please, take a look.[A][X]

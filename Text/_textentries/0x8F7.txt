@@ -6,7 +6,7 @@ Where have you taken the people[N]
 of this town and the village?[AN]
 
 [Right]
-Y, you...[AN]
+Y-you...[AN]
 Don't think I'll let[N]
 you get away with this...[AN]
 Y-you shall pay...[AN]

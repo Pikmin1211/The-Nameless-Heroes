@@ -1,12 +1,13 @@
 
 [MidRight][LoadIsaac][MidLeft][LoadHermes]
-Ah, welcome, sir..[....][AN]
+Ah, welcome, sir...[....][AN]
 Oh! Well if it isn't[N]
 you, Commander![AN]
 How did you notice[N]
 I was doing business here?[AN]
 Did someone tell you?[AN]
-Or was it our good Lady Luck?[AN]
+Or was it our[N]
+good Lady Luck?[AN]
 
 [MidRight]
 This some kinda stall?[AN]
@@ -16,8 +17,8 @@ pickpocket, so I've been looking around.[AN]
 
 [MidLeft]
 Oh, well...[AN]
-That isn't[N]
-wrong, though...[AN]
+They're not[N]
+exactly wrong...[AN]
 
 [MidRight]
 I don't care if you do business here.[N]
@@ -32,7 +33,7 @@ What?[AN]
 
 [MidLeft]
 You're already here, right?[N]
-Why not pick something up?[AN]
+Why not buy something?[AN]
 
 [MidRight]
 I guess I could, if you[N]

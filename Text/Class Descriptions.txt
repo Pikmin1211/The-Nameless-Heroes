@@ -19,7 +19,7 @@ Elite soldiers who have honed their[N]
 skills to perfection. Equip: Lances.[X]
 
 #0x2CB
-Mountain theives who attack with[N]
+Mountain thieves who attack with[N]
 razor sharp axes. Equip: Axes.[X]
 
 #0x2D1
@@ -293,3 +293,7 @@ the battlefield. Equip: Axe, staff.[X]
 #0x2DA
 Peerless leaders who can turn the[N]
 tides of battle. Equip: Sword, axe.[X]
+
+#0xE67
+Powerful magicians who travel on[N]
+horseback. Equip: Anima.[X]

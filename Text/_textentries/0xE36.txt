@@ -1,0 +1,23 @@
+
+[FarRight][LoadKelikGirl][MidLeft][LoadCurrent]
+Hey, please come over here...[N]
+Over here, quickly...[AN]
+
+[MoveLeft][Left][ToggleMouthMove]
+
+...?[AN][ToggleMouthMove]
+
+[FarRight]
+Just a little more... here.[AN]
+
+[CloseEyes][MoveFarRight][FarRight]
+
+Eek!!![AN]
+
+[Left]
+!![AN][Clear]
+
+[FarRight][MoveRight][FarRight][LoadPirate]
+Tsk, useless cunt.[AN]
+We almost caught that guy...[N]
+Hurry! They shouldn't be far![A][X]

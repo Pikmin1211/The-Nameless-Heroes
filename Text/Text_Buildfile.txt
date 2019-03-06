@@ -8,3 +8,4 @@
 #include "Item Names.txt"
 #include "Item Descriptions.txt"
 #include "Story Page.txt"
+#include "Song Text.txt"

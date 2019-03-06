@@ -1,2 +1,2 @@
 Swordslayer[N]
-Deal effective damage to swords.[X]
+Deal effective damage to sword users.[X]

@@ -131,7 +131,7 @@ Nothing[X]
 Owner:[X]
 
 #0x535
-Success[X]
+Done[X]
 
 #0x536
 Remaining[X]

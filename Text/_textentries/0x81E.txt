@@ -1,1 +1,1 @@
-Skill Learned.[X]
+Skill learned.[X]

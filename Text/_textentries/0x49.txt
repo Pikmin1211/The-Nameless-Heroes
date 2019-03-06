@@ -11,7 +11,7 @@ And "thinking" is not an option![N]
 You must stop the bandits![AN]
 
 [MidRight]
-A joke is a joke, old man.[N]
+A joke's a joke, old man.[N]
 And who are you, exactly?[AN]
 
 [MidLeft]

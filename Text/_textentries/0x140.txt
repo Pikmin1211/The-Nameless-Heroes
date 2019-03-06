@@ -1,1 +1,2 @@
-Escape or defeat boss[X]
+Escape or[N]
+Defeat Boss[X]

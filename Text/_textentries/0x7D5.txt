@@ -1,2 +1,2 @@
-Only weapons, tomes, and
+Only weapons, tomes, and[N]
 staves can be repaired.[X]

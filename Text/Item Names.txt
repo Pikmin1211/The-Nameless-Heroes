@@ -591,3 +591,6 @@ Mine[X]
 
 #0x324
 Deadly Claw[X]
+
+#0xE64
+Sludge Bomb[X]

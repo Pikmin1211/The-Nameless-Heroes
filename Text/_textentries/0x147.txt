@@ -1,1 +1,1 @@
-Defeat boss[X]
+Defeat Boss[X]

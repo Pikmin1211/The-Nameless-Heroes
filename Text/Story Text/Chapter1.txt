@@ -89,7 +89,7 @@ Isaac...[....][N]
 It's horrible...[....][AN]
 Piled corpses of men,[N]
 women taken away...[AN]
-It's like a hell on earth...[AN]
+It's like a hell on earth.[AN]
 
 [FarRight][LoadKara]
 Gah... it's so terrible...[....][N]
@@ -102,7 +102,7 @@ You don't have to strain[N]
 yourself. You're still a novice.[AN]
 
 [FarRight]
-N... no.[AN]
+N-no.[AN]
 I'll fight too.[N]
 I can't allow this![AN]
 
@@ -119,8 +119,8 @@ our aid. We have to make haste.[AN]
 
 [Left]
 Let's calm down.[AN]
-Gathering information[N]
-must come first.[AN]
+We have to gather more[N]
+information first.[AN]
 Kara, can I ask[N]
 you to scout?[AN]
 
@@ -161,7 +161,7 @@ need you around. Just die![A][X]
 #0x8CE Chapter1OpeningPart5
 
 [MidRight][LoadIsaac]
-Hey, asshole. I'm over here.[N]
+Hey, asshole. Over here.[N]
 Try taking me on instead![A][X]
 
 
@@ -207,15 +207,15 @@ Commander! It's urgent![AN]
 Those pirates are holding the village[N]
 girls under the deck of their boat.[AN]
 I wanted to get a closer look but...[....][AN]
-There was a Wyvern Rider and a Ballista[N]
+There was a wyvern and a ballista[N]
 preventing me from getting in closer...[AN]
 
 [MidLeft]
 That's good enough.[N]
 Nice work, Kara.[AN]
 Strange, though.[AN]
-Why is a Wyvern Rider[N]
-with a group of Pirates?[AN]
+Where did these bastards[N]
+get hold of a wyvern...?[AN]
 
 [MidRight]
 [CloseEyes]Hm, I'm not sure...[....][OpenEyes][N]
@@ -405,7 +405,7 @@ Bah! I'll handle this myself![A][X]
 #0x8F6 BreguetDeath
 
 [MidLeft][LoadBreguet]
-Wh...[....]what?[N]
+Wh-what?[N]
 Me... beaten...?[A][X]
 
 
@@ -499,7 +499,7 @@ Where have you taken the people[N]
 of this town and the village?[AN]
 
 [Right]
-Y, you...[AN]
+Y-you...[AN]
 Don't think I'll let[N]
 you get away with this...[AN]
 Y-you shall pay...[AN]
@@ -542,7 +542,7 @@ to that isolated island.[AN]
 It seems that the women were[N]
 taken away to this island.[AN]
 We couldn't save the people in town...[AN]
-The least we can do is recue[N]
+The least we can do is rescue[N]
 those who were kidnapped.[AN]
 That is... our duty.[AN]
 

@@ -32,6 +32,7 @@ ORG $BB08B4
 ORG $A92B38
 #incext Png2Dmp "Img_A92B38.png"
 
+
 //Make the English FE8 menu work (this is basically tsa)
 ORG $A9D6A8
 BYTE 0x04 0x00 0x00 0x40 0x08 0x80 0xC0 0x08 0x00 0x40 0x28 0x80 0xC4 0x08 0x00 0x40 0x48 0x80 0xC8 0x08 0x00 0x00 0x68 0x40 0xCC 0x08
@@ -52,6 +53,12 @@ ALIGN 4
 Img_5C6E08_Repointed:
 #incext Png2Dmp "Img_5C6E08_Repoint.png" --lz77
 
+ClassFontEN:
+#incext Png2Dmp "classfonten.png" --lz77
+
+BaseImage:
+#incext Png2Dmp "Base.png" --lz77
+
 PrologueImage:
 #incext Png2Dmp "Prologue.png" --lz77
 
@@ -64,8 +71,30 @@ Chapter1Image:
 Chapter1ImageSmall:
 #incext Png2Dmp "Chapter 1 Small.png" --lz77
 
+Chapter2Image:
+#incext Png2Dmp "Chapter 2.png" --lz77
+
+Chapter2ImageSmall:
+#incext Png2Dmp "Chapter 2 Small.png" --lz77
+
+// FE8N is a2cabc
+// FE8J is AAAC4C
+SoundRoomGraphics:
+#incext Png2Dmp "Img_AAAC4C.png" --lz77
+//Palette?
+// ORG in FE8N - 8A29418
+// FE8J - 8AA7094
+
 PUSH
 
+ORG $B4400
+POIN SoundRoomGraphics
+ORG $B8B1C
+POIN ClassFontEN
+ORG 0xD1838
+POIN ClassFontEN
+ORG 0xA7356C
+POIN BaseImage
 ORG 0xA732C0
 POIN PrologueImage
 ORG 0xA732C4
@@ -74,5 +103,23 @@ ORG 0xA732CC
 POIN Chapter1Image
 ORG 0xA732D0
 POIN Chapter1ImageSmall
+ORG 0xA732D8
+POIN Chapter2Image
+ORG 0xA732DC
+POIN Chapter2ImageSmall
+
+POP
+
+PUSH
+
+//Sound Room
+//ORG $b4102 //draw distance for number from "Success"
+//BYTE 0E
+//ORG $b411e //draw distance for % from "Success"
+//BYTE 10
+
+//Prep Screen
+//ORG $9AEAC //prep window width
+//BYTE 0A
 
 POP

@@ -20,7 +20,7 @@ Li[X]
 An[X]
 
 #0x5D9 dodgetext
-Dgd[X]
+Ddg[X]
 
 #0x6D leadershipstarstxt
 Ldr[X]

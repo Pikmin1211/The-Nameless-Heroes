@@ -4,3 +4,5 @@
 #include "Turn Counter.txt"
 #include "Use_Menu.txt"
 #include "Discard_Menu.txt"
+#include "Class Change Menu.txt"
+#include "Class Change Text.txt"

@@ -1,2 +1,2 @@
-Survive for 13 turns,[N]
-or defeat Haguro[X]
+Survive or[N]
+Defeat Boss[X]

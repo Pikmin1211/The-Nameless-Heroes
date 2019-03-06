@@ -1,0 +1,274 @@
+BigA:
+#incext Png2Dmp "A.png" --lz77
+
+BigB:
+#incext Png2Dmp "B.png" --lz77
+
+BigC:
+#incext Png2Dmp "C.png" --lz77
+
+BigD:
+#incext Png2Dmp "D.png" --lz77
+
+BigE:
+#incext Png2Dmp "E.png" --lz77
+
+BigF:
+#incext Png2Dmp "F.png" --lz77
+
+BigG:
+#incext Png2Dmp "G.png" --lz77
+
+BigH:
+#incext Png2Dmp "H.png" --lz77
+
+BigI:
+#incext Png2Dmp "I.png" --lz77
+
+BigJ:
+#incext Png2Dmp "J.png" --lz77
+
+BigK:
+#incext Png2Dmp "K.png" --lz77
+
+BigL:
+#incext Png2Dmp "L.png" --lz77
+
+BigM:
+#incext Png2Dmp "M.png" --lz77
+
+BigN:
+#incext Png2Dmp "N.png" --lz77
+
+BigO:
+#incext Png2Dmp "O.png" --lz77
+
+BigP:
+#incext Png2Dmp "P.png" --lz77
+
+BigQ:
+#incext Png2Dmp "Q.png" --lz77
+
+BigR:
+#incext Png2Dmp "R.png" --lz77
+
+BigS:
+#incext Png2Dmp "S.png" --lz77
+
+BigT:
+#incext Png2Dmp "T.png" --lz77
+
+BigU:
+#incext Png2Dmp "U.png" --lz77
+
+BigV:
+#incext Png2Dmp "V.png" --lz77
+
+BigW:
+#incext Png2Dmp "W.png" --lz77
+
+BigX:
+#incext Png2Dmp "X.png" --lz77
+
+BigY:
+#incext Png2Dmp "Y.png" --lz77
+
+BigZ:
+#incext Png2Dmp "Z.png" --lz77
+
+LittleA:
+#incext Png2Dmp "La.png" --lz77
+
+LittleB:
+#incext Png2Dmp "Lb.png" --lz77
+
+LittleC:
+#incext Png2Dmp "Lc.png" --lz77
+
+LittleD:
+#incext Png2Dmp "Ld.png" --lz77
+
+LittleE:
+#incext Png2Dmp "Le.png" --lz77
+
+LittleF:
+#incext Png2Dmp "Lf.png" --lz77
+
+LittleG:
+#incext Png2Dmp "Lg.png" --lz77
+
+LittleH:
+#incext Png2Dmp "Lh.png" --lz77
+
+LittleI:
+#incext Png2Dmp "Li.png" --lz77
+
+LittleJ:
+#incext Png2Dmp "Lj.png" --lz77
+
+LittleK:
+#incext Png2Dmp "Lk.png" --lz77
+
+LittleL:
+#incext Png2Dmp "Ll.png" --lz77
+
+LittleM:
+#incext Png2Dmp "Lm.png" --lz77
+
+LittleN:
+#incext Png2Dmp "Ln.png" --lz77
+
+LittleO:
+#incext Png2Dmp "Lo.png" --lz77
+
+LittleP:
+#incext Png2Dmp "Lp.png" --lz77
+
+LittleQ:
+#incext Png2Dmp "Lq.png" --lz77
+
+LittleR:
+#incext Png2Dmp "Lr.png" --lz77
+
+LittleS:
+#incext Png2Dmp "Ls.png" --lz77
+
+LittleT:
+#incext Png2Dmp "Lt.png" --lz77
+
+LittleU:
+#incext Png2Dmp "Lu.png" --lz77
+
+LittleV:
+#incext Png2Dmp "Lv.png" --lz77
+
+LittleW:
+#incext Png2Dmp "Lw.png" --lz77
+
+LittleX:
+#incext Png2Dmp "Lx.png" --lz77
+
+LittleY:
+#incext Png2Dmp "Ly.png" --lz77
+
+LittleZ:
+#incext Png2Dmp "Lz.png" --lz77
+
+Space:
+#incext Png2Dmp "Space.png" --lz77
+
+PUSH
+
+ORG 0xAB0024
+POIN Space
+POIN BigA
+POIN BigB
+POIN BigC
+POIN BigD
+POIN BigE
+POIN BigF
+POIN BigG
+POIN BigH
+POIN BigI
+POIN BigJ
+POIN BigK
+POIN BigL
+POIN BigM
+POIN BigN
+POIN BigO
+POIN BigP
+POIN BigQ
+POIN BigR
+POIN BigS
+POIN BigT
+POIN BigU
+POIN BigV
+POIN BigW
+POIN BigX
+POIN BigY
+POIN BigZ
+POIN LittleA
+POIN LittleB
+POIN LittleC
+POIN LittleD
+POIN LittleE
+POIN LittleF
+POIN LittleG
+POIN LittleH
+POIN LittleI
+POIN LittleJ
+POIN LittleK
+POIN LittleL
+POIN LittleM
+POIN LittleN
+POIN LittleO
+POIN LittleP
+POIN LittleQ
+POIN LittleR
+POIN LittleS
+POIN LittleT
+POIN LittleU
+POIN LittleV
+POIN LittleW
+POIN LittleX
+POIN LittleY
+POIN LittleZ
+POIN Space
+
+POP
+
+#define Letter_A 0x01
+#define Letter_B 0x02
+#define Letter_C 0x03
+#define Letter_D 0x04
+#define Letter_E 0x05
+#define Letter_F 0x06
+#define Letter_G 0x07
+#define Letter_H 0x08
+#define Letter_I 0x09
+#define Letter_J 0x0A
+#define Letter_K 0x0B
+#define Letter_L 0x0C
+#define Letter_M 0x0D
+#define Letter_N 0x0E
+#define Letter_O 0x0F
+#define Letter_P 0x10
+#define Letter_Q 0x11
+#define Letter_R 0x12
+#define Letter_S 0x13
+#define Letter_T 0x14
+#define Letter_U 0x15
+#define Letter_V 0x16
+#define Letter_W 0x17
+#define Letter_X 0x18
+#define Letter_Y 0x19
+#define Letter_Z 0x1A
+#define Letter_a 0x1B
+#define Letter_b 0x1C
+#define Letter_c 0x1D
+#define Letter_d 0x1E
+#define Letter_e 0x1F
+#define Letter_f 0x20
+#define Letter_g 0x21
+#define Letter_h 0x22
+#define Letter_i 0x23
+#define Letter_j 0x24
+#define Letter_k 0x25
+#define Letter_l 0x26
+#define Letter_m 0x27
+#define Letter_n 0x28
+#define Letter_o 0x29
+#define Letter_p 0x2A
+#define Letter_q 0x2B
+#define Letter_r 0x2C
+#define Letter_s 0x2D
+#define Letter_t 0x2E
+#define Letter_u 0x2F
+#define Letter_v 0x30
+#define Letter_w 0x31
+#define Letter_x 0x32
+#define Letter_y 0x33
+#define Letter_z 0x34
+#define Letter_Space 0x35
+
+#include "Class Reel Name Lists.txt"

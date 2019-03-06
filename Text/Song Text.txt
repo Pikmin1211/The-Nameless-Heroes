@@ -1,0 +1,488 @@
+#0x702
+The Valiant[X]
+
+#0x703
+Main Theme[X]
+
+#0x704
+Prologue[X]
+
+#0x705
+The Beginning[X]
+
+#0x706
+Treasured Memories[X]
+
+#0x707
+Grim Journey[X]
+
+#0x708
+Ties of Friendship[X]
+
+#0x709
+Ray of Hope[X]
+
+#0x70A
+Distant Roads[X]
+
+#0x70B
+Rise Above[X]
+
+#0x70C
+Follow Me![X]
+
+#0x70D
+Determination[X]
+
+#0x70E
+Truth, Despair, and Hope[X]
+
+#0x70F
+Land of Promise[X]
+
+#0x710
+Binding Vow[X]
+
+#0x711
+Grasp at Victory[X]
+
+#0x712
+Confront the Past[X]
+
+#0x713
+Shadows Approach[X]
+
+#0x714
+Shadow of the Enemy[X]
+
+#0x715
+Assault[X]
+
+#0x716
+From the Darkness[X]
+
+#0x717
+Twisted Shadows A[X]
+
+#0x718
+Twisted Shadows B[X]
+
+#0x719
+Envoy from the Dark[X]
+
+#0x71A
+Attack[X]
+
+#0x71B
+Defense[X]
+
+#0x71C
+The Battle Must Be Won[X]
+
+#0x71D
+Powerful Foe[X]
+
+#0x71E
+The Prince's Despair[X]
+
+#0x71F
+Return of the Demon King[X]
+
+#0x720
+Sacred Strength[X]
+
+#0x721
+Tethys[X]
+
+#0x722
+Healing[X]
+
+#0x723
+Curing[X]
+
+#0x724
+To a Higher Place[X]
+
+#0x725
+Advance[X]
+
+#0x726
+Tension[X]
+
+#0x727
+Raid![X]
+
+#0x728
+Reunion[X]
+
+#0x729
+Indignation[X]
+
+#0x72A
+Sorrow[X]
+
+#0x72B
+Laughter[X]
+
+#0x72C
+Legacy[X]
+
+#0x72D
+Lyon[X]
+
+#0x72E
+Lost Heart[X]
+
+#0x72F
+Lyon (Organ Arrangement)[X]
+
+#0x730
+The Final Battle[X]
+
+#0x731
+Solve the Riddle[X]
+
+#0x732
+Lights in the Dark[X]
+
+#0x733
+Comrades[X]
+
+#0x734
+Victory[X]
+
+#0x735
+Into the Shadow of Victory[X]
+
+#0x736
+Main Theme (Reprise)[X]
+
+#0x737
+Combat Preperation[X]
+
+#0x738
+Shops[X]
+
+#0x739
+Armories[X]
+
+#0x73A
+Bonds[X]
+
+#0x73B
+Colosseum Entrance[X]
+
+#0x73C
+In the Colosseum[X]
+
+#0x73D
+Colosseum Victory[X]
+
+#0x73E
+Colosseum Defeat[X]
+
+#0x73F
+Victory Song A[X]
+
+#0x740
+Victory Song B[X]
+
+#0x741
+Game Over[X]
+
+#0x742
+In Sorrow's Shroud[X]
+
+#0x743
+Records[X]
+
+#0x744
+Victory and the Future[X]
+
+#0x745
+Fly with the Breeze[X]
+
+#0x746
+Epilogue[X]
+
+#0xDD5 FE3EnemyTheme
+Opposition[X]
+
+#0xDD6 FE1EnemyTheme
+Adversary[X]
+
+#0xDD1 FE1BossTheme
+Stalwart Opposition[X]
+
+#0xDD2 FE1CoolMapTheme
+A Hero's Destiny[X]
+
+#0xDD7 FE3BossTheme
+Confronting a Strong Foe[X]
+
+#0xDD3 FE3ChillMapTheme
+Endless Battle[X]
+
+#0xDD4 FE3StrategyMap
+Young Light[X]
+
+#0xDD8 FE3BattleTheme
+Initiative[X]
+
+#0xDD9 FE4PrologueTheme
+Birth of the Holy Knight[X]
+
+#0xDDA FE4SnowTheme
+Dance in the Sky[X]
+
+#0xDDF FE5AttackTheme
+Attack (FE5)[X]
+
+#0xDE0 FE5DefendTheme
+Defense (FE5)[X]
+
+#0xDE1 FE5BossTheme
+Boss (FE5)[X]
+
+#0xDDB FE5FieldsTheme
+Base[X]
+
+#0xDDC FE5FogTheme
+Scouting for Enemies[X]
+
+#0xDDD FE5IntenseMapTheme
+Adversity[X]
+
+#0xDDE FE5SpookyMapTheme
+Defeat is Near[X]
+
+#0xDE2 FE6Attack
+Attack! (FE6)[X]
+
+#0xDE3 FE6Defend
+Revenge![X]
+
+#0xE27 FE6Arena
+Arena (FE6)[X]
+
+#0xDE4 FE6BossBattle
+Fight to Tomorrow[X]
+
+#0xDE6 FE6FogMap
+Shadow Approaches[X]
+
+#0xDE7 FE6BadGuys
+Messenger from the Darkness[X]
+
+#0xDE9 FE6Bandits
+Deer of the Mainland[X]
+
+#0xDE8 FE6IntenseMapTheme
+Scars of the Scouring[X]
+
+#0xDEA FE6GaidenBadGuys
+Legendary Inheritance[X]
+
+#0xDEB FE6TravelMapTheme
+For the Commanders[X]
+
+#0xDEC
+Frontier[X]
+
+#0xDED FE6CoolMapTheme
+Within the Magnificent Nature[X]
+
+#0xDF6 FE6Victory
+Binding Ties[X]
+
+#0xDF4
+When the Rush Comes[X]
+
+#0xDEE FE6EndMap
+Triumph[X]
+
+#0xDF5 FE6BadVictory
+Into the Shadow of Triumph[X]
+
+#0xDE5 FE6BadGuysCome
+An Unexpected Caller[X]
+
+#0xDEF FE6WorldMap1
+I: Charge[X]
+
+#0xDF0 FE6WorldMap2
+II: Reclaim the Capital[X]
+
+#0xDF1 FE6WorldMap3
+III: Unseen Enemy[X]
+
+#0xDF2 FE6WorldMap4
+IV: Final Chapter[X]
+
+#0xDF3 FE6RecruitTheme
+Join Us![X]
+
+#0xDF7 FE6ElfinTheme
+Poem of Breeze[X]
+
+#0xDF8 FE6BattlePrep
+Prepare to Charge (FE6)[X]
+
+#0xDF9 FE7AttackTheme
+Strike[X]
+
+#0xDFA FE7DefendTheme
+Safeguard[X]
+
+#0xDFC FE7BossTheme
+Rise to the Challenge[X]
+
+#0xDFB FE7MorphTheme
+Softly with Grace[X]
+
+#0xDFE FE7HectorMapTheme
+Precious Things[X]
+
+#0xE02 FE7BadGuyEvents
+Stratagem[X]
+
+#0xE01 FE7MarkyjoeMeme
+Inescapable Fate[X]
+
+#0xDFF FE7LynSong
+Girl of the Plains[X]
+
+#0xE00 FE7GenericBaddies
+Black Fang[X]
+
+#0xDFD Melee
+Together We Ride![X]
+
+#0xE03 FE7Prep
+Prepare to Charge (FE7)[X]
+
+#0xE04 FE9Attack1
+Clash[X]
+
+#0xE05 FE9Attack2
+Decisive Attack[X]
+
+#0xE06 FE13IntenseMapTheme
+Destiny[X]
+
+#0xE07 YggdraMilanorAttack
+Milanor Thieves March[X]
+
+#0xE08 YggdraKnightAttack
+Royal Army (Siege)[X]
+
+#0xE09 YggdraRuin
+Prelude to Ruin[X]
+
+#0x61
+Royal Army (Blitzkrieg)[X]
+
+#0xE34
+Royal Army (Defense)[X]
+
+#0xE35
+Royal Army (Decisive Battle)[X]
+
+#0xE33
+Yggdra Sortie![X]
+
+#0xE0C
+Milanor Sortie![X]
+
+#0xE0B
+Gulcasa Sortie![X]
+
+#0xE0A
+Imperial Army (General) Sortie![X]
+
+#0xE0D
+Pamela Theme (Unison)[X]
+
+#0xE0F TOS
+Battle (Tales of Phantasia)[X]
+
+#0xE10
+Spirit Battle[X]
+
+#0xE11
+Olive Village[X]
+
+#0xE12
+The Second Act[X]
+
+#0xE15 TOD
+The Storm and Stress[X]
+
+#0xE16
+Go on a Cruise[X]
+
+#0xE17
+Kingdom[X]
+
+#0xE18
+Despair[X]
+
+#0xE19
+Idle Fears[X]
+
+#0xE1A
+Unfinished World[X]
+
+#0xE1B
+Mysterious Night[X]
+
+#0xE1C
+A Sanctuary[X]
+
+#0xE1D
+I'm a Champion![X]
+
+#0xE1E
+Victim of Fate[X]
+
+#0xE0E
+Ability Test[X]
+
+#0xE13 TOSSong
+Untold Despair[X]
+
+#0xE14
+Zelos[X]
+
+#0xE1F TOX2
+For the Sake of Mutual Proof[X]
+
+#0xE20
+Proof of Choice[X]
+
+#0xE21
+If It's For You[X]
+
+#0xE22
+GATE OF STEINER[X]
+
+#0xE23
+Fate to Despair[X]
+
+#0xE24
+The Fragrence of Dark Coffee[X]
+
+#0xE25
+I Don't Want to be Called Weak[X]
+
+#0xE26
+I Don't Need Promises[X]
+
+#0xE68
+Arsenal[X]
+
+#0xE69
+Akashi's Armory[X]
+
+#0xE6A
+Be Absentminded[X]

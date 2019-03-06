@@ -9,7 +9,7 @@ Sir Isaac! We have a problem![AN]
 [FarLeft]
 Mayor, we've cleared[N]
 most of the bandits.[AN]
-What's the problem?[AN]
+What's the problem now?[AN]
 
 [MidRight]
 While we were in that mess,[AN]
@@ -36,7 +36,7 @@ help our girls...[AN]
 
 [FarLeft]
 Of course, Mayor.[N]
-Look forward to good news.[AN]
+Look forward to the good news.[AN]
 
 [MidRight][Clear][Left][Clear][MidRight][LoadAudrey]
 

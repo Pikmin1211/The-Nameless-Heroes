@@ -16,6 +16,9 @@ Paladin[X]
 #0x24A
 Knight[X]
 
+#0x288
+Knight[X]
+
 #0x24B
 General[X]
 
@@ -236,4 +239,7 @@ Command Kn.[X]
 War Monk[X]
 
 #0xC6
-Commander[X]
+Marshall[X]
+
+#0xE66
+Thaumaturge[X]

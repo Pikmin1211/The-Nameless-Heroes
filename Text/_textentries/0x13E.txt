@@ -1,1 +1,1 @@
-Wait for specified turn[X]
+Survive[X]

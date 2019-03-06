@@ -1,0 +1,4 @@
+
+[MidRight][LoadIsaac]
+[ToggleMouthMove]...[....][AN][CloseEyes]
+.....[.....][A][X]

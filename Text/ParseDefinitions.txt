@@ -116,6 +116,8 @@
 [LoadMike] = [LoadFace][0x6E][0x1]
 [LoadZot] = [LoadFace][0x39][0x1]
 [LoadBreguet] = [LoadFace][0x31][0x1]
+[LoadHaltmann] = [LoadFace][0x6C][0x1]
+[LoadBazba] = [LoadFace][0x33][0x1]
 
 
 [LoadWrys] = [LoadFace][0x2D][0x1]

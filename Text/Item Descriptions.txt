@@ -608,3 +608,6 @@ units that step on it.[X]
 
 #0x3D5
 A monstrous, overgrown claw.[X]
+
+#0xE65
+Launches lethal poison.[X]

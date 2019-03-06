@@ -107,10 +107,10 @@ Galius[X]
 Echidna[X]
 
 #0xC4
-Elfin[X]
+Elffin[X]
 
 #0xBB
-Lalum[X]
+Larum[X]
 
 #0x1B9
 Darth[X]

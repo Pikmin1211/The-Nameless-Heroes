@@ -43,117 +43,140 @@ Final[X]
 #0xE3
 Prologue[X]
 
-#0x124
+#0x12C PrologueObjective
+Defeat Boss[X]
+
+#0x125 MapPrologueObjective
+Defeat Boss[X]
+
+#0xE8 PrologueName
+Mercenary's Sortie[X]
+
+#0x147 Chapter1Objective
+Defeat Boss[X]
+
+#0xE9 Chapter1Name
+Port Town Valetta[X]
+
+#0x134 Chapter2Objective
+Seize Gate[X]
+
+#0x127 MapChapter2Objective
+Seize Gate[X]
+
+#0xEA Chapter2Name
+The Island of Devils[X]
+
+#0x124 Chapter3Objective
 Survive[X]
 
-#0x125
-Defeat boss[X]
+#0x13E MapChapter3Objective
+Survive[X]
 
-#0x126
-Rout[X]
+#0xEB Chapter3Name
+Etrurian Ship[X]
 
-#0x127
-Seize gate[X]
+#0x131 Chapter4Objective
+Escape[X]
 
-#0x128
-Seize gate[X]
+#0x128 MapChapter4Objective
+Escape[X]
 
-#0x129
-Seize throne[X]
+#0xEC Chapter4Name
+Death Mountain[X]
 
-#0x12A
-Seize throne[X]
+#0xEE Chapter5Name
+Fight for Freedom[X]
 
-#0x12B
-Defeat demon[X]
+#0xEF Chapter6Name
+The Resistance[X]
 
-#0x12E
-Rout bandits[X]
+#0xF4 Chapter7Name
+A Promise[X]
 
-#0x12F
-Seize throne[X]
+#0xF1 Chapter8Name
+As a Knight[X]
 
-#0x130
-Defeat boss in 20 turns[X]
+#0x13A Chapter9Objective
+Survive or[N]
+Defeat Boss[X]
 
-#0x131
-Escape in 30 turns[X]
+#0xF2 Chapter9Name
+The Nameless[X]
 
-#0x132
-Seize throne[X]
-
-#0x133
+#0x133 Chapter10Objective
 Talk to Vulcan[X]
 
-#0x829
+#0x829 MapChapter10Objective
 Talk[X]
 
-#0x135
-Seize throne[X]
+#0xF3 Chapter10Name
+Hopeful Voyage[X]
 
-#0x136
-Rout enemy[X]
+#0x132 Chapter11Objective
+Seize Throne[X]
 
-#0x138
-Rout monters[X]
+#0x12A MapChapter11Objective
+Seize Throne[X]
 
-#0x139
-Defeat Hyuuga[X]
+#0x122 Chapter11Name
+For Pride and Belief[X]
 
-#0x13A
-Survive for 13 turns,[N]
-or defeat Haguro[X]
+#0x140 Chapter12Objective
+Escape or[N]
+Defeat Boss[X]
 
-#0x13B
-Seize throne[X]
+#0xED Chapter12Name
+Lost in a Sandstorm[X]
 
-#0x13C
-Rout[X]
+#0x139 Chapter13Objective
+Defeat Boss[X]
 
-#0x13D
-Seize throne[X]
+#0xF5
+The Flames of Evil[X]
 
-#0x13E
-Wait for specified turn[X]
+#0x13E Chapter14Objective
+Survive[X]
 
-#0x13F
-Protect[X]
+#0x143 MapChapter14Objective
+Defend[X]
 
-#0x140
-Escape or defeat boss[X]
+#0xF6 Chapter14Name
+Dark Clouds Brew[X]
 
-#0x141
+#0x146 Chapter15Objective
+Seize Two Gates[X]
+
+#0xF7 Chapter15Name
+Burning Sand[X]
+
+#0x142 Chapter16Objective
+Attack with[N]
+the Liberation[X]
+
+#0x13F MapChapter16Objective
+Attack[X]
+
+#0xF8 Chapter16Name
+Desolate Capital[X]
+
+#0x10C BaseName
+Base[X]
+
+#0x10D Chapter8xName
+Assault Strategy[X]
+
+#0x149 Chapter12xObjective
+Seize Throne[X]
+
+#0xF0 Chapter12xName
+The Silver Wolf[X]
+
+#0x141 Chapter14xObjective
 Talk to Lizzy[X]
 
-#0x142
-Collaborate with the Liberation[X]
+#0x10E Chapter14xName
+All for You[X]
 
-#0x143
-Defend base[X]
-
-#0x144
-Seize throne[X]
-
-#0x146
-Seize two castles[X]
-
-#0x147
-Defeat boss[X]
-
-#0x148
-Rout[X]
-
-#0x149
-Seize throne[X]
-
-#0x14A
-Rout monsters[X]
-
-
-
-
-
-
-
-
-
+#0x153 ArenaName
+Arena[X]

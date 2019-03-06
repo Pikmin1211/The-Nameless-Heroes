@@ -187,9 +187,6 @@ Hide Units[X]
 #0x47
 Victory Cond[X]
 
-#0x4A
-Survival[X]
-
 #0x4B
 ON[X]
 

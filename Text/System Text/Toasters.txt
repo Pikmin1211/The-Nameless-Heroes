@@ -86,11 +86,11 @@ staves can't be stolen.[X]
 There's nothing to repair.[X]
 
 #0x7D5
-Only weapons, tomes, and
+Only weapons, tomes, and[N]
 staves can be repaired.[X]
 
 #0x7D6
-There's no more ammo for
+There's no more ammo for[N]
 the ballista.[X]
 
 #0x7D7
@@ -165,10 +165,10 @@ Select a unit to use the staff on.[X]
 Select which unit to speak to.[X]
 
 #0x7EE
-Select unit to refresh.[X]
+Select a unit to refresh.[X]
 
 #0x7EF
-Select warp point.[X]
+Select a warp point.[X]
 
 #0x7F0
 Reorder your units.[X]
@@ -180,7 +180,7 @@ Select a weapon to attack with.[X]
 Select a character to restore HP to.[X]
 
 #0x7F3
-Select character to warp.[X]
+Select a character to warp.[X]
 
 #0x7F4
 Select which character to bring next to you.[X]
@@ -228,10 +228,10 @@ Select which space to use picks on.[X]
  is gone.[X]
 
 #0x804 got
-Obtained[X]
+obtained[X]
 
 #0x805 got2
-Obtained[X]
+obtained[X]
 
 #0x806
 Stole [X]
@@ -252,7 +252,7 @@ Support level increased.[X]
  can now be used.[X]
 
 #0x80C
-Sent [X]
+ sent[X]
 
 #0x80D
 You can now use [X]
@@ -261,7 +261,7 @@ You can now use [X]
 Dropped [X]
 
 #0x80F
-Sent [X]
+ sent[X]
 
 #0x810
 Strength increased.[X]
@@ -303,10 +303,10 @@ Disabled trap.[X]
 Recovered mine.[X]
 
 #0x81D
-Skill Learned.[X]
+Skill learned.[X]
 
 #0x81E
-Skill Learned.[X]
+Skill learned.[X]
 
 #0x82B
 Linking error.[N]
