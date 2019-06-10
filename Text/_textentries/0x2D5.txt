@@ -1,2 +1,2 @@
 Knights trained in a variety of weapons.[N]
-Equip: Axe, bow, light, dark.[X]
+Equip: Axes, bows, light, dark.[X]

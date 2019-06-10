@@ -1,2 +1,2 @@
 Knights trained in a variety of weapons.[N]
-Equip: Sword, lance, staff, anima.[X]
+Equip: Swords, lances, staves, anima.[X]

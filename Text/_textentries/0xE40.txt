@@ -1,4 +1,3 @@
-
 [MidRight][LoadWolf]
 This looks good.[N]
 I'll just pick it up.[A][X]

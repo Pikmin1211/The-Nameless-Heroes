@@ -14,10 +14,10 @@ Check Map[X]
 Save[X]
 
 #0x50E
-Character[X]
+Select[X]
 
 #0x50F
-Choose[X]
+Character[X]
 
 #0x510 War
 Evaluation[X]
@@ -261,3 +261,23 @@ The current number of units.[X]
 
 #0x60A
 Manage your party's items.[X]
+
+#0x549
+Details of the[N]
+battle thus far.[X]
+
+#0x54A
+Details about the[N]
+enemy leader.[X]
+
+#0x54B
+Details about the[N]
+battle to come.[X]
+
+#0x54C
+View support[N]
+relationships[N]
+between units.[X]
+
+#0x54D
+View the map.[X]

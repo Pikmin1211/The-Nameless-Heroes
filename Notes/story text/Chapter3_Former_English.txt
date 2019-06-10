@@ -1,0 +1,136 @@
+Chapter 3 English  Opening 1 ID 94B
+
+Captain: If we keep the ship sailing smoothly as we do, we got about half a day left to go.
+Issac: Ifm sorry, Captain. Having your boat sailed right into pirate territory must have been pretty risky.
+Captain: Itfs fine. With pirates roaming around, business is pretty much nonexistent. Also, the people of this town says theyfll help us, so we must do what we can.
+Issac: Glad you say so, but there comesc
+Captain: Whatfs wrong?
+Issac: Itfs a ship, Captain. Itfs trying to come alongside us.
+Captain: Shit, they've approached us hiding in this fog. Huhc it seems to bear Etrurian colors. Is it a patrol ship? The biggest conundrum is what they want from us.
+
+Opening 2 ID 93B
+Schwarz: This is a patrol ship of the Kingdom of Etruria. Stop the ship, and bring your captain to me.
+
+Opening 3 ID 928
+Captain: Apparently, theyfre calling me. Anyway, itfs not a big deal. Wait in the ship. Ifll deal with this hassle.
+Issac: Captain? Is this a common occurrence?
+Captain: Noc this is the first time. The whole continent is in turmoil these days so I guess the Etrurian guards are being a bit harsher. This misunderstanding should be cleared up pretty quickly.
+Issac:c
+
+Opening 4 ID 928
+Captain: Ifm the captain here. Whatfs the problem, officer?
+Schwarz: My name is Schwarz and I am the chief of the Etrurian guards. Could I investigate the ship, please?
+Captain: Wh, why, sir? What the hell are we suspected of?
+Schwarz: I agree that this is certainly sudden, so Ifm sorry. In fact, we overheard news that pirates are lurking in this neighbourhood, so wefre investigating. I wonder if you could let us.
+Captain: Huh, sirc? You think we look like gpiratesh?
+Schwarz: Ifm just making sure. Pirates these days are very smart when it comes to disguises.
+Captain: If thatfs the casec, that sounds reasonable.
+Schwarz: Thank you for your cooperation. Alright, everyone, I got permission. Men, bring all the cargo of their ship into ours!
+Soldier: Yes sir! Wefll go and get everything ready.
+Captain:Oh... please, wait just a little. Ifve never heard Etrurian guards do such things!
+Schwarz: Wefll only take the cargo back to base and investigate it. When it comes to an investigation, we must make a thorough one. Or, do you have anything shady behind your back?
+Captain: Thatfs not itc But if you take all this cargo away, our businessfll get stalled.
+Soldier: Mr. Schwarz, wefre ready.
+Schwarz: Good. Do it. 
+Soldier: Ay, sir.
+Captain: Hey! All of you! Stop doing that! Donft ruin our ship!
+Schwarz: c? Whatfs up? What is going on with your hands?
+Captain: What?
+Schwarz: Donft touch me with your dirty, commoner hands!
+Captain: !!
+Schwarz: This act can be seen as a sign of rebellion against the Etrurians!
+Captain: No, donft be silly! I only touched you for a moment!
+Schwarz: Soc you rebelsc deserve punishment, right?
+Captain: Hey! Calm dowc
+
+Opening 5 ID 94D
+Issac: !! cThis is starting to get troublesome.
+
+Opening 6 ID 94E
+Issac: Captain! Are you OK?
+Schwarz: Well, well, who are you people? You seem to be a group of mercenaries or something, butc That ship is property of the rebels. We must confiscate it, so you must all vacate the boat!
+Issac: This is the middle of the ocean. Besides, a lot of civilians are below decks, so where are you telling us to go?
+Schwarz: Into the water, of course. Wefll help you do it. Now you should gather everyone here on the deck.
+Issac: cSorry, but that offer is an option we canft take. 
+Schwarz: Wellc We are doing this while bearing the mantle of gjusticeh. So you are now disturbing justice, in which case I cannot overlook that refusal as a gknighth.
+Issac: But how is it, that you, a knight, would find fault with the captain, commandeer the ship and take the supplies? That almost seems like something a gpirateh would do.
+Schwarz: You treat us as gpirateshc?
+Issac: And as a gpirateh, you seem honored with a very fine flag.
+Schwarz: Youc lowly mercenariesc! Soldiers, kill those bastards! Get ready to kill everyone on that ship! Itfs a grave crime to insult me, no, us Etrurian knights. Your death shall not be quick!
+
+Opening 7 ID 92E
+Seaman: Captain! Hey, mercenaries, wefll take care of Captain. So will you keep them from coming into our ship? 
+Issac: Understood. But I too have something to ask of you, professional seaman.
+Seaman: We specialize only in transportation. However, Ifll listen to you at least.
+Issac: Is it possible to pierce the enemyfs command ship? Unless some trouble happens, the enemy wonft withdraw. We canft keep fighting forever. Can you make it?
+Captain: We canc
+Seaman: Captain! Please donft overdo it, youfre still injured!
+Captain: Yac idiotc Nowfs c the timec to c overdo it. Youcexplain.
+Seaman: Y, yupc We are sailors. We know everything about most ships. So, we can secretly attack the command ship and burst a hole that causes it to sink.
+Issac: Alright, wefll keep them distracted up top as long as possible.
+Seaman: Ifll leave it to yac Now, letfs retreat, Captain!
+
+Rem appears on turn 4! ID 950
+Rem: Oh, hurray! At last, therefs a chance for me to escape! Hell, I successfully stole into this ship, but since it set sail, Ifve been in trouble. Oh well, time to evacuate!
+
+Rem and Issacfs conversation ID A71
+Issac: Hey you! Whyfd you escape from the Etrurian ship?
+Rem: Gee, I was seenc Ifll pass myself off anyhowc In fact, sirc, I was caught by the people on the shipc Ifve barely escaped with my lifecsniff.
+Issac: That claim sounds made up. You must be trying to hide it, but I see you're holding some valuable objects. So the story is like this; you stole into the Etrurian ship to snitch things, but unfortunately, you were unable to break out of it, right?
+Rem: S, so what! Ifm barely getting by! Yup, I do steal, but I canft afford to care about whatever I do!
+Issac: That attitude is passable, but only for a time. And the end of that time will certainly come, when you must change your way of life. Itfs not now, though. Youfre lucky this time.
+Rem:c
+Issac: Come on, get out of here, before youfre involved.
+Rem: Hey, can I stay with you? Are you laddies mercenaries, arenft you? Since you preach about changing ways of life so much, how about you gimme the opportunity to change my way? Or Ifll follow you around. 
+Isaac: Do you understand what this situation is like, donft you?
+Rem: Of course I do. And itfs no obstacle. 
+Issac: Very well. I will let you in, in consideration of your guts. But can you listen to orders and act obediently?
+Rem: Huh, Ifd be glad to!
+
+Brian and Rem conversation ID A73
+Brian: Hmm? That girl looks like c?
+Rem: Hey you! Could you please get outta my way, lad!? As you see, Ifm barely escaping with my life! 
+Brian: Oops, sorry. You can go that way. Hurry up, kid.
+Rem: efThanksff, sir.
+Brian: Hey, little girl, wait a second!
+Rem: What? Donft you see Ifm in a hurry?
+Brian: I do see you were holding some pretty expensive looking stuff. Youfre a thief, right?  
+Rem: Hey, those are mine! Give them back!
+Brian: Yeah, yeah, better give it backc 
+Rem: Hmph!
+Brian: Herefs a piece of advice, one thief to the other. Stop pickpocketing, or youfll soon find yourself in between a rock and a hard place.
+Rem: You, a thief, telling me to stop thieving? Youfve gotta practice what you preach! Wherefs yer boss? Ifve gotta complain about you, or I cannot settle down! 
+Brian: Wait, kid! Donft go that way! Theyfre having severe fighting over there.
+Rem: Shut up, you preachy old man!
+
+Rem Death Quote ID C05
+Rem: Owc.
+This is the worstc.
+
+Rem finding Treasure ID E59
+Rem: Did some idiot drop this, huh?
+What a nice catch! Before people notice, Ifve gotta sell it on the market!
+
+Schwarz boss dialogue ID904
+Schwarz: What an annoyance. My armor will get dirtyc with your blood!
+
+Schwarz vs. Isaac dialogue ID91A
+Schwarz : Considering youfre a lowly mercenary, your armor looks refined. In addition, your sword techniquec Itfs Etrurian!
+Isaac: And what?
+Schwarz: Youfre pitifulc! Chuckle. Youc must have been a noble! Unable to maintain your clan, you degraded yourself to a mercenary! I canft find any other way to call you,gpitifulh man!
+Isaac: Ifm not going to join you in stalling for time. 
+Schwarz: Chucklec For the honor of Etruria, a pitiful man like you shall die by my hand!
+Isaac: Ifll see you try!
+
+Schwarz death quote ID 90D
+Schwarz: Now, I get itc That black armorc You dirty, Etruscan minionsc gNamelesshc
+
+Chapter 3 ending cut scene
+Schwarz: Tskc These lowly mercenaries are troublesome.
+Soldier: Commander Schwarz! The enemy has blown a hole in the hull of our ship! If we continue this battle, wefll sink!
+Schwarz: When in the world did they do such a thingc? Humiliated by a bunch of lowly mercenariesc But we canft help it. Men! Wefll stop fighting and leave now!
+Soldier: Yes, sir!
+Schwarz: Dammit! Shit! When we meet next, mercenariesc Ifll surelyc !
+
+Chapter 3 ending 2
+Isaac: Hear me, soldiers! Your general is defeated, so this fight is now pointless! Drop your weapons and surrender, and I will guarantee that your life will not be taken!

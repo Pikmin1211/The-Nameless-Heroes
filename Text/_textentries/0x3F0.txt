@@ -1,1 +1,1 @@
-Reduces enemy HP by half.[X]
+Long-range weapon. Inflicts poison.[X]

@@ -594,3 +594,6 @@ Deadly Claw[X]
 
 #0xE64
 Sludge Bomb[X]
+
+#0xF00
+Spellshield[X]

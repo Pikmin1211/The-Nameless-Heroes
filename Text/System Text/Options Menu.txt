@@ -181,9 +181,6 @@ Burst[X]
 #0x45
 Players[X]
 
-#0x46
-Hide Units[X]
-
 #0x47
 Victory Cond[X]
 

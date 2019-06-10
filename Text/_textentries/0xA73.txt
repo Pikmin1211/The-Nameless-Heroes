@@ -1,0 +1,69 @@
+
+[MidRight][LoadBrian]
+Hmm? That girl looks like...?[AN]
+
+[FarLeft][LoadRem][MoveLeft]
+Hey, you! Can you[N]
+get outta my way?![AN]
+If you didn't notice,[AN]
+I'm barely escaping[N]
+with my life here![AN]
+
+[MidRight]
+My apologies. You should be[N]
+able to go that way, miss.[AN]
+
+[MidLeft]
+Yeah, thanks, bub.[AN]
+
+[MidRight][Clear][Left][MoveFarRight][Left][LoadBrian]
+Hey, little miss![N]
+Hold a moment![AN]
+
+[FarRight][Clear][LoadRem]
+What is it?! Can't you[N]
+see I'm in a hurry?![AN]
+
+[Left]
+I see you were holding some[N]
+extravagant looking wares.[AN]
+You're a thief, are you not?[AN]
+
+[FarRight][MoveFarRight]
+Hey![AN]
+
+[MoveRight]
+Those are mine![N]
+Give them back![AN]
+
+[Left]
+Of course, of course.[N]
+There you are, miss.[AN]
+
+[Right][MoveRight]
+Hmph![AN]
+
+[Left]
+A piece of advice,[N]
+one thief to another.[AN]
+Stop pickpocketing,[AN]
+or you'll find yourself[N]
+in an unfortunate situation.[AN]
+
+[Right]
+You, a thief, telling[N]
+me to stop thieving?[AN]
+You've gotta be[N]
+joking with me![AN]
+Where's your boss?![AN]
+I've gotta complain about[N]
+you, or I can't settle down![AN]
+The nerve! Urgh![AN]
+[Clear]
+
+[Left]
+Hey, miss! Don't go that way![AN]
+You could get hurt! Hey![AN]
+
+[FarRight]
+Shut it already, fatso![A][X]

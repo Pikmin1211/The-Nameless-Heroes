@@ -5,6 +5,7 @@
 #include "Story Text/Story Text.txt"
 #include "Class Names.txt"
 #include "Class Descriptions.txt"
+#include "Class Reel Text.txt"
 #include "Item Names.txt"
 #include "Item Descriptions.txt"
 #include "Story Page.txt"

@@ -1,0 +1,220 @@
+#0x679
+A mercenary who roams the battlefield[N]
+and inspires fear in his enemies.[X]
+
+#0x67D
+A title earned only by those cavaliers whose[N]
+lives have been dedicated to justice.[X]
+
+#0x67E
+Heavily armored knights. Superior defense[N]
+outweighs their poor movement and speed.[X]
+
+#0x67C
+Mounted knights with superior movement.[N]
+Well balanced for speed, defense, & attack.[X]
+
+#0x6A2
+Knights who soar through the skies. They[N]
+resist magic but are weak against bows.[X]
+
+#0x69F
+Members of the clergy who wield sacred[N]
+staves to aid allies. They wield no weapons.[X]
+
+#0x693
+Strategists with superior knowledge of[N]
+warfare who lead their allies to victory.[X]
+
+#0x696
+Axe-wielding powerhouses whose wild fighting[N]
+style leaves them with poor defenses.[X]
+
+#0x680
+Rogues and fortune hunters. They possess[N]
+weak attacks but many other skills.[X]
+
+#0x686
+Lightly protected warriors armed with bows.[N]
+They can attack from a distance.[X]
+
+#0x68C
+Mages schooled in anima magic. They bypass[N]
+defenses but are weak against weapons.[X]
+
+#0x69E
+Ascetic wielders of sacred light magic.[N]
+Superior ability to hit but low attack power.[X]
+
+#0x697
+A title awarded to battle-tested warriors.[N]
+The strongest of all fighters.[X]
+
+#0x6AF
+Expert shamans who use magic to soar in[N]
+the sky. Trained in all schools of magic.[X]
+
+#0x6B9
+Wise and powerful commanders with[N]
+expertise in all types of weapons.[X]
+
+#0x6B1
+Armored tanks that can attack from a[N]
+long distance. Devastating to flying foes.[X]
+
+#0x683
+Swordsmen who possess superior speed and[N]
+technique. They specialize in killing strokes.[X]
+
+#0x6A4
+Wielders of sacred staves who aid allies in[N]
+battle. They refuse to take arms in combat.[X]
+
+#0x6B0
+A maiden skilled with a sword, she is[N]
+a guardian knight of Etruria.[X]
+
+#0x6A9
+Axe-wielding privateers trained to[N]
+fight on the high seas.[X]
+
+#0x698
+Mighty axe fighters especially skilled[N]
+in mountain combat.[X]
+
+#0x69B
+Masters of elder black magic. They are very[N]
+powerful, but very slow as well.[X]
+
+#0x687
+Archers dedicated to mastering their art.[N]
+None can match their skill with the bow.[X]
+
+#0x681
+Professional soldiers-for-hire. They are well[N]
+balanced, with superior abilities all around.[X]
+
+#0x6A7
+Dancers whose grace soothes allies.[N]
+They do not fight in combat.[X]
+
+#0x694
+Soldiers with highly refined skills. Their[N]
+spear techniques are swift and fatal.[X]
+
+#0x684
+A title given to those dedicated to the[N]
+sword. Incredible speed and killing strokes.[X]
+
+#0x68E
+Mounted knights who stake the field[N]
+using both blades and magic tomes.[X]
+
+#0x68B
+Sky knights with swooping lance strikes[N]
+that strike like thunder in a storm.[X]
+
+#0x6B4
+Faithful servants that support with[N]
+staves and strike with swords.[X]
+
+#0x690
+Nomads of the eastern plains. Skilled in[N]
+horseback archery. Incredibly swift.[X]
+
+#0x6A5
+Mounted maidens whose sacred staves aid[N]
+allies. They are swift but will not fight.[X]
+
+#0x699
+A title for those who live to fight. Strong in[N]
+mountains or at sea. Skilled in killing blows.[X]
+
+#0x695
+Adventurer-thieves with skills so great they[N]
+can open chests and doors without tools.[X]
+
+#0x68D
+A title given to advanced mages. They wield[N]
+magic and can carry staves.[X]
+
+
+#0x69A
+Knights with high defense and mobility. They[N]
+use swords, axes, and lances equally well.[X]
+
+#0x67B
+A powerful commander whose presence gives[N]
+allies courage and strikes fear into foes.[X]
+
+#0x688
+Mounted knights who charge into battle with[N]
+sword and bow. They possess great mobility.[X]
+
+#0x685
+Masters of the killing arts. They have the[N]
+ability to kill a foe with a single stroke.[X]
+
+#0x6A6
+A title given to the finest troubadours.[N]
+Wields powerful magic to aid allies.[X]
+
+#0x69C
+A title granted to powerful shamans. Those[N]
+who battle them cower in fear of their might.[X]
+
+#0x67F
+Lordly knights in heavy armor. They possess[N]
+excellent defensive and offensive skills.[X]
+
+#0x678
+Knights mounted on a serpentine breed of[N]
+Wyvern. Their swift stikes penetrate armor.[X]
+
+#0x68F
+A title given to monks who have attained[N]
+enlightenment. Wields magic for offense.[X]
+
+#0x68A
+Knights united with their wyvern mounts.[N]
+They have better movement and combat skill.[X]
+
+#0x682
+The finest of all mercenary warriors.[N]
+Expert in all fields of combat.[X]
+
+#0x6A3
+Knights united with their pegasus mounts.[N]
+They have superior skill and resistance.[X]
+
+#0x6B7
+A title granted to gifted Soldiers.[N]
+They are powerful all-rounders.[X]
+
+#0x6B5
+Ferocious, three-headed hellhounds. Their[N]
+triple-fanged bites are difficult to dodge.[X]
+
+#0x6BA
+An outlander of unknown origins who[N]
+has deady skill in mountain combat.[X]
+
+#0x6AA
+Master mages with an unusual attunement to[N]
+the dark. Wields supreme magical power.[X]
+
+#0x69D
+A title granted to shamans who have used[N]
+forbidden magic to learn the summoning arts.[X]
+
+#0x692
+Legendary beasts whose existence is argued[N]
+upon. Their fiery breath can raze entire cities.[X]
+
+#0x689
+Knights who rule the skies from wyvern-back.[N]
+They are vulnerable to only bows and magic.[X]
+
+#0x6A8
+Average foot soldiers with balanced[N]
+abilities. They bear spears in combat.[X]

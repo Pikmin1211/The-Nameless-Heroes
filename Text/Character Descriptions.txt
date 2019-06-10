@@ -60,3 +60,8 @@ in what others have to say about him.[X]
 A former Etrurian soldier.[N]
 He is incredibly optimistic, to[N]
 the point of it being annoying.[X]
+
+#0xF15
+A former Etrurian knight[N]
+who treats his peers[N]
+as family. Loves tea.[X]

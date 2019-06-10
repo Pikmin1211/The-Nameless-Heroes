@@ -1,0 +1,56 @@
+
+[MidRight][LoadSchwarz][MidLeft][LoadIsaac]
+Captain! Are you OK?[AN]
+
+[MidRight]
+Well well, what[N]
+do we have here?[AN]
+Seems to be a group[N]
+of mercenary rabble.[AN]
+Hey! That ship is[N]
+property of the rebels.[AN]
+We are confiscating it, so[N]
+you must all vacate the boat![AN]
+
+[MidLeft]
+We're in the middle of the ocean.[AN]
+And there are a lot of[N]
+civilians below deck.[AN]
+What exactly are we supposed to do?[AN]
+
+[MidRight]
+Jump into the water, of course.[AN]
+We'll help you do it,[AN]
+if you would be so kind as to[N]
+gather everyone on the deck.[AN]
+
+[MidLeft]
+Thanks, but I think[N]
+we'll pass on that.[AN]
+
+[MidRight]
+My men work under the banner of justice.[N]
+Which means you are obstructing justice.[AN]
+As a knight, I cannot overlook that.[AN]
+
+[MidLeft]
+Yet you, "as a knight", would find fault[N]
+where there is none with our captain,[AN]
+steal his ship, and his supplies?[AN]
+Seems like something a pirate would do.[AN]
+
+[MidRight]
+You would dare compare[N]
+us to pirates!?[AN]
+
+[MidLeft]
+A pirate under a knightly[N]
+banner is a pirate all the same.[AN]
+
+[MidRight]
+You... you lowly mercenaries![N]
+Soldiers, kill those bastards![AN]
+Get ready to kill everyone on that ship![AN]
+It's a grave crime to insult me -[N]
+no, to insult the Etrurian knights![AN]
+Your death shall not be quick![A][X]

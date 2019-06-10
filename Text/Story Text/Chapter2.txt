@@ -514,3 +514,11 @@ Hope you've enjoyed your life,[N]
 [MidLeft][LoadBazba]
 I'm the... mighty... Bazba...[N]
 This ain't... uuugh...[A][X]
+
+
+
+
+#0xE54 ChloeTreasure
+[MidRight][LoadChloe]
+What's this...?[N]
+Hm, should I tell Isaac?[X]

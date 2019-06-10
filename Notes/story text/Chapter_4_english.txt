@@ -1,0 +1,383 @@
+Chapter 4 Opening
+
+Villager Man: Pant...Pant...
+
+Isaac: Friend, are you alright?
+
+Villager Man: I'm sorry... Pant... Pant... I'm... fine.
+I can't let myself fall... If i fall down, everyone will be punished.
+Speaking of which, you've been here for 2months... how's it been for you?
+
+Isaac: I'm still not used to the conditions here. I sometimes see my friends,
+they all look like they're on the verge of death...
+
+Villager: That's true... Hellish conditions every day, all day. If only we could... break free...
+
+Isaac: I can't give up... Do you really think we'll work here till we die?
+
+Villager man: I think that... you're right about that... If they make us live here...
+and it's impossible to rebel, and... i'm... already giving up. My body is in tatters. Ugh...
+
+Isaac:..?!
+
+Red soldier: You, Number 62! Why are you taking a break? Stand up! What happened? Don't stand still, you still have hard work to do!
+
+Isaac: Can you stop for a moment?
+
+Red soldier: Oh, Number 83, you're speaking up? Who the hell even are you? Hey, i'm speaking to you! You bothersome filth!
+
+Isaac: Continue.
+
+Red soldier: Number 62! If you don't make yourself useful, then the whip comes down! And i'm one of the best! You better remember that!
+
+Villager Man: Oh...
+
+Red Soldier: Also, if you die... Then we have plenty more to replace you.
+
+Isaac:...
+
+Red Soldier: Hey, Number 83! You have a job! Collect that garbage over there and get it to the proccesing site! That corpse there had is over time. It emits such a rancid stench, so throw it away, now! And do it quickly!
+
+Isaac: I'm sorry... Yes sir.
+
+Chapter 4 opening 2
+
+Isaac: Finally, night has come... Our day is over, thank the heavens.
+
+Green soldier: Hey, are you awake? If so, can you respond?
+
+Isaac: ... Are you some kind of soldier? Here to thank me for my hard work, perhaps? What can i do for you?
+
+Green soldier: You're the leader of of a mercenary band, known as Captain Isaac? Does that name ring a bell?
+
+Isaac: You...who are you? How did you know that i was caught? Why are you even here, anyway?
+
+Green soldier: As i've told you, i'm here seeking answers. Investigating, if you will.
+
+Isaac: ... Suspicious. Unfortunately, we, ''the mercenaries'', have gotten caught, so we can do nothing.
+
+Green soldier: I understand that. It gave us a good smokescreen, so sorry about that.
+
+Isaac: ... What is your purpose? Why did you contact me?
+
+Green soldier: We call ourselves the "resistance" of the  island of Fibernia against Etruria and ("Band"?) We are an organization that combats opression, 
+and you... i mean your group, would be invaluable to our fight. The reason for this conversation is that, in 2 hours, riots are scheduled to occur in the various prisons.
+
+Isaac: Riots? Are you serious?
+
+Green soldier: We arranged the riots so the people of Eburacum coudl be liberated. In 2 hours, the whole of Eburacum will be freed!
+
+Isaac: So, you want us "Mercenaries" to join the fray and create yet another distraction?
+
+Green soldier: Very helpful of you to understand, sir Isaac. You'll head towards the exit when we break through. However, you must escape before six hours have passed, our our strategy will be compromised.
+We need that momentum dearly.
+
+Isaac:... So, why rebel today? Eburacum's security is almost perfect, so even if the riots are succesful, you'll be besieged by the local troops.
+
+Green soldier: That is why we chose this particular day. It seems that the local militia is absent,apparently besieging Jutes, so this is as good a day as any. We have only today to take action. 
+
+Isaac: I see... Well, i'm already dying in here, so waiting won't do me any good. I'm in.
+
+Green soldier: Here... This is the key to your cell. Follow our instructions closely, and we may suceed. Well then, good luck.
+
+Chapter 4 opening 3
+
+Villager Dude: Soon... Just a little more... I will escape!
+
+Chapter 4 opening 4
+
+Titor: Soon, our plan will begin! I can't wait!
+
+Berkus: Calm down, friend. Let's be patient.
+
+Johhny: Zzzzzz...
+
+Chapter 4 opening 5
+
+Old village Man: Still... not the time?
+
+Chapter 4 opening 6
+
+Isaac: Apparently, according to this map, it seems that these steps are the exit. 
+But the key to this exit is stored at the throne. In other words, we are now fugitives. But... to leave here...
+We will have to supress the commander. Everyone needs to leave for this to be a succes. I have to be careful, too.
+After two minutes (six turns), they'll fire a signal. They'll start the riot. Naturally, soldiers will start to pour out.
+In addition, we should be careful about being caught whenn fleeing. If that happens, we have to rescue them.
+
+Chapter 4 turn event
+ 
+Saar: What... what's happening?
+
+Red soldier: Sir Saar! It seems that the some citizens have caused a riot!
+If we can't stop this, it will extend to the whole of Ebruracum, so action must be swift.
+
+Saar: In this part of the mines, the "Eagles" hold responsibilty. Keep them on standy, and realease the watch dogs. 
+This noise will not spread, for escapees will be chased and stopped.
+
+Red soldier: Yes, the watch dogs...
+
+Saar: Rest assured that you will not attack your allies. All of you are trained soldiers, after all.
+Kukuku... to run away from here, what a fool's errand! They'll regret even thinking of escaping. They will all be killed, either by the eagles or the dogs. After taking them out, go to Jutes.
+Dispel this rabble.
+
+Red soldier: Yes, sir!
+
+Saar: Sorry, ! You can never escape! You will be used by Etruria until your death! (Replaced tsuchiya with groundlings, beacause it apparently means "earthen house")
+
+Chapter 4 Turn event 2
+
+Rem: See, i told you! I've found a way in.
+
+Audrey: Umm, Rem, i'm sorry.
+Well, according to the resistance's plan. This is about the time the riots will start.
+This is the area where Isaac works.
+
+Chloe: Uh... I hope everyone's safe...
+
+Audrey: Well, it seems they still live, for now.
+
+Rem: Sisters, you're worrying for nothing. We can't act alone now. 
+Don't worry about it.
+
+Chloe: Well, i'm sorry about worrying...
+
+Chapter 4 turn event 2 part 2
+
+Audrey: It seems this is our destination. According to the resistance's plans, the riot will start soon.
+This is Isaac's work area.
+
+Chloe: Um... Well, i hope everyone is safe...
+
+Audrey: Well, it seems that they still live, at least for the moment. 
+Are you ok, Chloe? We will save them, and slay this pitiful Lord. 
+
+Chloe: To be treated so well...
+
+Chapter 4 area event
+
+Isaac: It seems that the first phase of the operation is over. From now on, 
+the riots will proceed as planned. 
+
+Chapter 4 area event part 2
+
+Isaac:We'll have to have the defenseless ones escape first. I will withdraw last,
+to be able to secure this exit.
+
+Rem treasure
+
+Rem: What kinds of idiots leave this here? I'll sell this later, heheh.
+
+Berkus treasure
+
+Berkus: ... This is a strange place to find something so useful.
+
+Johhny treasure
+
+Johhny: Hm? I'm not very interested in this. Anyone want this?
+
+Titor treasure
+
+Titor: Oh! How lucky! How much would this sell for?
+
+Chapter 4 Isaac-Berkus talk
+
+Isaac: Berkus? You were here too?
+
+Berkus: Captain, this is bad. Can you leave this message for Chloe?
+I've gotten an additonal request. But that request made me an enemy of Etruria. 
+They caught me, and sent me here. How did you get here?
+
+Isaac: Well... it's bassically the sam story as yours. We both aim for escape.
+Berkus, are you ready?
+
+Berkus: Ha, what compliments i receive from you, Captain.
+
+Chapter 4 Isaac-Titor talk
+
+Titor: Boss! I'm glad that we're back together, even in this hellhole!
+
+Isaac: Excitable as usual, i see. This is nice, especially after such a long time.
+
+Titor: It's not easy being all that cheery in our situation. How long have you been here? How many times did you think you would die?
+It's been an absolute nightmare. You think you can escape?
+
+Isaac: I am escaping. Like, right now.
+
+Titor: The boss will always be the boss. I'll be by your side, so let's tough it out and escape! 
+Come on, let's go!
+
+Isac:...
+
+Chapter 4 Isaac-Civilian talk
+
+Isaac: Hey, you.
+
+Teen Boy: Hmm... What is it?
+
+Isaac: Relax. I'm not a soldier. I just know that help is needed in these trying times.
+
+Teen Boy: Huh...? 
+
+Isaac: I wanted to tell you this because a riot is about to occur. 
+We will escape from Eburacum, and i want you to survive.
+
+Teen Boy: Sir... Take me with you! Mother and father too! I just want to go home...
+Ohh... i can... i can fight! I'll try to be as useful as i can be!
+
+Isaac:...Calm down, it's fine. If you focus on escaping, reuniting with your parents is infinitely more probable.
+
+Teen Boy: Yes... Sir...
+
+Chapter 4 Isaac-Civilian Talk 2
+
+Isaac: Are you safe?
+
+Villager Man: I'm good... Somehow... The fairytale of some "resistance" saving us. Finally come true!
+This is still a riot, so let me help you in escaping! This is once in a lifetime, to finally get this chance,
+to live such a life, finally... I have a familly as well, so for their sake, i will not die!
+
+Isaac: I agree. We will both survive this day!
+
+Chapter 4 Isaac-civilian talk 3
+
+Old villager man: We're rioting, are we?
+
+Isaac: Yes, we are. To escape Eburacum, your help will be appreciated. With more people, confusion will reign more easily.
+For both of our sakes, let's survive.
+
+Old Village Man: If that is your answer, the eagles will cooperate with you. Sadly, i think that my end is near. I'm dead weight anyway, so go on without me.
+
+Isaac: This mindset will get you nowhere! I aim to live, with or without you.
+
+Chapter 4 Isaac-Audrey Talk
+
+Audrey: Isaac! You're safe, right?
+
+Isaac: Audrey? Why are you here, of all places?
+
+Audrey: Chloe's here too. Sophia's on standby outside. I've come to help.
+I'll help you get out of this place alive, to never return.
+
+Isaac: Don't do anything too reckless, please. Come on, let's go...
+Did Kara get back safely?
+
+Audrey: Until recently, but she's gone. This strategy won't be able to be done wothou you, so i had to go back for you.
+
+Isaac: Well, at least she's safe. It's fine if we can all escape. What is this strategy you're talking about?
+
+Audrey: I've assumed the resistance has contacted you.
+
+Isaac: Yes, of course.
+
+Audrey: After all, the eagles in the resistance contacted me and i waited to rescue you. And that chance finally came. Isaac, it's so nice to be able to finally see you safe.
+Let's escape quickly.
+
+Isaac: ...Sorry. I was worried, after all.
+
+Audrey: When we leave here, let's ask the commander for further instructions.
+
+Isaac: Leave it for later.
+
+Chapter 4 Isaac-Johhny Talk
+
+Isaac: Johhny! Wake up, you're on a battlefield!
+
+Johhny: ...Oh! It's been a long time, leader.
+
+Isaac: I question how you're able to sleep when such chaos is occuring around you.
+
+Johhny: I can sleep anywhere. That's my special skill! Well, i guess i can't do it now.
+Let's go searching for freedom!
+
+Isaac:...
+
+Chapter 4 Berkus-Titor Talk
+
+Berkus: So, it looks like something's happened.
+
+Titor: Ah, Berkus, my friend! This place sucks! I can't even drink booze here, with such little freedom.
+It's full of men and so,so cramped! It's time to start our grand quest for freedom.
+
+Berkus: You're complaining about the lack of girls and booze, you idiot?
+At least you're alive, you know?
+
+Titor: Well, i fell like getting out now, especially with you. You and me, the deadly combination!
+
+Chapter4TitorJohnnyTalk
+
+Titor: Oh, Johhny! How fortunate that we're able to meet!
+
+Johhny:... Okay? Let's get out of here together. ... Without leaving anyone behind, i mean.
+
+Chapter 4 ending
+
+Isaac: Hurry up! Is everyone out of their cells? If not, get them out! We've got to escape!
+
+Villger man: Oh ho! I'm gonna go wild when i see one of those damn guards!
+
+Money Man: Well, looks like your prison went...broke. Well, let's escape as fast as we can.
+
+Teen Boy: We can escape, right? Is...this true?
+
+Moustache man: Run away, quickly! We have a chance, let's go!
+
+Old villager man: This momentum.. can get us out of there!
+
+Isaac: Anyway, the riot has now spread! After this, all we need to do is head for the exit!
+
+Green soldier: So, it seems the plan went well...
+
+Isaac: Somehow, it did. If we proceed as we are, can you get us to the exit?
+
+Green soldier: rest assured, we will. The nearest exit has no large conflicts, but a mountain checkpoint is stationed nearby.
+Etrurian soldiers are densely packed there, but their number is not very latge. With this momentum, a breakthrough is feasible.
+
+Issac: I truly hope that it will be a small force. Anyway, it's better going there than staying here. We can't retreat.
+
+Green Soldier: Oh, we will, as much as we can. We'll cause confusion in various places, and you can flee.
+
+Chapter 4 ending 2
+
+Audrey: I'm feeling a bit overwhelmed...
+
+Isaac: We've go to perservere. Once we hit the exit, we'll be able to leave both this place and it's memories. Speaking of which, after we were taken, waht happened. I'm curious about that.
+
+Audrey: It was terrible. We talked with the eagles, and joined the resistance. This is our first mission. But i wonder...
+
+Isaac: They'e the resistance. They fight for the freedom of this island. You did a good thing, siding with them.
+
+Audrey: Right, that's right. With a group as large as this, resistance against the etrurians may become a possibility.
+
+Isaac: Yes, fighting against the etrurian lords...
+
+Audrey: Isaac, just because you're away from your home country, remeber that the wound they dealt you is still healing.
+
+Isaac:... i want to do more than i think. So, what kind of person is this leader. Must be strong to resist Etruria. Are they serious?
+
+Audrey: Yes..she... No. The leader is...
+
+Isaac: He is a woman or a leader? Do you have a deal with them? (This one came out strangely)
+
+Audrey: Yes, that's right? Her charisma is incredible. Her voice is one with the rebellion. She's been resisting for a long time, and her influence can be seen. 
+She's rumored to be called the "beast of the West".
+
+Isaac: This, we're likely to be saved thanks to a woman? I want to meet her and give her my sincere gratitude.
+
+Audrey: You can thank her all you want if we can get out of here.
+
+Isaac: Haha, of course.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

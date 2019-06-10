@@ -44,7 +44,7 @@ Johnny[X]
 Lizzy[X]
 
 #0x19E
-Kerbes[X]
+Cerberus[X]
 
 #0x1A9
 Hamilton[X]
@@ -154,8 +154,8 @@ Etrurian[X]
 #0x1DC
 Warrior[X]
 
-#0x51
-Nameless[X]
+#0x51 schwarztemp
+Schwarz[X]
 
 #0xA7
 Beacon[X]
@@ -282,3 +282,9 @@ Novala[X]
 
 #0x1C5
 Murray[X]
+
+#0xAB
+Officer[X]
+
+#0xF14
+Edmund[X]

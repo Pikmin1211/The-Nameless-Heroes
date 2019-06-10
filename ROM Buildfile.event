@@ -52,6 +52,12 @@
 		WORD 0x07 //original text id 49D
 	POP
 
+	//Item descriptions
+	PUSH
+		ORG $F707DA //Ruin tome
+		SHORT 0x396 //High crit description
+	POP
+
 
     //#include "Patch/Master Hack Installer.event"
 

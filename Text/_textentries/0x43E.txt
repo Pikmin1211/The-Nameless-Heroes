@@ -1,1 +1,1 @@
-Puts enemies to sleep.[X]
+Long-range weapon. Inflicts sleep.[X]

@@ -1,4 +1,3 @@
-
 [MidRight][LoadIsaac][ToggleMouthMove]
 .....[N][ToggleMouthMove]
 This seems to be something.[A][X]

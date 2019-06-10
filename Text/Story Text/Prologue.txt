@@ -726,7 +726,6 @@ Present[X]
 
 
 #0xE3F IsaacTreasure
-
 [MidRight][LoadIsaac][ToggleMouthMove]
 .....[N][ToggleMouthMove]
 This seems to be something.[A][X]
@@ -735,7 +734,6 @@ This seems to be something.[A][X]
 
 
 #0xE40 WolfTreasure
-
 [MidRight][LoadWolf]
 This looks good.[N]
 I'll just pick it up.[A][X]
@@ -744,7 +742,6 @@ I'll just pick it up.[A][X]
 
 
 #0xE42 OlsonTreasure
-
 [MidRight][LoadOlson]
 Did someone lose this...?[N]
 I'll just hold onto it.[A][X]
@@ -753,7 +750,6 @@ I'll just hold onto it.[A][X]
 
 
 #0xE43 MorrisTreasure
-
 [MidRight][LoadMorris]
 Oh? Looks like this was left[N]
 here. I should find the owner.[A][X]
@@ -763,7 +759,6 @@ here. I should find the owner.[A][X]
 
 
 #0xE44 KaraTreasure
-
 [MidRight][LoadKara]
 Ah! What a good find![N]
 Today's my lucky day![A][X]
@@ -773,7 +768,6 @@ Today's my lucky day![A][X]
 
 
 #0xE4A AudreyTreasure
-
 [MidRight][LoadAudrey]
 Hm... I wonder, is this[N]
 useful? I'll just take it.[A][X]

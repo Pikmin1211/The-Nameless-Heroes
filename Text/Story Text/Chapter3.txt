@@ -1,0 +1,847 @@
+#0x94B Chapter3Opening
+
+[MidLeft][LoadIsaac][MidRight][LoadCaptain]
+If the waters keep cooperatin',[N]
+I'd say we've got about...[AN]
+half a day left ta go.[AN]
+
+[MidLeft]
+I apologize, Captain.[AN]
+Having your boat sailed right into pirate[N]
+territory must have been worrisome.[AN]
+
+[MidRight]
+Tis fine. 'Sides, with[N]
+pirates roamin' around,[AN]
+we've got a fat nothing[N]
+in the way of business.[AN]
+Also, the people of this[N]
+town helped us afore,[AN]
+so we're jus'[N]
+returning the favor.[AN]
+
+[MidLeft]
+Glad that you think so,[N]
+but here comes trouble...[AN]
+
+[MidRight]
+What's wrong?[AN]
+
+[MidLeft]
+It's a ship, Captain.[N]
+It's trying to come alongside us.[AN]
+
+[MidRight]
+Shit, they must've[N]
+been hiding in the fog.[AN]
+Hrm... it seems to be[N]
+bearin' Etrurian colors.[AN]
+Is it a patrol ship?[N]
+Whatta they want from us?[A][X]
+
+
+
+
+
+#0x93B Chapter3Opening2
+
+[MidRight][LoadSchwarz]
+This is a patrol ship[N]
+from the Kingdom of Etruria.[AN]
+Stop your ship, and[N]
+bring your captain to me.[A][X]
+
+
+
+
+
+#0x928 Chapter3Opening3
+
+[MidLeft][LoadIsaac][MidRight][LoadCaptain]
+Sounds like they're callin' me.[N]
+It's not a big deal.[AN]
+Wait down below deck, an'[N]
+I'll deal with this lot.[AN]
+
+[MidLeft]
+Captain, is this a[N]
+common occurrence?[AN]
+
+[MidRight]
+No, tis' the first time.[AN]
+The whole blasted continent[N]
+is up in smoke these days,[AN]
+so I guess them Etrurian[N]
+guard types are bucklin' down.[AN]
+This misunderstandin' should[N]
+be cleared up right quick.[AN]
+
+[MidLeft]
+[ToggleMouthMove]...[A][X]
+
+
+
+
+
+#0x94C Chapter3Opening4
+
+[Right][LoadSchwarz][FarLeft][LoadCaptain]
+I'm the cap'n here. What seems[N]
+to be the problem, officer?[AN]
+
+[Right]
+My name is Schwarz, and I'm the chief[N]
+naval officer of the Etrurian guards.[AN]
+Could I investigate this vessel, please?[AN]
+
+[FarLeft]
+Eh? Why? What are[N]
+we suspected of?[AN]
+
+[Right]
+I agree that this is[N]
+certainly sudden, so I'm sorry.[AN]
+We overheard news that pirates[N]
+are lurking in this area,[AN]
+so we're investigating.[N]
+I hope you understand.[AN]
+
+[FarLeft]
+What? Do we look like pirates?[AN]
+
+[Right]
+I'm just making sure.[AN]
+Pirates these days are very[N]
+keen when it comes to disguises.[AN]
+
+[MidLeft]
+If that's the case...[AN]
+then that sounds[N]
+reasonable, I s'pose.[AN]
+
+[Right]
+I thank you for your cooperation.[AN]
+Alright, everyone, we're good to go.[N]
+Men, begin loading their[N]
+cargo onto the ship![AN]
+
+[FarRight][LoadRedSoldier]
+Yes sir! We'll go and[N]
+get everything ready.[AN]
+[Clear]
+
+[FarLeft]
+Hang on a moment![AN]
+I've never heard of Etrurian[N]
+guards doing such things![AN]
+
+[Right]
+We're only taking the cargo back[N]
+to our base and investigating it.[AN]
+When it comes to an investigation,[N]
+we always make a thorough one.[AN]
+Or, is there something shady[N]
+you're trying to hide from us?[AN]
+
+[FarLeft]
+That's not it...[AN]
+If ya take all our cargo away,[N]
+the business'll get stalled![AN]
+
+[FarRight][LoadRedSoldier]
+Sir Schwarz,[N]
+everything's ready.[AN]
+
+[Right]
+Good. Do it.[AN]
+
+[FarRight]
+Yes sir![AN]
+[Clear]
+
+[FarLeft][Clear][Left][LoadCaptain]
+Hey![AN]
+What the hell is[N]
+goin' on here?![AN]
+Stop doing that![AN]
+Don't ruin me ship![AN]
+
+[Right]
+Huh? What are you doing[N]
+with your hands?[AN]
+
+[Left]
+What?[AN]
+
+[Right]
+Don't touch me with your[N]
+dirty, commoner hands![AN]
+
+[Left][Clear][FarLeft][LoadCaptain]
+Huh?![AN]
+
+[Right]
+This act can be seen as a sign[N]
+of rebellion against Etruria![AN]
+
+[FarLeft]
+Hey, what the hell?! I only[N]
+touched ya fer a moment![AN]
+
+[Right]
+Damn rebels! You[N]
+deserve swift justice![AN]
+
+[FarLeft][MoveFarLeft]
+Hey, calm down![A][X]
+
+
+
+
+
+#0x94D Chapter3Opening5
+
+[MidLeft][LoadIsaac]
+This is becoming[N]
+a bad situation...[A][X]
+
+
+
+
+
+#0x94E Chapter3Opening6
+
+[MidRight][LoadSchwarz][MidLeft][LoadIsaac]
+Captain! Are you OK?[AN]
+
+[MidRight]
+Well well, what[N]
+do we have here?[AN]
+Seems to be a group[N]
+of mercenary rabble.[AN]
+Hey! That ship is[N]
+property of the rebels.[AN]
+We are confiscating it, so[N]
+you must all vacate the boat![AN]
+
+[MidLeft]
+We're in the middle of the ocean.[AN]
+And there are a lot of[N]
+civilians below deck.[AN]
+What exactly are we supposed to do?[AN]
+
+[MidRight]
+Jump into the water, of course.[AN]
+We'll help you do it,[AN]
+if you would be so kind as to[N]
+gather everyone on the deck.[AN]
+
+[MidLeft]
+Thanks, but I think[N]
+we'll pass on that.[AN]
+
+[MidRight]
+My men work under the banner of justice.[N]
+Which means you are obstructing justice.[AN]
+As a knight, I cannot overlook that.[AN]
+
+[MidLeft]
+Yet you, "as a knight", would find fault[N]
+where there is none with our captain,[AN]
+steal his ship, and his supplies?[AN]
+Seems like something a pirate would do.[AN]
+
+[MidRight]
+You would dare compare[N]
+us to pirates!?[AN]
+
+[MidLeft]
+A pirate under a knightly[N]
+banner is a pirate all the same.[AN]
+
+[MidRight]
+You... you lowly mercenaries![N]
+Soldiers, kill those bastards![AN]
+Get ready to kill everyone on that ship![AN]
+It's a grave crime to insult me -[N]
+no, to insult the Etrurian knights![AN]
+Your death shall not be quick![A][X]
+
+
+
+
+
+#0x92E Chapter3Opening7
+
+[MidRight][LoadIsaac][FarLeft][LoadPirate]
+Captain![.....][AN]
+Hey, mercenaries, we'll[N]
+take care of the cap'n.[AN]
+Can you keep 'em from[N]
+comin' into our ship?[AN]
+
+[MidRight]
+We'll try our best. But I have[N]
+something to ask of you, sailor.[AN]
+
+[FarLeft]
+Sadly, we're mostly[N]
+trained fer cargo...[AN]
+But, I'll listen to[N]
+yer request, at least.[AN]
+
+[MidRight]
+Is it possible to pierce[N]
+the enemy's commanding ship?[AN]
+Unless something happens,[N]
+the enemy won't withdraw.[AN]
+We can't keep fighting[N]
+forever. Can you do it?[AN]
+
+[Left][LoadCaptain]
+We can...[AN]
+
+[FarLeft]
+Captain! Please don't overdo[N]
+it! Yer still injured![AN]
+
+[Left]
+Ya... idiot...[AN]
+Now's the time[N]
+to overdo it...[AN]
+You... explain it.[AN]
+
+[FarLeft]
+R-right. We're sailors.[N]
+We know a lot about most ships.[AN]
+We should be able to fire on 'er[N]
+commandin' ship and burst a hole innit,[AN]
+without 'er noticin'.[AN]
+
+[MidRight]
+Alright, then we'll keep them distracted[N]
+on the decks as long as possible.[AN]
+
+[FarLeft]
+I'll leave it to ya...[N]
+Now, let's retreat, cap'n![A][X]
+
+
+
+
+
+#0x950 Chapter3RemSpawn
+
+[MidLeft][LoadRem]
+Ah, thank goodness![AN]
+At last, there's a[N]
+chance for me to escape![AN]
+Hell, I busted into this ship,[AN]
+but since it set sail,[N]
+I've been in trouble.[AN]
+Oh well, time to scram![A][X]
+
+
+
+
+
+#0xA71 Chapter3RemIsaacTalk
+
+[MidLeft][LoadIsaac]
+Hey, you![AN]
+Where the hell[N]
+are you going?[AN]
+
+[MidRight][LoadRem][CloseEyes]
+(Damnit, I got caught. I'll[N]
+have to play it off somehow.)[AN]
+Thank goodness you're here, sir.[AN]
+The people on this ship stole me away...[N]
+I barely escaped with my life...[AN]
+*sniffle*[AN]
+
+[MidLeft]
+Sounds like a load of crap.[AN]
+I can see all the valuables you're[N]
+trying to hide under your cloak.[AN]
+So, if I got it right...[AN]
+You busted into this ship[N]
+to make off with their stuff,[AN]
+But then you realized there[N]
+was no way to get off the boat...[AN]
+Is that it?[AN]
+
+[MidRight][OpenEyes]
+S-so what! I'm[N]
+barely getting by![AN]
+Yeah I steal,[AN]
+but it's not like[N]
+I can afford to care![AN]
+
+[MidLeft]
+I understand that, but you[N]
+can't go on like that forever.[AN]
+It'll catch up to you[N]
+someday, girl.[AN]
+Lucky for you, I'm busy,[N]
+so that day's not today.[AN]
+
+[MidRight]
+[ToggleMouthMove]...[ToggleMouthMove][AN]
+
+[MidLeft]
+Alright then, now get out of[N]
+here, before you get hurt.[AN]
+
+[MidRight]
+Hey... can I... come with you?[N]
+You folk are mercenaries, right?[AN]
+You're telling me to change my[N]
+ways, so maybe you can help me.[AN]
+
+[MidLeft]
+You understand that our work[N]
+is dangerous, don't you?[AN]
+
+[MidRight]
+Of course I know that![N]
+And so is mine.[AN]
+
+[MidLeft]
+Very well. I suppose I can allow it,[N]
+if only because I admire your gall.[AN]
+Just make sure to follow my orders.[AN]
+
+[MidRight]
+Of course, sir![A][X]
+
+
+
+
+
+#0xA73 Chapter3BrianRemTalk
+
+[MidRight][LoadBrian]
+Hmm? That girl looks like...?[AN]
+
+[FarLeft][LoadRem][MoveLeft]
+Hey, you! Can you[N]
+get outta my way?![AN]
+If you didn't notice,[AN]
+I'm barely escaping[N]
+with my life here![AN]
+
+[MidRight]
+My apologies. You should be[N]
+able to go that way, miss.[AN]
+
+[MidLeft]
+Yeah, thanks, bub.[AN]
+
+[MidRight][Clear][Left][MoveFarRight][Left][LoadBrian]
+Hey, little miss![N]
+Hold a moment![AN]
+
+[FarRight][Clear][LoadRem]
+What is it?! Can't you[N]
+see I'm in a hurry?![AN]
+
+[Left]
+I see you were holding some[N]
+extravagant looking wares.[AN]
+You're a thief, are you not?[AN]
+
+[FarRight][MoveFarRight]
+Hey![AN]
+
+[MoveRight]
+Those are mine![N]
+Give them back![AN]
+
+[Left]
+Of course, of course.[N]
+There you are, miss.[AN]
+
+[Right][MoveRight]
+Hmph![AN]
+
+[Left]
+A piece of advice,[N]
+one thief to another.[AN]
+Stop pickpocketing,[AN]
+or you'll find yourself[N]
+in an unfortunate situation.[AN]
+
+[Right]
+You, a thief, telling[N]
+me to stop thieving?[AN]
+You've gotta be[N]
+joking with me![AN]
+Where's your boss?![AN]
+I've gotta complain about[N]
+you, or I can't settle down![AN]
+The nerve! Urgh![AN]
+[Clear]
+
+[Left]
+Hey, miss! Don't go that way![AN]
+You could get hurt! Hey![AN]
+
+[FarRight]
+Shut it already, fatso![A][X]
+
+
+
+
+
+#0xC05 RemDeath
+
+[MidRight][LoadRem]
+Owww...[CloseEyes][AN]
+This is the worst...[A][X]
+
+
+
+
+
+#0xE59 RemTreasure
+
+[MidRight][LoadRem]
+Oh? Did some dolt drop this?[N]
+What a nice catch![AN]
+I've gotta sell it, before[N]
+anyone else notices![A][X]
+
+
+
+
+
+#0x904 Chapter3SchwarzBossQuote
+
+[MidLeft][LoadSchwarz]
+Tsk, what an annoyance.[AN]
+My armor will get sullied...[N]
+With your blood![A][X]
+
+
+
+
+
+#0x91A Chapter3SchwarzIsaacBossQuote
+
+[MidLeft][LoadSchwarz]
+Considering you're[N]
+a lowly mercenary,[AN]
+your armor looks refined.[AN]
+And, your sword technique...[AN]
+It's Etrurian![AN]
+[Clear]
+
+[MidRight][LoadIsaac]
+Your point?[AN]
+[Clear]
+
+[MidLeft][LoadSchwarz]
+You're pitiful...![AN]
+You must have been a noble![AN]
+Unable to maintain your land,[N]
+you degraded to a mercenary![AN]
+I can't think of a word more[N]
+suitable for you than pitiful![AN]
+[Clear]
+
+[MidRight][LoadIsaac]
+I'm not joining you[N]
+in stalling for time.[AN]
+[Clear]
+
+[MidLeft][LoadSchwarz]
+Hehehe...[N]
+Ahahaha![AN]
+For the honor of Etruria,[AN]
+a pitiful man like yourself[N]
+shall die by my hand![AN]
+[Clear]
+
+[MidRight][LoadIsaac]
+I'll see you try.[A][X]
+
+
+
+
+
+#0x90D Chapter3SchwarzDeath
+
+[MidLeft][LoadSchwarz]
+Now I see...[N]
+That black armor...[AN]
+You dirty Etrurian minions...[AN]
+The Nameless...[A][X]
+
+
+
+
+
+#0x94A Chapter3Ending1
+
+[MidRight][LoadSchwarz]
+Tsk... These lowly[N]
+mercenaries are troublesome.[AN]
+
+[MidLeft][LoadRedSoldier]
+Commander Schwarz![AN]
+The enemy has blown a hole[N]
+in the hull of our ship![AN]
+If we continue this[N]
+battle, we'll be sunk![AN]
+
+[MidRight]
+What?! When in the world did[N]
+they do such a thing?! Argh![AN]
+Humiliated by a bunch[N]
+of lowly mercenaries...[AN]
+Damnit, it can't be helped...[N]
+Men! Full retreat![AN]
+Get her out of here![AN]
+
+[MidLeft]
+Yes, sir![AN]
+[Clear]
+
+[MidRight][MoveMidRight]
+Shit![AN]
+[MoveMidRight]
+Damnit![AN]
+When we meet again,[N]
+mercenaries...[AN]
+I'll make you pay![A][X]
+
+
+
+
+
+#0x951 Chapter3Ending2
+
+[MidLeft][LoadIsaac]
+Listen to me, soldiers![AN]
+Your general is defeated,[N]
+so this fight is now pointless![AN]
+Drop your weapons and surrender,[N]
+and I can guarantee your safety![A][X]
+
+
+
+
+
+#0x7BA Chapter3TextBubble
+One month later...[X]
+
+
+
+
+
+
+#0x956 Chapter3Ending3
+[Left][LoadIsaac][MidRight][LoadAudrey]
+Placeholder[A][X]
+
+
+
+
+
+#0x931 Chapter3Ending4
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+It looks like there's finally hope[N]
+for the reconstruction of Valetta.[AN]
+They have a fascinating ability[N]
+to hold on to their lives...[AN]
+
+[MidLeft]
+Seems so. I think we've cleared out[N]
+all the pirates in the area, at least.[AN]
+I can't help but feel we're taking[N]
+a bit too much pay from these people.[AN]
+Can they really afford to be paying us[N]
+when their homes are in shambles?[AN]
+
+[MidRight]
+I think it's alright. Besides,[N]
+if they really are cleared out,[AN]
+then we can finally earn a rest.[AN]
+Anything is better than what we had[N]
+to go through back in Etruria, anyways.[AN]
+
+[MidLeft]
+I suppose you're right.[AN]
+
+[MidRight]
+By the way, Isaac...[AN]
+What's with those sheets of[N]
+paper you're shuffling around?[AN]
+
+[MidLeft]
+Oh, these? They're for[N]
+Kara. It's a certification.[AN]
+While we were fighting those pirates,[N]
+I was evaluating her performance.[AN]
+She was doing great, even though[N]
+I can't quite shake my worries...[AN]
+If she submits these, she can become[N]
+a fully-fledged Pegasus Knight.[AN]
+...That of course means she[N]
+would have to fly to Illia.[AN]
+I think we'd all miss her.[AN]
+
+[MidRight]
+Yeah, if Kara left...[AN]
+It would definitely[N]
+be an emotional goodbye.[AN] 
+I think we all have[N]
+a soft spot for her.[AN]
+
+[MidLeft]
+She might leave, but it's not[N]
+like she'd be gone forever.[AN]
+I'm sure we'd see each other again.[AN]
+Anyways, I've already finished[N]
+up with writing the thing.[AN]
+I'll have to find a good[N]
+occasion to present it to her.[AN]
+Of course, not if she[N]
+keeps insisting that I do.[AN]
+
+[MidRight]
+Oh? I guess she'll never[N]
+get it at this rate.[AN]
+
+[MidLeft]
+Hah! Right you are.[N]
+But, I can't help but wonder...[AN]
+Johnny and the others have[N]
+been gone far too long.[AN]
+Chloe says it's because they[N]
+have another mission, but...[AN]
+
+[MidRight]
+I agree. We haven't heard so[N]
+much as a thing from them...[AN]
+You don't think something[N]
+bad happened to them?[AN]
+
+[MidLeft]
+That sounds likely...[AN]
+
+[Event]
+[FarRight]
+Heeelp! It's Etrurians![N]
+They're here in the village![AN]
+
+[MidLeft]
+More trouble, sounds like.[AN]
+
+[MidRight]
+Yeah. Are they out for[N]
+revenge against us?[AN]
+
+[MidLeft]
+Whatever the case, it seems serious.[AN]
+Go gather everyone. Looks like we[N]
+have another fight on our hands.[AN]
+
+[MidRight]
+Right, I'll go get them now.[A][X]
+
+
+
+#0x932 Chapter3Ending5
+
+[Left][LoadMoneyMan][MidRight][LoadSaar]
+Listen well, people of this village!
+I come bearing orders
+from Lord Florence of Dia!
+Lord Florence has given you 
+the honor of serving Etruria,
+for which you should take great pride!
+Any able bodied men from 15 to 60 years
+of age shall present themselves now!
+You have may not veto this decision!
+If there should be any one who refuses
+this duty, we shall punish this village
+through harsh sanctions!
+
+[Left]
+Oh, gods no...
+It's the end...
+They'll send us to the
+Death Mines of Eburacum...
+They'll work us until
+there's nothing left...
+
+[Left][Clear][LoadIsaac]
+I'd heard about this, but...
+I never believed it to be true.
+
+[FarLeft][LoadAudrey]
+I've gathered everyone here Isaac,
+but... there are so many soldiers here!
+No matter how hard we fight, we
+could never defeat this many, right?
+
+[Left]
+It seems they're not here for a fight...
+But it looks like we have no choice
+but to comply and go to Eburacum.
+
+[FarLeft]
+To the mines?
+
+[Left]
+Yeah... This is a bad situation.
+Like you said, there's far too
+many of them for us to handle,
+and we were caught off guard.
+I can't see a reasonable
+escape route anywhere.
+
+[FarLeft]
+I guess you're right... damnit.
+So then what are we going to do?
+
+[Left]
+Here. Take these papers, and give 
+them to Kara. Tell her to flee to Illia.
+We can't look after her any longer.
+I'm sure she'll be fine on her own.
+
+[FarLeft]
+I never thought I'd be
+the one giving this to her...
+
+[Left]
+Me neither. I have one last request, Audrey.
+Please, look after the girls for me.
+I'm sorry I can't be of more use...
+
+[FarLeft]
+...
+
+[MidRight]
+Hear hear, men of the village!
+Gather to the town square!
+Quickly, now!
+
+[FarLeft]
+Isaac, I...
+
+[Left]
+Thank you for taking care of me, 
+Audrey. May the gods light your path.
+...Goodbye.
+
+
+
+
+#0xACE Chapter3Ending6
+
+[MidLeft][LoadVigarde][MidRight][LoadSoldier]
+[A][X]

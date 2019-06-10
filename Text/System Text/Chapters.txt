@@ -180,3 +180,10 @@ All for You[X]
 
 #0x153 ArenaName
 Arena[X]
+
+#0x110 Chapter16bName
+Black Clash[X]
+
+#0xE6D Chapter16bObjective
+Defeat Officers[N]
+or Defeat Ken[X]

@@ -1,0 +1,9 @@
+
+[MidLeft][LoadRem]
+Ah, thank goodness![AN]
+At last, there's a[N]
+chance for me to escape![AN]
+Hell, I busted into this ship,[AN]
+but since it set sail,[N]
+I've been in trouble.[AN]
+Oh well, time to scram![A][X]

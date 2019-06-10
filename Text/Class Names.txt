@@ -242,4 +242,7 @@ War Monk[X]
 Marshall[X]
 
 #0xE66
-Thaumaturge[X]
+Thumaturge[X]
+
+#0xF10
+Knight[X]

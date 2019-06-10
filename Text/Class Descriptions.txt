@@ -27,28 +27,28 @@ Powerful soldiers with highly trained[N]
 offensive techniques. Equip: Lances.[X]
 
 #0x2D0
-Titans in heavy armor who wield many[N]
-weapons. Equip: Sword, bow, staff, light.[X]
+Armored titans wielding many weapons.[N]
+Equip: Swords, bows, staves, light.[X]
 
 #0x2D2
-Titans in heavy armor who wield many[N]
-weapons. Equip: Lance, axe, anima, dark.[X]
+Armored titans wielding many weapons.[N]
+weapons. Equip: Lances, axes, anima, dark.[X]
 
 #0x2D4
 Knights trained in a variety of weapons.[N]
-Equip: Sword, lance, staff, anima.[X]
+Equip: Swords, lances, staves, anima.[X]
 
 #0x2D5
 Knights trained in a variety of weapons.[N]
-Equip: Axe, bow, light, dark.[X]
+Equip: Axes, bows, light, dark.[X]
 
 #0x6A1
 Loyal servents who heal and defend[N]
-their masters. Equip: Sword, staff.[X]
+their masters. Equip: Swords, staves.[X]
 
 #0xE60
 Commanders whose footsteps leave[N]
-death in their wake. Equip: Axe, dark.[X]
+death in their wake. Equip: Axes, dark.[X]
 
 #0xDD0
 A mysterious fencer who fights[N]
@@ -56,7 +56,7 @@ with a holy blade. Equip: Swords.[X]
 
 #0x2D3
 A seasoned leader upon whom victory[N]
-hinges. Equip: Sword, anima, staff.[X]
+hinges. Equip: Swords, anima, staves.[X]
 
 #0x9A8
 Heavy tanks specialized in attacking[N]
@@ -95,12 +95,12 @@ Mounted knights with superior abilities.[N]
 Equip: Swords, axes.[X]
 
 #0x296
-Heavily armored knights with high[N]
-defenses. Equip: Lances.[X]
+Heavily armored knights with[N]
+high defenses. Equip: Lances.[X]
 
 #0x907
-Heavily armored knights with high[N]
-defenses. Equip: Axes.[X]
+Heavily armored knights with[N]
+high defenses. Equip: Axes.[X]
 
 #0x297
 Knights of great skill.[N]
@@ -115,8 +115,8 @@ Multitalented knaves with an eye for[N]
 riches. Equip: Swords.[X]
 
 #0x299
-Well-balanced professional soldiers-[N]
-for-hire. Equip: Swords.[X]
+Well-balanced professional[N]
+soldiers-for-hire. Equip: Swords.[X]
 
 #0x29A
 Seasoned veterans with remarkable[N]
@@ -260,11 +260,11 @@ combat skills at all.[X]
 
 #0x292
 A knight sworn to fight for[N]
-justice. Equip: Sword, lance.[X]
+justice. Equip: Swords, lances.[X]
 
 #0x293
 An inspiring commander who strikes fear[N]
-into his enemies. Equip: Sword, axe.[X]
+into his enemies. Equip: Swords, axes.[X]
 
 #0x2C9
 Giant poisonous mountain[N]
@@ -288,12 +288,16 @@ valuable wares. Cannot fight.[X]
 
 #0xE62
 Clerics familiar with the divine and[N]
-the battlefield. Equip: Axe, staff.[X]
+the battlefield. Equip: Axes, staves.[X]
 
 #0x2DA
 Peerless leaders who can turn the[N]
-tides of battle. Equip: Sword, axe.[X]
+tides of battle. Equip: Swords, axes.[X]
 
 #0xE67
-Powerful magicians who travel on[N]
-horseback. Equip: Anima.[X]
+Powerful magicians who travel[N]
+on horseback. Equip: Anima.[X]
+
+#0xF11
+Heavily armored knights with[N]
+high defenses. Equip: Swords.[X]

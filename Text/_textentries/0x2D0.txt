@@ -1,2 +1,2 @@
-Titans in heavy armor who wield many[N]
-weapons. Equip: Sword, bow, staff, light.[X]
+Armored titans wielding many weapons.[N]
+Equip: Swords, bows, staves, light.[X]

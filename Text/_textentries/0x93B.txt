@@ -1,0 +1,6 @@
+
+[MidRight][LoadSchwarz]
+This is a patrol ship[N]
+from the Kingdom of Etruria.[AN]
+Stop your ship, and[N]
+bring your captain to me.[A][X]

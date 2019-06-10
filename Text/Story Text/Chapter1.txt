@@ -556,3 +556,28 @@ who have been killed.[AN]
 [MidLeft]
 Yeah...[N]
 I hope so.[A][X]
+
+
+
+
+#0xE5F PhelixTreasure
+[MidRight][LoadPhelix]
+Oh...? Hey! Guys!![N]
+Did somebody drop this!?[X]
+
+
+
+
+#0xE47 BrianTreasure
+[MidRight][LoadBrian]
+Hmm?[AN]
+This looks valuable...[N]
+I should let Isaac know.[X]
+
+
+
+
+#0xE46 FerrisTreasure
+[MidRight][LoadFerris]
+Huh, what's this?[N]
+I'll report it to the Commander.[X]

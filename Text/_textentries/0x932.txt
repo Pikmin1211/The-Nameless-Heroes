@@ -1,0 +1,91 @@
+
+[Left][LoadMoneyMan][MidRight][LoadSaar]
+Listen well, people of this village!
+I come bearing orders
+from Lord Florence of Dia!
+Lord Florence has given you 
+the honor of serving Etruria,
+for which you should take great pride!
+Any able bodied men from 15 to 60 years
+of age shall present themselves now!
+You have may not veto this decision!
+If there should be any one who refuses
+this duty, we shall punish this village
+through harsh sanctions!
+
+[Left]
+Oh, gods no...
+It's the end...
+They'll send us to the
+Death Mines of Eburacum...
+They'll work us until
+there's nothing left...
+
+[Left][Clear][LoadIsaac]
+I'd heard about this, but...
+I never believed it to be true.
+
+[FarLeft][LoadAudrey]
+I've gathered everyone here Isaac,
+but... there are so many soldiers here!
+No matter how hard we fight, we
+could never defeat this many, right?
+
+[Left]
+It seems they're not here for a fight...
+But it looks like we have no choice
+but to comply and go to Eburacum.
+
+[FarLeft]
+To the mines?
+
+[Left]
+Yeah... This is a bad situation.
+Like you said, there's far too
+many of them for us to handle,
+and we were caught off guard.
+I can't see a reasonable
+escape route anywhere.
+
+[FarLeft]
+I guess you're right... damnit.
+So then what are we going to do?
+
+[Left]
+Here. Take these papers, and give 
+them to Kara. Tell her to flee to Illia.
+We can't look after her any longer.
+I'm sure she'll be fine on her own.
+
+[FarLeft]
+I never thought I'd be
+the one giving this to her...
+
+[Left]
+Me neither. I have one last request, Audrey.
+Please, look after the girls for me.
+I'm sorry I can't be of more use...
+
+[FarLeft]
+...
+
+[MidRight]
+Hear hear, men of the village!
+Gather to the town square!
+Quickly, now!
+
+[FarLeft]
+Isaac, I...
+
+[Left]
+Thank you for taking care of me, 
+Audrey. May the gods light your path.
+...Goodbye.
+
+
+
+
+#0xACE Chapter3Ending6
+
+[MidLeft][LoadVigarde][MidRight][LoadSoldier]
+[A][X]

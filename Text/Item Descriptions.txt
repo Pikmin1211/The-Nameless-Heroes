@@ -35,7 +35,7 @@ Puts the target to sleep.[X]
 Dummy[X]
 
 #0x3EA
-Improves critical hit rate.[X]
+Long-range weapon.[X]
 
 #0x39D
 Magic. Effective against monsters.[X]
@@ -67,6 +67,10 @@ Easily used by anybody.[X]
 Only usable by military.[X]
 
 #0x8DC
++8 Defense and +2 Resistance.[N]
+Only usable by military.[X]
+
+#0x8E0
 +8 Defense and +2 Resistance.[N]
 Only usable by military.[X]
 
@@ -179,13 +183,13 @@ Improves critical hit rate.[X]
 A Sacred Twin tome. Spd +5.[X]
 
 #0x3EA
-Long-range magic attack.[X]
+Improves critical hit rate.[X]
 
 #0x3EF
 Drains enemy HP into caster.[X]
 
 #0x3F0
-Reduces enemy HP by half.[X]
+Long-range weapon. Inflicts poison.[X]
 
 #0x3F2
 A Sacred Twin tome. Skill +5.[X]
@@ -247,7 +251,7 @@ Puts enemies to sleep for[N]
 several turns.[X]
 
 #0x43E
-Puts enemies to sleep.[X]
+Long-range weapon. Inflicts sleep.[X]
 
 #0x401
 Sends enemies into a[N]
@@ -611,3 +615,19 @@ A monstrous, overgrown claw.[X]
 
 #0xE65
 Launches lethal poison.[X]
+
+#0xF0D
+Lizzy only. Effective against knights.[X]
+
+#0x3F6
+Magic. Capable of indirect attacks.[X]
+
+#0x38C
+Isaac's blade.[X]
+
+#0xE3E
++2 Defense and +3 Resistance.[N]
+For Lizzy only.[X]
+
+#0x3EE
+Negates enemy resistance.[X]

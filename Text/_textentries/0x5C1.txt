@@ -1,2 +1,3 @@
-Blessing[N]
-Cannot be defeated by enemy attacks.[X]
+Fortune[N]
+Opposing critical[N]
+hit rate is always 0.[X]

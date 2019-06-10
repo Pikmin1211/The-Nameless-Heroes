@@ -1,4 +1,3 @@
-
 [MidRight][LoadKara]
 Ah! What a good find![N]
 Today's my lucky day![A][X]

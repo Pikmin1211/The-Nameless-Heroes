@@ -57,8 +57,9 @@ Intimidate[N]
 Enemies within 3 tiles lose 10 avoid.[X]
 
 #0x5C1
-Blessing[N]
-Cannot be defeated by enemy attacks.[X]
+Fortune[N]
+Opposing critical[N]
+hit rate is always 0.[X]
 
 #0x5B2
 Galeforce[N]
@@ -75,8 +76,8 @@ Increase maximum staff range by 1.[X]
 
 #0x5CE
 Breaker[N]
-+50 Hit/Avo against the[N]
-specified weapon.[X]
+Damage dealt/received +3/-3, AS +3,[N]
+and Hit/Avoid +20 against this weapon.[X]
 
 #0x5CB
 Wary Fighter[N]
@@ -149,7 +150,7 @@ Charge (HP%)[N]
 Initiates another round of combat.[X]
 
 #0x594
-Boon[N]
+Imbue[N]
 Heals all status effects at[N]
 the start of every turn.[X]
 
@@ -300,7 +301,7 @@ are ignited.[X]
 #0x592
 Genocide (HP%)[N]
 Increases all stats, negates all skills,[N]
-and attacks twice consecutively.[X]
+and doubles the length of combat.[X]
 
 #0x5B0
 Adept (Skill%)[N]
@@ -320,3 +321,8 @@ critical hit rate.[X]
 Aside[N]
 This character is only usable[N]
 for the duration of the chapter.[X]
+
+#0xE6C
+Skybreaker[N]
+Deal effective[N]
+damage to fliers.[X]

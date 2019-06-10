@@ -1,0 +1,53 @@
+
+[MidRight][LoadIsaac][FarLeft][LoadPirate]
+Captain![.....][AN]
+Hey, mercenaries, we'll[N]
+take care of the cap'n.[AN]
+Can you keep 'em from[N]
+comin' into our ship?[AN]
+
+[MidRight]
+We'll try our best. But I have[N]
+something to ask of you, sailor.[AN]
+
+[FarLeft]
+Sadly, we're mostly[N]
+trained fer cargo...[AN]
+But, I'll listen to[N]
+yer request, at least.[AN]
+
+[MidRight]
+Is it possible to pierce[N]
+the enemy's commanding ship?[AN]
+Unless something happens,[N]
+the enemy won't withdraw.[AN]
+We can't keep fighting[N]
+forever. Can you do it?[AN]
+
+[Left][LoadCaptain]
+We can...[AN]
+
+[FarLeft]
+Captain! Please don't overdo[N]
+it! Yer still injured![AN]
+
+[Left]
+Ya... idiot...[AN]
+Now's the time[N]
+to overdo it...[AN]
+You... explain it.[AN]
+
+[FarLeft]
+R-right. We're sailors.[N]
+We know a lot about most ships.[AN]
+We should be able to fire on 'er[N]
+commandin' ship and burst a hole innit,[AN]
+without 'er noticin'.[AN]
+
+[MidRight]
+Alright, then we'll keep them distracted[N]
+on the decks as long as possible.[AN]
+
+[FarLeft]
+I'll leave it to ya...[N]
+Now, let's retreat, cap'n![A][X]

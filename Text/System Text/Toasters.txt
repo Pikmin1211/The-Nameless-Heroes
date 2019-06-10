@@ -358,3 +358,10 @@ do not have usable weapons.[X]
 #0x6FD
 You can not sort this unit.[X]
 
+#0x6FF
+Unit must be[N]
+deployed this chapter.[X]
+
+#0x700
+Unit cannot be[N]
+deployed this chapter.[X]

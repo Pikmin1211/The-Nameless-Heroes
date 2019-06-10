@@ -1,2 +1,2 @@
-Titans in heavy armor who wield many[N]
-weapons. Equip: Lance, axe, anima, dark.[X]
+Armored titans wielding many weapons.[N]
+weapons. Equip: Lances, axes, anima, dark.[X]

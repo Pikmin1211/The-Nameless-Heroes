@@ -4,6 +4,7 @@
 #endif
 
 
+#define schwarztemp 0x51
 #define Unit_Color 0x16
 #define Strat 0x41
 #define Detail 0x42
@@ -51,6 +52,8 @@
 #define Chapter14xObjective 0x141
 #define Chapter14xName 0x10E
 #define ArenaName 0x153
+#define Chapter16bName 0x110
+#define Chapter16bObjective 0xE6D
 #define AffinityTexts 0x01
 #define dodgetext 0x5D9
 #define leadershipstarstxt 0x6D
@@ -137,6 +140,9 @@
 #define Chapter1House 0x901
 #define Chapter1EndEvent 0x8F7
 #define Chapter1EndEvent2 0x8F8
+#define PhelixTreasure 0xE5F
+#define BrianTreasure 0xE47
+#define FerrisTreasure 0xE46
 #define Chapter1BaseTurn1 0x922
 #define Chapter1BaseTurn1Part2 0x94F
 #define Chapter1BaseTalkIsaacAudrey 0x938
@@ -172,11 +178,33 @@
 #define Chapter2IsaacVsBazba 0x8FD
 #define Chapter2VsBazba 0x953
 #define Chapter2BazbaDeath 0x954
+#define ChloeTreasure 0xE54
 #define Chapter2BaseWorldMap 0x881
 #define Chapter2BaseTalkWolfAudrey 0x93D
 #define Chapter2BaseTalkChloeMorris 0x9E0
 #define Chapter2BaseHermes 0x937
 #define Chapter2BaseGeronimo 0xD42
+#define Chapter3Opening 0x94B
+#define Chapter3Opening2 0x93B
+#define Chapter3Opening3 0x928
+#define Chapter3Opening4 0x94C
+#define Chapter3Opening5 0x94D
+#define Chapter3Opening6 0x94E
+#define Chapter3Opening7 0x92E
+#define Chapter3RemSpawn 0x950
+#define Chapter3RemIsaacTalk 0xA71
+#define Chapter3BrianRemTalk 0xA73
+#define RemDeath 0xC05
+#define RemTreasure 0xE59
+#define Chapter3SchwarzBossQuote 0x904
+#define Chapter3SchwarzIsaacBossQuote 0x91A
+#define Chapter3SchwarzDeath 0x90D
+#define Chapter3Ending1 0x94A
+#define Chapter3Ending2 0x951
+#define Chapter3TextBubble 0x7BA
+#define Chapter3Ending3 0x956
+#define Chapter3Ending4 0x931
+#define Chapter3Ending5 0x932
 #define supreme_light 0x8D
 #define nosferatu2 0x341
 #define FE3EnemyTheme 0xDD5

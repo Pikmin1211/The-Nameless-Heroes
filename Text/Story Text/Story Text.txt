@@ -3,3 +3,4 @@
 #include "Story Text/Chapter1Base.txt"
 #include "Story Text/Chapter2.txt"
 #include "Story Text/Chapter2Base.txt"
+#include "Story Text/Chapter3.txt"

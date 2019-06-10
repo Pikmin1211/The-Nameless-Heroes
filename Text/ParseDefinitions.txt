@@ -118,6 +118,8 @@
 [LoadBreguet] = [LoadFace][0x31][0x1]
 [LoadHaltmann] = [LoadFace][0x6C][0x1]
 [LoadBazba] = [LoadFace][0x33][0x1]
+[LoadVigarde] = [LoadFace][0x40][0x1]
+[LoadSaar] = [LoadFace][0x34][0x1]
 
 
 [LoadWrys] = [LoadFace][0x2D][0x1]
@@ -128,6 +130,7 @@
 [LoadOldMan] = [LoadFace][0x5A][0x1]
 [LoadBrownHairMan] = [LoadFace][0x5B][0x1]
 [LoadBlondeHairMan] = [LoadFace][0x5C][0x1]
+[LoadCaptain] = [LoadBlondeHairMan]
 [LoadYoungMan] = [LoadFace][0x5D][0x1]
 [LoadGingerMan] = [LoadFace][0x5E][0x1]
 [LoadBlondeKid] = [LoadFace][0x5F][0x1]

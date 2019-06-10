@@ -49,12 +49,18 @@ BYTE 0x02 0x00 0x00 0x40 0x20 0x80 0x94 0x08 0x00 0x40 0x40 0x80 0x98 0x08
 
 POP
 
+// Freespace
+
 ALIGN 4
+
 Img_5C6E08_Repointed:
 #incext Png2Dmp "Img_5C6E08_Repoint.png" --lz77
 
 ClassFontEN:
 #incext Png2Dmp "classfonten.png" --lz77
+
+//EvaluationScreen:
+//#incext Png2Dmp "evaluation_08AC5598.png" -lz77
 
 BaseImage:
 #incext Png2Dmp "Base.png" --lz77
@@ -77,13 +83,15 @@ Chapter2Image:
 Chapter2ImageSmall:
 #incext Png2Dmp "Chapter 2 Small.png" --lz77
 
-// FE8N is a2cabc
-// FE8J is AAAC4C
+Chapter3Image:
+#incext Png2Dmp "Chapter 3.png" --lz77
+
+Chapter3ImageSmall:
+#incext Png2Dmp "Chapter 3 Small.png" --lz77
+
 SoundRoomGraphics:
 #incext Png2Dmp "Img_AAAC4C.png" --lz77
-//Palette?
-// ORG in FE8N - 8A29418
-// FE8J - 8AA7094
+
 
 PUSH
 
@@ -93,6 +101,10 @@ ORG $B8B1C
 POIN ClassFontEN
 ORG 0xD1838
 POIN ClassFontEN
+//ORG 0xBCB5C
+//POIN EvaluationScreen
+ORG 0xAC5598
+#incext Png2Dmp "evaluation_08AC5598.png" -lz77
 ORG 0xA7356C
 POIN BaseImage
 ORG 0xA732C0
@@ -107,10 +119,14 @@ ORG 0xA732D8
 POIN Chapter2Image
 ORG 0xA732DC
 POIN Chapter2ImageSmall
+ORG 0xA732E4
+POIN Chapter3Image
+ORG 0xA732E8
+POIN Chapter3ImageSmall
 
 POP
 
-PUSH
+//PUSH
 
 //Sound Room
 //ORG $b4102 //draw distance for number from "Success"
@@ -122,4 +138,4 @@ PUSH
 //ORG $9AEAC //prep window width
 //BYTE 0A
 
-POP
+//POP
