@@ -1,136 +1,136 @@
 Chapter 3 English  Opening 1 ID 94B
 
 Captain: If we keep the ship sailing smoothly as we do, we got about half a day left to go.
-Issac: IÅfm sorry, Captain. Having your boat sailed right into pirate territory must have been pretty risky.
-Captain: ItÅfs fine. With pirates roaming around, business is pretty much nonexistent. Also, the people of this town says theyÅfll help us, so we must do what we can.
-Issac: Glad you say so, but there comesÅc
-Captain: WhatÅfs wrong?
-Issac: ItÅfs a ship, Captain. ItÅfs trying to come alongside us.
-Captain: Shit, they've approached us hiding in this fog. HuhÅc it seems to bear Etrurian colors. Is it a patrol ship? The biggest conundrum is what they want from us.
+Issac: I'm sorry, Captain. Having your boat sailed right into pirate territory must have been pretty risky.
+Captain: It's fine. With pirates roaming around, business is pretty much nonexistent. Also, the people of this town says they'll help us, so we must do what we can.
+Issac: Glad you say so, but there comes‚Ä¶
+Captain: What's wrong?
+Issac: It's a ship, Captain. It's trying to come alongside us.
+Captain: Shit, they've approached us hiding in this fog. Huh‚Ä¶ it seems to bear Etrurian colors. Is it a patrol ship? The biggest conundrum is what they want from us.
 
 Opening 2 ID 93B
 Schwarz: This is a patrol ship of the Kingdom of Etruria. Stop the ship, and bring your captain to me.
 
 Opening 3 ID 928
-Captain: Apparently, theyÅfre calling me. Anyway, itÅfs not a big deal. Wait in the ship. IÅfll deal with this hassle.
+Captain: Apparently, they're calling me. Anyway, it's not a big deal. Wait in the ship. I'll deal with this hassle.
 Issac: Captain? Is this a common occurrence?
-Captain: NoÅc this is the first time. The whole continent is in turmoil these days so I guess the Etrurian guards are being a bit harsher. This misunderstanding should be cleared up pretty quickly.
-Issac:Åc
+Captain: No‚Ä¶ this is the first time. The whole continent is in turmoil these days so I guess the Etrurian guards are being a bit harsher. This misunderstanding should be cleared up pretty quickly.
+Issac:‚Ä¶
 
 Opening 4 ID 928
-Captain: IÅfm the captain here. WhatÅfs the problem, officer?
+Captain: I'm the captain here. What's the problem, officer?
 Schwarz: My name is Schwarz and I am the chief of the Etrurian guards. Could I investigate the ship, please?
 Captain: Wh, why, sir? What the hell are we suspected of?
-Schwarz: I agree that this is certainly sudden, so IÅfm sorry. In fact, we overheard news that pirates are lurking in this neighbourhood, so weÅfre investigating. I wonder if you could let us.
-Captain: Huh, sirÅc? You think we look like ÅgpiratesÅh?
-Schwarz: IÅfm just making sure. Pirates these days are very smart when it comes to disguises.
-Captain: If thatÅfs the caseÅc, that sounds reasonable.
+Schwarz: I agree that this is certainly sudden, so I'm sorry. In fact, we overheard news that pirates are lurking in this neighbourhood, so we're investigating. I wonder if you could let us.
+Captain: Huh, sir‚Ä¶? You think we look like ‚Äúpirates‚Äù?
+Schwarz: I'm just making sure. Pirates these days are very smart when it comes to disguises.
+Captain: If that's the case‚Ä¶, that sounds reasonable.
 Schwarz: Thank you for your cooperation. Alright, everyone, I got permission. Men, bring all the cargo of their ship into ours!
-Soldier: Yes sir! WeÅfll go and get everything ready.
-Captain:Oh... please, wait just a little. IÅfve never heard Etrurian guards do such things!
-Schwarz: WeÅfll only take the cargo back to base and investigate it. When it comes to an investigation, we must make a thorough one. Or, do you have anything shady behind your back?
-Captain: ThatÅfs not itÅc But if you take all this cargo away, our businessÅfll get stalled.
-Soldier: Mr. Schwarz, weÅfre ready.
+Soldier: Yes sir! We'll go and get everything ready.
+Captain:Oh... please, wait just a little. I've never heard Etrurian guards do such things!
+Schwarz: We'll only take the cargo back to base and investigate it. When it comes to an investigation, we must make a thorough one. Or, do you have anything shady behind your back?
+Captain: That's not it‚Ä¶ But if you take all this cargo away, our business'll get stalled.
+Soldier: Mr. Schwarz, we're ready.
 Schwarz: Good. Do it. 
 Soldier: Ay, sir.
-Captain: Hey! All of you! Stop doing that! DonÅft ruin our ship!
-Schwarz: Åc? WhatÅfs up? What is going on with your hands?
+Captain: Hey! All of you! Stop doing that! Don't ruin our ship!
+Schwarz: ‚Ä¶? What's up? What is going on with your hands?
 Captain: What?
-Schwarz: DonÅft touch me with your dirty, commoner hands!
+Schwarz: Don't touch me with your dirty, commoner hands!
 Captain: !!
 Schwarz: This act can be seen as a sign of rebellion against the Etrurians!
-Captain: No, donÅft be silly! I only touched you for a moment!
-Schwarz: SoÅc you rebelsÅc deserve punishment, right?
-Captain: Hey! Calm dowÅc
+Captain: No, don't be silly! I only touched you for a moment!
+Schwarz: So‚Ä¶ you rebels‚Ä¶ deserve punishment, right?
+Captain: Hey! Calm dow‚Ä¶
 
 Opening 5 ID 94D
-Issac: !! ÅcThis is starting to get troublesome.
+Issac: !! ‚Ä¶This is starting to get troublesome.
 
 Opening 6 ID 94E
 Issac: Captain! Are you OK?
-Schwarz: Well, well, who are you people? You seem to be a group of mercenaries or something, butÅc That ship is property of the rebels. We must confiscate it, so you must all vacate the boat!
+Schwarz: Well, well, who are you people? You seem to be a group of mercenaries or something, but‚Ä¶ That ship is property of the rebels. We must confiscate it, so you must all vacate the boat!
 Issac: This is the middle of the ocean. Besides, a lot of civilians are below decks, so where are you telling us to go?
-Schwarz: Into the water, of course. WeÅfll help you do it. Now you should gather everyone here on the deck.
-Issac: ÅcSorry, but that offer is an option we canÅft take. 
-Schwarz: WellÅc We are doing this while bearing the mantle of ÅgjusticeÅh. So you are now disturbing justice, in which case I cannot overlook that refusal as a ÅgknightÅh.
-Issac: But how is it, that you, a knight, would find fault with the captain, commandeer the ship and take the supplies? That almost seems like something a ÅgpirateÅh would do.
-Schwarz: You treat us as ÅgpiratesÅhÅc?
-Issac: And as a ÅgpirateÅh, you seem honored with a very fine flag.
-Schwarz: YouÅc lowly mercenariesÅc! Soldiers, kill those bastards! Get ready to kill everyone on that ship! ItÅfs a grave crime to insult me, no, us Etrurian knights. Your death shall not be quick!
+Schwarz: Into the water, of course. We'll help you do it. Now you should gather everyone here on the deck.
+Issac: ‚Ä¶Sorry, but that offer is an option we can't take. 
+Schwarz: Well‚Ä¶ We are doing this while bearing the mantle of ‚Äújustice‚Äù. So you are now disturbing justice, in which case I cannot overlook that refusal as a ‚Äúknight‚Äù.
+Issac: But how is it, that you, a knight, would find fault with the captain, commandeer the ship and take the supplies? That almost seems like something a ‚Äúpirate‚Äù would do.
+Schwarz: You treat us as ‚Äúpirates‚Äù‚Ä¶?
+Issac: And as a ‚Äúpirate‚Äù, you seem honored with a very fine flag.
+Schwarz: You‚Ä¶ lowly mercenaries‚Ä¶! Soldiers, kill those bastards! Get ready to kill everyone on that ship! It's a grave crime to insult me, no, us Etrurian knights. Your death shall not be quick!
 
 Opening 7 ID 92E
-Seaman: Captain! Hey, mercenaries, weÅfll take care of Captain. So will you keep them from coming into our ship? 
+Seaman: Captain! Hey, mercenaries, we'll take care of Captain. So will you keep them from coming into our ship? 
 Issac: Understood. But I too have something to ask of you, professional seaman.
-Seaman: We specialize only in transportation. However, IÅfll listen to you at least.
-Issac: Is it possible to pierce the enemyÅfs command ship? Unless some trouble happens, the enemy wonÅft withdraw. We canÅft keep fighting forever. Can you make it?
-Captain: We canÅc
-Seaman: Captain! Please donÅft overdo it, youÅfre still injured!
-Captain: YaÅc idiotÅc NowÅfs Åc the timeÅc to Åc overdo it. YouÅcexplain.
-Seaman: Y, yupÅc We are sailors. We know everything about most ships. So, we can secretly attack the command ship and burst a hole that causes it to sink.
-Issac: Alright, weÅfll keep them distracted up top as long as possible.
-Seaman: IÅfll leave it to yaÅc Now, letÅfs retreat, Captain!
+Seaman: We specialize only in transportation. However, I'll listen to you at least.
+Issac: Is it possible to pierce the enemy's command ship? Unless some trouble happens, the enemy won't withdraw. We can't keep fighting forever. Can you make it?
+Captain: We can‚Ä¶
+Seaman: Captain! Please don't overdo it, you're still injured!
+Captain: Ya‚Ä¶ idiot‚Ä¶ Now's ‚Ä¶ the time‚Ä¶ to ‚Ä¶ overdo it. You‚Ä¶explain.
+Seaman: Y, yup‚Ä¶ We are sailors. We know everything about most ships. So, we can secretly attack the command ship and burst a hole that causes it to sink.
+Issac: Alright, we'll keep them distracted up top as long as possible.
+Seaman: I'll leave it to ya‚Ä¶ Now, let's retreat, Captain!
 
 Rem appears on turn 4! ID 950
-Rem: Oh, hurray! At last, thereÅfs a chance for me to escape! Hell, I successfully stole into this ship, but since it set sail, IÅfve been in trouble. Oh well, time to evacuate!
+Rem: Oh, hurray! At last, there's a chance for me to escape! Hell, I successfully stole into this ship, but since it set sail, I've been in trouble. Oh well, time to evacuate!
 
-Rem and IssacÅfs conversation ID A71
-Issac: Hey you! WhyÅfd you escape from the Etrurian ship?
-Rem: Gee, I was seenÅc IÅfll pass myself off anyhowÅc In fact, sirÅc, I was caught by the people on the shipÅc IÅfve barely escaped with my lifeÅcsniff.
+Rem and Issac's conversation ID A71
+Issac: Hey you! Why'd you escape from the Etrurian ship?
+Rem: Gee, I was seen‚Ä¶ I'll pass myself off anyhow‚Ä¶ In fact, sir‚Ä¶, I was caught by the people on the ship‚Ä¶ I've barely escaped with my life‚Ä¶sniff.
 Issac: That claim sounds made up. You must be trying to hide it, but I see you're holding some valuable objects. So the story is like this; you stole into the Etrurian ship to snitch things, but unfortunately, you were unable to break out of it, right?
-Rem: S, so what! IÅfm barely getting by! Yup, I do steal, but I canÅft afford to care about whatever I do!
-Issac: That attitude is passable, but only for a time. And the end of that time will certainly come, when you must change your way of life. ItÅfs not now, though. YouÅfre lucky this time.
-Rem:Åc
-Issac: Come on, get out of here, before youÅfre involved.
-Rem: Hey, can I stay with you? Are you laddies mercenaries, arenÅft you? Since you preach about changing ways of life so much, how about you gimme the opportunity to change my way? Or IÅfll follow you around. 
-Isaac: Do you understand what this situation is like, donÅft you?
-Rem: Of course I do. And itÅfs no obstacle. 
+Rem: S, so what! I'm barely getting by! Yup, I do steal, but I can't afford to care about whatever I do!
+Issac: That attitude is passable, but only for a time. And the end of that time will certainly come, when you must change your way of life. It's not now, though. You're lucky this time.
+Rem:‚Ä¶
+Issac: Come on, get out of here, before you're involved.
+Rem: Hey, can I stay with you? Are you laddies mercenaries, aren't you? Since you preach about changing ways of life so much, how about you gimme the opportunity to change my way? Or I'll follow you around. 
+Isaac: Do you understand what this situation is like, don't you?
+Rem: Of course I do. And it's no obstacle. 
 Issac: Very well. I will let you in, in consideration of your guts. But can you listen to orders and act obediently?
-Rem: Huh, IÅfd be glad to!
+Rem: Huh, I'd be glad to!
 
 Brian and Rem conversation ID A73
-Brian: Hmm? That girl looks like Åc?
-Rem: Hey you! Could you please get outta my way, lad!? As you see, IÅfm barely escaping with my life! 
+Brian: Hmm? That girl looks like ‚Ä¶?
+Rem: Hey you! Could you please get outta my way, lad!? As you see, I'm barely escaping with my life! 
 Brian: Oops, sorry. You can go that way. Hurry up, kid.
-Rem: ÅeÅfThanksÅfÅf, sir.
+Rem: ‚Äò'Thanks'', sir.
 Brian: Hey, little girl, wait a second!
-Rem: What? DonÅft you see IÅfm in a hurry?
-Brian: I do see you were holding some pretty expensive looking stuff. YouÅfre a thief, right?  
+Rem: What? Don't you see I'm in a hurry?
+Brian: I do see you were holding some pretty expensive looking stuff. You're a thief, right?  
 Rem: Hey, those are mine! Give them back!
-Brian: Yeah, yeah, better give it backÅc 
+Brian: Yeah, yeah, better give it back‚Ä¶ 
 Rem: Hmph!
-Brian: HereÅfs a piece of advice, one thief to the other. Stop pickpocketing, or youÅfll soon find yourself in between a rock and a hard place.
-Rem: You, a thief, telling me to stop thieving? YouÅfve gotta practice what you preach! WhereÅfs yer boss? IÅfve gotta complain about you, or I cannot settle down! 
-Brian: Wait, kid! DonÅft go that way! TheyÅfre having severe fighting over there.
+Brian: Here's a piece of advice, one thief to the other. Stop pickpocketing, or you'll soon find yourself in between a rock and a hard place.
+Rem: You, a thief, telling me to stop thieving? You've gotta practice what you preach! Where's yer boss? I've gotta complain about you, or I cannot settle down! 
+Brian: Wait, kid! Don't go that way! They're having severe fighting over there.
 Rem: Shut up, you preachy old man!
 
 Rem Death Quote ID C05
-Rem: OwÅc.
-This is the worstÅc.
+Rem: Ow‚Ä¶.
+This is the worst‚Ä¶.
 
 Rem finding Treasure ID E59
 Rem: Did some idiot drop this, huh?
-What a nice catch! Before people notice, IÅfve gotta sell it on the market!
+What a nice catch! Before people notice, I've gotta sell it on the market!
 
 Schwarz boss dialogue ID904
-Schwarz: What an annoyance. My armor will get dirtyÅc with your blood!
+Schwarz: What an annoyance. My armor will get dirty‚Ä¶ with your blood!
 
 Schwarz vs. Isaac dialogue ID91A
-Schwarz : Considering youÅfre a lowly mercenary, your armor looks refined. In addition, your sword techniqueÅc ItÅfs Etrurian!
+Schwarz : Considering you're a lowly mercenary, your armor looks refined. In addition, your sword technique‚Ä¶ It's Etrurian!
 Isaac: And what?
-Schwarz: YouÅfre pitifulÅc! Chuckle. YouÅc must have been a noble! Unable to maintain your clan, you degraded yourself to a mercenary! I canÅft find any other way to call you,ÅgpitifulÅh man!
-Isaac: IÅfm not going to join you in stalling for time. 
-Schwarz: ChuckleÅc For the honor of Etruria, a pitiful man like you shall die by my hand!
-Isaac: IÅfll see you try!
+Schwarz: You're pitiful‚Ä¶! Chuckle. You‚Ä¶ must have been a noble! Unable to maintain your clan, you degraded yourself to a mercenary! I can't find any other way to call you,‚Äúpitiful‚Äù man!
+Isaac: I'm not going to join you in stalling for time. 
+Schwarz: Chuckle‚Ä¶ For the honor of Etruria, a pitiful man like you shall die by my hand!
+Isaac: I'll see you try!
 
 Schwarz death quote ID 90D
-Schwarz: Now, I get itÅc That black armorÅc You dirty, Etruscan minionsÅc ÅgNamelessÅhÅc
+Schwarz: Now, I get it‚Ä¶ That black armor‚Ä¶ You dirty, Etruscan minions‚Ä¶ ‚ÄúNameless‚Äù‚Ä¶
 
 Chapter 3 ending cut scene
-Schwarz: TskÅc These lowly mercenaries are troublesome.
-Soldier: Commander Schwarz! The enemy has blown a hole in the hull of our ship! If we continue this battle, weÅfll sink!
-Schwarz: When in the world did they do such a thingÅc? Humiliated by a bunch of lowly mercenariesÅc But we canÅft help it. Men! WeÅfll stop fighting and leave now!
+Schwarz: Tsk‚Ä¶ These lowly mercenaries are troublesome.
+Soldier: Commander Schwarz! The enemy has blown a hole in the hull of our ship! If we continue this battle, we'll sink!
+Schwarz: When in the world did they do such a thing‚Ä¶? Humiliated by a bunch of lowly mercenaries‚Ä¶ But we can't help it. Men! We'll stop fighting and leave now!
 Soldier: Yes, sir!
-Schwarz: Dammit! Shit! When we meet next, mercenariesÅc IÅfll surelyÅc !
+Schwarz: Dammit! Shit! When we meet next, mercenaries‚Ä¶ I'll surely‚Ä¶ !
 
 Chapter 3 ending 2
 Isaac: Hear me, soldiers! Your general is defeated, so this fight is now pointless! Drop your weapons and surrender, and I will guarantee that your life will not be taken!

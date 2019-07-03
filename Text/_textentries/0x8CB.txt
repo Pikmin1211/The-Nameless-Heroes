@@ -43,6 +43,10 @@ I'm good to go.[AN]
 Isaac, my axes seem[N]
 to still be alright.[AN]
 
+[Right][Clear][LoadEdmund]
+Don't worry, family.[N]
+I'll protect you all.[AN]
+
 [FarLeft]
 No problems, then? Alright.[AN]
 Listen up. Right now,[N]

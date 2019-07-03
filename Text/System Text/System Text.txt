@@ -7,3 +7,4 @@
 #include "System Text/Toasters.txt"
 #include "System Text/Menu Text.txt"
 #include "System Text/Shop Text.txt"
+#include "System Text/Class Reel Text.txt"

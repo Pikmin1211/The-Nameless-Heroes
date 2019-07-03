@@ -122,9 +122,8 @@ Seize Throne[X]
 #0x122 Chapter11Name
 For Pride and Belief[X]
 
-#0x140 Chapter12Objective
-Escape or[N]
-Defeat Boss[X]
+#0x137 Chapter12Objective
+Seize Gate[X]
 
 #0xED Chapter12Name
 Lost in a Sandstorm[X]

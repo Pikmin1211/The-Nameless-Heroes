@@ -1,0 +1,62 @@
+#0x8D1
+A former Etrurian military chief,[N]
+now commanding a mercenary band.[X]
+
+#0x1F6
+A former Etrurian knight who[N]
+hates to back out of a fight.[X]
+
+#0x1F7
+A former Etrurian knight.[N]
+Reliable, but brusque and vulgar.[X]
+
+#0x1F8
+A former Etrurian officer.[N]
+He works hard to better himself.[X]
+
+#0x1FA
+A kind priest in training. Believes[N]
+that words can overcome violence.[X]
+
+#0x1F9
+An apprentice Illian Pegasus Knight.[N]
+Her cheery attitude is contagious.[X]
+
+#0x200
+Isaac's servant. She has been[N]
+faithful to him since childhood.[X]
+
+#0x22A
+A brigand leader.[X]
+
+#0x1FC
+An anxious archer from Etruria.[N]
+Shoots with deadly precision.[X]
+
+#0x1FD
+An Etrurian specialist who loves[N]
+all things shiny - or edible.[X]
+
+#0x20A
+An Etrurian swordswoman who trains[N]
+hard every day. Dislikes laziness.[X]
+
+#0x203
+An Etrurian huntsman. Uninterested[N]
+in what others have to say about him.[X]
+
+#0x208
+A former Etrurian soldier who[N]
+always looks on the bright side.[X]
+
+#0xF15
+A former Etrurian knight with a love[N]
+for tea. Treats his peers as family.[X]
+
+#0xD50
+A former Etrurian knight who[N]
+cherishes those he cares about.[X]
+
+#0x20F
+A shifty merchant who handles[N]
+inventory for Isaac's group.[X]

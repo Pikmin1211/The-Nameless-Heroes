@@ -1,2 +1,4 @@
-#include "Graphics/Graphics Installer.txt"
+#include "Chapter Titles/Chapter Titles.event"
+#include "HUD/HUD.event"
+#include "Menus/Menus.event"
 #include "Class Reel Font/Class Reel Font Installer.txt"

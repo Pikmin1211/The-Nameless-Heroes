@@ -1,4 +1,4 @@
 [MidRight][LoadBrian]
 Hmm?[AN]
 This looks valuable...[N]
-I should let Isaac know.[X]
+I should let Isaac know.[A][X]

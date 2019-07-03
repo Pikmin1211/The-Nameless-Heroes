@@ -1,3 +1,2 @@
-A former Etrurain archer.[N]
-Suffers from anxiety, but still[N]
-shoots with deadly precision.[X]
+An anxious archer from Etruria.[N]
+Shoots with deadly precision.[X]

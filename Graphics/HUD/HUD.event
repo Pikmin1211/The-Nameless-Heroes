@@ -1,0 +1,27 @@
+ALIGN 4
+ClassFontEN:
+#incext Png2Dmp "classfonten.png" --lz77
+
+ALIGN 4
+Img_5C6E08_Repointed:
+#incext Png2Dmp "Img_5C6E08_Repoint.png" --lz77
+
+//EvaluationScreen:
+//#incext Png2Dmp "evaluation_08AC5598.png" -lz77
+
+PUSH
+ORG $156C8
+POIN Img_5C6E08_Repointed
+ORG $B8B1C
+POIN ClassFontEN
+ORG 0xD1838
+POIN ClassFontEN
+//ORG 0xBCB5C
+//POIN EvaluationScreen
+//ORG 0xAC5598
+//#incext Png2Dmp "evaluation_08AC5598.png" -lz77
+ORG $A92B38
+#incext Png2Dmp "Img_A92B38.png"
+ORG $BB08B4
+#incext Png2Dmp "Img_BB08B4.png" --lz77
+POP

@@ -1,0 +1,232 @@
+テキストID F14　　　キャラ名前
+
+Edmund
+---------------------------------------------
+
+テキストID F15　　　キャラ説明
+
+A knight who treats his peers as family. 
+Loves tea.
+----------------------------------------------
+
+テキストID F19     撤退セリフ
+
+Ugh...
+Seems I can't protect Family any longer.
+I'll retreat for now.
+Everyone! Be careful!
+
+----------------------------------------------
+テキストID F18     死亡セリフ
+
+Family...! I won't have regrets...
+if I have protected you and where you belong...
+
+----------------------------------------------
+
+テキストID F1A     アイテム発見
+
+Hmm...?
+What is this?
+
+----------------------------------------------
+
+テキストID F1B     Edmund離脱
+Everyone! I'm going!
+Hope you'll come safe!
+----------------------------------------------
+
+テキストID 8CD     序章会話１
+
+Kara:
+Hey! Commander!
+Commander, heyyy!
+Do you hear me?
+Hellooo?
+
+Issac:
+...
+.....
+..........!
+Oh, Sorry.
+What did you want to talk about?
+
+Kara:
+Jeez!
+You qualifying me as a full-fledged pegasus knight,
+that's what I want to talk about!
+You saw, didn't you?
+How I've been doing so well in battle recently?!
+
+Isaac:
+I admit you're working hard,
+but I can't qualify a novice like you.
+
+Kara:
+What?! Why not?!
+You've often complimented my skills
+recently, haven't you, Commander?
+
+Isaac:
+I only compliment you so you can do better.
+But you'd best not get carried away.
+
+Kara:
+Tsk...
+
+Isaac:
+Audrey, say something to her.
+
+Audrey:
+Kara, Isaac can qualify
+you for a full-fledged pegasus knight
+and send you back to Ilia right away.
+Why do you think he doesn't do that?
+
+Kara:
+Because he doesn't want to let me go?
+
+Olson:
+She's an idiot,
+as always...
+
+Kara:
+Jeez! You're all so mean!
+
+------------------------------------------------------(Insertion Begins)
+
+Edmund:
+Now, now, everybody.
+Don't tease her.
+Kara has been working hard. I assure you, Family.
+
+Kara:
+Ohhh, Sirrr Ed...
+
+Audrey:
+Ed, don't spoil her.
+------------------------------------------------------(Insertion Ends)
+On the battlefield, one aims at the easiest target.
+Kara, if we let you back while you're still a novice,
+you'll end up being killed before long.
+Isaac can't 
+help being anxious about you.
+So that you aren't killed after you return to Ilia,
+he wants you to leave when you are experienced enough.
+Do you understand, Kara?
+
+Isaac:
+Audrey, 
+don't say such unnecessary things.
+
+Morris:
+Sir Commander is so thoughtful.
+Kara, you are quite blessed.
+When I was a new recruit, it was...
+...?
+Hmm, it seems
+rather noisy outside, doesn't it?
+
+Kara:
+Ah! I wonder if it's an entertainer or something.
+I like entertainers!
+Hey, can I go and see?
+
+Morris:
+Wait, Kara.
+Just listen to us before going.
+
+Kara:
+Um, umm...
+But you talk so long...
+
+Isaac:
+...That's strange.
+I never heard of any events being planned.
+----------------------------------------------
+
+■ Part 4 0x8CB
+
+Isaac:
+...The enemies are invading 
+faster than I thought.
+Ed, Audrey and I take on the front line.     ←(ADDITION!!)
+Olson and Morris support us
+from the back.
+Kara, you focus on reporting
+the enemies’ information to us quickly.
+Do be careful not to
+rush to the front line.
+
+Kara:
+Jeez! I’ll do all well before you tell me 
+to do this and that!
+
+Isaac:
+Morris,
+have you learnt to use staves at last?
+
+Morris:
+Yes, sir. Leave it to me.
+I finally got the knack recently.
+When someone is hurt, it’s my turn.
+
+Isaac:
+Olson, 
+is your tome still usable?
+
+Olson:
+I bought a new one some time ago.
+It’s as good as brand-new.
+
+---------------------------------------(Insertion Begins)
+Edmund:
+Alright, Family. I assure you
+I’ll protect you all.
+
+---------------------------------------(Insertion Ends)
+
+Audrey:
+Isaac, my axes seem 
+to be still all right. 
+
+Isaac:
+No problem, right? 
+Listen, we now
+don’t have enough supplies.
+But by capturing enemies,  
+we can supply ourselves.
+Try to find and capture weakend ones 
+and get supplies.  
+Now, we rout bandits.
+Here we go! 
+----------------------------------------------
+
+■ 拠点会話　　　AC8
+
+Edmund:
+Hey, Olson?
+
+Olson:
+Hm, Ed.
+You look rather cheerful, huh?
+
+Edmund:
+I do. Ta-dah!
+Shall we eat these together?
+
+Olson:
+Hm? Those look like expensive 
+baked sweets.
+But did you buy them for yourself, didn’t you?
+I’m afraid you should enjoy them alone.
+
+Edmund:
+This kind of things taste best
+when we share them together, Family! 
+Now, help yourself to whatever you like!
+
+Olson:
+If you insist, I will.
+Well, let’s see...
+

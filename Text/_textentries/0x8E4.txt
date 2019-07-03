@@ -1,5 +1,4 @@
-
 [MidRight][LoadWolf]
 Sorry, it seems like I[N]
 can't fight fer' much longer.[AN]
-I'll retreat for now.[A][X]
+I'll retreat fer now.[A][X]

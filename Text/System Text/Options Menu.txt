@@ -5,7 +5,7 @@ Animation[X]
 Terrain[X]
 
 #0xB
-Unit[X]
+Panel[X]
 
 #0xC
 Combat[X]
@@ -83,10 +83,10 @@ Set message speed (autoscroll)[X]
 Turn Terrain window on or off[X]
 
 #0x25
-Show normal unit window[X]
+Show burst window with tail[X]
 
 #0x26
-Show unit window with tail[X]
+Hide burst window with tail[X]
 
 #0x27
 Turn unit window off[X]
@@ -173,10 +173,10 @@ S[X]
 D[X]
 
 #0x43
-Panel[X]
+On[X]
 
 #0x44
-Burst[X]
+Off[X]
 
 #0x45
 Players[X]

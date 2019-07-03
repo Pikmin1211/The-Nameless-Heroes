@@ -1,3 +1,2 @@
-A former knight of Etruria.[N]
-An experienced veteran,[N]
-and hates to back out of a fight.[X]
+A former Etrurian knight who[N]
+hates to back out of a fight.[X]

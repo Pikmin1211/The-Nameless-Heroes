@@ -1,0 +1,12 @@
+#0xF18 EdmundDeath
+
+[MidRight][LoadEdmund]
+My family...![N]
+I won't have regrets...[AN]
+if I have protected you[N]
+and... our home...![A][X]
+
+#0xF1B EdmundEscape
+[MidRight][LoadEdmund]
+Everyone! I'm going![N]
+Please, stay safe![A][X]

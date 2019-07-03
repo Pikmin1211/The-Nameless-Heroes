@@ -1,0 +1,46 @@
+Å° Base after CP8 0x9D6
+SYSTEM MESSAGE:
+The Seize point has been blocked.
+Please wait until Elfin wakes up.
+You can check his status to
+see how many turns are remaining.
+
+
+Å° After CP10 base 0xA68
+SYSTEM MESSAGE:
+In the next chapter, Lizzy
+will be escorting Elfin.
+She will temporarily
+be unavailable in preparations.
+Make sure to prepare her
+equipment before moving on.
+
+
+Å° During CP12 castle control 0xE61
+SYSTEM MESSAGE:
+The chapter clear
+condition has changed.
+The clear condition is 
+now "all units escape,
+or Isaac reaches 
+the left passage".
+
+Å° When starting CP15 chapter 0xA75
+SYSTEM MESSAGE:
+To clear this chapter,
+seize two castles with Lizzy.
+No specific order is necessary.
+
+Å° At CP16 withdrawal event 0xD56
+SYSTEM MESSAGE:
+The chapter clear
+condition has changed.
+The clear condition is
+now "all units escape".
+
+
+Å° At CP16-2 event 0xE6E
+SYSTEM MESSAGE:
+You have recieved the Grannblaze.
+When Isaac wields it, he
+can gain a special skill.

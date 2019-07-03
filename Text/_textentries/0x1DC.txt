@@ -1,1 +1,1 @@
-Warrior[X]
+Monster[X]

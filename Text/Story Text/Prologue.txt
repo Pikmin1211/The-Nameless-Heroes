@@ -172,7 +172,17 @@ as always...[AN]
 [MidRight]
 Jeez! You're so mean![AN]
 
+[FarLeft][ClearFace][LoadEdmund]
+Now now, everyone.[N]
+Don't tease her.[AN]
+We all know Kara has[N]
+been working hard.[AN]
+
+[MidRight]
+Aw, sir Ed...[AN]
+
 [Left]
+Ed, don't spoil her now.[AN]
 On the battlefield, one aims[N]
 at the easiest target.[AN]
 Kara, if we let you back[N]
@@ -293,6 +303,10 @@ I'm good to go.[AN]
 Isaac, my axes seem[N]
 to still be alright.[AN]
 
+[Right][Clear][LoadEdmund]
+Don't worry, family.[N]
+I'll protect you all.[AN]
+
 [FarLeft]
 No problems, then? Alright.[AN]
 Listen up. Right now,[N]
@@ -410,72 +424,6 @@ no fuckin' match![A][X]
 [MidLeft][LoadONeill]
 Wh-what the hell...?[A][X]
 
-
-
-
-
-#0xBE3 IsaacDeath
-
-[MidRight][LoadIsaac]
-...[....][AN]
-There's no way I...[....][N]
-can die peacefully...[CloseEyes][....][A][X]
-
-
-
-
-
-#0xBEF AudreyRetreat
-
-[MidRight][LoadAudrey]
-Ugh...[....][AN]
-Sorry, I'm seriously hurt.[A][CloseEyes][N]
-I'll back off for now.[A][X]
-
-
-
-
-
-#0x969 MorrisRetreat
-
-[MidRight][LoadMorris]
-I'm so sorry...[....][AN]
-Let me retreat for[N]
-the time being...[CloseEyes][....][A][X]
-
-
-
-
-
-#0xBE9 KaraRetreat
-
-[MidRight][LoadKara]
-Ugh...[....][AN]
-Did I get[N]
-carried away...?[AN]
-Let me pull back[N]
-for a while...[....][A][X]
-
-
-
-
-
-#0x8E4 WolfRetreat
-
-[MidRight][LoadWolf]
-Sorry, it seems like I[N]
-can't fight fer' much longer.[AN]
-I'll retreat for now.[A][X]
-
-
-
-
-
-#0x943 OlsonRetreat
-
-[MidRight][LoadOlson]
-I'm sorry, Commander.[AN]
-I'll lay low for now...[....][A][X]
 
 
 
@@ -721,53 +669,3 @@ next time, then.[AN][X]
 
 #0x5E9 PrologueTimestamp
 Present[X]
-
-
-
-
-#0xE3F IsaacTreasure
-[MidRight][LoadIsaac][ToggleMouthMove]
-.....[N][ToggleMouthMove]
-This seems to be something.[A][X]
-
-
-
-
-#0xE40 WolfTreasure
-[MidRight][LoadWolf]
-This looks good.[N]
-I'll just pick it up.[A][X]
-
-
-
-
-#0xE42 OlsonTreasure
-[MidRight][LoadOlson]
-Did someone lose this...?[N]
-I'll just hold onto it.[A][X]
-
-
-
-
-#0xE43 MorrisTreasure
-[MidRight][LoadMorris]
-Oh? Looks like this was left[N]
-here. I should find the owner.[A][X]
-
-
-
-
-
-#0xE44 KaraTreasure
-[MidRight][LoadKara]
-Ah! What a good find![N]
-Today's my lucky day![A][X]
-
-
-
-
-
-#0xE4A AudreyTreasure
-[MidRight][LoadAudrey]
-Hm... I wonder, is this[N]
-useful? I'll just take it.[A][X]

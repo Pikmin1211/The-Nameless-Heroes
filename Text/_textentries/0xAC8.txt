@@ -1,0 +1,32 @@
+
+[MidLeft][LoadOlson][MidRight][LoadEdmund]
+Hey, Olson?[AN]
+
+[MidLeft]
+Oh, Ed.[N]
+You look rather cheerful.[AN]
+
+[MidRight][ToggleSmile]
+For good reason! Ta-dah![AN]
+Would you like to take a[N]
+break and eat these with me?[AN]
+
+[MidLeft]
+Hm? Baked goods? They[N]
+look pretty expensive.[AN]
+You bought them[N]
+for yourself, right?[AN]
+I wouldn't want to[N]
+take any from you.[AN]
+
+[MidRight]
+Now now, brother.[AN]
+These kinds of things are best[N]
+eaten with people you care about![AN]
+Please, help yourself![AN]
+
+
+[MidLeft]
+If you insist... maybe[N]
+one or two couldn't hurt.[AN]
+Heh, well, let’s see here...[A][X]

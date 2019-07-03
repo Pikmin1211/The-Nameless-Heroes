@@ -1,0 +1,81 @@
+#0xBE3 IsaacDeath
+[MidRight][LoadIsaac]
+...[....][AN]
+There's no way I...[....][N]
+can die peacefully...[CloseEyes][....][A][X]
+
+#0xBEF AudreyRetreat
+[MidRight][LoadAudrey]
+Ugh...[....][AN]
+Sorry, I'm seriously hurt.[A][CloseEyes][N]
+I'll back off for now.[A][X]
+
+#0x969 MorrisRetreat
+[MidRight][LoadMorris]
+I'm so sorry...[....][AN]
+Let me retreat for[N]
+the time being...[CloseEyes][....][A][X]
+
+#0xBE9 KaraRetreat
+[MidRight][LoadKara]
+Ack...[....][AN]
+Did I get[N]
+carried away...?[AN]
+Let me pull back[N]
+for a while...[....][A][X]
+
+#0x8E4 WolfRetreat
+[MidRight][LoadWolf]
+Sorry, it seems like I[N]
+can't fight fer' much longer.[AN]
+I'll retreat fer now.[A][X]
+
+#0x943 OlsonRetreat
+[MidRight][LoadOlson]
+I'm sorry, Commander.[AN]
+I'll lay low for now...[....][A][X]
+
+#0xF19 EdmundRetreat
+[MidRight][LoadEdmund]
+Argh...[....][AN]
+Seems I can't protect[N]
+my family any longer.[AN]
+I'll retreat for now.[N]
+Everyone! Be careful![A][X]
+
+#0xE6B PhelixRetreat
+[MidRight][LoadPhelix][HalfCloseEyes]
+Damn...[AN]
+Captian, I'm sorry...[N]
+I'll get out for now...[A][X]
+
+#0x8CF FerrisRetreat
+[MidRight][LoadFerris]
+...Damn![N]
+Forgive me, Commander.[AN]
+Like this, I'll just[N]
+slow everyone down.[AN]
+I'll retreat for now.[A][X]
+
+#0x8D2 BrianRetreat
+[MidRight][LoadBrian]
+I think I'm pushing it...[N][CloseEyes]
+I'll have to back away awhile.[A][X]
+
+#0xBF8 ChloeRetreat
+[MidRight][LoadChloe]
+Ugh...[N]
+This is also...[AN][CloseEyes]
+The duty of a swordswoman...[A][X]
+
+#0xC05 RemDeath
+[MidRight][LoadRem]
+Owww...[CloseEyes][AN]
+This is the worst...[A][X]
+
+
+
+#0xBFF PhelixDeath
+[MidRight][LoadPhelix]
+Th-this can't be...[N][CloseEyes]
+Goddamnit...[A][X]

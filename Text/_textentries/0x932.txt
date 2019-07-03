@@ -1,91 +1,82 @@
 
 [Left][LoadMoneyMan][MidRight][LoadSaar]
-Listen well, people of this village!
-I come bearing orders
-from Lord Florence of Dia!
-Lord Florence has given you 
-the honor of serving Etruria,
-for which you should take great pride!
-Any able bodied men from 15 to 60 years
-of age shall present themselves now!
-You have may not veto this decision!
-If there should be any one who refuses
-this duty, we shall punish this village
-through harsh sanctions!
+Listen well, people of this village![AN]
+I come bearing orders[N]
+from Lord Florence of Dia![AN]
+Lord Florence has given you[N]
+the honor of serving Etruria,[AN]
+for which you should take great pride![AN]
+Any able bodied men from 15 to 60 years[N]
+of age shall present themselves now![AN]
+You have may not veto this decision![AN]
+If there should be any one who refuses[N]
+this duty, we shall punish this village![AN]
+Expect harsh sanctions![AN]
 
 [Left]
-Oh, gods no...
-It's the end...
-They'll send us to the
-Death Mines of Eburacum...
-They'll work us until
-there's nothing left...
+Oh, gods no...[N]
+It's the end...[AN]
+They'll send us to the[N]
+Death Mines of Eburacum...[AN]
+They'll work us until[N]
+there's nothing left...[AN]
 
 [Left][Clear][LoadIsaac]
-I'd heard about this, but...
-I never believed it to be true.
+So, it looks like the[N]
+rumors were true...[AN]
 
 [FarLeft][LoadAudrey]
-I've gathered everyone here Isaac,
-but... there are so many soldiers here!
-No matter how hard we fight, we
-could never defeat this many, right?
+I've gathered everyone here Isaac,[N]
+but... there are so many soldiers here![AN]
+No matter how hard we fight, we[N]
+could never defeat this many, right?[AN]
 
 [Left]
-It seems they're not here for a fight...
-But it looks like we have no choice
-but to comply and go to Eburacum.
+It seems they're not here for a fight...[AN]
+But it looks like we have no choice[N]
+but to comply and go to Eburacum.[AN]
 
 [FarLeft]
-To the mines?
+To those death mines?[AN]
 
 [Left]
-Yeah... This is a bad situation.
-Like you said, there's far too
-many of them for us to handle,
-and we were caught off guard.
-I can't see a reasonable
-escape route anywhere.
+Yeah... This is a bad situation.[AN]
+Like you said, there's far too[N]
+many of them for us to handle,[AN]
+and we were caught off guard.[AN]
+I can't see a reasonable[N]
+escape route anywhere, either.[AN]
 
 [FarLeft]
-I guess you're right... damnit.
-So then what are we going to do?
+I guess you're right... damnit.[N]
+So then what should we do?[AN]
 
 [Left]
-Here. Take these papers, and give 
-them to Kara. Tell her to flee to Illia.
-We can't look after her any longer.
-I'm sure she'll be fine on her own.
+Here. Take these papers, and give[N]
+them to Kara. Tell her to flee to Illia.[AN]
+We can't look after her any longer.[N]
+I'm sure she'll be fine on her own.[AN]
 
 [FarLeft]
-I never thought I'd be
-the one giving this to her...
+I never thought I'd be[N]
+the one giving this to her...[AN]
 
 [Left]
-Me neither. I have one last request, Audrey.
-Please, look after the girls for me.
-I'm sorry I can't be of more use...
+Me neither. I have one last request, Audrey.[N]
+Please, look after the girls for me.[AN]
+I'm sorry I can't be of more use...[AN]
 
-[FarLeft]
-...
+[FarLeft][Beat][AN]
 
 [MidRight]
-Hear hear, men of the village!
-Gather to the town square!
-Quickly, now!
+Hear hear, men of the village![AN]
+Gather to the town square![AN]
+Quickly, now![AN]
 
 [FarLeft]
-Isaac, I...
+Isaac, I...[AN]
 
 [Left]
-Thank you for taking care of me, 
-Audrey. May the gods light your path.
-...Goodbye.
-
-
-
-
-#0xACE Chapter3Ending6
-
-[MidLeft][LoadVigarde][MidRight][LoadSoldier]
-[A][X]
+Thank you for taking care of me,[N]
+Audrey. I wish you the best.[AN]
+...Goodbye.[A][X]

@@ -234,7 +234,7 @@ obtained[X]
 obtained[X]
 
 #0x806
-Stole [X]
+stolen[X]
 
 #0x807
  gold.[X]

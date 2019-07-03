@@ -412,38 +412,6 @@ Me... beaten...?[A][X]
 
 
 
-#0xBFF PhelixDeath
-
-[MidRight][LoadPhelix]
-Th-this can't be...[N][CloseEyes]
-Goddamnit...[A][X]
-
-
-
-
-
-#0x8CF FerrisRetreat
-
-[MidRight][LoadFerris]
-...Damn![N]
-Forgive me, Commander.[AN]
-Like this, I'll just[N]
-slow everyone down.[AN]
-I'll retreat for now.[A][X]
-
-
-
-
-
-#0x8D2 BrianRetreat
-
-[MidRight][LoadBrian]
-I think I'm pushing it...[N][CloseEyes]
-I'll have to back away awhile.[A][X]
-
-
-
-
 
 #0x8FB Chapter1Village1
 
@@ -556,28 +524,3 @@ who have been killed.[AN]
 [MidLeft]
 Yeah...[N]
 I hope so.[A][X]
-
-
-
-
-#0xE5F PhelixTreasure
-[MidRight][LoadPhelix]
-Oh...? Hey! Guys!![N]
-Did somebody drop this!?[X]
-
-
-
-
-#0xE47 BrianTreasure
-[MidRight][LoadBrian]
-Hmm?[AN]
-This looks valuable...[N]
-I should let Isaac know.[X]
-
-
-
-
-#0xE46 FerrisTreasure
-[MidRight][LoadFerris]
-Huh, what's this?[N]
-I'll report it to the Commander.[X]

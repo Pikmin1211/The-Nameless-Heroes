@@ -1,0 +1,49 @@
+ALIGN 4
+BaseImage:
+#incext Png2Dmp "Base.png" --lz77
+
+PrologueImage:
+#incext Png2Dmp "Prologue.png" --lz77
+
+PrologueImageSmall:
+#incext Png2Dmp "Prologue Small.png" --lz77
+
+Chapter1Image:
+#incext Png2Dmp "Chapter 1.png" --lz77
+
+Chapter1ImageSmall:
+#incext Png2Dmp "Chapter 1 Small.png" --lz77
+
+Chapter2Image:
+#incext Png2Dmp "Chapter 2.png" --lz77
+
+Chapter2ImageSmall:
+#incext Png2Dmp "Chapter 2 Small.png" --lz77
+
+Chapter3Image:
+#incext Png2Dmp "Chapter 3.png" --lz77
+
+Chapter3ImageSmall:
+#incext Png2Dmp "Chapter 3 Small.png" --lz77
+
+
+PUSH
+ORG 0xA7356C
+POIN BaseImage
+ORG 0xA732C0
+POIN PrologueImage
+ORG 0xA732C4
+POIN PrologueImageSmall
+ORG 0xA732CC
+POIN Chapter1Image
+ORG 0xA732D0
+POIN Chapter1ImageSmall
+ORG 0xA732D8
+POIN Chapter2Image
+ORG 0xA732DC
+POIN Chapter2ImageSmall
+ORG 0xA732E4
+POIN Chapter3Image
+ORG 0xA732E8
+POIN Chapter3ImageSmall
+POP

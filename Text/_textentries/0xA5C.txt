@@ -1,3 +1,3 @@
 
 [MidRight]
-What should I do?[N][Yes][X]
+What should I say?[N][Yes][X]

@@ -1,3 +1,3 @@
 Steal[N]
-Steal unequipped items when[N]
-speed is higher than target's.[X]
+Steal items when speed[N]
+is higher than target's.[X]

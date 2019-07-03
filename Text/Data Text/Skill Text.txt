@@ -1,0 +1,329 @@
+#0x5B5
+Pavise (Lv%)[N]
+Reduces physical damage by half.[X]
+
+#0x5AC
+Miracle (Luck x3%)[N]
+Survive a fatal blow with 1 HP.[X]
+
+#0x5AB
+Nihil[N]
+Ignore opponent's combat skills.[X]
+
+#0x5C3
+Nullify[N]
+Negates effective damage.[X]
+
+#0x5A9
+Cancel[N]
+Negates the opponent's counterattack.[X]
+
+#0x5A8
+Wrath[N]
+Crit +50% when HP is at 1.[X]
+
+#0x5C0
+Hero[N]
+When HP is less than half,[N]
+skill activation rate +30%.[X]
+
+#0x5AA
+Ambush[N]
+Always attack first.[X]
+
+#0x5BA
+Continue (Skill%)[N]
+Initiates another attack.[X]
+
+#0x5A0
+Paragon[N]
+Exp gain is doubled.[X]
+
+#0x5AD
+Re-Move (Luck%)[N]
+Act again after completing an action.[X]
+
+#0x5BB
+Pass[N]
+Move through enemy units.[X]
+
+#0x5B1
+Renewal[N]
+Restore 20%HP at the[N]
+start of every turn.[X]
+
+#0x5AF
+Intimidate[N]
+Enemies within 3 tiles lose 10 avoid.[X]
+
+#0x5C1
+Fortune[N]
+Opposing critical[N]
+hit rate is always 0.[X]
+
+#0x5B2
+Galeforce[N]
+Act again after defeating an[N]
+enemy (once per turn).[X]
+
+#0x5C4
+Aegis (Skill%)[N]
+Nullify a magical attack.[X]
+
+#0x5CA
+Staff Savant[N]
+Healing staff range[N]
+is always Mag / 2.[X]
+
+#0x5CE
+Breaker[N]
+Damage dealt/received +3/-3, AS +3,[N]
+and Hit/Avoid +20 against this weapon.[X]
+
+#0x5CB
+Wary Fighter[N]
+Prevents all follow-up attacks.[X]
+
+#0x5B4
+Magekiller[N]
+Deal effective damage to magic users.[X]
+
+#0x942
+Slayer[N]
+Deal effective damage to monsters.[X]
+
+#0xB8
+Swordslayer[N]
+Deal effective damage to sword users.[X]
+
+#0xD0B
+Tower Shield[N]
+-6 damage when attacked at range.[X]
+
+#0x5C6
+Bunker[N]
+Reduces follow-up damage received by half.[X]
+
+#0x5CD
+Desperation[N]
+Follow-up attacks will occur immediately.[X]
+
+#0xD0C
+Continue[N]
+Doubles the amount of[N]
+rounds of all combat.[X]
+
+#0x5D0
+Lifetaker[N]
+Restore 50%HP after attacking[N]
+and defeating an enemy.[X]
+
+#0x5D2
+Life and Death[N]
+Damage dealt and recieved +10.[X]
+
+#0x5D1
+Death Blow[N]
+Damage +5 and Crit + 15[N]
+when attacking.[X]
+
+#0x599
+Armormed Blow[N]
+Def +10 when attacking.[X]
+
+#0x5D3
+Shift[N]
+Can change weapons when attacked[N]
+if unable to counterattack.[X]
+
+#0x5D5
+Mysterious Rhythm[N]
+Once every 4 turns, skills occur[N]
+at a 100% activation rate.[X]
+
+#0x59D
+Powerstaff[N]
+Take another action after using[N]
+a staff (once per turn).[X]
+
+#0x593
+Charge (HP%)[N]
+Initiates another round of combat.[X]
+
+#0x594
+Imbue[N]
+Heals all status effects at[N]
+the start of every turn.[X]
+
+#0x595
+Moonlight[N]
+Instead of performing a follow-up attack,[N]
+negates the opponent's counterattack.[X]
+
+#0x0598
+Short Shield[N]
+-6 damage when attacked up close.[X]
+
+#0xD0D
+Fury[N]
+Str/Spd/Def/Res +2, but take[N]
+6 damage after attacking.[X]
+
+#0xD0E
+Triangle Adept[N]
+Doubles weapon traingle effects.[X]
+
+#0x5A3
+Astra (Lv%)[N]
+Attack 5 times at half damage.[X]
+
+#0x5A2
+Luna (Skill%)[N]
+Halve opponent's defense.[X]
+
+#0x5A1
+Sol (Skill%)[N]
+Restore HP equal to half[N]
+of damage dealt.[X]
+
+#0x5A6
+Aether (Lv%)[N]
+Perform Luna and Sol consecutively.[X]
+
+#0x5B3
+Flare (Skill%)[N]
+Halve the foes's resistance and heal[N]
+HP equal to half of damage dealt.[X]
+
+#0x59F
+Rightful King[N]
++10% to skill activation rate.[X]
+
+#0x5AE
+Charm[N]
+Allies within 3 spaces gain +10 hit.[X]
+
+#0x5BC
+Divine Shield[N]
+Halves all damage received.[X]
+
+#0x5A4
+Colossus (Skill%)[N]
+Add Con to damage.[X]
+
+#0x5A5
+Vengeance (Skill%)[N]
+Add half of lost HP to damage.[X]
+
+#0x5B8
+Proximity Shot[N]
+Can use bows at close range.[X]
+
+#0x5B9
+Bowrange+[N]
++1 maximum attack range[N]
+while using a bow.[X]
+
+#0x5BA
+Sure Shot (Skill%)[N]
+The attack will not miss.[X]
+
+#0x5BF
+Petrify (Skill%)[N]
+Turns the opponent to stone.[X]
+
+#0x5B7
+Enrage (Skill%)[N]
+Makes the opponent go berserk.[X]
+
+#0x5C5
+Ignis (Skill%)[N]
+Add Str/2 when attacking magically.[N]
+Add Mag/2 when attacking physically.[X]
+
+#0x5C8
+Dragon Fang (Skill%)[N]
+Multiplies damage by 1.5x.[X]
+
+#0x5BE
+Steal[N]
+Steal items when speed[N]
+is higher than target's.[X]
+
+#0x5BD
+Locktouch[N]
+Open doors and chests without keys.[X]
+
+#0x5A7
+Shootout (Random%)[N]
+Deal quintuple damage.[X]
+
+#0x5B6
+Summon[N]
+Summons a phantom.[X]
+
+#0x5C2
+Watchful[N]
+Cannot be captured or stolen from.[X]
+
+#0xD0F
+Tower Shield+[N]
+Negates all ranged attacks.[X]
+
+#0xD10
+Rightful God[N]
++30% to skill activation rate.[X]
+
+#0x5C9
+Canto[N]
+Can use remaining movement[N]
+after performing any action.[X]
+
+#0x5CF
+Impale (Skill%)[N]
+Deals double damage. Deals quadruple[N]
+damage if it will defeat the opponent.[X]
+
+#0x5D6
+Eclipse (Skill%)[N]
+If the attack does not defeat the[N]
+opponent, it reduces their HP to 1.[X]
+
+#0x5D4
+Crusade (Lv%)[N]
+When HP is half or less, deal double damage[N]
+and restore HP equal to damage dealt.[X]
+
+#0x591
+Prominence[N]
+Enemies within 5 tiles[N]
+are ignited.[X]
+
+#0x592
+Genocide (HP%)[N]
+Increases all stats, negates all skills,[N]
+and doubles the length of combat.[X]
+
+#0x5B0
+Adept (Skill%)[N]
+Initiates another attack.[X]
+
+#0x5C7
+Void Curse[N]
+Unit gives no experience[N]
+points upon being defeated.[X]
+
+#0x5CC
+Crit+15[N]
+Grants +15 to[N]
+critical hit rate.[X]
+
+#0x828
+Aside[N]
+This character is only usable[N]
+for the duration of the chapter.[X]
+
+#0xE6C
+Skybreaker[N]
+Deal effective[N]
+damage to fliers.[X]

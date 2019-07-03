@@ -1,3 +1,2 @@
-An apprentice Pegasus Knight[N]
-from Ilia. Her cheery attitude[N]
-and bright smile are contagious.[X]
+An apprentice Illian Pegasus Knight.[N]
+Her cheery attitude is contagious.[X]

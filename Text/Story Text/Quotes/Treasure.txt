@@ -1,0 +1,63 @@
+#0xE3F IsaacTreasure
+[MidRight][LoadIsaac][ToggleMouthMove]
+.....[N][ToggleMouthMove]
+This seems to be something.[A][X]
+
+#0xE40 WolfTreasure
+[MidRight][LoadWolf]
+This looks good.[N]
+I'll just pick it up.[A][X]
+
+#0xE42 OlsonTreasure
+[MidRight][LoadOlson]
+Did someone lose this...?[N]
+I'll just hold onto it.[A][X]
+
+#0xE43 MorrisTreasure
+[MidRight][LoadMorris]
+Oh? Looks like this was left[N]
+here. I should find the owner.[A][X]
+
+#0xE44 KaraTreasure
+[MidRight][LoadKara]
+Ah! What a good find![N]
+Today's my lucky day![A][X]
+
+#0xE4A AudreyTreasure
+[MidRight][LoadAudrey]
+Hm... I wonder, is this[N]
+useful? I'll just take it.[A][X]
+
+#0xF1A EdmundTreasure
+[MidRight][LoadEdmund]
+Hm...?[N]
+What's this...?[AN]
+I should find the owner.[A][X]
+
+#0xE5F PhelixTreasure
+[MidRight][LoadPhelix]
+Oh...? Hey! Guys!![N]
+Did somebody drop this!?[A][X]
+
+#0xE46 FerrisTreasure
+[MidRight][LoadFerris]
+Huh, what's this?[N]
+I'll report it to the Commander.[A][X]
+
+#0xE47 BrianTreasure
+[MidRight][LoadBrian]
+Hmm?[AN]
+This looks valuable...[N]
+I should let Isaac know.[A][X]
+
+#0xE54 ChloeTreasure
+[MidRight][LoadChloe]
+What's this...?[N]
+Hm, should I tell Isaac?[A][X]
+
+#0xE59 RemTreasure
+[MidRight][LoadRem]
+Oh? Did some dolt drop this?[N]
+What a nice catch![AN]
+I've gotta sell it, before[N]
+anyone else notices![A][X]

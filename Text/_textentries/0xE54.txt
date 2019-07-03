@@ -1,3 +1,3 @@
 [MidRight][LoadChloe]
 What's this...?[N]
-Hm, should I tell Isaac?[X]
+Hm, should I tell Isaac?[A][X]

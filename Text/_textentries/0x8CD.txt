@@ -57,7 +57,17 @@ as always...[AN]
 [MidRight]
 Jeez! You're so mean![AN]
 
+[FarLeft][ClearFace][LoadEdmund]
+Now now, everyone.[N]
+Don't tease her.[AN]
+We all know Kara has[N]
+been working hard.[AN]
+
+[MidRight]
+Aw, sir Ed...[AN]
+
 [Left]
+Ed, don't spoil her now.[AN]
 On the battlefield, one aims[N]
 at the easiest target.[AN]
 Kara, if we let you back[N]

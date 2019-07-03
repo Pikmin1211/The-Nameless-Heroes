@@ -458,17 +458,6 @@ Hurry! They shouldn't be far![A][X]
 
 
 
-#0xBF8 ChloeRetreat
-
-[MidRight][LoadChloe]
-Ugh...[N]
-This is also...[AN][CloseEyes]
-The duty of a swordswoman...[A][X]
-
-
-
-
-
 #0x8FD Chapter2IsaacVsBazba
 
 [MidRight][LoadIsaac]
@@ -518,7 +507,3 @@ This ain't... uuugh...[A][X]
 
 
 
-#0xE54 ChloeTreasure
-[MidRight][LoadChloe]
-What's this...?[N]
-Hm, should I tell Isaac?[X]
