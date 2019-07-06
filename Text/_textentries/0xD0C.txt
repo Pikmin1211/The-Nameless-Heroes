@@ -1,3 +1,0 @@
-Continue[N]
-Doubles the amount of[N]
-rounds of all combat.[X]

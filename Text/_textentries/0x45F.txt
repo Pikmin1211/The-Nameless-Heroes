@@ -1,2 +1,0 @@
-Protects airborne[N]
-units from bows.[X]

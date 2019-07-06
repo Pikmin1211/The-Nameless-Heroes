@@ -1,0 +1,110 @@
+
+
+[MidRight][LoadIsaac][MidLeft][LoadHermes]
+
+Ah, welcome, sir...[....][AN]
+
+Oh! Well if it isn't[N]
+
+you, Commander![AN]
+
+How did you notice[N]
+
+I was doing business here?[AN]
+
+Did someone tell you?[AN]
+
+Or was it our[N]
+
+good Lady Luck?[AN]
+
+
+
+[MidRight]
+
+This some kinda stall?[AN]
+
+I just happened to run into it...[AN]
+
+See, someone was worried about a[N]
+
+pickpocket, so I've been looking around.[AN]
+
+
+
+[MidLeft]
+
+Oh, well...[AN]
+
+They're not[N]
+
+exactly wrong...[AN]
+
+
+
+[MidRight]
+
+I don't care if you do business here.[N]
+
+Just... stay out of trouble, alright?[AN]
+
+[Clear]
+
+
+
+[MidLeft][MoveMidLeft]
+
+W-wait! Wait! Commander![AN]
+
+
+
+[MidRight][LoadIsaac]
+
+What?[AN]
+
+
+
+[MidLeft]
+
+You're already here, right?[N]
+
+Why not buy something?[AN]
+
+
+
+[MidRight]
+
+I guess I could, if you[N]
+
+have anything useful.[AN]
+
+What exactly are[N]
+
+you dealing here?[AN]
+
+
+
+[MidLeft]
+
+This stall sells rare items.[N]
+
+You won't find them anywhere else![AN]
+
+Today I'm selling something[N]
+
+really valuable, only 1000 gold![AN]
+
+
+
+[MidRight]
+
+1000 gold...?[N]
+
+That's not exactly expensive...[AN]
+
+
+
+[MidLeft]
+
+So, what do you think?[A][X]
+

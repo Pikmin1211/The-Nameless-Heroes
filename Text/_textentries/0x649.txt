@@ -1,2 +1,0 @@
-Receive a rescued ally from[N]
-another ally next to you.[X]

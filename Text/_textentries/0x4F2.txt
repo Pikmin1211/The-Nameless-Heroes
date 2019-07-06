@@ -1,2 +1,0 @@
-Chance that the attack will hit.[N]
-Affected by terrain and enemies.[X]

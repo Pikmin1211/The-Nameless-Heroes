@@ -1,0 +1,190 @@
+
+
+[FarRight][LoadIsaac][MidLeft][LoadMoneyMan]
+
+S-stop it...[AN]
+
+What... what did we do![AN]
+
+What are they[N]
+
+telling you we've done?![AN]
+
+
+
+[FarRight]
+
+...I have nothing to say[N]
+
+to the likes of you.[AN]
+
+
+
+[MidLeft]
+
+Stop!![N]
+
+Please stop, for god's sake![AN]
+
+
+
+[FarRight][MoveLeft][Event]
+
+
+
+[Left]
+
+[ToggleMouthMove]...[ToggleMouthMove][AN]
+
+
+
+
+
+[MidLeft][CloseEyes]
+
+God... please...[AN]
+
+[Clear]
+
+
+
+[FarRight]
+
+Commander![AN]
+
+
+
+[Left][Clear][LoadIsaac]
+
+
+
+[Right][LoadRedSoldier]
+
+Commander![AN]
+
+
+
+[Left]
+
+I'm almost done here.[N]
+
+How is it going over there?[AN]
+
+
+
+[Right]
+
+...Why won't you call[N]
+
+them off, Commander?![AN]
+
+This order is absurd.[AN]
+
+Why do we have to kill[N]
+
+everyone in this village?![AN]
+
+
+
+[Left]
+
+I asked how it was going.[AN]
+
+
+
+[Right]
+
+We're just about done...[N][....]
+
+Hey... Commander![AN]
+
+Are you sure you want to[N]
+
+be a "knight" like... like this?[AN]
+
+
+
+[Left]
+
+...Don't talk about unimportant[N]
+
+things during the mission.[AN]
+
+We must execute our orders[N]
+
+for the sake of Etruria.[AN]
+
+Now, we don't have time to argue.[AN]
+
+
+
+[Right]
+
+But...[AN]
+
+
+
+[FarRight][LoadRedSoldier]
+
+The Commander is right.[N]
+
+We don't have any time to argue, do we?[AN]
+
+
+
+[FarLeft][LoadRedSoldier]
+
+Sir! It's urgent.[AN]
+
+There's an Etrurian platoon in the[N]
+
+village who aren't informed of us.[AN]
+
+What do we do? Those[N]
+
+bastards are attacking us![AN]
+
+
+
+[Left]
+
+...Our orders are to dispose[N]
+
+of all the people in the village.[AN]
+
+
+
+[FarLeft]
+
+Are you serious?! Commander![AN]
+
+
+
+[Left]
+
+I'll take care of it.[N]
+
+Lead me there.[AN]
+
+
+
+[FarLeft]
+
+This way, sir![AN][Clear]
+
+
+
+[Left][MoveFarLeft]
+
+
+
+[Right]
+
+Wait, Isaac![AN]
+
+
+
+[FarLeft]
+
+...[A][Clear][.....][X]
+

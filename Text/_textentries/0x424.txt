@@ -1,2 +1,0 @@
-An extravagent gemstone worth[N]
-20,000 gold.[X]

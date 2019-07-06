@@ -1,2 +1,0 @@
-Restores items to[N]
-new condition.[X]

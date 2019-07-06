@@ -1,2 +1,0 @@
-I'll pay [G] gold.[N]
-It's gold, is not it?[Yes][X]

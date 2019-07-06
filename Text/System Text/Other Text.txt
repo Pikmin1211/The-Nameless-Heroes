@@ -67,9 +67,6 @@ Enemies[X]
 #0x564
 World[X]
 
-#0x565
-Other[X]
-
 #0x596
 Armory / Vendor[X]
 

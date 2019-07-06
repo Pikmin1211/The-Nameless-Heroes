@@ -1,2 +1,0 @@
-Chance the weapon will strike a[N]
-critical blow, doing triple damage.[X]

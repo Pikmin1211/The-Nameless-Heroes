@@ -1,3 +1,0 @@
-Welcome to the armory.[A][ClearText]
-I deal in all sorts of goods.[N]
-[Buy/Sell][X]

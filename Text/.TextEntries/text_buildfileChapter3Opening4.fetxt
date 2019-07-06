@@ -1,0 +1,220 @@
+
+
+[Right][LoadSchwarz][FarLeft][LoadCaptain]
+
+I'm the cap'n here. What seems[N]
+
+to be the problem, officer?[AN]
+
+
+
+[Right]
+
+My name is Schwarz, and I'm the chief[N]
+
+naval officer of the Etrurian guards.[AN]
+
+Could I investigate this vessel, please?[AN]
+
+
+
+[FarLeft]
+
+Eh? Why? What are[N]
+
+we suspected of?[AN]
+
+
+
+[Right]
+
+I agree that this is[N]
+
+certainly sudden, so I'm sorry.[AN]
+
+We overheard news that pirates[N]
+
+are lurking in this area,[AN]
+
+so we're investigating.[N]
+
+I hope you understand.[AN]
+
+
+
+[FarLeft]
+
+What? Do we look like pirates?[AN]
+
+
+
+[Right]
+
+I'm just making sure.[AN]
+
+Pirates these days are very[N]
+
+keen when it comes to disguises.[AN]
+
+
+
+[MidLeft]
+
+If that's the case...[AN]
+
+then that sounds[N]
+
+reasonable, I s'pose.[AN]
+
+
+
+[Right]
+
+I thank you for your cooperation.[AN]
+
+Alright, everyone, we're good to go.[N]
+
+Men, begin loading their[N]
+
+cargo onto the ship![AN]
+
+
+
+[FarRight][LoadRedSoldier]
+
+Yes sir! We'll go and[N]
+
+get everything ready.[AN]
+
+[Clear]
+
+
+
+[FarLeft]
+
+Hang on a moment![AN]
+
+I've never heard of Etrurian[N]
+
+guards doing such things![AN]
+
+
+
+[Right]
+
+We're only taking the cargo back[N]
+
+to our base and investigating it.[AN]
+
+When it comes to an investigation,[N]
+
+we always make a thorough one.[AN]
+
+Or, is there something shady[N]
+
+you're trying to hide from us?[AN]
+
+
+
+[FarLeft]
+
+That's not it...[AN]
+
+If ya take all our cargo away,[N]
+
+the business'll get stalled![AN]
+
+
+
+[FarRight][LoadRedSoldier]
+
+Sir Schwarz,[N]
+
+everything's ready.[AN]
+
+
+
+[Right]
+
+Good. Do it.[AN]
+
+
+
+[FarRight]
+
+Yes sir![AN]
+
+[Clear]
+
+
+
+[FarLeft][Clear][Left][LoadCaptain]
+
+Hey![AN]
+
+What the hell is[N]
+
+goin' on here?![AN]
+
+Stop doing that![AN]
+
+Don't ruin me ship![AN]
+
+
+
+[Right]
+
+Huh? What are you doing[N]
+
+with your hands?[AN]
+
+
+
+[Left]
+
+What?[AN]
+
+
+
+[Right]
+
+Don't touch me with your[N]
+
+dirty, commoner hands![AN]
+
+
+
+[Left][Clear][FarLeft][LoadCaptain]
+
+Huh?![AN]
+
+
+
+[Right]
+
+This act can be seen as a sign[N]
+
+of rebellion against Etruria![AN]
+
+
+
+[FarLeft]
+
+Hey, what the hell?! I only[N]
+
+touched ya fer a moment![AN]
+
+
+
+[Right]
+
+Damn rebels! You[N]
+
+deserve swift justice![AN]
+
+
+
+[FarLeft][MoveFarLeft]
+
+Hey, calm down![A][X]
+

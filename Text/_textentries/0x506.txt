@@ -1,2 +1,0 @@
-Damage this weapon will do.[N]
-x2: two attacks, x4: four.[X]

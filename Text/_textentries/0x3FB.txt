@@ -1,2 +1,0 @@
-Restores all HP to allies[N]
-in adjacent spaces.[X]

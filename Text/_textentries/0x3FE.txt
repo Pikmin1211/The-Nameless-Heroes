@@ -1,2 +1,0 @@
-Returns allies to normal[N]
-condition. (Cures sleep, etc.)[X]

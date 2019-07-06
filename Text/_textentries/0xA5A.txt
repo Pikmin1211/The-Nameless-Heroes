@@ -1,5 +1,0 @@
-
-[MidRight][LoadIsaac][MidLeft][LoadHermes]
-You won't?[AN]
-Can you not[N]
-afford it?[AN][X]

@@ -1,2 +1,0 @@
-Removes any skills[N]
-learned via manuals.[X]

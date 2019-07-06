@@ -1,8 +1,0 @@
-
-[MidRight][LoadCurrent][MidLeft][LoadBrownHairMan]
-Some village girls have[N]
-already been carried off...[AN]
-And the neighboring village is...[AN]
-What the hell is going on...?![AN]
-Please... Take this![N]
-Do anything to drive them away![A][X]

@@ -1,2 +1,0 @@
-Halts all enemy magic[N]
-for several turns.[X]

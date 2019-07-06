@@ -1,3 +1,0 @@
-[MidRight][LoadFerris]
-Huh, what's this?[N]
-I'll report it to the Commander.[A][X]

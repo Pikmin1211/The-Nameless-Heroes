@@ -1,2 +1,0 @@
-Do you have anything else?[N]
-[Buy/Sell][X]

@@ -1,1 +1,0 @@
-Set Control Window display[X]

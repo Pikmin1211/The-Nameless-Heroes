@@ -1,2 +1,0 @@
-Intimidate[N]
-Enemies within 3 tiles lose 10 avoid.[X]

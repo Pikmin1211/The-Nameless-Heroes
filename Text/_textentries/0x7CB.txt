@@ -1,2 +1,0 @@
-You can't equip[N]
-this weapon.[X]

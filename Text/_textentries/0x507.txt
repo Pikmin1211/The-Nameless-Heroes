@@ -1,2 +1,0 @@
-Attack Speed.[N]
-Determines number of attacks.[X]

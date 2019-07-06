@@ -1,1 +1,1 @@
-#include "Dictionary Text/Story Page.txt"
+#include "Story Page.txt"

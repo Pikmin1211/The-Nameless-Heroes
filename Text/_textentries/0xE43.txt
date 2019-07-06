@@ -1,3 +1,0 @@
-[MidRight][LoadMorris]
-Oh? Looks like this was left[N]
-here. I should find the owner.[A][X]

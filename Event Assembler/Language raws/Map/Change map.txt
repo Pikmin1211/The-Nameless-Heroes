@@ -8,7 +8,7 @@ MAC1, 0x5F, 32, -game:FE7
 ##Triggers a map change.
 MACC, 0x60, 4, -game:FE7 -indexMode:8
 ##Position of the map change.
-	Position, 2, 2, coordinates:2 
+	Position, 2, 2, -coordinates:2 
 
 ##Triggers a map change.
 MAC2, 0x62, 4, -game:FE7 -indexMode:8

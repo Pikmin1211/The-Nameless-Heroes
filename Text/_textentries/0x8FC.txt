@@ -1,8 +1,0 @@
-[MidRight][LoadCurrent][MidLeft][LoadMoneyMan]
-Help... has come?[N]
-Pirates... attacked our house...[AN]
-I couldn't help anyone...[AN]
-Here... Take this staff...[AN]
-Please... avenge us...[AN][CloseEyes]
-Oh... I can't...[N]
-see any longer...[A][X]

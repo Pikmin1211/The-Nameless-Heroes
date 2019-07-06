@@ -1,2 +1,0 @@
-You can't speak[N]
-while Silenced.[X]

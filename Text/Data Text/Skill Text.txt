@@ -31,10 +31,6 @@ skill activation rate +30%.[X]
 Ambush[N]
 Always attack first.[X]
 
-#0x5BA
-Continue (Skill%)[N]
-Initiates another attack.[X]
-
 #0x5A0
 Paragon[N]
 Exp gain is doubled.[X]

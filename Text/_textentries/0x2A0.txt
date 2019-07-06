@@ -1,2 +1,0 @@
-Fighters skilled in both sword and bow.[N]
-Equip: Swords, bows.[X]

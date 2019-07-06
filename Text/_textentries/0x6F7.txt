@@ -1,2 +1,0 @@
-Sell your unneeded items.[N]
-Important items cannot be sold.[X]

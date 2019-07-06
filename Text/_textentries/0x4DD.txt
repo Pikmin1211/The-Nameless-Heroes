@@ -1,2 +1,0 @@
-Fighting skill. A higher[N]
-number improves the unit's hit.[X]

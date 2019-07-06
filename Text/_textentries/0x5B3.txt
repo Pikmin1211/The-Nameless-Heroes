@@ -1,3 +1,0 @@
-Flare (Skill%)[N]
-Halve the foes's resistance and heal[N]
-HP equal to half of damage dealt.[X]

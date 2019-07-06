@@ -1,2 +1,0 @@
-[Item] will be dropped.[N]
-[No][X]

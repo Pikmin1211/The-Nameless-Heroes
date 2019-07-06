@@ -49,9 +49,6 @@ Effective against fliers.[X]
 #0x3B1
 Effective against ballisticians.[X]
 
-#0x3CB
-[X]
-
 #0x39F
 Magic. Capable of indirect attacks.[X]
 
@@ -85,9 +82,6 @@ For Lizzy only.[X]
 #0x968
 When held, survive a[N]
 fatal blow with 1 HP.[X]
-
-#0x3CC
-Has extremely long attack range.[X]
 
 #0x6B3
 Increases leadership stars by 1.[X]
@@ -181,9 +175,6 @@ Improves critical hit rate.[X]
 
 #0x3E6
 A Sacred Twin tome. Spd +5.[X]
-
-#0x3EA
-Improves critical hit rate.[X]
 
 #0x3EF
 Drains enemy HP into caster.[X]

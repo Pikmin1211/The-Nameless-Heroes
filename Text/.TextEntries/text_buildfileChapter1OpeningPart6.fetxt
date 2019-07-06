@@ -1,0 +1,52 @@
+
+
+[MidRight][LoadBlondeKid][MidLeft][LoadIsaac]
+
+Are you all right?[AN]
+
+
+
+[MidRight]
+
+Um... yes.[AN]
+
+
+
+[MidLeft]
+
+Go now. Get out of here.[N]
+
+It's not safe for you.[AN]
+
+
+
+[MidRight]
+
+...[....][N]
+
+Thank you...[AN][Clear]
+
+
+
+[MidLeft]
+
+Sorry, Kara.[AN]
+
+Can you go[N]
+
+scouting now?[AN]
+
+
+
+[MidRight][LoadKara]
+
+Of course.[N]
+
+Leave it to me![AN]
+
+
+
+[MidLeft]
+
+Don't overdo it.[A][X]
+

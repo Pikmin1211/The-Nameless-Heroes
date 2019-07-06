@@ -1,2 +1,0 @@
-Weapon Range. A range of 1[N]
-can only hit adjacent spaces.[X]

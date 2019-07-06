@@ -1,2 +1,0 @@
-A special card that reduces[N]
-the cost of all items by half.[X]

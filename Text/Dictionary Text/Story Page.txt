@@ -34,9 +34,6 @@ Save[X]
 #0x564
 World Map[X]
 
-#0x565
-Other[X]
-
 #0xD37
 Liam[X]
 

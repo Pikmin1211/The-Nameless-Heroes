@@ -1,2 +1,0 @@
-Armored tanks that can attack from a[N]
-long distance. Devastating to flying foes.[X]

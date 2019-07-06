@@ -376,20 +376,20 @@ Craaack! Turned...to...[N]
 stone. Can't...move![X]
 
 #0x4ED
-Attack power is increased,[N]
-thanks to Filla's Might.[X]
+Attack increased[N]
+by 10 points.[X]
 
 #0x4EE
-Defense and resistance increased,[N]
-thanks to Ninis's Grace.[X]
+Defense and resistance[N]
+increased by 10 points.[X]
 
 #0x4EF
-Critical hit is increased,[N]
-thanks to Thor's Ire.[X]
+Critical hit rate[N]
+increased by 10 points.[X]
 
 #0x4F0
-Dodge is increased, thanks[N]
-to Set's Litany.[X]
+Avoid increased[N]
+by 10 points.[X]
 
 #0x4F1
 Amount of damage this weapon[N]

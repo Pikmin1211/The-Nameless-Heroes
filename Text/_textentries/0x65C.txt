@@ -1,2 +1,0 @@
-Ready weapons or magic.[N]
-Use them to counterattack.[X]

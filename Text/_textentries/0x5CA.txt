@@ -1,3 +1,0 @@
-Staff Savant[N]
-Healing staff range[N]
-is always Mag / 2.[X]

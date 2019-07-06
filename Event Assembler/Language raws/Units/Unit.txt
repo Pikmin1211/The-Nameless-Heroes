@@ -77,7 +77,7 @@ UNIT, 0, 20, -game:FE8 -priority:unit -end -indexMode:8
 	0, 8, 4, -fixed
 	0, 12, 4, -fixed
 	0, 16, 4, -fixed
-    
+
 UNIT, 0, 160, -game:FE8 -priority:unit
 	Char ID, 0, 8
 	Class ID, 8, 8
@@ -91,7 +91,7 @@ UNIT, 0, 160, -game:FE8 -priority:unit
 	Byte1, 48, 8
 ##Amount of REDA codes to use when loading this unit.
 	Data count, 56, 8
-##Pointer to REDA data which controls units 
+##Pointer to REDA data which controls units
 ##movement after loading.
 	REDA data pointer, 64, 32, -pointer:reinforcementData
 	Items, 96, 32, -coordinate:1-4
@@ -112,7 +112,7 @@ UNIT, 0, 160, -game:FE8 -priority:unit
 	Byte1, 48, 8
 ##Amount of REDA codes to use when loading this unit.
 	Data count, 56, 8
-##Pointer to REDA data which controls units 
+##Pointer to REDA data which controls units
 ##movement after loading.
 	REDA data pointer, 64, 32, -pointer:reinforcementData
 	Items, 96, 32, -coordinate:1-4
@@ -132,8 +132,8 @@ UNIT, 0, 160, -game:FE8 -priority:unit
 	REDA data pointer, 64, 32, -pointer:reinforcementData
 	Items, 96, 32
 	AI, 128, 32
-    
-    
+
+
 UNIT, 0, 160, -game:FE8 -priority:unit
 	Char ID, 0, 8
 	Class ID, 8, 8
@@ -158,7 +158,7 @@ UNIT, 0, 160, -game:FE8 -priority:unit
 ##Controls how units move right after getting loaded to the map.
 REDA, 0, 64, -game:FE8 -priority:reinforcementData
 ##Position to move the unit to.
-	New position, 0, 12, coordinate:2 -preferredBase:10
+	New position, 0, 12, -coordinate:2 -preferredBase:10
 ##Flags of the movement.
 	Flags, 12, 4, -preferredBase:2
 ##Speed of the movement.
@@ -170,11 +170,10 @@ REDA, 0, 64, -game:FE8 -priority:reinforcementData
 	Delay, 48, 8, -preferredBase:10
 
 REDA, 0, 64, -game:FE8 -priority:reinforcementData
-	New position, 0, 12, coordinate:2 -preferredBase:10
+	New position, 0, 12, -coordinate:2 -preferredBase:10
 	Flags, 12, 4, -preferredBase:2
 	Speed, 16, 8
 	Rescuing character, 24, 8
 ##Unknwon. Usually 0xFFFF.
 	Unknown, 32, 16
 	Delay, 48, 8, -preferredBase:10
-

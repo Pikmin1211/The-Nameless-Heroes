@@ -1,2 +1,0 @@
-Send items[N]
-to convoy.[X]

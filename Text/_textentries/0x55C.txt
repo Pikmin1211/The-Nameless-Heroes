@@ -1,9 +1,0 @@
-
-[MidLeft][LoadWrys]
-Ho-ho.[AN]
-How nice of you to come here.[AN]
-This is the "Support[N]
-Consultation Office".[AN]
-If you donate 500 gold,[N]
-I can erase your supports.[A][ClearText]
-Shall I?[N][No][X]

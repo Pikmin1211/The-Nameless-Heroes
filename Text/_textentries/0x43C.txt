@@ -1,2 +1,0 @@
-Restores allies to[N]
-normal status.[X]

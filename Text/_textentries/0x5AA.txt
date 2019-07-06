@@ -1,2 +1,0 @@
-Ambush[N]
-Always attack first.[X]

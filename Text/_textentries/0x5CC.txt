@@ -1,3 +1,0 @@
-Crit+15[N]
-Grants +15 to[N]
-critical hit rate.[X]

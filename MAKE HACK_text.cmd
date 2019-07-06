@@ -4,7 +4,7 @@ copy TheNamelessHeroes.gba TheNamelessHeroes_EngTrans.gba
 
 cd "%~dp0Text"
 
-echo: | (textprocess_v2 Text_Buildfile.txt)
+echo: | (text-process-classic text_buildfile.txt --parser-exe "%~dp0Event Assembler/Tools/ParseFile.exe")
 
 cd "%~dp0Event Assembler"
 

@@ -1,3 +1,0 @@
-Sol (Skill%)[N]
-Restore HP equal to half[N]
-of damage dealt.[X]

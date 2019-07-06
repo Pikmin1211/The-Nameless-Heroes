@@ -1,2 +1,0 @@
-Sends enemies into a[N]
-berserker rage.[X]

@@ -1,2 +1,0 @@
-Elemental affinity. Determines[N]
-compatibility with other units.[X]

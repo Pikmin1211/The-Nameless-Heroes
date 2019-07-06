@@ -134,9 +134,6 @@ Defeat Boss[X]
 #0xF5
 The Flames of Evil[X]
 
-#0x13E Chapter14Objective
-Survive[X]
-
 #0x143 MapChapter14Objective
 Defend[X]
 

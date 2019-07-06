@@ -1,2 +1,0 @@
-Armormed Blow[N]
-Def +10 when attacking.[X]

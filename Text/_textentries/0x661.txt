@@ -1,2 +1,0 @@
-Attack an enemy and[N]
-attempt to capture them.[X]

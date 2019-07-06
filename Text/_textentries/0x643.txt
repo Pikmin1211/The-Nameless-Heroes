@@ -1,3 +1,0 @@
-Dance[N]
-Perform a dance that allows[N]
-your allies to move again.[X]
