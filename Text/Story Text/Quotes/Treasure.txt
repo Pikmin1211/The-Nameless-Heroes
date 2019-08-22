@@ -42,7 +42,7 @@ Did somebody drop this!?[A][X]
 #0xE46 FerrisTreasure
 [MidRight][LoadFerris]
 Huh, what's this?[N]
-I'll report it to the Commander.[A][X]
+I'll report it to the commander.[A][X]
 
 #0xE47 BrianTreasure
 [MidRight][LoadBrian]
@@ -61,3 +61,18 @@ Oh? Did some dolt drop this?[N]
 What a nice catch![AN]
 I've gotta sell it, before[N]
 anyone else notices![A][X]
+
+#0xE52 TitorTreasure
+[MidRight][LoadTitor]
+Ohh, lucky me! I wonder how[N]
+much this thingy goes for?[A][X]
+
+#0xE41 BerkusTreasure
+The hell is this thing[N]
+doing lying around here?[A][X]
+
+#0xE4C JohnnyTreasure
+Boy howdy, this sure[N]
+is... uninterestin'.[AN]
+Someone else want this?[A][X]
+

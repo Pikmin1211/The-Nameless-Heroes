@@ -1,4 +1,4 @@
-Removes any skills[N]
+Removes any skills learned via[N]
 
-learned via manuals.[X]
+manuals, and returns the manual.[X]
 

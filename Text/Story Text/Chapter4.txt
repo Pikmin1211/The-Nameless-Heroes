@@ -1,12 +1,952 @@
-#0xF18 EdmundDeath
+#0x882 Chapter4WorldMap
+By order of Lord Florence of Dia,[N]
+the mercenaries become scattered,[AN][Event]
+and the men are sent to the Ebaracum[N]
+mines on the central island, Fibernia.[AN][Event]
+Life is strenuous there. The guards never[N]
+allow the prisoners breaks from their work,[AN]
+even if they are on the brink of collapse.[AN]
+A hellscape where man after man fade away[N]
+to skin and bones, and die of exhaustion.[AN]
+One day, a guard approaches Isaac's cell,[N]
+and offers to change the mercenaries' fate...[A][Event][X]
 
-[MidRight][LoadEdmund]
-My family...![N]
-I won't have regrets...[AN]
-if I have protected you[N]
-and... our home...![A][X]
 
-#0xF1B EdmundEscape
-[MidRight][LoadEdmund]
-Everyone! I'm going![N]
-Please, stay safe![A][X]
+
+
+
+#0x963 Chapter4Opening
+[FarLeft][LoadIsaac][Left][LoadBrownHairMan][HalfCloseEyes]
+Huff... huff...[AN]
+
+[FarLeft]
+Hey, buddy, you alright?[AN]
+
+[Left]
+Cough, cough...[N]
+I'm... fine.[AN]
+I can't stop here...[AN]
+If I do... everyone else in[N]
+my room will be punished...[AN]
+How are you holding up...?[AN]
+You've been here[N]
+two months, right?[AN]
+
+[FarLeft]
+Can't say I'm used to it.[AN]
+I see my allies on occasion,[N]
+but they look deathly...[AN]
+
+[Left]
+That would make sense...[AN]
+The hellish labor conditions...[N]
+We get so little time to rest...[AN]
+
+[FarLeft]
+Little to none, I'd say.[AN]
+Do you really think[N]
+they'll work us to death?[AN]
+
+[Left]
+I... I think so.[AN]
+They will never let us free,[N]
+rebellion is impossible...[AN]
+My body is so weak...[N]
+Urgh...[AN]
+[ClearFace]
+
+[FarLeft]
+Hey... hey![AN]
+
+[MidRight][LoadRedSoldier]
+Hey! You! Number 62![N]
+What are you doing?![AN]
+Get the hell up![AN]
+If you can't stand on your[N]
+own... I'll have to make you![AN]
+[MidRight][MoveMidRight][Event]
+
+[FarLeft][MoveMidLeft][MidLeft]
+Stop.[AN]
+
+[MidRight]
+Oh, Number 83? And just who the hell[N]
+do you think you're speaking to, huh?![AN]
+Piss off, you fucking scum![AN]
+[MidRight][MoveMidRight][Event]
+
+[MidLeft]
+Urk...[AN]
+[ClearFace]
+
+[MidRight]
+62! Get up! Until you do,[N]
+I'll keep whipping you![AN]
+[MoveMidRight][Event]You deadbeat![AN]
+[MoveMidRight][Event]Good for nothing![AN]
+[MoveMidRight][Event]Get the hell up![AN]
+[MoveMidRight][Event]
+
+[Left][LoadBrownHairMan][CloseEyes][Beat][AN][ClearFace][Event]
+
+[MidRight]
+Hm... seems he died. Weakling.[AN]
+Looks like we'll have to[N]
+bring in another replacement.[AN]
+
+[FarLeft][LoadIsaac][Beat][AN]
+
+[MidRight]
+Hey, Number 83! What the[N]
+hell are you gawking at?![AN]
+Do your damned job,[AN]
+and get that corpse to[N]
+the refuge disposal![AN]
+Bodies start to reek[N]
+quick, so get a move on![AN]
+Now![AN]
+[ClearFace]
+
+[FarLeft]
+I'm sorry, friend...[A][X]
+
+
+
+
+
+#0x964 Chapter4Opening2
+[MidLeft][LoadIsaac]
+Finally, night...[N]
+What a long day.[AN][CloseEyes][Beat][AN]
+
+[MidRight][LoadGreenSoldier]
+Psst, hey. You awake?[AN]
+
+[MidLeft]
+Hm? You some kind of soldier?[AN][OpenEyes]
+You've definitely got my attention,[N]
+sneaking around this hellhole.[AN]
+What do you want?[AN]
+
+[MidRight]
+Correct me if I'm wrong,[N]
+but your name is Isaac, right?[AN]
+Leader of a mercenary band?[AN]
+
+[MidLeft]
+Who are you, exactly?[N]
+How do you know me?[AN]
+
+[MidRight]
+We have our ways of[N]
+gathering information.[AN]
+
+[MidLeft]
+Not a fan of that answer...[AN]
+In any case, me and my[N]
+allies are locked up here.[AN]
+There's not much I can do.[AN]
+
+[MidRight]
+Actually, on the contrary.[AN]
+You being on the inside here[N]
+is... beneficial for us.[AN]
+
+[MidLeft]
+...So, what do[N]
+you need from me?[AN]
+
+[MidRight]
+We call ourselves the Resistance.[AN]
+We're dealing with the Etrurian[N]
+scourge you're all too familiar with.[AN]
+We contacted you... your group,[AN]
+rather, to inform you that mass riots[N]
+are scheduled to occur in one hour.[AN]
+
+[MidLeft]
+And what does that have[N]
+to do with me, exactly...?[AN]
+
+[MidRight]
+If you're interested in[N]
+helping us with these riots...[AN]
+we can bust you and[N]
+your friends out of here.[AN]
+
+[MidLeft]
+So in other words,[N]
+you want us to join in.[AN]
+
+[MidRight]
+Well said, sir Isaac.[AN]
+You'll need to seize that security[N]
+checkpoint - the throne, on your way.[AN]
+The catch is we've only got three[N]
+hours. Think you're up to it?[AN]
+
+[MidLeft]
+Sounds impossible.[AN]
+The security around here[N]
+is tighter than tight.[AN]
+There's no way we could[N]
+fight our way out unarmed.[AN]
+
+[MidRight]
+You underestimate our planning.[N]
+The local troop is absent today.[AN]
+They're on a mission out in Jutes.[AN]
+As you might have noticed, it's been[N]
+fairly easy for us to sneak around.[AN]
+
+[MidLeft]
+Hm... alright.[N]
+Count me in.[AN]
+Better than rotting[N]
+in this cell, anyways.[AN]
+
+[MidRight]
+A wise decision.[AN]
+Here, I managed to get a key to[N]
+this cell from the guard chambers.[AN]
+I've also taken the liberty of[N]
+delivering back your crew's belongings.[AN]
+Good luck, friend.[A][X]
+
+
+
+
+
+
+#0x95F Chapter4Opening3
+[MidLeft][LoadYoungMan]
+Soon...[AN]
+The time is soon.[N]
+Just a little more...[AN]
+And then, freedom![A][X]
+
+
+
+
+
+#0x960 Chapter4Opening4
+[MidRight][LoadBerkus][MidLeft][LoadTitor]
+The mission begins soon![N]
+I'm pumped up! Let's go![AN]
+
+[MidRight]
+Pipe down, you dolt.[N]
+Show a little patience.[AN]
+[ClearFace][MidLeft][ClearFace]
+
+[FarLeft][LoadJohnny][CloseEyes]
+Zzz...[A][X]
+
+
+
+
+
+
+#0x967 Chapter4Opening5
+[Left][LoadBlondeHairMan]
+Is it still not time...?[A][X]
+
+
+
+
+
+
+#0x970 Chapter4Opening6
+[MidLeft][LoadIsaac]
+According to this map he gave me...[AN]
+It seems the [Red]stairs towards[N]
+the northwest [Red]are the exit.[AN]
+But the only way to open the exit[N]
+is through a switch on the throne.[AN]
+Then, after I manage to [Red]seize the[N]
+throne[Red], everyone needs to [Red]escape.[Red][AN]
+[Red]I'll bring up the rear and go last.[Red][N]
+It seems the riot begins in [Red]6 [Red]minutes.[AN]
+After that, the guards will notice us.[AN]
+I'll have to [Red]protect the civilians [Red]as well.[N]
+Maybe I should [Red]talk to them[Red]...?[A][X]
+
+
+
+
+
+#0x957 Chapter4TurnEvent
+[MidLeft][LoadRedSoldier][MidRight][LoadSaar]
+You there! What the[N]
+hell is going on?[AN]
+
+[MidLeft]
+Sir Saar![AN]
+It seems that the[N]
+prisoners are rioting.[AN]
+If we can't stop them,[N]
+the riots will only spread.[AN]
+
+[MidRight]
+And more importantly,[N]
+they'll blame me...[AN]
+Well, don't just stand there![N]
+Call in more soldiers![AN]
+Get the guard dogs as well![N]
+Make sure no one escapes![AN]
+
+[MidLeft]
+Right, about the dogs...[AN]
+
+[MidRight]
+Bah, don't be[N]
+such a coward.[AN]
+They're trained[N]
+not to attack us.[AN]
+Heheheh...[AN]
+Those fools will regret[N]
+coming out of their cells,[AN]
+only to be mangled and[N]
+devoured by those mutts.[AN]
+I'll stay here to[N]
+command our troops.[AN]
+You - after you get[N]
+those reinforcements,[AN]
+inform our men[N]
+in Jutes right away.[AN]
+
+[MidLeft]
+Sir, yes sir![AN]
+[ClearFace]
+
+[MidRight]
+Cocky fools... there is no escape![N]
+You shall be our slaves until death![A][X]
+
+
+
+
+
+#0x911 Chapter4TurnEvent2
+[MidLeft][LoadAudrey][Right][LoadChloe][FarRight][LoadRem]
+Told you it would be[N]
+easy to find a way in![AN]
+This should be the place.[AN]
+
+[MidLeft]
+Thanks, Rem.[AN]
+According to what those[N]
+"Resistance" people told us,[AN]
+the riots should be[N]
+starting just about now.[AN]
+
+[Right]
+I hope everyone's okay...[AN]
+
+[MidLeft]
+I wouldn't worry too much.[N]
+We know them - they're strong.[AN]
+
+[FarRight]
+C'mon lady, you're about as[N]
+coordinated as a druken sailor.[AN]
+Keep close to me - unless[N]
+you plan on getting lost again?[AN]
+
+[Right]
+Ugh, I'm sorry about that...[A][X]
+
+
+
+
+
+
+#0xA76 Chapter4TurnEvent2NoRem
+[Right][LoadChloe][MidLeft][LoadAudrey]
+According to what those[N]
+"Resistance" people told us,[AN]
+the riots should be[N]
+starting just about now.[AN]
+
+[Right]
+I hope everyone's okay...[AN]
+
+[MidLeft]
+I wouldn't worry too much.[N]
+We know them - they're strong.[AN]
+Hey, try to keep close to me, Chloe.[N]
+You don't want to go getting lost again.[AN]
+
+[Right]
+Oh, sorry. I'll try...[A][X]
+
+
+
+
+
+#0x567 Chapter4EscapeSuccess
+[MidRight][LoadIsaac]
+Looks like we've all[N]
+made it out of here.[AN]
+The first part of this[N]
+mission was a success.[AN]
+Now, we need to move on[N]
+and instigate those riots.[A][X]
+
+
+
+
+
+#0x927 Chapter4IsaacBerkusTalk
+[MidRight][LoadBerkus][MidLeft][LoadIsaac]
+...Berkus? Is that you?[N]
+You were imprisoned here, too?[AN]
+
+[MidRight]
+Sorry we didn't get a[N]
+chance to tell you, boss.[AN]
+We sent Chloe with[N]
+the message for you,[AN]
+and went on to our work...[AN]
+But we ended up getting[N]
+caught by Etrurian soldiers.[AN]
+How the hell did you[N]
+end up here anyways?[AN]
+
+[MidLeft]
+Well, it's basically[N]
+the same story.[AN]
+At any rate, we're[N]
+breaking out of here.[AN]
+Berkus, could I ask[N]
+you to join us?[AN]
+
+[MidRight]
+Gahaha! You kiddin'?[N]
+Count me in, boss![A][X]
+
+
+
+
+
+#0x926 Chapter4IsaacTitorTalk
+[MidLeft][LoadIsaac][MidRight][LoadTitor]
+Boss! Hey! Now there's[N]
+a sight for sore eyes.[AN]
+Glad to see you,[N]
+even in this shithole.[AN]
+
+[MidLeft]
+Good to see you too.[AN]
+I almost missed[N]
+your enthusiasm.[AN]
+Almost.[AN]
+
+[MidRight]
+If I'm being honest,[AN]
+putting up this smile[N]
+has been pretty tough.[AN]
+We've been stuck down[N]
+here for quite a while.[AN]
+I thought we were done for![AN]
+Wait... how did you[N]
+end up here exactly?[AN]
+Don't tell me you got caught[N]
+up with those Etrurians too?[AN]
+
+[MidLeft]
+Something like that. But[N]
+I'm about done with it.[AN]
+We're getting out of[N]
+this hole right about now.[AN]
+
+[MidRight]
+Haha, you haven't changed[N]
+one bit, you know that?[AN]
+Don't worry boss, I'll[N]
+still team up with ya.[AN]
+Been getting real sick[N]
+of this joint anyhow.[AN]
+Come on, let's hop to it![AN]
+
+[MidLeft][Beat][A][X]
+
+
+
+
+
+#0x96D Chapter4IsaacCivilianTalk1
+[MidRight][LoadGingerMan][MidLeft][LoadIsaac]
+Hey, kid.[AN]
+
+[MidRight]
+Um... me, s-sir?[AN]
+
+[MidLeft]
+Relax. I'm no soldier.[AN]
+
+[MidRight]
+What...?[AN]
+
+[MidLeft]
+We're starting a riot to escape[N]
+this hole. Care to join us?[AN]
+
+[MidRight]
+Mister... I'll do it![N]
+I just want to go home...[AN]
+My mother and father[N]
+are waiting for me...[AN]
+Oh, I can - I can fight too![N]
+I'll be as useful as I can![AN]
+
+[MidLeft]
+Calm down, kid.[AN]
+Don't be reckless if you want[N]
+to see your parents again.[AN]
+
+[MidRight]
+Right... thank you.[A][X]
+
+
+
+
+
+#0x96C Chapter4IsaacCivilianTalk2
+[MidRight][LoadYoungMan][MidLeft][LoadIsaac]
+Hey, are you alright?[AN]
+
+[MidRight]
+Are you here to[N]
+help? Thank god...[AN]
+The Resistance told[N]
+me you would come.[AN]
+Let me join you[N]
+in the rioting![AN]
+This opportunity only[N]
+comes by once in a lifetime.[AN]
+My family is waiting,[AN]
+and I don't intend[N]
+to rot and die here![AN]
+
+[MidLeft]
+Cheers to that.[AN]
+Let's get out of[N]
+here in one piece.[A][X]
+
+
+
+
+
+#0x96E Chapter4IsaacCivilianTalk3
+[MidLeft][LoadIsaac][MidRight][LoadCaptain]
+So... you're the ones[N]
+leading the riot, eh?[AN]
+
+[MidLeft]
+Yeah, that's us. We'd[N]
+appreciate your help.[AN]
+It's gonna take a lot of[N]
+us to get momentum going.[AN]
+
+[MidRight]
+I'm with you, then.[AN]
+Rotting away in this cell[N]
+isn't doing me any good.[AN]
+If I'm destined to die here,[N]
+I'm gonna die on my own terms.[AN]
+
+[MidLeft]
+That kind of talk[N]
+gets you nowhere.[AN]
+Focus on surviving[N]
+and we'll get you home.[A][X]
+
+
+
+
+
+#0x961 Chapter4IsaacAudreyTalk
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+Isaac! Are you alright?
+
+[MidLeft]
+Audrey? What are 
+you doing here?
+
+[MidRight]
+Chloe is here too, and[N]
+Sophia is on standby outside.[AN]
+No way we were just[N]
+going to leave you here.[AN]
+You know that they say nobody[N]
+comes back alive from Eberacum.[AN]
+
+[MidLeft]
+I thought I told you not[N]
+to do anything reckless.[AN]
+At least tell me[N]
+you sent Kara back...[AN]
+
+[MidRight]
+Don't worry, I took care of her.[N]
+Though it took a lot of persistance.[AN]
+That girl... she wanted to come[N]
+along on this mission too, you know.[AN]
+
+[MidLeft]
+At least she's safe.[AN]
+So, what exactly is[N]
+this mission, then?[AN]
+
+[MidRight]
+I assume that a Resistance[N]
+member has already talked to you?[AN]
+
+[MidLeft]
+Yeah, they have.[AN]
+
+[MidRight]
+After they took you here,[AN]
+we spoke with the Resistance and[N]
+tried to figure out a way to rescue you.[AN]
+The chance finally came, so here we are.[N]
+I'm so relieved to see you safe...[AN]
+Let's get out of here quickly.[AN]
+
+[MidLeft][Beat][AN]
+Yeah. I'm sorry to[N]
+have worried you, Audrey.[AN]
+
+[MidRight]
+Let's save it for later.[N]
+Give me your orders, Isaac![AN]
+
+[MidLeft][ToggleSmile]
+Heh. Leave it to me.[A][X]
+
+
+
+
+
+#0x972 Chapter4IsaacJohnnyTalk
+[MidLeft][LoadJohnny][CloseEyes][MidRight][LoadIsaac]
+Johnny?[AN]
+Johnny![AN]
+Wake up![AN]
+Wake up, you're on a[N]
+battlefield for god's sake![AN]
+
+[MidLeft][OpenEyes]
+Huh...? Oh! Howdy, chief.[N]
+Been a good while, eh pardner?[AN]
+
+[MidRight]
+I'll never understand how you[N]
+can sleep through all this chaos.[AN]
+
+[MidLeft]
+Don't ya know, chief?[N]
+It's my special skill.[AN]
+Every good man west[N]
+of Bern needs one.[AN]
+Now then, we oughta pony up.[N]
+I'm sick of this damned calaboose.[AN]
+More of a free range man, you know?[A][X]
+
+
+
+
+
+
+#0x974 Chapter4BerkusTitorTalk
+[MidRight][LoadTitor][MidLeft][LoadBerkus]
+Looks like we're[N]
+getting started here.[AN]
+
+[MidRight]
+Berkus, buddy! Let's light it up![AN]
+I've been running dry for days,[N]
+haven't seen a woman in ages,[AN]
+and it's stuffy and cramped...[AN]
+screw this place! It's time for[N]
+our grand quest for freedom![AN]
+
+[MidLeft]
+Shut your hole, you moron.[AN]
+We don't even know if[N]
+it's safe outside yet.[AN]
+
+[MidRight]
+We'll be fiiine! Think of it - me[N]
+and you, the dream team! Unstoppable![A][X]
+
+
+
+
+
+
+#0x978 Chapter4TitorJohnnyTalk
+[MidLeft][LoadJohnny][CloseEyes][MidRight][LoadTitor]
+Hey, Johnny-boy! Looks[N]
+like we're going! C'mon![AN]
+
+[MidLeft][Beat][AN][OpenEyes]
+Hm? Time to mosey on, I[N]
+s'pose. Alright, alright.[AN]
+Hold yer horses now...[A][X]
+
+
+
+
+
+
+#0x96F Chapter4Ending
+[MidLeft][LoadIsaac]
+Hurry up, everyone![N]
+Get more prisoners![AN]
+Open more cells![N]
+We need more manpower![AN]
+
+[MidRight][LoadYoungMan]
+Rrrraaaarghhh![AN]
+I'm gonna go wild![AN]
+Gahhhhhhhh![AN]
+[ClearFace]
+
+[LoadMoneyMan]
+We're breaking out.[N]
+Let's get out of here.[AN]
+[ClearFace]
+
+[LoadGingerMan]
+We can escape? Is[N]
+this really happening?[AN]
+[ClearFace]
+
+[LoadBrownHairMan]
+Let's get out of here[N]
+while we have the chance![AN]
+[ClearFace]
+
+[LoadCaptain]
+With this many people...[N]
+we can get out![AN]
+[ClearFace]
+
+[MidLeft]
+Looks like the riot is[N]
+going according to plan.[AN]
+Now we just need to head[N]
+to the exit ourselves.[AN]
+
+[MidRight][LoadGreenSoldier]
+Seems everything went well, then.[AN]
+
+[MidLeft]
+We managed, somehow.[N]
+So we're good to go?[AN]
+
+[MidRight]
+Yes, the exit is just up that way.[N]
+The area is pretty densely gaurded,[AN]
+but there's a less guards than usual.[N]
+With this many people... should be fine.[AN]
+
+[MidLeft]
+I hope you're correct, then.[AN]
+
+[MidRight]
+We'll attempt to control the riots.[N]
+You can focus on getting out of here.[A][X]
+
+
+
+
+
+
+#0x955 Chapter4Ending2
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+We should move on, Isaac.[AN]
+
+[MidLeft]
+Right. Once we're past[N]
+here, we'll be at the exit.[AN]
+I won't miss this hellhole.[AN]
+So, what exactly happened[N]
+while we were gone?[AN]
+
+[MidRight]
+We were at quite a loss,[AN]
+when the Resistance came[N]
+to us and offered to help.[AN]
+There was nowhere else to[N]
+turn, so of course we accepted.[AN]
+
+[MidLeft]
+This Resistance... they[N]
+claim to fight for the people.[AN]
+To be liberators.[AN]
+
+[MidRight]
+That's right. Seems their activity is[N]
+mostly inolving bandits and the Etrurians.[AN]
+
+[MidLeft]
+The Etrurians, huh? I see.[AN]
+
+[MidRight]
+I'm told that since they're outside[N]
+the scope of their home country's rule,[AN]
+they've taken to...[N]
+Less morally acceptable methodologies.[AN]
+Using their iron fist to oppress and[N]
+cooperating with bandits for profits.[AN]
+
+[MidLeft]
+Tsk, the greedy bastards.[AN]
+This Resistance leader must be pretty[N]
+strong to go up against such people.[AN]
+
+[MidRight]
+Well... she's...[N]
+I mean, the leader is...[AN]
+
+[MidLeft]
+So it's a woman, huh? She[N]
+must be quite a spectacle.[AN]
+
+[MidRight]
+Yeah, she is.[AN]
+She has a lot of charisma,[N]
+and the strength to match.[AN]
+She holds the whole operation together,[AN]
+and she's been resisting the[N]
+Etrurians for quite some time.[AN]
+They call her the "Hero of the West".[AN]
+
+[MidLeft]
+That's quite a title.[AN]
+And we owe her our lives as well.[N]
+I'll have to give her my graditutes.[AN]
+
+[MidRight]
+You can thank her all you[N]
+want once we get out of here.[AN]
+Let's get going![AN]
+
+[MidLeft]
+Right. I'll lead the way.[A][X]
+
+
+
+
+
+#0xAEC Chapter4FirstCivilianDies
+[MidRight][LoadIsaac]
+...It seems one of the[N]
+civilians has fallen.[AN]
+Everyone! Protect the[N]
+civilians at all costs![AN]
+We cannot afford any[N]
+more lives to be lost![A][X]
+
+
+
+
+
+
+#0x8C5 Chapter4SecondCivilianDies
+[MidLeft][LoadIsaac]
+Damnit, another one died...[N]
+this is getting out of control...[AN]
+
+[FarRight]
+We're losing formation! Hey,[N]
+wait up! That's the wrong way![AN]
+
+[FarLeft]
+Forget this riot business![N]
+I'm getting out of here![AN]
+
+[FarRight]
+Huh? Are we splitting up?[N]
+I guess I'll go too...[AN]
+
+[MidRight][LoadGreenSoldier]
+Hey! Wait![AN]
+[ClearFace]
+
+[MidRight][LoadAudrey]
+This is getting out of hand.[AN]
+Looks like this mission[N]
+has become a failure.[AN]
+
+[MidLeft]
+Audrey, gather everyone.[AN]
+Looks like we'll have[N]
+to get out on our own.[AN]
+We have no choice...[A][X]
+
+
+
+
+
+#0xF21 Chapter4Gate
+[MidRight][LoadIsaac]
+That gate won't open with a normal key.[AN]
+I'll have to activate the switch[N]
+[Red]hidden by the throne [Red]to open it.[A][X]
+
+
+
+
+
+
+#0x958 Chapter4Ending3
+[MidLeft][LoadArcard][MidRight][LoadRedSoldier]
+Sir Arcard, Sir Galius[N]
+has come to make parley.[AN]
+[ClearFace]
+
+[MidLeft]
+Ah, so you've arrived![AN]
+Sir Galius, you have a strong[N]
+recommendation from Sir Roartz.[AN]
+I would love to see what[N]
+you are capable of firsthand.[AN]
+
+[MidRight][LoadGalius]
+Of course, Sir Arcard.[AN]
+It would be my pleasure to serve[N]
+the "King" of the Western Isles.[AN]
+
+[MidLeft]
+King... Ahaha! I like the sound of that.[N]
+I think I'll use that from now on...[AN]
+By the by, I'm told some remnants of the[N]
+Nameless may be on this island somewhere.[AN]
+Is that true?[AN]
+Are those bastards holding some kind of[N]
+grudge against me for decieving them?[AN]
+What do you think, Sir Galius?[AN]
+
+[MidRight]
+I am certain they are present,[N]
+though their motive is unclear.[AN]
+However, allow me to handle[N]
+them for you, Sir Arcard.[AN]
+That is, after all,[N]
+one of the reasons I am here.[AN]
+Me and my associates can[N]
+handle those fools, and you...[AN]
+you can focus on your governance.[AN]
+You and Sir Roartz hold[N]
+the future in your hands.[AN]
+I and the Schwarz Ritter[N]
+can handle the dirty work.[AN]
+
+[MidLeft]
+I see, I see...[AN]
+I'll leave it in your[N]
+capable hands then, Sir Galius.[A][X]

@@ -1,0 +1,114 @@
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+
+Isaac! Are you alright?
+
+
+
+[MidLeft]
+
+Audrey? What are 
+
+you doing here?
+
+
+
+[MidRight]
+
+Chloe is here too, and[N]
+
+Sophia is on standby outside.[AN]
+
+No way we were just[N]
+
+going to leave you here.[AN]
+
+You know that they say nobody[N]
+
+comes back alive from Eberacum.[AN]
+
+
+
+[MidLeft]
+
+I thought I told you not[N]
+
+to do anything reckless.[AN]
+
+At least tell me[N]
+
+you sent Kara back...[AN]
+
+
+
+[MidRight]
+
+Don't worry, I took care of her.[N]
+
+Though it took a lot of persistance.[AN]
+
+That girl... she wanted to come[N]
+
+along on this mission too, you know.[AN]
+
+
+
+[MidLeft]
+
+At least she's safe.[AN]
+
+So, what exactly is[N]
+
+this mission, then?[AN]
+
+
+
+[MidRight]
+
+I assume that a Resistance[N]
+
+member has already talked to you?[AN]
+
+
+
+[MidLeft]
+
+Yeah, they have.[AN]
+
+
+
+[MidRight]
+
+After they took you here,[AN]
+
+we spoke with the Resistance and[N]
+
+tried to figure out a way to rescue you.[AN]
+
+The chance finally came, so here we are.[N]
+
+I'm so relieved to see you safe...[AN]
+
+Let's get out of here quickly.[AN]
+
+
+
+[MidLeft][Beat][AN]
+
+Yeah. I'm sorry to[N]
+
+have worried you, Audrey.[AN]
+
+
+
+[MidRight]
+
+Let's save it for later.[N]
+
+Give me your orders, Isaac![AN]
+
+
+
+[MidLeft][ToggleSmile]
+
+Heh. Leave it to me.[A][X]
+

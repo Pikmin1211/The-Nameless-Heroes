@@ -4,7 +4,9 @@
 
 #include "Prologue.txt"
 #include "Chapter1.txt"
+#include "Base.txt"
 #include "Chapter1Base.txt"
 #include "Chapter2.txt"
 #include "Chapter2Base.txt"
 #include "Chapter3.txt"
+#include "Chapter4.txt"

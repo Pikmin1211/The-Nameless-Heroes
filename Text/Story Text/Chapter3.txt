@@ -11,14 +11,14 @@ Having your boat sailed right into pirate[N]
 territory must have been worrisome.[AN]
 
 [MidRight]
-Tis fine. 'Sides, with[N]
+Tis' fine. 'Sides, with[N]
 pirates roamin' around,[AN]
 we've got a fat nothing[N]
 in the way of business.[AN]
 Also, the people of this[N]
-town helped us afore,[AN]
+town helped us a'fore,[AN]
 so we're jus'[N]
-returning the favor.[AN]
+returnin' the favor.[AN]
 
 [MidLeft]
 Glad that you think so,[N]
@@ -37,7 +37,7 @@ been hiding in the fog.[AN]
 Hrm... it seems to be[N]
 bearin' Etrurian colors.[AN]
 Is it a patrol ship?[N]
-Whatta they want from us?[A][X]
+Whadda they want from us?[A][X]
 
 
 

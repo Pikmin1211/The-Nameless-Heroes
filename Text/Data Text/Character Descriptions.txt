@@ -60,3 +60,7 @@ cherishes those he cares about.[X]
 #0x20F
 A shifty merchant who handles[N]
 inventory for Isaac's group.[X]
+
+#0x211
+A cheeky girl with no home or family.[N]
+Makes her livelihood by stealing.[X]

@@ -1,0 +1,164 @@
+Chapter 4 Opening
+
+Villager Man: Pant...Pant...
+
+Isaac: Friend, are you alright?
+
+Villager Man: Cough, cough... Pant... Pant... I'm... fine.
+I can't let myself fall... If I fall down, everyone else in my room will be punished...
+Speaking of which, you've been here for 2 months... How's it been for you...?
+
+Isaac: I'm still not used to the conditions here. I sometimes see my fellows, but they all look like they're on the verge of death...
+
+Villager: I... see what you mean. Hellish labor conditions every day, all day. They only give us ... little rest ...
+
+Isaac: ...Or none. Do you really think we'll work here till we die?
+
+Villager man: I ...think so. Living here makes me realize... that it's impossible to rebel. I'm... already giving up. My body is in tatters. Ugh...
+
+Isaac:..?!
+
+Red soldier: You, Number 62! Why are you taking a break? Stand up! What happened? If you can't stand..., it seems I must fire you up!
+
+Isaac: Stop it.
+
+Red soldier: Oh, Number 83? Who the hell are you speaking up to? Piss off! You bothersome filth!
+
+Isaac: Ugh...
+
+Red soldier: Well, Number 62! Get up! Until you do! My whip! Beats you! You deadhead! Rise to your fuckin' feet!
+
+Villager Man: Oh...
+
+Red Soldier: Seems you died... I don't mind, though. Then we have plenty more to replace you.
+
+Isaac:...
+
+Red Soldier: Hey, Number 83! You have a job! Get that useless garbage to the refuse dump! Corpses emit such a rancid stench over time, so throw it away, now! Quickly!
+
+Isaac: ...I'm sorry, friend. 
+
+Chapter 4 opening 2
+
+Isaac: Finally, night has come... The long day is over now.
+
+Green soldier: Hey, are you awake? If so, can you respond?
+
+Isaac: ... Are you some kind of soldier, sir? Well, it's hardworking of you to patrol all the way. What can I do for you?
+
+Green soldier: You're the leader of a mercenary band, known as Commander Isaac? Does that name ring a bell?
+
+Isaac: You...who are you? How did you know that we were caught here? 
+
+Green soldier: We have investigated you.
+
+Isaac: ... Suspicious. Unfortunately, we, all "the mercenaries", have gotten caught, so we can do nothing.
+
+Green soldier: We find it favorable that you mercenaries are caught here, though I feel sorry for you.
+
+Isaac: ... What is your purpose in contacting me?
+
+Green soldier: We call ourselves "Resistance". We are an organization that combats against Etrurians and bandits on the Western Isles. And we contacted you, ...I mean, your group, because, in about 1 hour, riots are scheduled to occur in the various prisons.
+
+Isaac: ...What are you getting at?
+
+Green soldier: We, "Resistance" arranged the riots so the people of Eburacum could be liberated. In 1 hour, we provoke sabotage in various prisons and it'll spread all over Eburacum.
+
+Isaac: So, you want us mercenaries to join the fray and make a rumpus?
+
+Green soldier: Very helpful of you to understand, sir Isaac. We want you to seize the checkpoint of the area, beating soldiers who try to suppress us. Then you'll head towards the exit while instigating the riot. However, we must make it in 3 hours, or this mission will fail. We need that momentum no matter what.
+
+Isaac:... So, why rebel today? Eburacum's security is almost perfect, so even if the sabotage is successful, you'll be besieged by the local troops.
+
+Green soldier: That is why we chose this particular day. It seems that the local troop is absent, apparently dealing with something in Jutes, so this is as good a day as any. We have only today to take action. 
+
+Isaac: I see... Well, I'm already dying in here, so waiting won't do me any good. I'm in.
+
+Green soldier:Good. Here... This is the key to your cell. And this is our instructions. Well then, good luck, friend.
+
+Chapter 4 opening 3
+
+Villager Dude: Soon... Just a little later... I will escape!
+
+Chapter 4 opening 4
+
+Titor: Soon, our plan will begin! I can't wait!
+
+Berkus: Idiot, let's be patient.
+
+Johhny: Zzzzzz...
+
+Chapter 4 opening 5
+
+Old village Man: Still... not the time?
+
+Chapter 4 opening 6
+
+Isaac: Apparently, according to this map, it seems that these steps are the exit. But the key to this exit is stored at the throne in the checkpoint. 
+In other words, I'll have to do the following things: seize an opportunity to leave the room, rescue the other mercenaries, "Seize" the throne, and "Escape" from the steps with everyone together.
+And I have to be careful that... After 1 hour (6 turns), they'll start the riot. Naturally, enemy soldiers will start to pour out. We'll have to deal with them somehow. In addition, we should rescue those caught people when fleeing.
+
+Chapter 4 turn event
+ 
+Saar: What...? What on earth is happening?
+
+Red soldier: Sir Saar! It seems that some citizens have caused a riot...
+If we can't stop this, it will extend to the whole of Eburacum, so action must be swift.
+
+Saar: If I let them, I, in charge of this part of the mines, will be compelled to bear the blame. Bring the soldiers on call right away, and release the watch dogs. To keep the rumpus from spreading, chase and stop escapees.
+
+Red soldier: Yes, the watch dogs...
+
+Saar: Rest assured that the dogs are trained not to attack allies. 
+Kukuku... there's no running away from them. Those bastards shall all be bitten to death while regretting even thinking of escaping. I stay here to lead soldiers. You, after telling soldiers to gather here, go to Jutes to report about the riot.
+
+Red soldier: Yes, sir! Right now!
+
+Saar: Poor natives, you can never escape! You will be used by Etruria until your death! 
+
+Chapter 4 Turn event 2
+
+Rem: See, I've found a way in. This is the place.
+
+Audrey: Umm, thanks, Rem.
+Well, according to the Resistance's plan, this is about the time the riot will start. This looks like the area where Isaac works.
+
+Chloe: Uh... I hope everyone's safe...
+
+Audrey: Well, I'm not worried about those guys. They're sure to still live.
+
+Rem: Hey, lady, you've got no sense of direction. You must stay with us. 
+I have to keep an eye on you, or you'll go alone and get lost!
+
+Chloe: Ugh, I'm really sorry about that...
+
+Chapter 4 turn event 2 part 2
+
+Audrey: It seems this is our destination. According to the Resistance's plan, this is about the time the riot will start. This looks like the area where Isaac works.
+
+Chloe: Uh... I hope everyone's safe...
+
+Audrey: Well, I'm not worried about those guys. They're sure to still live.
+Listen, Chloe? You must stay with me. You've got no sense of direction, so I'm worried about you going alone and getting lost! 
+
+Chloe: Hmm, I'll try...
+
+Chapter 4 area event #0x567
+
+Isaac: It seems that everyone has succeeded in escaping. The first phase of the operation is over. From now on, we instigate the riots as planned. 
+
+Rem treasure
+
+Rem: What kinds of idiots leave this here? Before someone notices, I'll sell this later, heheh.
+
+Berkus treasure
+
+Berkus: ... This is a strange place to find something so useful.
+
+Johnny treasure
+
+Johnny: Hm? I'm not very interested in this. Anyone want this?
+
+Titor treasure
+
+Titor: Oh! How lucky! How much would this sell for?

@@ -519,12 +519,8 @@ pirates Lv. 10 and up.[X]
 Turns targets to stone for a while.[X]
 
 #0x68
-Removes any skills[N]
-learned via manuals.[X]
-
-#0xC2
-+2 Defense and +3 Resistance.[N]
-For Lizzy only.[X]
+Removes any skills learned via[N]
+manuals, and returns the manual.[X]
 
 #0x8DF
 A dance that increases an[N]
@@ -612,9 +608,6 @@ Lizzy only. Effective against knights.[X]
 
 #0x3F6
 Magic. Capable of indirect attacks.[X]
-
-#0x38C
-Isaac's blade.[X]
 
 #0xE3E
 +2 Defense and +3 Resistance.[N]

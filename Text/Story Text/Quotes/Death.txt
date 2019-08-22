@@ -62,7 +62,9 @@ I'll retreat for now.[A][X]
 I think I'm pushing it...[N][CloseEyes]
 I'll have to back away awhile.[A][X]
 
-#0xBF8 ChloeRetreat
+
+
+#0xBF8 ChloeDeath
 [MidRight][LoadChloe]
 Ugh...[N]
 This is also...[AN][CloseEyes]
@@ -73,9 +75,14 @@ The duty of a swordswoman...[A][X]
 Owww...[CloseEyes][AN]
 This is the worst...[A][X]
 
-
-
 #0xBFF PhelixDeath
 [MidRight][LoadPhelix]
 Th-this can't be...[N][CloseEyes]
 Goddamnit...[A][X]
+
+#0xF18 EdmundDeath
+[MidRight][LoadEdmund]
+My family...![N]
+I won't have regrets...[AN]
+if I have protected you[N]
+and... our home...![A][X]

@@ -669,3 +669,11 @@ next time, then.[AN][X]
 
 #0x5E9 PrologueTimestamp
 Present[X]
+
+
+
+
+
+#0xF0F PrologueShout
+Oh, no...[N]
+This is serious![A][X]

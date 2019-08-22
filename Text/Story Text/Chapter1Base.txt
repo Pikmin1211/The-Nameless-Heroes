@@ -334,7 +334,7 @@ Please, help yourself![AN]
 [MidLeft]
 If you insist... maybe[N]
 one or two couldn't hurt.[AN]
-Heh, well, let’s see here...[A][X]
+Heh, well, let's see here...[A][X]
 
 
 
@@ -387,10 +387,10 @@ you dealing here?[AN]
 This stall sells rare items.[N]
 You won't find them anywhere else![AN]
 Today I'm selling something[N]
-really valuable, only 1000 gold![AN]
+really valuable, only 600 gold![AN]
 
 [MidRight]
-1000 gold...?[N]
+600 gold...?[N]
 That's not exactly expensive...[AN]
 
 [MidLeft]

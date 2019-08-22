@@ -1,0 +1,89 @@
+#0x572 IsaacEscape
+[MidRight][LoadIsaac]
+Is everyone accounted for?[AN]
+...Seems so.[N]
+Our mission is over, then.[A][X]
+
+#0x568 IsaacNotEscape
+[MidRight][LoadIsaac]
+I won't leave anyone behind.[N]
+Let's have the others escape first.[A][X]
+
+#0x56A FerrisEscape
+[MidRight][LoadFerris]
+Huff... huff...[AN]
+I'll be... going...[N]
+now... phew...[A][X]
+
+#0x56D BrianEscape
+[MidRight][LoadBrian]
+My work here is done.[N]
+If you'll excuse me, then.[A][X]
+
+#0x56E AudreyEscape
+[MidRight][LoadAudrey]
+Everyone alive back there?[AN]
+We can't stay long,[N]
+so pick up the pace![A][X]
+
+#0x570 MorrisEscape
+[MidRight][LoadMorris]
+Is anyone injured?[N]
+I can treat their wounds.[A][X]
+
+#0x571 OlsonEscape
+[MidRight][LoadOlson]
+I'm not comfortable with this,[N]
+but... commander's orders.[AN]
+I'll lead everyone to [N]
+safety, so don't worry.[A][X]
+
+#0x573 WolfEscape
+[MidRight][LoadWolf]
+I'm gonna go out ahead[N]
+and secure an escape route.[AN]
+Don't keep me waitin'![A][X]
+
+#0x574 BerkusEscape
+[MidRight][LoadBerkus]
+If you goddamn insist...[AN]
+I'll move on ahead.[N]
+Don't go getting yourself hurt.[A][X]
+
+#0x578 RemEscape
+[MidRight][LoadRem]
+Wow, such hardworking people...[N]
+Good thing I'm not one of them.[AN]
+See you on the other side![A][X]
+
+#0x57B JohnnyEscape
+[MidRight][LoadJohnny]
+An escapade, huh? ...Oh?[N]
+Escape? I read ya, chief.[AN]
+Give me a holler if ya[N]
+need anything else, then.[A][X]
+
+#0x580 TitorEscape
+[MidRight][LoadTitor]
+As an experienced fighter,[N]
+I've learned a lot of skills.[AN]
+This is one I've perfected[N]
+- the tactical retreat![A][X]
+
+#0x589 ChloeEscape
+[MidRight][LoadChloe]
+Isaac, you're going[N]
+last again, aren't you...[AN]
+Guess I can't disobey orders.[A][X]
+
+#0xDC4 PhelixEscape
+[MidRight][LoadPhelix]
+Leaving when my friends[N]
+are still fighting...[AN]
+It doesn't sit right with me.[N]
+Stay strong, everyone![A][X]
+
+#0xF1B EdmundEscape
+[MidRight][LoadEdmund]
+Everyone! I'm going![N]
+Please, stay safe![A][X]

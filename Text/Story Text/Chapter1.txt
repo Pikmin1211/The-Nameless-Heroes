@@ -524,3 +524,78 @@ who have been killed.[AN]
 [MidLeft]
 Yeah...[N]
 I hope so.[A][X]
+
+
+
+
+
+#0x48 Chapter1Guide
+[MidLeft][LoadBreguet]
+Tsk, what a cheap-ass town.[AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+Huh?[AN]
+Who the hell's there?[AN]
+
+[MidRight][LoadIsaac]
+Looks like I've found where[N]
+you were hiding. This ends here.[AN]
+
+[MidLeft]
+W-wait![AN]
+This is the guide...[N]
+At least play fair...[AN]
+
+[MidRight]
+...Alright, alright. So,[N]
+what do you have to tell me?[AN]
+
+[MidLeft]
+Bahaha! Okay, pay attention now.[AN]
+This is going to be a rough time,[N]
+since, after all, you're up against ME.[AN]
+
+[MidRight]
+Yeah, yeah. Pushover.[AN]
+Anyways, will those pirates[N]
+be attacking the houses?[AN]
+
+[MidLeft]
+Huh? Why would we do that?[N]
+We already looted the bastards.[AN]
+Gahaha![AN]
+
+[MidRight]
+I see.[AN]
+
+[MidLeft]
+What you do want to look out for,[N]
+though, is the [Red]cracked wall [Red]up top.[AN]
+Once you pass by there, you'll[N]
+soon be in our [Red]ballista's range.[Red][AN]
+Coincidentally, the wyvern rider is going[N]
+to charge you [Red]once you enter it's range.[Red][AN]
+
+[MidRight]
+Both at once, huh... What a pain.[AN]
+Maybe I can just [Red]stall [Red]the[N]
+ballista until it runs out of ammo.[AN]
+
+[MidLeft]
+Hah! What a boring strategy.[AN]
+Once you get close to me, we'll[N]
+send in some [Red]more reinforcements.[Red][AN]
+Good luck with just standing and[N]
+waiting in the ballista's range.[AN]
+And I don't intend on sitting around.[N]
+[Red]Enter my range[Red] and see what happens.[AN]
+
+[MidRight]
+I think I've got the gist of it.[N]
+See you on the battlefield, worm.[AN]
+[ClearFace]
+
+[MidLeft]
+Jeez, that man is fearsome...[A][X]

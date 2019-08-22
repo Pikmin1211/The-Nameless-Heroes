@@ -1,0 +1,114 @@
+[MidLeft][LoadIsaac]
+
+Hurry up, everyone![N]
+
+Get more prisoners![AN]
+
+Open more cells![N]
+
+We need more manpower![AN]
+
+
+
+[MidRight][LoadYoungMan]
+
+Rrrraaaarghhh![AN]
+
+I'm gonna go wild![AN]
+
+Gahhhhhhhh![AN]
+
+[ClearFace]
+
+
+
+[LoadMoneyMan]
+
+We're breaking out.[N]
+
+Let's get out of here.[AN]
+
+[ClearFace]
+
+
+
+[LoadGingerMan]
+
+We can escape? Is[N]
+
+this really happening?[AN]
+
+[ClearFace]
+
+
+
+[LoadBrownHairMan]
+
+Let's get out of here[N]
+
+while we have the chance![AN]
+
+[ClearFace]
+
+
+
+[LoadCaptain]
+
+With this many people...[N]
+
+we can get out![AN]
+
+[ClearFace]
+
+
+
+[MidLeft]
+
+Looks like the riot is[N]
+
+going according to plan.[AN]
+
+Now we just need to head[N]
+
+to the exit ourselves.[AN]
+
+
+
+[MidRight][LoadGreenSoldier]
+
+Seems everything went well, then.[AN]
+
+
+
+[MidLeft]
+
+We managed, somehow.[N]
+
+So we're good to go?[AN]
+
+
+
+[MidRight]
+
+Yes, the exit is just up that way.[N]
+
+The area is pretty densely gaurded,[AN]
+
+but there's a less guards than usual.[N]
+
+With this many people... should be fine.[AN]
+
+
+
+[MidLeft]
+
+I hope you're correct, then.[AN]
+
+
+
+[MidRight]
+
+We'll attempt to control the riots.[N]
+
+You can focus on getting out of here.[A][X]
+

@@ -15,7 +15,7 @@ Nullify[N]
 Negates effective damage.[X]
 
 #0x5A9
-Cancel[N]
+Cancel (Speed%)[N]
 Negates the opponent's counterattack.[X]
 
 #0x5A8
@@ -33,7 +33,8 @@ Always attack first.[X]
 
 #0x5A0
 Paragon[N]
-Exp gain is doubled.[X]
+Exp gain from defeating[N]
+enemies is doubled.[X]
 
 #0x5AD
 Re-Move (Luck%)[N]
@@ -124,7 +125,7 @@ Damage +5 and Crit + 15[N]
 when attacking.[X]
 
 #0x599
-Armormed Blow[N]
+Armored Blow[N]
 Def +10 when attacking.[X]
 
 #0x5D3

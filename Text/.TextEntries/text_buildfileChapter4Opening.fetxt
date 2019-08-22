@@ -1,0 +1,186 @@
+[FarLeft][LoadIsaac][Left][LoadBrownHairMan][HalfCloseEyes]
+
+Huff... huff...[AN]
+
+
+
+[FarLeft]
+
+Hey, buddy, you alright?[AN]
+
+
+
+[Left]
+
+Cough, cough...[N]
+
+I'm... fine.[AN]
+
+I can't stop here...[AN]
+
+If I do... everyone else in[N]
+
+my room will be punished...[AN]
+
+How are you holding up...?[AN]
+
+You've been here[N]
+
+two months, right?[AN]
+
+
+
+[FarLeft]
+
+Can't say I'm used to it.[AN]
+
+I see my allies on occasion,[N]
+
+but they look deathly...[AN]
+
+
+
+[Left]
+
+That would make sense...[AN]
+
+The hellish labor conditions...[N]
+
+We get so little time to rest...[AN]
+
+
+
+[FarLeft]
+
+Little to none, I'd say.[AN]
+
+Do you really think[N]
+
+they'll work us to death?[AN]
+
+
+
+[Left]
+
+I... I think so.[AN]
+
+They will never let us free,[N]
+
+rebellion is impossible...[AN]
+
+My body is so weak...[N]
+
+Urgh...[AN]
+
+[ClearFace]
+
+
+
+[FarLeft]
+
+Hey... hey![AN]
+
+
+
+[MidRight][LoadRedSoldier]
+
+Hey! You! Number 62![N]
+
+What are you doing?![AN]
+
+Get the hell up![AN]
+
+If you can't stand on your[N]
+
+own... I'll have to make you![AN]
+
+[MidRight][MoveMidRight][Event]
+
+
+
+[FarLeft][MoveMidLeft][MidLeft]
+
+Stop.[AN]
+
+
+
+[MidRight]
+
+Oh, Number 83? And just who the hell[N]
+
+do you think you're speaking to, huh?![AN]
+
+Piss off, you fucking scum![AN]
+
+[MidRight][MoveMidRight][Event]
+
+
+
+[MidLeft]
+
+Urk...[AN]
+
+[ClearFace]
+
+
+
+[MidRight]
+
+62! Get up! Until you do,[N]
+
+I'll keep whipping you![AN]
+
+[MoveMidRight][Event]You deadbeat![AN]
+
+[MoveMidRight][Event]Good for nothing![AN]
+
+[MoveMidRight][Event]Get the hell up![AN]
+
+[MoveMidRight][Event]
+
+
+
+[Left][LoadBrownHairMan][CloseEyes][Beat][AN][ClearFace][Event]
+
+
+
+[MidRight]
+
+Hm... seems he died. Weakling.[AN]
+
+Looks like we'll have to[N]
+
+bring in another replacement.[AN]
+
+
+
+[FarLeft][LoadIsaac][Beat][AN]
+
+
+
+[MidRight]
+
+Hey, Number 83! What the[N]
+
+hell are you gawking at?![AN]
+
+Do your damned job,[AN]
+
+and get that corpse to[N]
+
+the refuge disposal![AN]
+
+Bodies start to reek[N]
+
+quick, so get a move on![AN]
+
+Now![AN]
+
+[ClearFace]
+
+
+
+[FarLeft]
+
+I'm sorry, friend...[A][X]
+

@@ -1,0 +1,52 @@
+[MidRight][LoadBerkus][MidLeft][LoadIsaac]
+
+...Berkus? Is that you?[N]
+
+You were imprisoned here, too?[AN]
+
+
+
+[MidRight]
+
+Sorry we didn't get a[N]
+
+chance to tell you, boss.[AN]
+
+We sent Chloe with[N]
+
+the message for you,[AN]
+
+and went on to our work...[AN]
+
+But we ended up getting[N]
+
+caught by Etrurian soldiers.[AN]
+
+How the hell did you[N]
+
+end up here anyways?[AN]
+
+
+
+[MidLeft]
+
+Well, it's basically[N]
+
+the same story.[AN]
+
+At any rate, we're[N]
+
+breaking out of here.[AN]
+
+Berkus, could I ask[N]
+
+you to join us?[AN]
+
+
+
+[MidRight]
+
+Gahaha! You kiddin'?[N]
+
+Count me in, boss![A][X]
+

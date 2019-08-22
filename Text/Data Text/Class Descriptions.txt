@@ -301,3 +301,7 @@ on horseback. Equip: Anima.[X]
 #0xF11
 Heavily armored knights with[N]
 high defenses. Equip: Swords.[X]
+
+#0x2B8
+Musicians whose melodies[N]
+aid allies. Unable to attack.[X]
