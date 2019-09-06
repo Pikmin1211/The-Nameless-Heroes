@@ -1,0 +1,259 @@
+<html>
+<head>
+<title>Sappy 2006 Mod 17.1 読んでねテキスト</title>
+</head>
+<body>
+<font size="+1">Sappy 2006 Mod 17.1</font>
+<hr>
+<dl>
+<dt><font size="+1">◆これは何？</font></dt>
+<dd>sappy 2006 作者の Kyoufu kawa さんが sappy のソースを公開されたので、バグフィクスおよび Vista や 7 でも動くようにしたバージョンを作ってみました。
+<br />Win2k でも必要なファイルを用意すれば動くようですが、保証はしません。（Win9x は多言語サポートの影響で動作しなくなりました）
+<br />　</dd>
+<dt><font size="+1">◆ひとこと</font></dt>
+<dd>Mod 17.1 になりました。
+<br />一部の環境で特定の機能がエラーとなってしまう問題があったのを修正しました。
+<br />　</dd>
+<dt><font size="+1">◆インストール方法</font></dt>
+<dd>まず始めにオリジナルの sappy12.exe をインストールしてください。必要なファイルがコピーされます。
+<br /><font color="red">必ず本家サイト (The Helmeted Rodent) からダウンロードしたものを利用してください。（ sappy12.exe / size: 925,287 bytes)</font>
+<br />その後、インストールしたフォルダに入っている sappy.exe をこのアーカイブに入っている sappy.exe で上書きしてください。
+<br />最後に上書きした sappy.exe を実行して、正しく動作するか確認してください。
+<br />　</dd>
+<dt><font size="+1">◆使い方</font></dt>
+<dd>オリジナル版にもある機能は Web を検索して必要な情報を集めてください。
+<br />こちらで追加した機能については、以下の「新規ダイアログについて」の項目を参照ください。
+<br>　</dd>
+<dt><font size="+1">◆新規ダイアログについて</font></dt>
+<dd>Sappy2006 Mod version では、オリジナルと比べいくつかのダイアログを変更および新規作成しています。
+<br />それらのダイアログについての説明は、以下のリンクにて確認してください。</dd>
+</dl>
+<ol>
+<li>(変更) <a href="html/main.html">メイン画面</a></li>
+<li>(新規) <a href="html/EditVoiceTable.html">Edit Voice table</a></li>
+<li>(新規) <a href="html/ImportSample.html">Import Sample</a></li>
+<li>(新規) <a href="html/SampleMap.html">Edit Sample Map</a></li>
+<li>(新規) <a href="html/EditWaveMemory.html">Edit Wave Memory data</a></li>
+<li>(変更) <a href="html/ImportTracks.html">Import Tracks</a></li>
+<li>(変更) <a href="html/Settings-playback.html">Settings 内 Playback メニュー</a></li>
+<li>(変更) <a href="html/Settings-interface.html">Settings 内 Interface メニュー</a></li>
+<li>(追加) <a href="html/Settings-extra.html">Settings 内 Extra メニュー</a></li>
+<li>(変更) <a href="html/AssembleSong.html">Assemble Song</a></li>
+</ol>
+<hr>
+<p>2012/3/15 nagona◆DKG4NAGONA</p>
+<br />何かあればこちらまで↓
+<br />nagona.sappymod{at}gmail.com　　※ "{at}"を"@"に変更してください。
+<br />
+<br />※ nagona◆DKG4NAGONA は、オリジナル Sappy 2006 作者の kyoufu kawa 氏および The Helmeted Rodent とは無関係です。
+　なお、ソースの一次配布元は <a href="http://acmlm.no-ip.org/board/thread.php?id=5117">こちら</a> です。</p>
+<hr>
+<p><font size="+1">◆更新履歴</font></p>
+<ul>
+	<li>2012/3/15 Mod17.1
+	<ul>
+		<li>エクスプローラ設定の「登録されている拡張子を表示しない」が有効になっていると一部の機能でエラーとなることがあるのを修正</li>
+		<li>32MB ROM に対して Export Samples を実行した場合に落ちることがあるのを修正</li>
+	</ul>
+	</li>
+	<li>2012/3/9 Mod17
+	<ul>
+		<li>再生アルゴリズムの指定の新旧が逆になっていたのを修正、および項目を Playback メニューへ移動した</li>
+		<li>多少高速化。</li>
+		<li>パンポット時の音量調整が行われていなかったのを修正</li>
+		<li>Assemble Song、Import tracks で Song Group を指定できるようにした</li>
+		<li>一部のダイアログを拡大した</li>
+		<li>アセンブラのラベルやシンボルに "." を使用できるようにした</li>
+		<li>アセンブラの定数 "."(現在のアドレス) を実装</li>
+	</ul>
+	</li>
+	<li>2011/7/21 Mod16
+	<ul>
+		<li>再生アルゴリズムを刷新。ただし旧バージョンも使用可能。</li>
+		<li>ノイズ周波数調整</li>
+		<li>テンポ変更時に音が飛ぶことがあるのを修正</li>
+		<li>KEYSH コマンドの挙動を実機と同等の動作に変更</li>
+		<li>MIDI 出力機能を微調整</li>
+		<li>一部のダイアログが Esc で閉じないのを修正</li>
+		<li>内蔵アセンブラを高速化</li>
+	</ul>
+	</li>
+	<li>2010/9/13 Mod15
+	<ul>
+		<li>最大フレームレートの指定を追加</li>
+		<li>ボイステーブルのアドレス設定変更が正しく動かなかったのを修正</li>
+	</ul>
+	</li>
+	<li>2010/5/4 Mod14
+	<ul>
+		<li>曲再生開始時の曲解析を少しだけ高速化</li>
+		<li>曲再生処理を少し高速化</li>
+		<li>Edit Wave Memory data ダイアログを実装</li>
+	</ul>
+	</li>
+	<li>2010/4/3 Mod13.1
+	<ul>
+		<li>Import Tracks で正しくないデータが書き込まれる問題を修正</li>
+		<li>Assemble song である程度エラーチェックを行うようにした</li>
+		<li>Assemble song で Base Distnation Offset の初期値を現在の曲の先頭アドレスにした</li>
+	</ul>
+	</li>
+	<li>2010/4/2 Mod13
+	<ul>
+		<li>メニュー等を多言語対応化</li>
+		<li>MIDI 出力機能でテンポが正しく処理されないことがあるのを修正</li>
+		<li>Edit Voice table で Base note 値が反映されないのを修正</li>
+		<li>DirectSound 以外の音色に Base note 値を表示しないように修正<ul><li>値の保持のためだけに表示させる必要はないため</li></ul></li>
+		<li>トラック表示の3番目の値を LFOS 値から VOL 値へ変更</li>
+		<li>GB Sound Limit Break が off でも同時発音数以上の発音が行われてしまうことがあるのを修正</li>
+		<li>開けないファイルを極力無くすように改良</li>
+		<li>Direct Sound の同時発音数を設定可能にした</li>
+	</ul>
+	</li>
+	<li>11/29 Mod12
+	<ul>
+		<li>メイン画面に PATT/PEND 、REPT の情報を表示するようにした</li>
+		<li>Edit Sample map ダイアログを実装</li>
+		<li>Import Tracks を拡張し、マスターリバーブ値と優先度を変更できるようにした</li>
+		<li>ドキュメントを全面的に html に変更した</li>
+	</ul>
+	</li>
+	<li>10/4 Mod11
+	<ul>
+		<li>REPT 命令のリピート回数が正しくなかったのを修正（n-1）</li>
+		<li>Import Sample を実装</li>
+		<li>Record to MIDI で、最後のノートが短くなることがあるのを修正</li>
+	</ul>
+	</li>
+	<li>9/7 Mod10.1
+	<ul>
+		<li>アセンブル後に画面が正しく更新されなくなる問題を修正</li>
+	</ul>
+	</li>
+	<li>9/6 Mod10
+	<ul>
+		<li>Export Samples で出力した .s 形式サンプルのアセンブルに対応</li>
+		<li>トラックが 0 のシーケンスを再生すると落ちてしまう問題を修正</li>
+		<li>パンポットのゲージを表示する設定を追加</li>
+		<li>パンポットを GBA のバランスにあわせた。</li>
+		<li>・Import Samples メニューを追加。（まだ使えません）</li>
+		<li>Edit Voice table のアイコンを作成</li>
+		<li>Record to MIDI の機能を作成。</li>
+		<li>画面の描画間隔が 60fps 以上にならないようにした。</li>
+		<li>パンポットを使用したときにプチノイズが乗る問題をさらに軽減。</li>
+		<li>前回終了したウィンドウ位置とサイズで起動するように変更</li>
+		<li>再生時無効な領域を再生しようとした場合、そのトラックの再生を中止するように変更</li>
+	</ul>
+	</li>
+	<li>8/2 Mod9
+	<ul>
+		<li>チャンネルごとの音量メータ表示を、そのチャンネルで鳴っている音のうち最大音量を表示するように変更。
+		<br>今まではすべて足し合わせ、音数で割っていたのですが、見た目と音量が一致しないため変更しました。</li>
+		<li>Edit Voice table メニューを追加。</li>
+		<li>DirectSound の減衰時間が半分になっていたのを修正</li>
+		<li>ドラムパートの楽器ごとのパン指定をサポートした</li>
+		<li>Sweep の設定量が大きかったので修正。修正しても大して変わらないorz</li>
+		<li>ボリュームメータの表示をいじくってみた。軽くなってるといいなぁ。</li>
+		<li>ノイズ出力の中央値が変だったので修正</li>
+		<li>トラック終了コードが違うシーケンスデータを見つけたので、それに対応。</li>
+		<li>ステータスバーから Tick 表示を外してみた。少し軽くなったかも。</li>
+		<li>パンポットを使用したときにプチノイズが乗る問題を軽減。</li>
+	</ul>
+	</li>
+	<li>7/28 Mod8
+	<ul>
+		<li>負荷が軽くなるように調整</li>
+		<li>EOT 命令の挙動を実機に合わせた。</li>
+		<li>REPT 命令サポート</li>
+		<li>発音アルゴリズム再調整</li>
+		<li>Extraメニューに項目を2つ追加（GB Sound limit break、Fixed mode frequency）</li>
+		<li>Square1 の Sweep 機能を実装。ただし鳴り方はかなりひどい。</li>
+		<li>Noise をよりノイズっぽくした。</li>
+		<li>PATT 命令を 3 回までネストできるようにした。また、パターン再生中は Location 表示の色が変わるようにした。<ul>
+			<li>パターン無し：緑　ネスト１段：黄色　２段：オレンジ　３段：赤</li>
+		　　<li>なお、ネストが 4 段になるとエラーでデコードエラーになります。（未確認）</li></ul></li>
+		<li>音が鳴り終わっていないのに曲が終了することがあるのを修正</li>
+		<li>GB 由来の音源の最低音程を C0 に修正。</li>
+		<li>MODT=mod_tre 時に音量の変更が正しくなかったのを修正</li>
+	</ul>
+	</li>
+	<li>7/12 Mod7
+	<ul>
+		<li>LFOS LFODL MOD MODT によるモジュレーション動作を実装。</li>
+		<li>命令解釈が一部間違っていたのを修正。（XCMD、TIE、EOT）</li>
+		<li>マルチサンプルやドラム指定のトラックでパンが左右中央の3方向に固定されていたのを修正。</li>
+		<li>メイン画面の描画タイミングを変更。発音を優先するようにした。</li>
+		<li>DirectSound の Decay 値の扱いを変更した。</li>
+		<li>フォーマット解析ルーチンを変更。いくつかのデータで読み込みエラーが発生していたのを修正</li>
+		<li>無限ループによるハングアップを防ぐため、シーケンスデータがあまりにも長い場合デコードを中止するようにした。<ul>
+			<li>（32768Event/Trackでエラー。ちなみに 8 分以上ある kawajuke 2006 の Zero Wing Medley で最大 6400 程度)</li></ul></li>
+	</ul>
+	</li>
+	<li>7/9 Mod6
+	<ul>
+		<li>負荷が高くなった場合に画面描画を間引くようにしました。</li>
+		<li>マルチサンプルやドラム指定のトラックは出力音源部に"multi" "Drum" と表示するように変更。
+		<br>同時に、マルチサンプルやドラムトラックで鳴らない音が指定された場合 "----" と表示するように変更。</li>
+		<li>メイン画面に表示されるノートのオクターブ表示を MPlayDef.s の表記に合わせた（Cm3→C3、Cs3→C#3 等)</li>
+		<li>出力を 48KHz から 44.1KHz に変更しプチノイズを解消。</li>
+		<li>Settings に Extra メニューを追加しました。今のところ Real Mode チェックボックスがあります。
+		<br>Real Mode を有効にすると、通常 44.1KHz で出力するのを 65.535KHz で出力するようになります。
+		<br>高音域で折り返し雑音が気になる場合に使用してみてください。
+		<br>なお、65KHz は GBA が BIOS シーケンサで演奏する場合（FRなど）に使う出力周波数です。
+		<br>（実際には 65.536KHz ですが、仕様上 65.535KHz に設定しています）</li>
+	</ul>
+	</li>
+	<li>7/8 Mod 5
+	<ul>
+		<li>アドレスを 0x1ffffff まで処理できるように修正。この関係で至る所の桁数が増えています。</li>
+		<li>Location に表示されるアドレスが正しい値を示すように修正（今まではまったく合っていませんでした）</li>
+		<li>トラック表示を開いたときに表示される値を増やした。<ul>
+			<li>左から Voice, Velocity, LFO speed, Modulation depth, Pitch bend</li>
+			<li>ただし Pitch bend は表示される値に Bend range の値を掛け合わしてあります。</li>
+			<li>※ LFO や Modultaion 関係は値を取るようになっただけでまだ処理はしていません。</li></ul></li>
+		<li>一部のシーケンスで不正な音が鳴っていたのを修正。（省略形の処理で抜けがあった）</li>
+		<li>曲がループした後にエラーで演奏が止まってしまう場合があったのを修正。<ul>
+			<li>ループ前とループ後で同じ場所なのに Voice が違う場合に起こっていた</li></ul></li>
+		<li>.s アセンブル時にアセンブル中に行を表示するようにした。</li>
+		<li>gate+ の値が処理されていなかったのを修正</li>
+		<li>再生位置を示すバーが正しい位置を示すよう修正</li>
+	</ul>
+	</li>
+	<li>7/5 Mod 4
+	<ul>
+		<li>GB音色の発音アルゴリズムの修正。オリジナルGBに近くなりました。</li>
+		<li>再生負荷が高すぎて操作不能に陥った場合強制的に演奏を中止する機能を追加</li>
+		<li>ステータスバー右の時間表示とビートの表示領域を広げ、またビート表示をテンポと合わせた</li>
+		<li>なるべく正確なテンポを維持するよう変更</li>
+		<li>各所にエラートラップを設定し、なるべく不正な処理で落ちないように変更</li>
+		<li>タイトルバーにファイル名を表示するように変更</li>
+	</ul>
+	</li>
+	<li>7/3 Mod 3
+	<ul>
+		<li>音質を改善してみた</li>
+		<li>再生表示でトラックの出力情報が下のトラックにも表示されてしまう問題を修正</li>
+		<li>再生時鳴らない音があったのを修正</li>
+		<li>各ボイスデータの周波数微調整</li>
+		<li>ドラムトラックでDirectSound以外の音色が鳴ってしまう問題を修正</li>
+		<li>実行すると作られていた pmidi.tmp ファイルを作らないようにした</li>
+	</ul>
+	</li>
+	<li>7/2 Mod 2
+	<ul>
+		<li>アセンブル時に落ちることがあったようなので修正。（GetFileTitle 関数に渡す値および戻り値の型が間違っていた）</li>
+		<li>起動時にWindowsのバージョンごとに動作を変更した（Win2k/98で動作可能に）</li>
+	</ul>
+	</li>
+	<li>7/1 Mod 1 (改)
+	<ul>
+		<li>ファイルを開くダイアログに渡す値を正しくした。</li>
+		<li>sappy.xml の読み込み処理を改善。（宣言と初期化がミスマッチだったのを修正）</li>
+		<li>アセンブル時に微妙におかしな値になる問題(40→16問題)を修正</li>
+		<li>続けてアセンブルすると重くなって最後には落ちる問題を修正</li>
+	</ul>
+	</li>
+</ul>
+
+</body>
+</html>

@@ -116,7 +116,7 @@ Larum[X]
 Darth[X]
 
 #0x9F
-Schwarz[X]
+Schwartz[X]
 
 #0x1C4
 Numa[X]
@@ -288,3 +288,6 @@ Officer[X]
 
 #0xF14
 Edmund[X]
+
+#0x1F2
+Evil[X]

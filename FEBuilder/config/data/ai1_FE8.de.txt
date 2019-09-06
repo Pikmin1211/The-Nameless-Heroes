@@ -1,0 +1,27 @@
+00=Verhaltenswahrscheinlichkeit 100%
+01=Verhaltenswahrscheinlichkeit 80%
+02=Aktionswahrscheinlichkeit 50%
+03=Aktionswahrscheinlichkeit 100%, Attacke nur wenn benachbart
+04=Aktionswahrscheinlichkeit 80%, Attacke nur wenn benachbart
+05=Aktionswahrscheinlichkeit 50%, angreifen nur wenn benachbart
+06=Handeln Sie nicht(AI 2=Bewegung nur)
+07=Greift keine Einheiten von [0x5D2908] an	{J}
+07=Einheiten von [0x5A8A00] nicht angreifen	{U}
+08=Greift keine Einheiten von [0x5D2A44] an	{J}
+08=Greifen Sie nicht [0x5A8B3C] Einheiten an	{U}
+09=Greift keine Einheiten von [0x5D2086] an	{J}
+09=Greifen Sie nicht [0x5A817E] Einheiten an	{U}
+0A=Ziel nur auf [0x5D2AAC]	{J}
+0A=Ziel nur auf [0x5A8BA4]	{U}
+0B=Verhaltenswahrscheinlichkeit 100%
+0C=Angriff beim Angriff mit halber Bewegung	IfHalf
+0D=Greife an, wenn sich Feinde in der Befehlsreichweite des Kommandanten befinden
+0E=Wenn Einheiten mit HP unter 50% vorhanden sind, wird eine Wiederherstellung durchgeführt
+0F=Alternate 0x0E und 0x03 AI
+10=Ernsthaft
+11=Ich werde nicht angreifen, bis der Schlüssel der Tür verschwunden ist oder die Tür offen ist
+12=Greife nicht an [0x5D292C]	{J}
+12=Greifen Sie nicht an [0x5A8A24]	{U}
+13=Greift keine Einheiten von [0x5D2954] an	{J}
+13=Angreifen Sie [0x5A8A4C] nicht	{U}
+14=Ein Anrufer

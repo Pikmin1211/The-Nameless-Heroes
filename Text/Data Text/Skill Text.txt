@@ -73,9 +73,29 @@ Healing staff range[N]
 is always Mag / 2.[X]
 
 #0x5CE
-Breaker[N]
+Swordbreaker[N]
 Damage dealt/received +3/-3, AS +3,[N]
-and Hit/Avoid +20 against this weapon.[X]
+and Hit/Avoid +20 against swords.[X]
+
+#0xF27
+Tomebreaker[N]
+Damage dealt/received +3/-3, AS +3,[N]
+and Hit/Avoid +20 against magic tomes.[X]
+
+#0xF28
+Lancebreaker[N]
+Damage dealt/received +3/-3, AS +3,[N]
+and Hit/Avoid +20 against lances.[X]
+
+#0xF29
+Axebreaker[N]
+Damage dealt/received +3/-3, AS +3,[N]
+and Hit/Avoid +20 against axes.[X]
+
+#0xF2A
+Bowbreaker[N]
+Damage dealt/received +3/-3, AS +3,[N]
+and Hit/Avoid +20 against bows.[X]
 
 #0x5CB
 Wary Fighter[N]
@@ -148,7 +168,7 @@ Charge (HP%)[N]
 Initiates another round of combat.[X]
 
 #0x594
-Imbue[N]
+Boon[N]
 Heals all status effects at[N]
 the start of every turn.[X]
 

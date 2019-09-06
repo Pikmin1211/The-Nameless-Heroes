@@ -397,6 +397,10 @@ __TEXTPROCESSF14:
 #incbin ".TextEntries\text_buildfileF14.fetxt.dmp"
 setText($F14, __TEXTPROCESSF14)
 
+__TEXTPROCESS1F2:
+#incbin ".TextEntries\text_buildfile1F2.fetxt.dmp"
+setText($1F2, __TEXTPROCESS1F2)
+
 __TEXTPROCESS8D1:
 #incbin ".TextEntries\text_buildfile8D1.fetxt.dmp"
 setText($8D1, __TEXTPROCESS8D1)
@@ -536,6 +540,22 @@ setText($5CA, __TEXTPROCESS5CA)
 __TEXTPROCESS5CE:
 #incbin ".TextEntries\text_buildfile5CE.fetxt.dmp"
 setText($5CE, __TEXTPROCESS5CE)
+
+__TEXTPROCESSF27:
+#incbin ".TextEntries\text_buildfileF27.fetxt.dmp"
+setText($F27, __TEXTPROCESSF27)
+
+__TEXTPROCESSF28:
+#incbin ".TextEntries\text_buildfileF28.fetxt.dmp"
+setText($F28, __TEXTPROCESSF28)
+
+__TEXTPROCESSF29:
+#incbin ".TextEntries\text_buildfileF29.fetxt.dmp"
+setText($F29, __TEXTPROCESSF29)
+
+__TEXTPROCESSF2A:
+#incbin ".TextEntries\text_buildfileF2A.fetxt.dmp"
+setText($F2A, __TEXTPROCESSF2A)
 
 __TEXTPROCESS5CB:
 #incbin ".TextEntries\text_buildfile5CB.fetxt.dmp"
@@ -1093,6 +1113,10 @@ __TEXTPROCESSF10:
 #incbin ".TextEntries\text_buildfileF10.fetxt.dmp"
 setText($F10, __TEXTPROCESSF10)
 
+__TEXTPROCESSF2B:
+#incbin ".TextEntries\text_buildfileF2B.fetxt.dmp"
+setText($F2B, __TEXTPROCESSF2B)
+
 __TEXTPROCESS290:
 #incbin ".TextEntries\text_buildfile290.fetxt.dmp"
 setText($290, __TEXTPROCESS290)
@@ -1400,6 +1424,10 @@ setText($F11, __TEXTPROCESSF11)
 __TEXTPROCESS2B8:
 #incbin ".TextEntries\text_buildfile2B8.fetxt.dmp"
 setText($2B8, __TEXTPROCESS2B8)
+
+__TEXTPROCESS2C3:
+#incbin ".TextEntries\text_buildfile2C3.fetxt.dmp"
+setText($2C3, __TEXTPROCESS2C3)
 
 __TEXTPROCESS2DB:
 #incbin ".TextEntries\text_buildfile2DB.fetxt.dmp"
@@ -1912,6 +1940,10 @@ setText($32E, __TEXTPROCESS32E)
 __TEXTPROCESS2ED:
 #incbin ".TextEntries\text_buildfile2ED.fetxt.dmp"
 setText($2ED, __TEXTPROCESS2ED)
+
+__TEXTPROCESSE63:
+#incbin ".TextEntries\text_buildfileE63.fetxt.dmp"
+setText($E63, __TEXTPROCESSE63)
 
 __TEXTPROCESS30F:
 #incbin ".TextEntries\text_buildfile30F.fetxt.dmp"
@@ -2916,6 +2948,14 @@ setText($E3E, __TEXTPROCESSE3E)
 __TEXTPROCESS3EE:
 #incbin ".TextEntries\text_buildfile3EE.fetxt.dmp"
 setText($3EE, __TEXTPROCESS3EE)
+
+__TEXTPROCESS38C:
+#incbin ".TextEntries\text_buildfile38C.fetxt.dmp"
+setText($38C, __TEXTPROCESS38C)
+
+__TEXTPROCESS38D:
+#incbin ".TextEntries\text_buildfile38D.fetxt.dmp"
+setText($38D, __TEXTPROCESS38D)
 
 __TEXTPROCESS702:
 #incbin ".TextEntries\text_buildfile702.fetxt.dmp"

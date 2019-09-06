@@ -1,0 +1,5 @@
+402C0100C002F10820300000	//Load units and move. Used for new [Units:0x8F102C0]
+402C0100E802F10820300000	//Load units and move. Used for new [Units:0x8F102E8]
+40050B0001000100	//SVAL[MemorySlot:0xB Coordinate][Value_to_store:0x10001]
+40050100010000002534FEFF	//Set HP to[Current HP:1][Character:0xFFFE Memory slot B Coordinate]
+20010000	//Return

@@ -1,0 +1,71 @@
+#0x96B Chapter4GateOpen
+
+Isaac:
+扉が開いた
+全員、上の階段から『離脱』しろ！
+先に抜けた奴から、味方の開放を
+優先して動け
+私はお前達、全員が『離脱』したら
+後に続く
+行け！
+
+#0x987 Chapter4SaarBattleQuote
+
+Saar:
+我等への反逆は！
+死をもってのみ償え！
+
+#0x988 Chapter4SaarDeathQuote
+
+Saar:
+エトルリア王国・・・
+万歳・・・
+
+#0xBE5 WolfDeathQuote
+
+Wolf:
+まっまさか・・・
+俺を倒せる奴が
+いるとは・・・
+
+#0xBE6 OlsonDeathQuote
+
+Olson:
+結局俺は　何もできずに
+終わるのか・・・
+
+#0xBE7 BerkusDeathQuote
+
+Berkus:
+へっ情けねえ・・・
+
+#0xBE8 MorrisDeathQuote
+
+Morris:
+残念ながら
+ここまでですかな・・・
+
+#0xBEB BrianDeathQuote
+
+Brian:
+やれやれ　ここまでか
+あばよ・・・
+
+#0xBED FerrisDeathQuote
+
+Ferris:
+死ぬなら
+戦士としてと・・・
+決めていたんです・・
+
+#0xBF6 TitorDeathQuote
+
+Titor:
+ははは・・・悪い
+もう・・・ついていけねえ・・・
+
+#0xBFD JohnnyDeathQuote
+
+Johnny:
+やれやれ　ここまでか
+あばよ・・・

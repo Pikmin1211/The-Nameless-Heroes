@@ -1,0 +1,504 @@
+UNKNOWN	Not used	{J}
+OBJ	Sacae Plains	{J}
+PAL	Sacae Plains	 Light Sand Palette	{J}
+CONFIG	Sacae Plains Config	{J}
+MAP	Prologue Map	{J}
+ANIME	Water (Fields; Plains; M&S) Tile Anim	{J}
+EVENT	Prologue Events 	{J}
+PAL	Sacae Plains	 Dark Sand Palette	{J}
+MAP	Ch.1 Map	{J}
+EVENT	Ch.1 Events 	{J}
+OBJ	Plains&Castle	{J}
+PAL	Plains&Castle	 Bright Palette	{J}
+CONFIG	Plains&Castle Config	{J}
+MAP	Ch.2 Map	{J}
+CHANGE	Ch.2 Map Changes	{J}
+EVENT	Ch.2 Events 	{J}
+OBJ	Town&Docks	{J}
+PAL	Town	 Cliffs&stone road unusable Palette	{J}
+CONFIG	Town&Docks Config	{J}
+MAP	Ch.3 Map	{J}
+CHANGE	Ch.3 Map Changes	{J}
+EVENT	Ch.3 Events 	{J}
+OBJ	Fortress&Fields	{J}
+PAL	Fortress&Fields	 Dawn Palette	{J}
+CONFIG	Fortress&Fields Config	{J}
+MAP	Ch.4 Map	{J}
+CHANGE	Ch.4 Map Changes	{J}
+EVENT	Ch.4 Events 	{J}
+OBJ	Fields	{J}
+OBJ	Fields	{J}
+PAL	Fields	 Sunny weather Palette	{J}
+CONFIG	Fields Config	{J}
+MAP	Ch.5 Map	{J}
+EVENT	Ch.5 Events 	{J}
+PAL	Town	 Cliffs&ship unusable Palette	{J}
+MAP	Ch.6 Map	{J}
+CHANGE	Ch.6 Map Changes	{J}
+EVENT	Ch.6 Events 	{J}
+MAP	Ch.7 Map	{J}
+CHANGE	Ch.7 Map Changes	{J}
+EVENT	Ch.7 Events 	{J}
+PAL	Plains&Castle	 Neutral Palette	{J}
+MAP	Ch.7x Map	{J}
+CHANGE	Ch.7x Map Changes	{J}
+EVENT	Ch.7x Events 	{J}
+MAP	Ch.8 Map	{J}
+CHANGE	Ch.8 Map Changes	{J}
+EVENT	Ch.8 Events 	{J}
+MAP	Ch.9 Map	{J}
+CHANGE	Ch.9 Map Changes	{J}
+EVENT	Ch.9 Events 	{J}
+PAL	Fields	 Darker; suitable for rain Palette	{J}
+MAP	Ch.10 Map	{J}
+CHANGE	Ch.10 Map Changes	{J}
+EVENT	Ch.10 Events 	{J}
+MAP	Ch.11E Map	{J}
+CHANGE	Ch.11E Map Changes	{J}
+EVENT	Ch.11E Events 	{J}
+PAL	Plains&Castle	 Castle Ostia/Laus Palette	{J}
+MAP	Ch.11H Map	{J}
+CHANGE	Ch.11H Map Changes	{J}
+EVENT	Ch.11H Events 	{J}
+MAP	Ch.12 Map	{J}
+CHANGE	Ch.12 Map Changes	{J}
+EVENT	Ch.12 Events 	{J}
+MAP	Ch.13 Map	{J}
+CHANGE	Ch.13 Map Changes	{J}
+EVENT	Ch.13 Events 	{J}
+PAL	Fields	 Night Palette	{J}
+MAP	Ch.13x Map	{J}
+CHANGE	Ch.13x Map Changes	{J}
+EVENT	Ch.13x Events 	{J}
+PAL	Fields	 Darker; suitable for rain Palette	{J}
+MAP	Ch.14 Map	{J}
+CHANGE	Ch.14 Map Changes	{J}
+EVENT	Ch.14 Events 	{J}
+MAP	Ch.15H Map	{J}
+CHANGE	Ch.15H Map Changes	{J}
+EVENT	Ch.15H Events 	{J}
+MAP	Ch.15/16 Map	{J}
+CHANGE	Ch.15/16 Map Changes	{J}
+EVENT	Ch.15/16 Events 	{J}
+PAL	Plains&Castle	 Castle Caelin Palette	{J}
+MAP	Ch.16/17 Map	{J}
+CHANGE	Ch.16/17 Map Changes	{J}
+EVENT	Ch.16/17 Events 	{J}
+PAL	Town	 Ship&stone road unusable Palette	{J}
+MAP	Ch.16x/17x Map	{J}
+ANIME	Water (Town&Docks) Tile Anim	{J}
+CHANGE	Ch.16x/17x Map Changes	{J}
+EVENT	Ch.16x/17x Events 	{J}
+OBJ	Ship	{J}
+PAL	Ship Palette	{J}
+CONFIG	Ship Config	{J}
+MAP	Ch.17/18 Map	{J}
+ANIME	Water (Ship) Tile Anim	{J}
+CHANGE	Ch.17/18 Map Changes	{J}
+EVENT	Ch.17/18 Events 	{J}
+PAL	Fields	 Dull; suitable for fog Palette	{J}
+MAP	Ch.18/19 Map	{J}
+CHANGE	Ch.18/19 Map Changes	{J}
+EVENT	Ch.18/19 Events 	{J}
+PAL	Fields	 Sunny weather Palette	{J}
+MAP	Ch.18x/19x Map	{J}
+CHANGE	Ch.18x/19x Map Changes	{J}
+EVENT	Ch.18x/19x Events 	{J}
+OBJ	Mountains&Shrine	{J}
+PAL	Mountains&Shrine	 Neutral Palette	{J}
+CONFIG	Mountains&Shrine Config	{J}
+MAP	Ch.19x pt2 Map	{J}
+CHANGE	Ch.19x pt2 Map Changes	{J}
+EVENT	Ch.19x pt2 Events 	{J}
+MAP	Ch.19/20 Map	{J}
+CHANGE	Ch.19/20 Map Changes	{J}
+EVENT	Ch.19/20 Events 	{J}
+PAL	Town	 Night Palette	{J}
+MAP	Ch.20/21 Map	{J}
+CHANGE	Ch.20/21 Map Changes	{J}
+EVENT	Ch.20/21 Events 	{J}
+PAL	Fortress&Fields	 Daytime Palette	{J}
+MAP	Ch.21/22 Map	{J}
+CHANGE	Ch.21/22 Map Changes	{J}
+EVENT	Ch.21/22 Events 	{J}
+OBJ	Desert	{J}
+PAL	Desert Palette	{J}
+CONFIG	Desert Config	{J}
+MAP	Ch.22/23 Map	{J}
+EVENT	Ch.22/23 Events 	{J}
+PAL	Plains&Castle	 Green&blue Palette	{J}
+MAP	Ch.22x/23x Map	{J}
+CHANGE	Ch.22x/23x Map Changes	{J}
+EVENT	Ch.22x/23x Events 	{J}
+MAP	Ch.23/24 Map (Lloyd)	{J}
+CHANGE	Ch.23/24 Map Changes (Lloyd)	{J}
+EVENT	Ch.23/24 (Lloyd) Events 	{J}
+MAP	Ch.23/24 Map (Linus)	{J}
+CHANGE	Ch.23/24 Map Changes (Linus)	{J}
+EVENT	Ch.23/24 (Linus) Events 	{J}
+PAL	Fields	 Neutral Palette	{J}
+MAP	Ch.25H Map	{J}
+CHANGE	Ch.25H Map Changes	{J}
+EVENT	Ch.25H Events 	{J}
+MAP	Ch.24/26 Map	{J}
+CHANGE	Ch.24/26 Map Changes	{J}
+EVENT	Ch.24/26 Events 	{J}
+OBJ	Snow	{J}
+PAL	Snow Palette	{J}
+CONFIG	Snow Config	{J}
+MAP	Ch.25/27 Map (Kenneth)	{J}
+CHANGE	Ch.25/27 Map Changes (Kenneth)	{J}
+EVENT	Ch.25/27 (Kenneth) Events 	{J}
+MAP	Ch.25/27 Map (Jerme)	{J}
+ANIME	Shimmering ice (Snow) Tile Anim	{J}
+CHANGE	Ch.25/27 Map Changes (Jerme)	{J}
+EVENT	Ch.25/27 (Jerme) Events 	{J}
+PAL	Plains&Castle	 Night Palette	{J}
+MAP	Ch.26/28 Map	{J}
+CHANGE	Ch.26/28 Map Changes	{J}
+EVENT	Ch.26/28 Events 	{J}
+PAL	Plains&Castle	 Purple Palette	{J}
+MAP	Ch.26x/28x Map	{J}
+ANIME	Water (Plains&Castle) Tile Anim	{J}
+CHANGE	Ch.26x/28x Map Changes	{J}
+EVENT	Ch.26x/28x Events 	{J}
+MAP	Ch.27/29 Map	{J}
+CHANGE	Ch.27/29 Map Changes	{J}
+EVENT	Ch.27/29 Events 	{J}
+OBJ	Lava Cave	{J}
+PAL	Lava Cave Palette	{J}
+CONFIG	Lava Cave Config	{J}
+MAP	Ch.28E Map	{J}
+ANIME	Lava (Lava Cave) Tile Anim	{J}
+CHANGE	Ch.28E Map Changes	{J}
+EVENT	Ch.28E Events 	{J}
+OBJ	Sand Cave	{J}
+PAL	Sand Cave Palette	{J}
+CONFIG	Sand Cave Config	{J}
+MAP	Ch.30H Map	{J}
+CHANGE	Ch.30H Map Changes	{J}
+EVENT	Ch.30H Events 	{J}
+MAP	Ch.29/31 Map	{J}
+CHANGE	Ch.29/31 Map Changes	{J}
+EVENT	Ch.29/31 Events 	{J}
+PAL	Town	 Ship&stone road unusable Palette	{J}
+MAP	Ch.29x/31x Map	{J}
+EVENT	Ch.29x/31x Events 	{J}
+MAP	Ch.30/32 Map	{J}
+CHANGE	Ch.30/32 Map Changes	{J}
+EVENT	Ch.30/32 Events 	{J}
+PAL	Mountains&Shrine	 No plains Palette	{J}
+MAP	Ch.32x Map	{J}
+CHANGE	Ch.32x Map Changes	{J}
+EVENT	Ch.32x Events 	{J}
+OBJ	Dragon's Gate	{J}
+PAL	Dragon's Gate Palette	{J}
+CONFIG	Dragon's Gate Config	{J}
+MAP	Final Ch. pt1 Map	{J}
+ANIME	Gate and flames (Dragon's Gate) Tile Anim	{J}
+CHANGE	Final Ch. pt1 Map Changes	{J}
+EVENT	Final Ch. pt1 Events 	{J}
+MAP	Final Ch. pt2 Map	{J}
+CHANGE	Final Ch. pt2 Map Changes	{J}
+EVENT	Final Ch. pt2 Events	{J}
+UNKNOWN	?	{J}
+UNKNOWN	?	{J}
+PAL	07_Pallet	{J}
+MAP	ET07)07_Map	{J}
+UNKNOWN	?	{J}
+MAP	ET08)08x_Map	{J}
+CHANGE	ET08)08x Changes	{J}
+UNKNOWN	?	{J}
+MAP	E01)11h_Map	{J}
+UNKNOWN	?	{J}
+MAP	E03)13_Map	{J}
+UNKNOWN	?	{J}
+MAP	E04)14_Map	{J}
+UNKNOWN	?	{J}
+PAL	E08)18hx Pallet	{J}
+MAP	E08)18hx_Map	{J}
+UNKNOWN	?	{J}
+MAP	E11)21_Map	{J}
+UNKNOWN	?	{J}
+PAL	E12)22 Pallet	{J}
+MAP	E12)22_Map	{J}
+UNKNOWN	?	{J}
+MAP	E12)22xa_Map	{J}
+UNKNOWN	?	{J}
+MAP	E13)23b_Map	{J}
+UNKNOWN	?	{J}
+PAL	E14)24 Pallet	{J}
+MAP	E14)24_Map	{J}
+UNKNOWN	?	{J}
+MAP	E15)25_Map	{J}
+UNKNOWN	?	{J}
+MAP	E16)26_Map	{J}
+UNKNOWN	?	{J}
+PAL	E16)26x Pallet	{J}
+MAP	E16)26x_Map	{J}
+UNKNOWN	?	{J}
+MAP	E18)28_Map	{J}
+UNKNOWN	?	{J}
+MAP	E19)29_Map	{J}
+UNKNOWN	?	{J}
+MAP	E22)32_Map	{J}
+CHANGE	E22)32 Change	{J}
+UNKNOWN	?	{J}
+MAP	VS Map	{J}
+MAP	sakaba_Map	{J}
+UNKNOWN	?	{J}
+MAP	test Map	{J}
+CHANGE	test Change	{J}
+UNKNOWN	{J}
+UNKNOWN	Not used	{U}
+OBJ	Sacae Plains	{U}
+PAL	Sacae Plains	 Light Sand Palette	{U}
+CONFIG	Sacae Plains Config	{U}
+MAP	Prologue Map	{U}
+ANIME	Water (Fields; Plains; M&S) Tile Anim	{U}
+EVENT	Prologue Events 	{U}
+PAL	Sacae Plains	 Dark Sand Palette	{U}
+MAP	Ch.1 Map	{U}
+EVENT	Ch.1 Events 	{U}
+OBJ	Plains&Castle	{U}
+PAL	Plains&Castle	 Bright Palette	{U}
+CONFIG	Plains&Castle Config	{U}
+MAP	Ch.2 Map	{U}
+CHANGE	Ch.2 Map Changes	{U}
+EVENT	Ch.2 Events 	{U}
+OBJ	Town&Docks	{U}
+PAL	Town	 Cliffs&stone road unusable Palette	{U}
+CONFIG	Town&Docks Config	{U}
+MAP	Ch.3 Map	{U}
+CHANGE	Ch.3 Map Changes	{U}
+EVENT	Ch.3 Events 	{U}
+OBJ	Fortress&Fields	{U}
+PAL	Fortress&Fields	 Dawn Palette	{U}
+CONFIG	Fortress&Fields Config	{U}
+MAP	Ch.4 Map	{U}
+CHANGE	Ch.4 Map Changes	{U}
+EVENT	Ch.4 Events 	{U}
+OBJ	Fields	{U}
+OBJ	Fields	{U}
+PAL	Fields	 Sunny weather Palette	{U}
+CONFIG	Fields Config	{U}
+MAP	Ch.5 Map	{U}
+EVENT	Ch.5 Events 	{U}
+PAL	Town	 Cliffs&ship unusable Palette	{U}
+MAP	Ch.6 Map	{U}
+CHANGE	Ch.6 Map Changes	{U}
+EVENT	Ch.6 Events 	{U}
+MAP	Ch.7 Map	{U}
+CHANGE	Ch.7 Map Changes	{U}
+EVENT	Ch.7 Events 	{U}
+PAL	Plains&Castle	 Neutral Palette	{U}
+MAP	Ch.7x Map	{U}
+CHANGE	Ch.7x Map Changes	{U}
+EVENT	Ch.7x Events 	{U}
+MAP	Ch.8 Map	{U}
+CHANGE	Ch.8 Map Changes	{U}
+EVENT	Ch.8 Events 	{U}
+MAP	Ch.9 Map	{U}
+CHANGE	Ch.9 Map Changes	{U}
+EVENT	Ch.9 Events 	{U}
+PAL	Fields	 Darker; suitable for rain Palette	{U}
+MAP	Ch.10 Map	{U}
+CHANGE	Ch.10 Map Changes	{U}
+EVENT	Ch.10 Events 	{U}
+MAP	Ch.11E Map	{U}
+CHANGE	Ch.11E Map Changes	{U}
+EVENT	Ch.11E Events 	{U}
+PAL	Plains&Castle	 Castle Ostia/Laus Palette	{U}
+MAP	Ch.11H Map	{U}
+CHANGE	Ch.11H Map Changes	{U}
+EVENT	Ch.11H Events 	{U}
+MAP	Ch.12 Map	{U}
+CHANGE	Ch.12 Map Changes	{U}
+EVENT	Ch.12 Events 	{U}
+MAP	Ch.13 Map	{U}
+CHANGE	Ch.13 Map Changes	{U}
+EVENT	Ch.13 Events 	{U}
+PAL	Fields	 Night Palette	{U}
+MAP	Ch.13x Map	{U}
+CHANGE	Ch.13x Map Changes	{U}
+EVENT	Ch.13x Events 	{U}
+PAL	Fields	 Darker; suitable for rain Palette	{U}
+MAP	Ch.14 Map	{U}
+CHANGE	Ch.14 Map Changes	{U}
+EVENT	Ch.14 Events 	{U}
+MAP	Ch.15H Map	{U}
+CHANGE	Ch.15H Map Changes	{U}
+EVENT	Ch.15H Events 	{U}
+MAP	Ch.15/16 Map	{U}
+CHANGE	Ch.15/16 Map Changes	{U}
+EVENT	Ch.15/16 Events 	{U}
+PAL	Plains&Castle	 Castle Caelin Palette	{U}
+MAP	Ch.16/17 Map	{U}
+CHANGE	Ch.16/17 Map Changes	{U}
+EVENT	Ch.16/17 Events 	{U}
+PAL	Town	 Ship&stone road unusable Palette	{U}
+MAP	Ch.16x/17x Map	{U}
+ANIME	Water (Town&Docks) Tile Anim	{U}
+CHANGE	Ch.16x/17x Map Changes	{U}
+EVENT	Ch.16x/17x Events 	{U}
+OBJ	Ship	{U}
+PAL	Ship Palette	{U}
+CONFIG	Ship Config	{U}
+MAP	Ch.17/18 Map	{U}
+ANIME	Water (Ship) Tile Anim	{U}
+CHANGE	Ch.17/18 Map Changes	{U}
+EVENT	Ch.17/18 Events 	{U}
+PAL	Fields	 Dull; suitable for fog Palette	{U}
+MAP	Ch.18/19 Map	{U}
+CHANGE	Ch.18/19 Map Changes	{U}
+EVENT	Ch.18/19 Events 	{U}
+PAL	Fields	 Sunny weather Palette	{U}
+MAP	Ch.18x/19x Map	{U}
+CHANGE	Ch.18x/19x Map Changes	{U}
+EVENT	Ch.18x/19x Events 	{U}
+OBJ	Mountains&Shrine	{U}
+PAL	Mountains&Shrine	 Neutral Palette	{U}
+CONFIG	Mountains&Shrine Config	{U}
+MAP	Ch.19x pt2 Map	{U}
+CHANGE	Ch.19x pt2 Map Changes	{U}
+EVENT	Ch.19x pt2 Events 	{U}
+MAP	Ch.19/20 Map	{U}
+CHANGE	Ch.19/20 Map Changes	{U}
+EVENT	Ch.19/20 Events 	{U}
+PAL	Town	 Night Palette	{U}
+MAP	Ch.20/21 Map	{U}
+CHANGE	Ch.20/21 Map Changes	{U}
+EVENT	Ch.20/21 Events 	{U}
+PAL	Fortress&Fields	 Daytime Palette	{U}
+MAP	Ch.21/22 Map	{U}
+CHANGE	Ch.21/22 Map Changes	{U}
+EVENT	Ch.21/22 Events 	{U}
+OBJ	Desert	{U}
+PAL	Desert Palette	{U}
+CONFIG	Desert Config	{U}
+MAP	Ch.22/23 Map	{U}
+EVENT	Ch.22/23 Events 	{U}
+PAL	Plains&Castle	 Green&blue Palette	{U}
+MAP	Ch.22x/23x Map	{U}
+CHANGE	Ch.22x/23x Map Changes	{U}
+EVENT	Ch.22x/23x Events 	{U}
+MAP	Ch.23/24 Map (Lloyd)	{U}
+CHANGE	Ch.23/24 Map Changes (Lloyd)	{U}
+EVENT	Ch.23/24 (Lloyd) Events 	{U}
+MAP	Ch.23/24 Map (Linus)	{U}
+CHANGE	Ch.23/24 Map Changes (Linus)	{U}
+EVENT	Ch.23/24 (Linus) Events 	{U}
+PAL	Fields	 Neutral Palette	{U}
+MAP	Ch.25H Map	{U}
+CHANGE	Ch.25H Map Changes	{U}
+EVENT	Ch.25H Events 	{U}
+MAP	Ch.24/26 Map	{U}
+CHANGE	Ch.24/26 Map Changes	{U}
+EVENT	Ch.24/26 Events 	{U}
+OBJ	Snow	{U}
+PAL	Snow Palette	{U}
+CONFIG	Snow Config	{U}
+MAP	Ch.25/27 Map (Kenneth)	{U}
+CHANGE	Ch.25/27 Map Changes (Kenneth)	{U}
+EVENT	Ch.25/27 (Kenneth) Events 	{U}
+MAP	Ch.25/27 Map (Jerme)	{U}
+ANIME	Shimmering ice (Snow) Tile Anim	{U}
+CHANGE	Ch.25/27 Map Changes (Jerme)	{U}
+EVENT	Ch.25/27 (Jerme) Events 	{U}
+PAL	Plains&Castle	 Night Palette	{U}
+MAP	Ch.26/28 Map	{U}
+CHANGE	Ch.26/28 Map Changes	{U}
+EVENT	Ch.26/28 Events 	{U}
+PAL	Plains&Castle	 Purple Palette	{U}
+MAP	Ch.26x/28x Map	{U}
+ANIME	Water (Plains&Castle) Tile Anim	{U}
+CHANGE	Ch.26x/28x Map Changes	{U}
+EVENT	Ch.26x/28x Events 	{U}
+MAP	Ch.27/29 Map	{U}
+CHANGE	Ch.27/29 Map Changes	{U}
+EVENT	Ch.27/29 Events 	{U}
+OBJ	Lava Cave	{U}
+PAL	Lava Cave Palette	{U}
+CONFIG	Lava Cave Config	{U}
+MAP	Ch.28E Map	{U}
+ANIME	Lava (Lava Cave) Tile Anim	{U}
+CHANGE	Ch.28E Map Changes	{U}
+EVENT	Ch.28E Events 	{U}
+OBJ	Sand Cave	{U}
+PAL	Sand Cave Palette	{U}
+CONFIG	Sand Cave Config	{U}
+MAP	Ch.30H Map	{U}
+CHANGE	Ch.30H Map Changes	{U}
+EVENT	Ch.30H Events 	{U}
+MAP	Ch.29/31 Map	{U}
+CHANGE	Ch.29/31 Map Changes	{U}
+EVENT	Ch.29/31 Events 	{U}
+PAL	Town	 Ship&stone road unusable Palette	{U}
+MAP	Ch.29x/31x Map	{U}
+EVENT	Ch.29x/31x Events 	{U}
+MAP	Ch.30/32 Map	{U}
+CHANGE	Ch.30/32 Map Changes	{U}
+EVENT	Ch.30/32 Events 	{U}
+PAL	Mountains&Shrine	 No plains Palette	{U}
+MAP	Ch.32x Map	{U}
+CHANGE	Ch.32x Map Changes	{U}
+EVENT	Ch.32x Events 	{U}
+OBJ	Dragon's Gate	{U}
+PAL	Dragon's Gate Palette	{U}
+CONFIG	Dragon's Gate Config	{U}
+MAP	Final Ch. pt1 Map	{U}
+ANIME	Gate and flames (Dragon's Gate) Tile Anim	{U}
+CHANGE	Final Ch. pt1 Map Changes	{U}
+EVENT	Final Ch. pt1 Events 	{U}
+MAP	Final Ch. pt2 Map	{U}
+CHANGE	Final Ch. pt2 Map Changes	{U}
+EVENT	Final Ch. pt2 Events	{U}
+UNKNOWN	?	{U}
+UNKNOWN	?	{U}
+PAL	07_Pallet	{U}
+MAP	ET07)07_Map	{U}
+UNKNOWN	?	{U}
+MAP	ET08)08x_Map	{U}
+CHANGE	ET08)08x Changes	{U}
+UNKNOWN	?	{U}
+MAP	E01)11h_Map	{U}
+UNKNOWN	?	{U}
+MAP	E03)13_Map	{U}
+UNKNOWN	?	{U}
+MAP	E04)14_Map	{U}
+UNKNOWN	?	{U}
+PAL	E08)18hx Pallet	{U}
+MAP	E08)18hx_Map	{U}
+UNKNOWN	?	{U}
+MAP	E11)21_Map	{U}
+UNKNOWN	?	{U}
+PAL	E12)22 Pallet	{U}
+MAP	E12)22_Map	{U}
+UNKNOWN	?	{U}
+MAP	E12)22xa_Map	{U}
+UNKNOWN	?	{U}
+MAP	E13)23b_Map	{U}
+UNKNOWN	?	{U}
+PAL	E14)24 Pallet	{U}
+MAP	E14)24_Map	{U}
+UNKNOWN	?	{U}
+MAP	E15)25_Map	{U}
+UNKNOWN	?	{U}
+MAP	E16)26_Map	{U}
+UNKNOWN	?	{U}
+PAL	E16)26x Pallet	{U}
+MAP	E16)26x_Map	{U}
+UNKNOWN	?	{U}
+MAP	E18)28_Map	{U}
+UNKNOWN	?	{U}
+MAP	E19)29_Map	{U}
+UNKNOWN	?	{U}
+MAP	E22)32_Map	{U}
+CHANGE	E22)32 Change	{U}
+UNKNOWN	?	{U}
+MAP	VS Map	{U}
+MAP	sakaba_Map	{U}
+UNKNOWN	?	{U}
+MAP	test Map	{U}
+CHANGE	test Change	{U}
+UNKNOWN	{U}

@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>Edit Wave memory data</title>
+</head>
+<body>
+<font size="+1">Edit Wave memory data</font>
+
+<p><img src="images/EditWaveMemory01.png"></p>
+
+<p>Edit Voice table ダイアログで、Wave Memory の Edit Wave... ボタンをクリックすると、Edit Wave memory data ダイアログが表示されます。<br>
+このダイアログでは、指定したアドレスにて読み込まれる波形メモリ音源の音色を数値及び視覚的に編集することができます。</p>
+<hr>
+<font size="+1">Edit Wave memory data 画面説明</font>
+
+<p><img src="images/EditWaveMemory03.png"></p>
+<dl>
+<dt>(1) Hex value - 16進によるデータ表示</dt>
+<dd>指定されたアドレスから読み出したデータの16進が表示されます。
+<br>表示をダブルクリックすると、値を編集できます。 16 進 16 桁をハイフンで繋いだ形式で記述してください。
+<br><img src="images/EditWaveMemory02.png"></dd>
+<dt>(2) Wavefrom display -  波形表示</dt>
+<dd>(1)で表示されている音色を視覚的に表示したものです。この画面をクリックもしくはドラッグして波形を変更することができます。変更すると、(1) の表示も追従して変わっていきます。</dd>
+<dt>(3) X/Y 座標表示</dt>
+<dd>(2) の上でマウスポインタが指し示している位置を示しています。 X は横軸、 Y は縦軸の値になります。</dd>
+<dt>(4) Write - 書き込みボタン</dt>
+<dd>編集した音色を ROM イメージに書き込み、ダイアログを閉じます。</dd>
+<dt>(5) Cancel ボタン<dt>
+<dd>編集中の内容を破棄してダイアログを閉じます</dd>
+</dl>
+</p>
+<p>
+<dl>
+<dt><b><font color="red">注意</font></b></dt>
+<dd><font color="red">書き換えたアドレスが別のボイステーブルでも使用されている場合、そちらの音色も変更されてしまいます。ご注意ください。</font></dd>
+</dl>
+</p>
+</body>
+</html>

@@ -1,0 +1,7 @@
+TURN	Wende den Zustand an
+TALK	Gesprächsbedingung (Sprechbefehl)
+OBJECT	Kartenobjekte (Kontrollpunkte, Schatztruhen, Türen, Privathäuser, Dörfer)
+ALWAYS	Immer Bedingung (Reichweitenbedingung, Siegbedingung usw.)
+PLAYER_UNIT	Ally Anordnung
+ENEMY_UNIT	Feindliche Anordnung
+END_EVENT	Ende des Kapitels

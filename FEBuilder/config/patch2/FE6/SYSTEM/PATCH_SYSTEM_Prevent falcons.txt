@@ -1,0 +1,23 @@
+
+NAME=ファルコン法防止(移動経路に乱数を使用しない)
+NAME.en=Prevent falcon method(Do not use random numbers for traveling route)
+
+//アドレスパッチとして実装します
+TYPE=ADDR
+
+
+ADDRESS=0xE10
+COMBO=防止する|0x00 0x00 0x00 0x00|防止しない|0xFF 0xF7 0xD6 0xFE
+AUTHOR=出典:Chap@FE8_GIRLS 09.10.01 の資料より
+NAME.zh=防止猎鹰（不要使用随机数字旅行路线）
+AUTHOR.zh=来源:Chap@FE8_GIRLS 09.10.01的材料。
+AUTHOR.en=Source: Chap@FE8_GIRLS 09.10.01 by the material.
+COMBO.en=To prevent|0x00 0x00 0x00 0x00|Do not prevent|0xFF 0xF7 0xD6 0xFE
+COMBO.zh=为了防止|0x00 0x00 0x00 0x00|不要阻止|0xFF 0xF7 0xD6 0xFE
+
+
+
+
+INFO=移動する座標を決める時の、移動経路を示す矢印カーソルの描画に乱数を使うのを抑制します。\r\nGBA FEでは、矢印カーソルの描画に乱数が利用されており、TSAビデオでは矢印カーソルを回すことで乱数を調整します。\r\n矢印の描画に乱数を使うのを抑制し、乱数調整を少しだけ難しくします。
+INFO.en=Suppressing the use of random numbers for drawing arrow cursors that show the movement path when deciding the coordinates to move.\r\nIn GBA FE, random numbers are used to draw arrow cursor, and in TSA video, you adjust the random number by turning the arrow cursor.\r\nSuppress the use of random numbers for drawing arrows, making random number adjustment a little more difficult.
+INFO.zh=抑制使用随机数绘制箭头光标，该光标在决定移动的坐标时显示移动路径。\r\n在GBA FE中，随机数用于绘制箭头光标，在TSA视频中，通过转动箭头光标来调整随机数。\r\n禁止使用随机数字绘制箭头，使得随机数字调整更加困难。

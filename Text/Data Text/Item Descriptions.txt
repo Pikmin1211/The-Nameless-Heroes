@@ -38,7 +38,7 @@ Dummy[X]
 Long-range weapon.[X]
 
 #0x39D
-Magic. Effective against monsters.[X]
+Isaac only. A blade with dragonic power.[X]
 
 #0x3BF
 A legendary axe. Defense +5.[X]
@@ -353,7 +353,7 @@ Raises resistance.[X]
 
 #0x412
 Increases movement by[N]
-2 points. Vanishes after use.[X]
+1 point. Vanishes after use.[X]
 
 #0x450
 Raises movement.[X]
@@ -370,24 +370,24 @@ For mercenaries, myrmidons,[N]
 and fighters Lv. 10 and up.[X]
 
 #0x415
-For knights and cavaliers[N]
-Lv. 10 and up.[X]
+For knights, cavaliers,[N]
+and soldiers Lv. 10 and up.[X]
 
 #0x466
 Use this on a worthy[N]
 unit to promote them.[X]
 
 #0x416
-For archers[N]
-Lv. 10 and up.[X]
+For archers and[N]
+nomads Lv. 10 and up.[X]
 
 #0x417
 For pegasus knights and[N]
 wyvern riders Lv. 10 and up.[X]
 
 #0x418
-For magic wielders and[N]
-troubadours Lv. 10 and up.[X]
+For magic and staff[N]
+wielders Lv. 10 and up.[X]
 
 #0x419
 Opens chests.[X]
@@ -402,12 +402,10 @@ Opens doors.[X]
 Opens doors.[X]
 
 #0x41B
-Opens doors and chests.[N]
-Usable only by thieves.[X]
+Opens doors and chests.[X]
 
 #0x459
-Universal lockpicks[N]
-designed for thieves.[X]
+Opens doors and chests.[X]
 
 #0x41C
 A medicinal solution used[N]
@@ -512,8 +510,8 @@ Effective against knights.[X]
 Doubles as ranged attack.[X]
 
 #0x42F
-For use by thieves and[N]
-pirates Lv. 10 and up.[X]
+For thieves, pirates, and[N]
+brigands Lv. 10 and up.[X]
 
 #0x3F4
 Turns targets to stone for a while.[X]
@@ -549,7 +547,7 @@ A device that blocks units[N]
 from entering spaces.[X]
 
 #0x3AC
-A blade able to control time.[X]
+Lizzy only. A blade able to control time.[X]
 
 #0x408
 A Sacred Twin staff. Fully[N]
@@ -615,3 +613,9 @@ Usable by anybody.[X]
 
 #0x3EE
 Negates enemy resistance.[X]
+
+#0x38C
+Isaac only.[X]
+
+#0x38D
+Inflicts sleep.[X]

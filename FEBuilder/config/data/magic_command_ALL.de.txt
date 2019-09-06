@@ -1,0 +1,8 @@
+08=Angriff beraubte HP(Es ändert sich automatisch, wenn kritisch)
+29=Hintergrundhelligkeit und DeckkraftArgument XXHelligkeitsstufe0 bis 100% (0 bis 10) Argumente YYOpazität100% bis 50% (0 bis 10)
+2A=Hintergrundanzeige während des KampfesJJ=0AnzeigeJJ=Anders als 0Verstecken
+40=Kamerabewegung von Chirurgen zum Angriffsziel (nur einmal)
+48=Spielen Sie Musik / SoundeffekteArgument=XXYYSound-ID
+53=BG Erweiterung wie FEditorJJ=1 ON    YY=0 OFF
+1A=Erforderlich vor 1F oder Terminierungsabbruch
+1F=Spiele einen Hit-Ton (benötigt 1A vorher)

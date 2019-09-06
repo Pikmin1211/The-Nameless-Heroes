@@ -7,16 +7,16 @@ A mercenary with a commanding[N]
 prescence. Equip: Swords, axes.[X]
 
 #0x2A3
-Powerful pegasi who trample over[N]
-their foes. Equip: Lances.[X]
+Powerful pegasi who trample over their[N]
+foes. Equip: Lances. Skill: Galeforce.[X]
 
 #0x2C8
-Magicians with a mastery of all[N]
-magics. Equip: Anima, light, dark.[X]
+Magicians with a mastery of all magics.[N]
+Equip: Anima, light, dark. Skill: Lifetaker.[X]
 
 #0x691
-Elite soldiers who have honed their[N]
-skills to perfection. Equip: Lances.[X]
+Elite soldiers who have honed their skills[N]
+to perfection. Equip: Lances. Skill: Impale.[X]
 
 #0x2CB
 Mountain thieves who attack with[N]
@@ -43,7 +43,7 @@ Knights trained in a variety of weapons.[N]
 Equip: Axes, bows, light, dark.[X]
 
 #0x6A1
-Loyal servents who heal and defend[N]
+Loyal servants who heal and defend[N]
 their masters. Equip: Swords, staves.[X]
 
 #0xE60
@@ -67,8 +67,8 @@ Plainsmen with high speed and[N]
 strong movement. Equip: Bows.[X]
 
 #0x2CF
-An honorific bestowed upon nomads[N]
-of great skill. Equip: Swords, bows.[X]
+A title bestowed upon nomads of great[N]
+skill. Equip: Swords, bows. Skill: Adept.[X]
 
 #0x294
 Mounted knights with swift[N]
@@ -84,15 +84,15 @@ movement. Equip: Axes.[X]
 
 #0x295
 Mounted knights with superior abilities.[N]
-Equip: Swords, lances.[X]
+Equip: Swords, lances. Skill: Sol.[X]
 
 #0xDCE
 Mounted knights with superior abilities.[N]
-Equip: Lances, axes.[X]
+Equip: Lances, axes. Skill: Sol.[X]
 
 #0xDCD
 Mounted knights with superior abilities.[N]
-Equip: Swords, axes.[X]
+Equip: Swords, axes. Skill: Sol.[X]
 
 #0x296
 Heavily armored knights with[N]
@@ -103,16 +103,16 @@ Heavily armored knights with[N]
 high defenses. Equip: Axes.[X]
 
 #0x297
-Knights of great skill.[N]
-Equip: Lances, axes.[X]
+Knights of great skill. Equip:[N]
+Lances, axes. Skill: Pavise.[X]
 
 #0x2A8
-Knights of great skill.[N]
-Equip: Swords, lances.[X]
+Knights of great skill. Equip:[N]
+Swords, lances. Skill: Luna.[X]
 
 #0x298
-Multitalented knaves with an eye for[N]
-riches. Equip: Swords.[X]
+Multitalented knaves with an[N]
+eye for riches. Equip: Swords.[X]
 
 #0x299
 Well-balanced professional[N]
@@ -120,31 +120,31 @@ soldiers-for-hire. Equip: Swords.[X]
 
 #0x29A
 Seasoned veterans with remarkable[N]
-skill. Equip: Swords, axes.[X]
+skill. Equip: Swords, axes. Skill: Aether.[X]
 
 #0x29B
 Talented swordsmen skilled in swift[N]
 killing strokes. Equip: Swords.[X]
 
 #0x29C
-Lightning-fast swordsmen of peerless[N]
-and lethal skill. Equip: Swords.[X]
+Fast swordsmen of lethal skill. Equip:[N]
+Swords. Skills: Avo+15, Crit+15, Astra.[X]
 
 #0x29D
-Masters of the killing arts.[N]
-Equip: Swords, bows.[X]
+Masters of the killing arts. Equip:[N]
+Swords, bows. Skills: Lethality, Pass.[X]
 
 #0x29E
-Warriors who use bows to attack from[N]
-afar. Equip: Bows.[X]
+Warriors who use bows to attack[N]
+from afar. Equip: Bows.[X]
 
 #0x29F
-Archers that can shoot from[N]
-a longer distance. Equip: Bows.[X]
+Archers of unparalleled accuracy. Equip:[N]
+Bows. Skills: Bowrange+, Sure Shot.[X]
 
 #0x2A0
 Fighters skilled in both sword and bow.[N]
-Equip: Swords, bows.[X]
+Equip: Swords, bows. Skill: Proximity Shot.[X]
 
 #0x2A1
 High-flying knights vulnerable only to[N]
@@ -152,15 +152,15 @@ bows and magic. Equip: Lances.[X]
 
 #0x2A2
 Wyvern-mounted knights of superior[N]
-skill. Equip: Lances, axes.[X]
+skill. Equip: Lances, axes. Skill: Enrage.[X]
 
 #0x2A9
 Wyvern-mounted knights of superior[N]
-skill. Equip: Swords, lances.[X]
+skill. Equip: Swords, lances. Skill: Sol.[X]
 
 #0x2C5
 Wyvern riders who can pierce enemy[N]
-defenses. Equip: Lances.[X]
+defenses. Equip: Lances. Skill: Luna.[X]
 
 #0x2A4
 Magic wielders with solid skills but low[N]
@@ -168,15 +168,15 @@ physical strength. Equip: Anima.[X]
 
 #0x2A5
 Advanced scholars of magical codices.[N]
-Equip: Anima, light, staves.[X]
+Equip: Anima, light, staves. Skill: Flare.[X]
 
 #0x2A6
-Knights trained in both anima and[N]
-swords. Equip: Swords, anima.[X]
+Knights trained in both anima and swords.[N]
+Equip: Swords, anima. Skill: Ambush.[X]
 
 #0x2A7
-Seasoned priests with strong healing[N]
-skills. Equip: Light, staves.[X]
+Seasoned priests who heal their allies.[N]
+Equip: Light, staves. Skill: Mageslayer.[X]
 
 #0x2B3
 Wielders of magic who are stronger,[N]
@@ -184,27 +184,27 @@ but slower, than mages. Equip: Dark.[X]
 
 #0x2B4
 Wielders of deep and ancient magic.[N]
-Equip: Dark, anima, staves.[X]
+Equip: Dark, anima, staves. Skill: Eclipse.[X]
 
 #0x2B5
 Master sorcerers who summon fighters.[N]
-Equip: Anima, dark.[X]
+Equip: Anima, dark. Skill: Summon.[X]
 
 #0x2AD
-Knaves who need no tools or keys to[N]
-open locks. Equip: Swords, staves.[X]
+Knaves who need no keys to open locks.[N]
+Equip: Swords, staves. Skills: Pick, Pass.[X]
 
 #0x2B2
-Knights with great mobility and[N]
-defense. Equip: Swords, lances, axes.[X]
+Knights with great mobility and defense.[N]
+Equip: Swords, lances, axes. Skill: Luna.[X]
 
 #0x2AE
 Ruffians with great strength but[N]
 poor defense. Equip: Axes.[X]
 
 #0x2AF
-Stalwart warriors whose power is[N]
-their pride. Equip: Axes, bows.[X]
+Stalwart warriors whose power is their[N]
+pride. Equip: Axes, bows. Skill: Colossus.[X]
 
 #0x2C1
 Tough brawlers who call the[N]
@@ -215,8 +215,8 @@ Mighty mercenaries who thrive[N]
 in mountains. Equip: Axes.[X]
 
 #0x2B1
-Fighters at home both in mountains[N]
-and at sea. Equip: Axes.[X]
+Fighters at home in mountains and sea.[N]
+Equip: Axes. Skills: Crit+15, Vengeance.[X]
 
 #0x2B6
 Spiritual guides who use sacred staves[N]
@@ -227,8 +227,8 @@ Airborne knights who resist magic but[N]
 are weak against bows. Equip: Lances.[X]
 
 #0x2BB
-Swift sky warriors who shrug off magic[N]
-attacks. Equip: Swords, lances, staves.[X]
+Sky warriors who resist magic. Equip:[N]
+Swords, lances, staves. Skill: Petrify.[X]
 
 #0x2BC
 Holy women who use staves to heal[N]
@@ -239,8 +239,8 @@ Maidens who wield staves from[N]
 horseback. Equip: Staves.[X]
 
 #0x2BE
-Battle maidens who wield both staves[N]
-and anima magic. Equip: Anima, staves.[X]
+Holy women on horseback. Equip: Anima,[N]
+staves. Skills: Aegis, Staff Savant.[X]
 
 #0x2BF
 Dancers whose dances revitalize[N]
@@ -264,7 +264,7 @@ justice. Equip: Swords, lances.[X]
 
 #0x293
 An inspiring commander who strikes fear[N]
-into his enemies. Equip: Swords, axes.[X]
+into their enemies. Equip: Swords, axes.[X]
 
 #0x2C9
 Giant poisonous mountain[N]
@@ -287,8 +287,8 @@ Carriages that carry[N]
 valuable wares. Cannot fight.[X]
 
 #0xE62
-Clerics familiar with the divine and[N]
-the battlefield. Equip: Axes, staves.[X]
+Clerics familiar with the battlefield. Equip:[N]
+Axes, staves. Skills: Renewal, Boon.[X]
 
 #0x2DA
 Peerless leaders who can turn the[N]
@@ -305,3 +305,7 @@ high defenses. Equip: Swords.[X]
 #0x2B8
 Musicians whose melodies[N]
 aid allies. Unable to attack.[X]
+
+#0x2C3
+Warships that patrol the[N]
+open seas. Equip: Ballistae.[X]

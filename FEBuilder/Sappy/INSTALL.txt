@@ -1,0 +1,22 @@
+まず始めにオリジナルの sappy12.exe をインストールしてください。
+Visual Basic 6 の必要なモジュールがインストールされます。
+その上で、 sappy.exe をこの圧縮ファイルに入っている物で上書きしてください。
+
+FAQ
+曲を再生しながらバックグラウンドで操作すると sappy が落ちる
+　→ CPU の Hyper Threading が悪さをしてるかも。 無効にすると安定するかもしんない。
+
+
+nagona◆DKG4NAGONA
+
+------
+
+1. Please install original version of sappy 2006 (sappy12.exe from The Helmeted Rodent) for VB6 controls and libraries.
+2. Replace installed "sappy.exe" with one in this archive.
+3. Let's Enjoy it!
+
+FAQ
+ Sappy often crash when I play music in background. Why?
+  -> Please disable "Hyper Threading" feature. Might be improved.
+
+nagona<>DKG4NAGONA

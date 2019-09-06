@@ -1,0 +1,8 @@
+00=PrioritizeDamage(Accuracy)
+08=PrioritizeDamage(Standard)
+10=PrioritizeDamage(Max)
+18=?
+20=PrioritizeAccuracy
+28=Archers
+30=?
+38=?

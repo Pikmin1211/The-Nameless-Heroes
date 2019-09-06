@@ -1,0 +1,42 @@
+#include "Anti Huffman/Antihuffman.event"
+
+#include "English Font/Fontinstaller.event"
+
+#include "DrawSingleByte/DrawSingleByte.event"
+
+//Menu stuff
+PUSH
+ORG $AAF8C8 //align combat option 1
+BYTE 0x8F
+ORG $AAF8D0 //^
+BYTE 0xB6
+ORG $2341A //make the Use menu wider
+BYTE 0xE0
+ORG $5C56F6 //make the main menu wider
+BYTE 0x7
+ORG $AC1B0A //make world map menu wider
+BYTE 0x7
+POP
+
+//Item R-button menu stuff
+PUSH
+ORG $8B576 //Make monster weapons show stats
+SHORT 0xE006
+ORG $8BF6E //line up Rng and Hit labels
+BYTE 0x2F
+ORG $8C000 //shift Rng number over so it doesn't overlap with the label
+BYTE 0x43
+ORG $8BFEE //shift weapon rank over so it doesn't overlap with *its* label
+BYTE 0x20
+ORG $8C080 //shift staff weapon rank over
+BYTE 0x1B
+POP
+
+//Insert a % sign
+PUSH
+ORG $5B537C
+POIN Percent_Glyph
+POP
+ALIGN 4
+Percent_Glyph:
+#incbin "Percent Glyph.dmp"

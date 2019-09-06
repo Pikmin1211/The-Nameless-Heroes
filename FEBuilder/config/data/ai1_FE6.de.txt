@@ -1,0 +1,15 @@
+00=Unbekannt
+01=Manchmal handle ich nicht (verwirrend?)
+02=?
+03=Nicht bewegen?
+04=?
+05=?
+06=Greifen Sie keine Diebe / Bürger an
+07=Routh Soldat
+08=Douglas
+09=1 B Idina Bogen
+0A=?
+0B=GailRoy greift nur an?
+0C=Der Geist von Bern
+0D=Gail KorpsKannst du nicht angreifen?
+0E=Mönch

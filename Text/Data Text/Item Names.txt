@@ -32,7 +32,7 @@ Flamberge[X]
 Brave Sword[X]
 
 #0x2E5
-Shamshir[X]
+Wo Dao[X]
 
 #0x2E6
 Killing Edge[X]
@@ -382,6 +382,9 @@ Greatbow[X]
 #0x2ED
 Grannblaze[X]
 
+#0xE63
+Grannblaze[X]
+
 #0x30F
 Battleaxe[X]
 
@@ -434,7 +437,7 @@ Bolting[X]
 Flame Lance[X]
 
 #0x333
-Elcalibur[X]
+Aircalibur[X]
 
 #0x8A
 Blazing Bld[X]

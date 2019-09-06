@@ -21,8 +21,8 @@
 
 	//Item R-button menu stuff
 	PUSH
-		ORG $8B576 //Make monster weapons show stats
-		SHORT 0xE006
+		//ORG $8B576 //Make monster weapons show stats
+		//SHORT 0xE006
 		ORG $8BF6E //line up Rng and Hit labels
 		BYTE 0x2F
 		ORG $8C000 //shift Rng number over so it doesn't overlap with the label
@@ -31,6 +31,18 @@
 		BYTE 0x20
 		ORG $8C080 //shift staff weapon rank over
 		BYTE 0x1B
+	POP
+
+	//Monster Weapon Display
+	PUSH
+		ORG $16BCA
+		BYTE 0x0B 0x28 0x04 0xD0 0x09 0x49 0x80 0x00 0x08 0x18 0x00 0x68 0x06 0xE0 0x80 0x20 0x80 0x00 0x6B 0x30 0x02 0xE0
+		ORG $16BEA
+		BYTE 0x0C 0x46
+		ORG $8B57E
+		BYTE 0x6
+		ORG $1E458
+		BYTE 0x0C
 	POP
 
 	//Map Menu Stuff
@@ -55,4 +67,71 @@
 	PUSH
 		ORG $F707DA //Ruin tome
 		SHORT 0x396 //High crit description
+
+		ORG $F6FE4A //Slim Sword
+		SHORT 0x38B //Iron Sword description
+
+		ORG $F6FE6E //Steel Sword
+		SHORT 0x382 //Slim Sword description
+
+		ORG $F71BF6 //Sleep Sword
+		SHORT 0x38D //Steel Sword description
 	POP
+
+	//Class Descriptions
+	PUSH
+		ORG $85B766 //Commandeur
+		SHORT 0x292
+	POP
+
+// Anti Huffman
+	PUSH
+		ORG $2af4
+		#incbin "antihuffman/2af4.bin"
+		ORG $9fb2
+		#incbin "antihuffman/9fb2.bin"
+		ORG $454120
+		#incbin "antihuffman/454120.bin"
+	POP
+
+/*
+// Draw Singlebyte	
+	item:
+	#incbin "DrawSyngleByte/drawsinglebyte_item.bin"
+
+	itemwidth:
+	#incbin "DrawSyngleByte/drawsinglebyte_item_width.bin"
+
+	nextline:
+	#incbin "DrawSyngleByte/drawsinglebyte_nextline.bin"
+
+	serif:
+	#incbin "DrawSyngleByte/drawsinglebyte_serif.bin"
+
+	serifwidth:
+	#incbin "DrawSyngleByte/drawsinglebyte_serif_width.bin"
+
+#define jumpToHack_r1j(offset) "BYTE 0x0 0x49 0x8F 0x46; POIN offset|1"
+#define jumpToHack_r3j(offset) "BYTE 0x0 0x4B 0x9F 0x46; POIN offset|1"
+
+	PUSH
+
+		ORG $40c2
+		BYTE 0x0 0x0
+		jumpToHack_r1j(serif)
+		ORG $3e74
+		jumpToHack_r3j(serifwidth)
+		ORG $3f44
+		jumpToHack_r1j(item)
+		ORG $3e2c
+		jumpToHack_r3j(itemwidth)
+		ORG $3f12
+		BYTE 0x0 0x0
+		jumpToHack_r1j(nextline)
+
+	POP
+
+/*
+
+// Font handled by batch via febuilder
+//#include "EngFont/EngFont.event"

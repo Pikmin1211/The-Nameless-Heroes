@@ -1,0 +1,8 @@
+01=Kontinuierlich
+02=Keine
+04=Keine
+08=Rutschen durch
+10=Zug
+20=Keine
+40=Keine
+80=Keine

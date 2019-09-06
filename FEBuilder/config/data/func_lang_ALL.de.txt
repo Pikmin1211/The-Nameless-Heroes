@@ -1,0 +1,5 @@
+auto=Automatische Bestimmung
+ja=Japanisch
+en=Englisch
+zh=Chinesisch
+de=Deutsch

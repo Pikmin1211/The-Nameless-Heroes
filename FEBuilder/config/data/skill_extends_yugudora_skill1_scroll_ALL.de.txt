@@ -1,0 +1,8 @@
+01=Hinterhalt
+02=Gebet
+04=Keine
+08=Keine
+10=Großes Schild
+20=Gebet
+40=Keine
+80=Hinterhalt
