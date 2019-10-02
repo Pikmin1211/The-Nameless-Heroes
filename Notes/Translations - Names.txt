@@ -1,23 +1,23 @@
 アイザック > Isaac
 ヴォルフ > Wolf
-バッカス > Bacchus > Berkus
+バッカス > Berkus
 オルソン > Olson
-モールス > Morse > Morris
-カーラ > Cala > Kara
-ジェスト > Jest > Jester
-ファリス > Faris > Ferris
+モールス > Morris
+カーラ > Kara
+ジェスト > Jester
+ファリス > Ferris
 ブライアン > Brian
-バレル > Barrel > Barelle
-デュラン > Durand > Dylan
-オドレイ > Odely > Audrey
-アルティ > Alty > Artie
+バレル > Barrelle
+デュラン > Dylan
+オドレイ > Audrey
+アルティ > Artie
 ジョニー > Johnny
-リディ > Liddy > Lizzy
-ケルベス > Kellbeth > Cerberus (reference: fe cerberus monster)
+リディ > Lizzy
+ケルベス > Cerberus (reference: fe cerberus monster)
 ハミルトン > Hamilton
 リリア > Lillia
-ジーナ > Gina > Jeana
-タイター > Taitaa > Titor (Reference: John Titor)
+ジーナ > Jeana
+タイター > Titor (Reference: John Titor)
 セレーネ > Selene
 クロエ > Chloe
 ボリス > Boris
@@ -26,39 +26,38 @@
 ヴァルカン > Vulcan
 レム > Rem
 ヘルメス > Hermes
-ムラサメ > Murasame > Murphy
+ムラサメ > Murphy
 クロノス > Kronos
 リヒター > Richter
 ロザリー > Rosalie
-ミスラ > Mithra > Mythra
-イーリス > Eris > Elise
+ミスラ > Mythra
+イーリス > Elise
 エキドナ > Echidna (Official)
 エルフィン > Elffin (Official)
 ララム > Larum (Official)
 ヴィルヘルム > Wilhelm
-フェリクス > Felix > Phelix
-アリシア > Alicia
-ケンプフ > Kenpuhu > Ken
+フェリクス > Phelix
 リフ > Wrys
+エドマンド > Edmund
 
-
-ダリス > Dalis > Darth
-ノアール > Noire > Schwarz
-ノーマ > Norma > Numa
+ダリス > Darth
+ノアール > Schwartz
+ノーマ > Numa
 ゾット > Zot
 ジョン > John
-ヒューゲル > Hughgel > Hyuuga
-ブラン > Blanc > Schnee
-マーゲイ > Margay > Magay > Hugh (Derived from Anglicized name)
+ヒューゲル > Hyuuga
+ブラン > Schnee
+マーゲイ > Hugh
 ハグロ > Haguro
 ミケ > Mike
-アーヴ > Ahru > Ahvu > Alvin
-リオン > Rion > Leon
+アーヴ > Alvin
+リオン > Leon
 ガリウス > Galius
 ハルトマン > Haltmann
 デミ > Denny
-ハーディス > Hardys > Harvey
-
+ハーディス > Harvey
+アリシア > Alicia
+ケンプフ > Kempf
 
 Generics
 船長 > Captain
@@ -67,21 +66,19 @@ Generics
 ネームレス > Nameless
 かがり火 > Beacon
 傭兵団 > Mercenary
-ヒューゲル隊 > Hugel Corps > Hyuuga's
+ヒューゲル隊 > Hyuuga's
 レジスタンス > Resistance
-ゾット団 > Zot Team > Zot's
-ドラグーン隊 > Dragoon Corps > Dragoon
-解放軍 > Liberation Army > Liberation
+ゾット団 > Zot's
+ドラグーン隊 > Dragoon
+解放軍 > Liberation
 剣闘士 > Gladiator
-対戦相手 > Opponent > Enemy
-ハルトマン隊 > Hartmann Corps > Haltmann's
+対戦相手 > Enemy
+ハルトマン隊 > Haltmann's
 ワルキューレ > Valkyrie
-バズバ団 > Bazba Team > Bazba's
-魔物 > Demon > Monster
-フレリア兵 > Frelian Soldier > Frelian
-ロストン兵 > Rausten Troops > Rausten
-市民 > Citizen > Civilian
-西方『賊』 > West Pirate > Pirate
+バズバ団 > Bazba's
+魔物 > Monster
+市民 > Civilian
+西方『賊』 > Pirate
 
 リアム > Liam
 ジェロニモ > Jeronimo

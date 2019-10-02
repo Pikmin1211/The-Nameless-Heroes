@@ -45,7 +45,7 @@ Whadda they want from us?[A][X]
 
 #0x93B Chapter3Opening2
 
-[MidRight][LoadSchwarz]
+[MidRight][LoadSchwartz]
 This is a patrol ship[N]
 from the Kingdom of Etruria.[AN]
 Stop your ship, and[N]
@@ -85,12 +85,12 @@ be cleared up right quick.[AN]
 
 #0x94C Chapter3Opening4
 
-[Right][LoadSchwarz][FarLeft][LoadCaptain]
+[Right][LoadSchwartz][FarLeft][LoadCaptain]
 I'm the cap'n here. What seems[N]
 to be the problem, officer?[AN]
 
 [Right]
-My name is Schwarz, and I'm the chief[N]
+My name is Schwartz, and I'm the chief[N]
 naval officer of the Etrurian guards.[AN]
 Could I investigate this vessel, please?[AN]
 
@@ -121,7 +121,7 @@ reasonable, I s'pose.[AN]
 
 [Right]
 I thank you for your cooperation.[AN]
-Alright, everyone, we're good to go.[N]
+Alright, everyone, we're good to go.[AN]
 Men, begin loading their[N]
 cargo onto the ship![AN]
 
@@ -149,7 +149,7 @@ If ya take all our cargo away,[N]
 the business'll get stalled![AN]
 
 [FarRight][LoadRedSoldier]
-Sir Schwarz,[N]
+Sir Schwartz,[N]
 everything's ready.[AN]
 
 [Right]
@@ -211,7 +211,7 @@ a bad situation...[A][X]
 
 #0x94E Chapter3Opening6
 
-[MidRight][LoadSchwarz][MidLeft][LoadIsaac]
+[MidRight][LoadSchwartz][MidLeft][LoadIsaac]
 Captain! Are you OK?[AN]
 
 [MidRight]
@@ -494,9 +494,9 @@ Shut it already, fatso![A][X]
 
 
 
-#0x904 Chapter3SchwarzBossQuote
+#0x904 Chapter3SchwartzBossQuote
 
-[MidLeft][LoadSchwarz]
+[MidLeft][LoadSchwartz]
 Tsk, what an annoyance.[AN]
 My armor will get sullied...[N]
 With your blood![A][X]
@@ -505,9 +505,9 @@ With your blood![A][X]
 
 
 
-#0x91A Chapter3SchwarzIsaacBossQuote
+#0x91A Chapter3SchwartzIsaacBossQuote
 
-[MidLeft][LoadSchwarz]
+[MidLeft][LoadSchwartz]
 Considering you're[N]
 a lowly mercenary,[AN]
 your armor looks refined.[AN]
@@ -519,7 +519,7 @@ It's Etrurian![AN]
 Your point?[AN]
 [Clear]
 
-[MidLeft][LoadSchwarz]
+[MidLeft][LoadSchwartz]
 You're pitiful...![AN]
 You must have been a noble![AN]
 Unable to maintain your land,[N]
@@ -533,7 +533,7 @@ I'm not joining you[N]
 in stalling for time.[AN]
 [Clear]
 
-[MidLeft][LoadSchwarz]
+[MidLeft][LoadSchwartz]
 Hehehe...[N]
 Ahahaha![AN]
 For the honor of Etruria,[AN]
@@ -548,9 +548,9 @@ I'll see you try.[A][X]
 
 
 
-#0x90D Chapter3SchwarzDeath
+#0x90D Chapter3SchwartzDeath
 
-[MidLeft][LoadSchwarz]
+[MidLeft][LoadSchwartz]
 Now I see...[N]
 That black armor...[AN]
 You dirty Etrurian minions...[AN]
@@ -562,12 +562,12 @@ The Nameless...[A][X]
 
 #0x94A Chapter3Ending1
 
-[MidRight][LoadSchwarz]
+[MidRight][LoadSchwartz]
 Tsk... These lowly[N]
 mercenaries are troublesome.[AN]
 
 [MidLeft][LoadRedSoldier]
-Commander Schwarz![AN]
+Commander Schwartz![AN]
 The enemy has blown a hole[N]
 in the hull of our ship![AN]
 If we continue this[N]
@@ -627,8 +627,8 @@ Those Etrurians are retreating.[AN]
 [Left]
 We managed, but...[AN]
 I didn't expect them to be committing[N]
-such crimes using the mantle of authority.[AN]
-What in the world is happening around here?[AN]
+crimes under the mantle of authority.[AN]
+What is happening around here?[AN]
 
 [MidRight]
 It was definitely strange. They[N]
@@ -647,14 +647,14 @@ about those Etrurians?[AN]
 
 [MidRight]
 My wound is far from all right...[AN]
-Anyways, rumors are goin' round the isles[N]
-'bout the Eburacum Mines, down on Fibernia.[AN]
+Anyways, rumors are goin' round 'bout[N]
+the Eburacum Mines, down on Fibernia.[AN]
 Men from all over are bein' taken[N]
-down there by force, as labor... slaves.[AN]
+down there by force... as slaves.[AN]
 They work 'em to skin and bones, 'til[N]
-they die. Least that's how the rumor goes.[AN]
+they die. That's how the rumor goes.[AN]
 People started callin' em[N]
-the "Death Mines of Eburacum".[AN]
+the "Death Mines of Eburacum."[AN]
 
 [FarLeft][Beat][AN]
 
@@ -709,7 +709,7 @@ I was evaluating her performance.[AN]
 She was doing great, even though[N]
 I can't quite shake my worries...[AN]
 If she submits these, she can become[N]
-a fully-fledged Pegasus Knight.[AN]
+a fully-fledged pegasus knight.[AN]
 ...That of course means she[N]
 would have to fly to Illia.[AN]
 I think we'd all miss her.[AN]
@@ -786,8 +786,8 @@ the honor of serving Etruria,[AN]
 for which you should take great pride![AN]
 Any able bodied men from 15 to 60 years[N]
 of age shall present themselves now![AN]
-You have may not veto this decision![AN]
-If there should be any one who refuses[N]
+You may not veto this decision![AN]
+If there should be anyone who refuses[N]
 this duty, we shall punish this village![AN]
 Expect harsh sanctions![AN]
 
@@ -869,7 +869,7 @@ Jutes[X]
 
 #0xACE Chapter3Ending6
 
-[MidLeft][LoadVigarde][FarRight][LoadSoldier][MoveMidRight]
+[MidLeft][LoadVigarde][FarRight][LoadRedSoldier][MoveMidRight]
 I have a report, sir![AN]
 Lord Florence of Dia has sent[N]
 more laborers for the mines,[AN]
@@ -889,3 +889,100 @@ Oh? Those lowly, simple-blooded scum?[N]
 And what are they supposed to do?[AN]
 Stab at us with their pitchforks?[N]
 Hahahah! They're not worth our time.[A][X]
+
+
+
+
+
+#0x46 Chapter3Guide
+
+[MidLeft][LoadWolf][MidRight][LoadChloe]
+I came here because[N]
+I was told to, but...?[AN]
+
+[MidLeft]
+Yo! Chloe![N]
+What kept ya?[AN]
+
+[MidRight]
+Oh, it's you, Wolf.[AN]
+
+[MidLeft]
+Er... nope![N]
+I ain't Wolf.[AN]
+
+[MidRight]
+...What? Of[N]
+course you are.[AN]
+
+[MidLeft]
+Listen, Chloe, this here[N]
+is called the Guide Corner.[AN]
+Here, ya call me...[AN]
+"The Mysterious Best Mercenary, Knight,[N]
+and Tactician on the Continent", alright?[AN]
+
+[MidRight]
+Uh... pardon?[N]
+You know what, nevermind.[AN]
+Please start us off, mister[N]
+Best Mercenary-Knight-Person.[AN]
+
+[MidLeft]
+Leave it to me.[AN]
+The goal of this mission is to[N]
+defend for as long as possible.[AN]
+But, if we can [Red]defeat their[N]
+commander, [Red]the troops will scatter.[AN]
+
+[MidRight]
+There's a lot of enemies[N]
+right up next to us...[AN]
+Maybe we should keep back.[AN]
+
+[MidLeft]
+Watch out then, lass.[AN]
+If you defeat an[N]
+enemy as they attack,[AN]
+it leaves room for[N]
+more to come swingin'.[AN]
+The soldiers in particular[N]
+seem pretty damn reckless.[AN]
+On the [Red]fourth round [Red]of combat,[AN]
+seems like another ship is[N]
+gonna pull up from behind us.[AN]
+
+[MidRight]
+That priest with that ship...[AN]
+He can't seem to be able to[N]
+reach anybody. What's he doing?[AN]
+
+[MidLeft]
+Looks like he's carryin' one of[N]
+those there [Red]long range magicky books...[Red][AN]
+Maybe we can have Kara take care[N]
+of him... and [Red]take his equipment.[Red][AN]
+
+[MidRight]
+That seems like a good idea.[AN]
+
+[MidLeft]
+Lastly, I'll tell you[N]
+about their commander.[AN]
+To beat that slim-eyed bastard,[AN]
+you'll have to go and[N]
+[Red]approach pretty quickly,[Red][AN]
+lest we run outta time.[AN]
+He's a tough one, so[N]
+[Red]be careful [Red]when fightin' him.[AN]
+
+[MidRight]
+I think I have a plan.[N]
+Thanks, Mr. Best Mercenary...[AN]
+Uh... Knight... Person.[AN]
+
+[MidLeft]
+Gahaha![N]
+It's no big deal.[AN]
+Now, let's[N]
+go get 'em![A][X]

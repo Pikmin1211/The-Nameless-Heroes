@@ -1,0 +1,46 @@
+Hello everyone!
+I'd like to announce a project I've been working on since 2017.
+The project is made in FE8J, but the story takes place in the setting of The Binding Blade (FE6).
+Thanks to my friends Pikmin1211, シルオク (CL009), ヒューマン主義 (Humanism), Vlak, and blue punch, an English translation is completed up to the end of Chapter 4.
+The hack was created using Event Assembler in conjuction with FEBuilderGBA.
+
+Features:
+
+・ FE8N's Skill System
+・ 2 new commands, Capture and Refuge
+・ Guide conversations for every chapter
+  Similar to Advanced Wars: Days of Ruin
+・ Shields from FE2/15
+・ Custom music, animations, and mugs
+・ 17 chapters and 5 gaiden chapters
+・ A base system
+  A map you visit bewteen chapters that allows you to shop, support, and have special dialogues.
+
+Planned Features:
+
+・ A route split with 2 seperate endings
+・ More custom animations
+・ A full translation
+
+Plot Summary:
+The Etrurian special forces commander, Isaac, caused some form of incident, which caused him and his allies to be chased out of the country.
+To make a living, Isaac and friends began working as mercenaries, roaming the continent.
+Until one day, the group meets a female knight, Lizzy, who changes their fate.
+
+The setting is the Western Isles, before the beginning of The Binding Blade.
+On the islands, the governors and lords impose high taxes and labors on the residents.
+Isaac and his group are dragged into a great conflict on the islands.
+
+Translation Notes:
+The story translation is completed up to the end of Chapter 4. In addition, all playable characters have their names, descriptions, and quotes translated. All characters have their names translated. The UI (menu options, class names/descriptions, item names/desciptions) is also fully translated.
+Supports and the Lore menu are not currently translated.
+
+[Trailer](https://www.youtube.com/watch?v=UPHhcJ-8K8k)
+
+Screenshots:
+
+We are also always looking for helpers and contributors. If you would like to contribute maps, graphics, etc, are able to help with the tranlsation, or would like leave feedback on the gameplay, story, or translation, please leave a comment, or [join us on Discord!](https://discord.gg/zDTdXTR)
+
+Downloads:
+[JP - For FE8J]()
+[EN - For FE8J]()

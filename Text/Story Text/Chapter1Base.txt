@@ -63,38 +63,6 @@ Lend us your blade.[A][X]
 
 
 
-#0x94F Chapter1BaseTurn1Part2
-
-[Red]About the base:[Red][AN]
-In the Base, you can[N]
-do many things,[AN]
-including [Red]Talk[Red], [Red]Buy[Red], [Red]Sell[Red],[N]
-[Red]Support[Red], and so on.[AN]
-You [Red]cannot Support[N]
-outside the base[Red],[AN]
-and you [Red]cannot gain[N]
-support points in the base[Red].[AN]
-Please remember this.[AN]
-You can also [Red]undo all[N]
-Support ranks [Red]of a unit[AN]
-by paying money at the[N]
-house in the [Red]upper right[Red].[AN]
-Remember that you can use[N]
-the [Red]Unit[Red] menu command[AN]
-to see which characters[N]
-can [Red]Talk[Red] to each other.[AN]
-In addition, the [Red]Story[Red] menu[N]
-command appears only in the Base.[AN]
-Selecting [Red]Story[Red] will show[N]
-you brief explanations of characters[AN]
-and specifications of the base.[AN]
-There are new entries in the story[N]
-menu [Red]every time[Red] you visit the base.[A][X]
-
-
-
-
-
 #0x938 Chapter1BaseTalkIsaacAudrey
 
 [MidRight][LoadIsaac][MidLeft][LoadAudrey]
@@ -131,10 +99,9 @@ They don't need money from us.[N]
 They say they want to support us.[AN]
 
 [MidRight]
-How generous of them. They're kind folks.[N]
+It's nice to hear that.[N]
 Well, now that we've arranged a boat,[AN]
-we've got nothing left but to break[N]
-into the pirates' hideout, huh?[AN]
+we've got nothing left but to our job.[AN]
 
 [MidLeft]
 Right. Those pirates made fools of us.[N]
@@ -344,7 +311,7 @@ Heh, well, let's see here...[A][X]
 [MidRight][LoadIsaac][MidLeft][LoadHermes]
 Ah, welcome, sir...[....][AN]
 Oh! Well if it isn't[N]
-you, Commander![AN]
+you, commander![AN]
 How did you notice[N]
 I was doing business here?[AN]
 Did someone tell you?[AN]
@@ -456,7 +423,7 @@ Oh, are you staying here?[AN]
 [MidLeft]
 Yup. I'm not going anywhere.[AN]
 Feel free to drop by again.[N]
-Until next time, Commander![AN][Clear]
+Until next time, commander![AN][Clear]
 
 [MidRight]
 Hm...[N]

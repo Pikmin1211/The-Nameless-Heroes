@@ -600,3 +600,6 @@ Sludge Bomb[X]
 
 #0xF00
 Vorpal Shield[X]
+
+#0x359
+Dance[X]

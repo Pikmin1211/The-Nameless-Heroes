@@ -14,4 +14,10 @@ cd ".."
 
 start /w FEBuilder/FEBuilderGBA.exe --translate --fromrom=TheNamelessHeroes_EngTrans.gba --torom=FE8_Clean.gba --importfont TheNamelessHeroes_EngTrans.gba
 
+if exist "%~dp0ups/ups.exe" (
+    cd "%~dp0ups"
+    ups diff -b "%~dp0FE8J_clean.gba" -m "%~dp0TheNamelessHeroes_EngTrans.gba" -o "%~dp0TheNamelessHeroes_EngTrans.ups"
+)
+
+
 pause

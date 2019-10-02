@@ -182,7 +182,7 @@ you want us to join in.[AN]
 Well said, sir Isaac.[AN]
 You'll need to seize that security[N]
 checkpoint - the throne, on your way.[AN]
-The catch is we've only got three[N]
+The catch is we've only got ten[N]
 hours. Think you're up to it?[AN]
 
 [MidLeft]
@@ -568,11 +568,11 @@ and we'll get you home.[A][X]
 
 #0x961 Chapter4IsaacAudreyTalk
 [MidLeft][LoadIsaac][MidRight][LoadAudrey]
-Isaac! Are you alright?
+Isaac! Are you alright?[AN]
 
 [MidLeft]
-Audrey? What are 
-you doing here?
+Audrey? What are[N]
+you doing here?[AN]
 
 [MidRight]
 Chloe is here too, and[N]
@@ -750,7 +750,7 @@ So we're good to go?[AN]
 [MidRight]
 Yes, the exit is just up that way.[N]
 The area is pretty densely gaurded,[AN]
-but there's a less guards than usual.[N]
+but there's less guards than usual.[N]
 With this many people... should be fine.[AN]
 
 [MidLeft]
@@ -823,7 +823,7 @@ and the strength to match.[AN]
 She holds the whole operation together,[AN]
 and she's been resisting the[N]
 Etrurians for quite some time.[AN]
-They call her the "Hero of the West".[AN]
+They call her the "Hero of the West."[AN]
 
 [MidLeft]
 That's quite a title.[AN]
@@ -950,3 +950,152 @@ can handle the dirty work.[AN]
 I see, I see...[AN]
 I'll leave it in your[N]
 capable hands then, Sir Galius.[A][X]
+
+
+
+
+
+#0x96B Chapter4GateOpen
+
+[MidLeft][LoadIsaac]
+Alright, the gate's open![N]
+Everyone, [Red]escape [Red]up the stairs![AN]
+After escaping, help the prisoners![N]
+I'm staying until everyone leaves! Go![A][X]
+
+
+
+
+
+#0x987 Chapter4SaarBattleQuote
+
+[MidLeft][LoadSaar]
+You will atone for your[N]
+rebellion with your life![A][X]
+
+
+
+
+
+
+#0x988 Chapter4SaarDeathQuote
+
+[MidLeft][LoadSaar]
+Glory to... Etruria...[A][X]
+
+
+
+
+
+#0x91 Chapter4Guide
+[Right][LoadOlson][FarRight][LoadFerris][MidLeft][LoadIsaac]
+Looks like we're all accounted[N]
+for. Let's start the briefing.[AN]
+
+[Right]
+Huh? Where exactly are we?[AN]
+
+[MidLeft]
+The is the Guide Corner.[N]
+Don't think about it too hard.[AN]
+
+[FarRight]
+So, commander, what are we to do?[AN]
+
+[MidLeft]
+For starters, it's a good idea[N]
+to stay put until help arrives.[AN]
+Don't run out of your cells[N]
+into the darkness, lest you die.[AN]
+
+[FarRight]
+I don't have a way to[N]
+leave by myself anyways...[AN]
+
+[MidLeft]
+Also, after [Red]6 rounds [Red]of combat,[AN]
+riots will begin. We can expect that[N]
+more enemies will come to greet us.[AN]
+Afterwards, they'll be calling their hounds.[N]
+From [Red]rounds 7 through 9, [Red]they'll rush in.[AN]
+
+[Right]
+H-hounds?![AN]
+
+[MidLeft]
+They're military trained.[N]
+They can [Red]move and attack quickly.[Red][AN]
+We should be sure to keep our guards up.[AN]
+In addition, it seems that reinforcements[N]
+will approach when we reach certain areas.[AN]
+[Red]The gate to the left [Red]is a safe bet.[AN]
+
+[FarRight]
+It seems dangerous[N]
+to move carelessly.[AN]
+
+[MidLeft]
+On the [Red]fourth round,[Red][AN]
+Audrey and the others[N]
+will come help us.[AN]
+After that we should be[N]
+okay to start our escape.[AN]
+
+[Right][ClearFace][LoadWolf][FarRight][ClearFace][LoadBrian]
+
+[Right]
+So boss, it looks like we[N]
+have more allies locked up.[AN]
+
+[MidLeft]
+Seems so. Leave talking to them to me.[N]
+I can [Red]speak to the civilians [Red]as well.[AN]
+
+[FarRight]
+There seems to be some[N]
+strange sword in my cell...[AN]
+
+[MidLeft]
+Try searching around it.[N]
+There may be something of use.[AN]
+
+[FarRight]
+Hoho! Well, that kind[N]
+of job is my speciality.[AN]
+
+[MidLeft]
+We should stay vigilant for more[N]
+[Red]suspicious areas [Red]in the future...[AN]
+Anyways, that gate up top won't[N]
+open for a key or lockpick.[AN]
+I'll have to activate a [Red]hidden[N]
+switch on the throne, [Red]instead.[AN]
+After that we can all escape[N]
+by using the stairs to the north.[AN]
+[Red]I'll have to escape last.[Red][AN]
+
+
+[FarRight][ClearFace][Right][ClearFace][MidRight][LoadPhelix]
+This might sound dumb, but...[N]
+How exactly do we escape?[AN]
+
+[MidLeft]
+Just head up the stairs as far as you can.[AN]
+The escape area is marked. Once you enter[N]
+it, you're safe to leave the area.[AN]
+
+[MidRight]
+Alright! I think we're good to go.[AN]
+
+[MidLeft]
+One last thing. The civilains[N]
+are essential for our riot.[AN]
+If we let [Red]more than one die,[Red][N]
+we won't be able to proceed.[AN]
+
+[MidRight][MoveRight][FarRight][LoadEdmund]
+Alright! Let's all[N]
+escape together, everyone![AN]
+
+[MidLeft]
+Let's get ready![A][X]

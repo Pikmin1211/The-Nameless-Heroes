@@ -1,8 +1,0 @@
-#include "Discard_Menu.txt"
-#include "Main_Menu.txt"
-#include "Terrain_Names.txt"
-#include "Unit_Menu.txt"
-#include "Use_Menu.txt"
-#include "World_Map1_Menu.txt"
-#include "World_Map2_Menu.txt"
-#include "Turn Counter.txt"

@@ -42,8 +42,8 @@ An Etrurian swordswoman who trains[N]
 hard every day. Dislikes laziness.[X]
 
 #0x203
-An Etrurian huntsman. Uninterested[N]
-in what others have to say about him.[X]
+A former Etrurian marshal.[N]
+Brave, but a bit of a slacker.[X]
 
 #0x208
 A former Etrurian soldier who[N]
@@ -64,3 +64,110 @@ inventory for Isaac's group.[X]
 #0x211
 A cheeky girl with no home or family.[N]
 Makes her livelihood by stealing.[X]
+
+#0x234
+A bandit who roams[N]
+around this region.[X]
+
+#0x235
+A member of Bazba's bandits,[N]
+who roam around this region.[X]
+
+#0x21D
+The leader of Bazba's Bandits.[X]
+
+#0x230
+A soldier from the Kingdom[N]
+of Etruria, to the west.[X]
+
+#0x21C
+An Etrurian Holy Knight. Holds[N]
+to a twisted idea of "justice."[X]
+
+#0x21E
+An Etrurian commander put in[N]
+charge of the Eberacum mines.[X]
+
+#0x244
+Ordinary citizens[N]
+caught in the battle.[X]
+
+#0x1FE
+A member of the Resistance.[N]
+He dreams of being a hero.[X]
+
+#0x952
+A cool-headed Resistance[N]
+member working in Fibernia.[X]
+
+#0x20B
+The leader of a band of chivalrous[N]
+thieves. Known as "The Silver Wolf."[X]
+
+#0x201
+A self-proclaimed genius[N]
+witch. Pompous and childish.[X]
+
+#0x202
+A knight who protects others.[N]
+Always cheerful and positive.[X]
+
+#0x213
+One of the Silver Wolf's men.[N]
+He can communicate with animals.[X]
+
+#0x204
+An Ilian mercenary knight.[N]
+Sarcastic, but kind hearted.[X]
+
+#0x206
+A female knight of the Church.[N]
+She trains herself diligently.[X]
+
+#0x207
+An Ilian pegasus knight. Strong[N]
+willed, and works professionally.[X]
+
+#0x210
+A wandering swordsman who is[N]
+incredibly keen and observant.[X]
+
+#0x214
+A former Etrurian mage.[N]
+Timid and unfond of battle.[X]
+
+#0x215
+A Fibernian village girl.[N]
+Wishes she looked older.[X]
+
+#0x227
+A maid with an aura of calmness.[N]
+Does her work with great skill.[X]
+
+#0x1FB
+A Resistance dancer. Hates[N]
+being compared to her mother.[X]
+
+#0x1FF
+A mechanic passionate about[N]
+the ballistae he constucts.[X]
+
+#0x20D
+A sister working for the[N]
+Church. Greedy and stingy.[X]
+
+#0x20C
+A former Etrurian cleric. Calm,[N]
+kind, and overly self-sacrificing.[X]
+
+#0x20E
+A mercenary named "The Guardian."[N]
+One of the Liberation's leaders.[X]
+
+#0xCA
+A master swordsman named "The[N]
+Swallow." Lax and free-spirited.[X]
+
+#0x205
+An Etrurian summoner. Vexed that[N]
+his abilites are not regocnized.[X]

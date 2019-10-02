@@ -1,6 +1,6 @@
 
 
-[FarRight][LoadKelikGirl][MidLeft][LoadCurrent]
+[MidLeft][LoadCurrent][FarRight][LoadKelikGirl]
 
 Hey, please come over here...[N]
 
@@ -8,7 +8,7 @@ Over here, quickly...[AN]
 
 
 
-[MoveLeft][Left][ToggleMouthMove]
+[MidLeft][MoveLeft][ToggleMouthMove]
 
 
 
@@ -38,7 +38,7 @@ Eek!!![AN]
 
 [FarRight][MoveRight][FarRight][LoadPirate]
 
-Tsk, useless cunt.[AN]
+Tsk, useless wench.[AN]
 
 We almost caught that guy...[N]
 

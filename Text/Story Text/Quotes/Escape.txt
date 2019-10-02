@@ -15,10 +15,35 @@ Huff... huff...[AN]
 I'll be... going...[N]
 now... phew...[A][X]
 
+#0xD72 FerrisEscape2
+[MidRight][LoadFerris]
+I think this is the[N]
+place... Come on Ferris,[AN]
+pull yourself together...[AN]
+This fight isn't over yet![A][X]
+
+#0xD73 FerrisEscape3
+[MidRight][LoadFerris]
+I want to die a fighter.[AN]
+I was prepared to fight to[N]
+my last in this battle.[AN]
+But... I think commander[N]
+wouldn't want to hear that.[A][X]
+
 #0x56D BrianEscape
 [MidRight][LoadBrian]
 My work here is done.[N]
 If you'll excuse me, then.[A][X]
+
+#0xD76 BrianEscape2
+[MidRight][LoadBrian]
+I shall take my[N]
+leave with due haste.[A][X]
+
+#0xD77 BrianEscape3
+[MidRight][LoadBrian]
+I'll be leaving, but you can[N]
+expect my help behind the scenes.[A][X]
 
 #0x56E AudreyEscape
 [MidRight][LoadAudrey]
@@ -26,10 +51,36 @@ Everyone alive back there?[AN]
 We can't stay long,[N]
 so pick up the pace![A][X]
 
+#0xD7D AudreyEscape2
+[MidRight][LoadAudrey]
+Run! Everyone, run![AN]
+It's no laughing matter[N]
+if we die here like this![A][X]
+
+#0xD7E AudreyEscape3
+[MidRight][LoadAudrey]
+Though we're good at getting[N]
+through tough situations...[AN]
+I don't think there's[N]
+much I can do here.[AN]
+Everyone, come back safe![A][X]
+
 #0x570 MorrisEscape
 [MidRight][LoadMorris]
 Is anyone injured?[N]
 I can treat their wounds.[A][X]
+
+#0xD66 MorrisEscape2
+[MidRight][LoadMorris]
+Whew...[AN]
+Seems I'm older[N]
+than I used to be...[A][X]
+
+#0xD67 MorrisEscape3
+[MidRight][LoadMorris]
+I'll be on my way.[AN]
+Everyone, please[N]
+try and stay safe.[A][X]
 
 #0x571 OlsonEscape
 [MidRight][LoadOlson]
@@ -38,11 +89,34 @@ but... commander's orders.[AN]
 I'll lead everyone to [N]
 safety, so don't worry.[A][X]
 
+#0xD62 OlsonEscape2
+[MidRight][LoadOlson]
+Finally, I made it...[N]
+Alright, I'm withdrawing![A][X]
+
+#0xD63 OlsonEscape3
+[MidRight][LoadOlson]
+I would think you'd need[N]
+me in times like this...[A][X]
+
 #0x573 WolfEscape
 [MidRight][LoadWolf]
 I'm gonna go out ahead[N]
 and secure an escape route.[AN]
 Don't keep me waitin'![A][X]
+
+#0xD5A WolfEscape2
+[MidRight][LoadWolf]
+Don't go lettin'[N]
+yer guard down,[AN]
+Unless ya got[N]
+a death wish.[A][X]
+
+#0xD5B WolfEscape3
+[MidRight][LoadWolf]
+Hmph...[AN]
+Sometimes ya gotta take[N]
+yer losses, I s'pose.[A][X]
 
 #0x574 BerkusEscape
 [MidRight][LoadBerkus]
@@ -50,11 +124,38 @@ If you goddamn insist...[AN]
 I'll move on ahead.[N]
 Don't go getting yourself hurt.[A][X]
 
+#0xD5E BerkusEscape2
+[MidRight][LoadBerkus]
+Making me come[N]
+all the way here...[AN]
+What's the goddamn[N]
+deal with that?![A][X]
+
+#0xD5F BerkusEscape3
+[MidRight][LoadBerkus]
+You know what's[N]
+going on here, huh?[AN]
+...As long as you[N]
+know what you're doing.[A][X]
+
 #0x578 RemEscape
 [MidRight][LoadRem]
 Wow, such hardworking people...[N]
 Good thing I'm not one of them.[AN]
 See you on the other side![A][X]
+
+#0xDB0 RemEscape2
+[MidRight][LoadRem]
+Huff... huff...[AN]
+Hey! Don't[N]
+be so pushy![A][X]
+
+#0xDB1 RemEscape3
+[MidRight][LoadRem]
+Well, you're all very[N]
+brave and strong, so...[AN]
+I'm sure you guys can[N]
+handle this yourselves![A][X]
 
 #0x57B JohnnyEscape
 [MidRight][LoadJohnny]
@@ -63,6 +164,18 @@ Escape? I read ya, chief.[AN]
 Give me a holler if ya[N]
 need anything else, then.[A][X]
 
+#0xD86 JohnnyEscape2
+[MidRight][LoadJohnny]
+I'll head out first and[N]
+wrestle up some grub.[AN]
+If yer' hungry, then you'd[N]
+do best to pick up some slack.[A][X]
+
+#0xD85 JohnnyEscape3
+[MidRight][LoadJohnny]
+I'm no professional anymore, but[N]
+I'd skedaddle, if I was yous.[A][X]
+
 #0x580 TitorEscape
 [MidRight][LoadTitor]
 As an experienced fighter,[N]
@@ -70,11 +183,37 @@ I've learned a lot of skills.[AN]
 This is one I've perfected[N]
 - the tactical retreat![A][X]
 
+#0xD98 TitorEscape2
+[MidRight][LoadTitor]
+Okay! Another tactical[N]
+retreat, sir! Hahaha![A][X]
+
+#0xD99 TitorEscape3
+[MidRight][LoadTitor]
+Whoa, whoa! You sure[N]
+about this one, boss?[AN]
+I know I've perfected[N]
+the tactical retreat,[AN]
+but I've got other[N]
+skills too, ya know?[A][X]
+
 #0x589 ChloeEscape
 [MidRight][LoadChloe]
 Isaac, you're going[N]
 last again, aren't you...[AN]
 Guess I can't disobey orders.[A][X]
+
+#0xD9F ChloeEscape2
+[MidRight][LoadChloe]
+I'm looking for the[N]
+escape point... Hm.[AN]
+Is this it here?[A][X]
+
+#0xDA0 ChloeEscape3
+[MidRight][LoadChloe]
+If we survive...[AN]
+That itself is[N]
+victory enough.[A][X]
 
 #0xDC4 PhelixEscape
 [MidRight][LoadPhelix]
@@ -83,7 +222,288 @@ are still fighting...[AN]
 It doesn't sit right with me.[N]
 Stay strong, everyone![A][X]
 
+#0xDC5 PhelixEscape2
+[MidRight][LoadPhelix]
+So this is the escape point.[N]
+Everyone, I'm heading out![AN]
+...Stay safe, you guys.[A][X]
+
+#0xDC6 PhelixEscape3
+[MidRight][LoadPhelix]
+Leaving at a time like this...[N]
+When all my friends... Argh![AN]
+Why?! I don't understand![A][X]
+
 #0xF1B EdmundEscape
 [MidRight][LoadEdmund]
 Everyone! I'm going![N]
 Please, stay safe![A][X]
+
+#0xF1C EdmundEscape2
+[MidRight][LoadEdmund]
+Alright! Seems I made it![AN]
+I can't help worrying,[N]
+though. Everyone...[A][X]
+
+#0xF1D EdmundEscape3
+[MidRight][LoadEdmund]
+This is just like...[N]
+That time... I...[AN]
+No, no, everything is fine.[N]
+Everyone will be fine.[AN]
+Surely they will...[A][X]
+
+#0x569 KaraEscape
+[MidRight][LoadKara]
+Huh? Are you sure it's okay[N]
+for me to just leave, Isaac?[AN]
+Well... please be safe, okay?[A][X]
+
+#0xD6A KaraEscape2
+[MidRight][LoadKara]
+This is the escape point, right?[N]
+Heehee, that was a piece of cake![A][X]
+
+#0xD6B KaraEscape3
+[MidRight][LoadKara]
+Um, is it really okay to go?[N]
+Is there nothing else I can do?[A][X]
+
+#0x575 JesterEscape
+[MidRight][LoadJester]
+This is the place...?[N]
+Looks like I'm outta here.[A][X]
+
+#0xD6E JesterEscape2
+[MidRight][LoadJester]
+Finally... here... phew...[AN]
+Being a warrior isn't[N]
+as easy as I thought...[A][X]
+
+#0xD6F JesterEscape3
+[MidRight][LoadJester]
+Whoa, whooooaaaaa!![N]
+I gotta scram![A][X]
+
+#0x56B BarrelleEscape
+[MidRight][LoadBarrelle]
+Letting me leave first, huh?[N]
+Well, stay safe out there.[A][X]
+
+#0xD7A BarrelleEscape2
+[MidRight][LoadBarrelle]
+I've been waiting for[N]
+a moment like this.[AN]
+Carrying around my secret[N]
+weapon... can I use it?[AN]
+...Maybe not.[A][X]
+
+#0x579 DylanEscape
+[MidRight][LoadDylan]
+I'm a little restless...[AN]
+This is my first time[N]
+retreating like this.[AN]
+Pals, cover my back![A][X]
+
+#0x57A ArtieEscape
+[MidRight][LoadArtie]
+You want me to escape?[N]
+I suppose it makes sense...[AN]
+After all, the world can't afford[N]
+to lose a genius as good as me![A][X]
+
+#0xD81 ArtieEscape2
+[MidRight][LoadArtie]
+Gosh![N]
+I'm tired![AN]
+Weary![AN]
+Exhausted![AN]
+Leave this genius be![A][X]
+
+#0xD82 ArtieEscape3
+[MidRight][LoadArtie]
+Something feels off...[AN]
+I don't think they'll mind[N]
+if I take my leave here...[A][X]
+
+#0x57C LizzyEscape
+[MidRight][LoadLizzy]
+Hey, wait! I'll stay too![N]
+...Or, am I just in the way?[A][X]
+
+#0xD89 LizzyEscape2
+[MidRight][LoadLizzy]
+Great! Everyone made it safely.[N]
+Now, let's hurry out of here![A][X]
+
+#0xA9B LizzyNotEscape
+[MidRight][LoadLizzy]
+I'll withdraw last, so[N]
+leave the rear guard to me.[AN]
+The others should go first.[A][X]
+
+#0x587 CerberusEscape
+[MidRight][LoadCerberus]
+You remind me of the chief,[N]
+orderin' me around like this.[AN]
+I'll leave, if ya insist that[N]
+ya don't need my help here.[A][X]
+
+#0xD8C CerberusEscape2
+[MidRight][LoadCerberus]
+The animals sense...[N]
+It's dangerous here.[A][X]
+
+#0x56F HamiltonEscape
+[MidRight][LoadHamilton]
+This is the escape point, right?[N]
+Alright. Coming through. Pardon.[A][X]
+
+#0xD8F HamiltonEscape2
+[MidRight][LoadHamilton]
+You're letting the mercenary[N]
+go first, at a time like this?[AN]
+Well, don't let the heroic[N]
+posturing get into your head.[A][X]
+
+#0x588 LilliaEscape
+[MidRight][LoadLillia]
+I'm good at bringing up the rear![N]
+I can carry people to the exit...[AN]
+Alright, alright, I get it.[N]
+I'll go. Please be careful.[A][X]
+
+#0xD92 LilliaEscape2
+[MidRight][LoadLillia]
+I can leave from here, right?[N]
+Please excuse me, everyone.[A][X]
+
+#0x576 JeanaEscape
+[MidRight][LoadJeana]
+...Hmph.[AN]
+Don't show off[N]
+too much, now.[A][X]
+
+#0xD95 JeanaEscape2
+[MidRight][LoadJeana]
+You're letting me go first...?[AN]
+Well, I don't mind, but you may[N]
+be too kind for your own good.[A][X]
+
+#0x56C RichterEscape
+[MidRight][LoadRichter]
+I can go? Oh, well, thanks.[N]
+I can finally relax...[A][X]
+
+#0xDB7 RichterEscape2
+[MidRight][LoadRichter]
+This place makes me restless.[N]
+See you later, fellas.[A][X]
+
+#0x57E RosalieEscape
+[MidRight][LoadRosalie]
+A-are you sure about this?[N]
+Will everyone else be okay?[A][X]
+
+#0xDBA RosalieEscape2
+[MidRight][LoadRosalie]
+You're not injured? And you're[N]
+not forgetting anything, right?[AN]
+Is everyone else doing okay? I-[AN]
+Oh, I'm sorry... I just...[A][X]
+
+#0xDB8 RosalieEscape3
+[MidRight][LoadRosalie]
+I-it's here, right?[N]
+I c-can't stop... shaking...[AN]
+C... come on, Rosalie![N]
+You're almost there...![A][X]
+
+#0x590 MythraEscape
+[MidRight][LoadMythra]
+Are you sure? I've still got[N]
+plenty of fighting spirit![AN]
+Oh, all right. Just make sure[N]
+you don't overexert yourself![A][X]
+
+#0xDBE MythraEscape2
+[MidRight][LoadMythra]
+I can fight to the end, no[N]
+matter how tough it may get![AN]
+Huh? Well, if I must leave...[A][X]
+
+#0xDC1 EliseEscape
+[MidRight][LoadElise]
+Making it back alive...[N]
+That is my top priority.[AN]
+Don't make me drag you[N]
+all out of here with me![A][X]
+
+#0x581 SeleneEscape
+[MidRight][LoadSelene]
+Oh, goodness! Is this alright?[AN]
+Well, you can see my dancing[N]
+again once you've escaped,[AN]
+so make sure to come back, okay?[A][X]
+
+#0xD9C SeleneEscape2
+[MidRight][LoadSelene]
+There's nothing more I can[N]
+do... I'll be going, then.[A][X]
+
+#0x57F BorisEscape
+[MidRight][LoadBoris]
+Hahaha, thanks, kid! I was[N]
+running out of fuel anyways.[A][X]
+
+#0xDA3 BorisEscape2
+[MidRight][LoadBoris]
+Damn, we got blasted...[AN]
+Well, let's look up.[N]
+We're not dead, eh?[A][X]
+
+#0x58D ArianaEscape
+[MidRight][LoadAriana]
+Hah![AN]
+You should all know as well as me[N]
+there's no point sticking around.[A][X]
+
+#0xDA6 ArianaEscape2
+[MidRight][LoadAriana]
+May the Goddess protect...[AN]
+Yeah, right! We'll be lucky[N]
+to leave with our heads![A][X]
+
+#0x58E SofiaEscape
+[MidRight][LoadSofia]
+Is everyone okay? Nobody's hurt?[N]
+Let's make it home together, okay?[A][X]
+
+#0xDA9 SofiaEscape2
+[MidRight][LoadSofia]
+This is the escape point...[N]
+I'll hurry and tend to the others![A][X]
+
+#0xDAA SofiaEscape3
+[MidRight][LoadSofia]
+Please, make sure you don't die...[N]
+I love to see all of your smiles...[A][X]
+
+#0x58F VulcanEscape
+[MidRight][LoadVulcan]
+Didn't expect to be[N]
+leavin' first...[AN]
+I'll see you at the[N]
+rendezvous point, Isaac.[A][X]
+
+#0xDAD VulcanEscape2
+[MidRight][LoadVulcan]
+You sure 'bout this?[AN]
+I'm trained for these kinds[N]
+of situations, ya know.[A][X]
+
+#0xDB4 MurphyEscape
+[MidRight][LoadMurphy]
+That was "Legend of Murphy,[N]
+the Master Swordsman"![AN]
+To be continued soon![A][X]

@@ -405,7 +405,8 @@ Opens doors.[X]
 Opens doors and chests.[X]
 
 #0x459
-Opens doors and chests.[X]
+Opens doors[N]
+and chests.[X]
 
 #0x41C
 A medicinal solution used[N]

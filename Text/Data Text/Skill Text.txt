@@ -344,3 +344,8 @@ for the duration of the chapter.[X]
 Skybreaker[N]
 Deal effective[N]
 damage to fliers.[X]
+
+#0xF2C
+Avo +15[N]
+Grants +15 to[N]
+avoid rate.[X]

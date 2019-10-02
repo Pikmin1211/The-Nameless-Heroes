@@ -26,7 +26,7 @@ Ferris[X]
 Brian[X]
 
 #0x1A2
-Barelle[X]
+Barrelle[X]
 
 #0x1A3
 Dylan[X]
@@ -203,10 +203,10 @@ Wilhelm[X]
 Enemy[X]
 
 #0x1BB
-Leon[X]
+Lyon[X]
 
 #0xD4B
-Ken[X]
+Kempf[X]
 
 #0xD53
 Haltmann's[X]

@@ -1,6 +1,7 @@
 #include "Quotes/Death.txt"
 #include "Quotes/Escape.txt"
 #include "Quotes/Treasure.txt"
+#include "System Message.txt"
 
 #include "Prologue.txt"
 #include "Chapter1.txt"

@@ -1,6 +1,6 @@
 
 
-[MidLeft][LoadVigarde][FarRight][LoadSoldier][MoveMidRight]
+[MidLeft][LoadVigarde][FarRight][LoadRedSoldier][MoveMidRight]
 
 I have a report, sir![AN]
 
@@ -39,3 +39,4 @@ And what are they supposed to do?[AN]
 Stab at us with their pitchforks?[N]
 
 Hahahah! They're not worth our time.[A][X]
+

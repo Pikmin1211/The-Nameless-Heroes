@@ -24,29 +24,5 @@ It's not safe for you.[AN]
 
 ...[....][N]
 
-Thank you...[AN][Clear]
-
-
-
-[MidLeft]
-
-Sorry, Kara.[AN]
-
-Can you go[N]
-
-scouting now?[AN]
-
-
-
-[MidRight][LoadKara]
-
-Of course.[N]
-
-Leave it to me![AN]
-
-
-
-[MidLeft]
-
-Don't overdo it.[A][X]
+Thank you...[A][Clear][X]
 

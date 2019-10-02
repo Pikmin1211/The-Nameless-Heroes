@@ -50,7 +50,7 @@ Defeat Boss[X]
 Defeat Boss[X]
 
 #0xE8 PrologueName
-Mercenary's Sortie[X]
+Mercenary Sortie[X]
 
 #0x147 Chapter1Objective
 Defeat Boss[X]
@@ -65,7 +65,7 @@ Seize Gate[X]
 Seize Gate[X]
 
 #0xEA Chapter2Name
-The Island of Devils[X]
+Island of Devils[X]
 
 #0x124 Chapter3Objective
 Survive[X]
@@ -120,7 +120,7 @@ Seize Throne[X]
 Seize Throne[X]
 
 #0x122 Chapter11Name
-For Pride and Belief[X]
+Pride and Belief[X]
 
 #0x137 Chapter12Objective
 Seize Gate[X]
@@ -132,7 +132,7 @@ Lost in a Sandstorm[X]
 Defeat Boss[X]
 
 #0xF5
-The Flames of Evil[X]
+Flames of Evil[X]
 
 #0x143 MapChapter14Objective
 Defend[X]
@@ -183,3 +183,6 @@ Black Clash[X]
 #0xE6D Chapter16bObjective
 Defeat Officers[N]
 or Defeat Ken[X]
+
+#0xF9 Chapter17Name
+Moonlit Knight[X]

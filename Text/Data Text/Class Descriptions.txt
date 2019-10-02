@@ -28,11 +28,11 @@ offensive techniques. Equip: Lances.[X]
 
 #0x2D0
 Armored titans wielding many weapons.[N]
-Equip: Swords, bows, staves, light.[X]
+Equip: Swords, bows, anima, staves.[X]
 
 #0x2D2
 Armored titans wielding many weapons.[N]
-weapons. Equip: Lances, axes, anima, dark.[X]
+Equip: Lances, axes, light, dark.[X]
 
 #0x2D4
 Knights trained in a variety of weapons.[N]
@@ -309,3 +309,7 @@ aid allies. Unable to attack.[X]
 #0x2C3
 Warships that patrol the[N]
 open seas. Equip: Ballistae.[X]
+
+#0xF2D
+Knights of great skill. Equip:[N]
+Lances, bows. Skill: Pavise.[X]

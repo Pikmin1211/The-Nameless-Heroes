@@ -2,8 +2,8 @@
 
 After they liberated[N]
 the port town of Valetta,[AN]
-Isaac and the mercenaries found a[N]
-map leading to the pirate's base.[AN]
+Isaac and the mercenaries obtain[N]
+a map leading to the pirate's base.[AN]
 They got ready right away,[AN]
 and looked for a ship which would[N]
 take them to the pirates' island.[AN]
@@ -258,8 +258,8 @@ We can leave at any time.[AN]
 Oh, Audrey.[AN]
 Thank you for[N]
 informing me.[AN]
-Let's get out here[N]
-quickly, then.[AN]
+Let's get out of[N]
+here quickly, then.[AN]
 
 [MidRight]
 ...Do you remember?[AN]
@@ -358,7 +358,7 @@ How is it going over there?[AN]
 
 [Right]
 ...Why won't you call[N]
-them off, Commander?![AN]
+them off, commander?![AN]
 This order is absurd.[AN]
 Why do we have to kill[N]
 everyone in this village?![AN]
@@ -383,7 +383,7 @@ Now, we don't have time to argue.[AN]
 But...[AN]
 
 [FarRight][LoadRedSoldier]
-The Commander is right.[N]
+The commander is right.[N]
 We don't have any time to argue, do we?[AN]
 
 [FarLeft][LoadRedSoldier]
@@ -431,11 +431,11 @@ Wait, Isaac![AN]
 
 #0xE36 Chapter2Village
 
-[FarRight][LoadKelikGirl][MidLeft][LoadCurrent]
+[MidLeft][LoadCurrent][FarRight][LoadKelikGirl]
 Hey, please come over here...[N]
 Over here, quickly...[AN]
 
-[MoveLeft][Left][ToggleMouthMove]
+[MidLeft][MoveLeft][ToggleMouthMove]
 
 ...?[AN][ToggleMouthMove]
 
@@ -450,7 +450,7 @@ Eek!!![AN]
 !![AN][Clear]
 
 [FarRight][MoveRight][FarRight][LoadPirate]
-Tsk, useless cunt.[AN]
+Tsk, useless wench.[AN]
 We almost caught that guy...[N]
 Hurry! They shouldn't be far![A][X]
 
@@ -548,7 +548,7 @@ move until you're [Red]within their range.[Red][AN]
 If you move too far ahead, you[N]
 might find yourself in a tight spot.[AN]
 In addition to that, some[N]
-of them are fearsome shamans.[AN]
+of them are fearsome dark mages.[AN]
 Even Sir Isaac succumbs to[N]
 their powerful dark magics.[AN]
 

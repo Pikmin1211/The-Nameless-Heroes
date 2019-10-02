@@ -60,7 +60,7 @@ What?! Why not?![AN]
 
 You've often complimented my skills[N]
 
-recently, haven't you, Commander?[AN]
+recently, haven't you, commander?[AN]
 
 
 
@@ -86,19 +86,21 @@ Audrey, say something to her.[AN]
 
 [Left][LoadAudrey]
 
-Kara, Isaac can qualify[N]
+Kara, Isaac could qualify you[N]
 
-you for a full-fledged pegasus knight[AN]
+as a full-fledged pegasus knight,[AN]
 
-and send you back to Ilia right now.[N]
+right here and now. Why do you[N]
 
-Why do you think he doesn't do that?[AN]
+think he doesn't do that?[AN]
 
 
 
 [MidRight]
 
-Because he doesn't want to let me go?[AN]
+Because he doesn't[N]
+
+want to let me go?[AN]
 
 
 
@@ -176,7 +178,7 @@ unnecessary things.[AN]
 
 [Left][ClearFace][LoadMorris]
 
-Sir Commander is so thoughtful.[AN]
+Sir commander is so thoughtful.[AN]
 
 Kara, you are quite blessed.[AN]
 

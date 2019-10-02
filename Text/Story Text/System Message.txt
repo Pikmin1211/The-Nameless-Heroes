@@ -1,0 +1,88 @@
+#0xD3D PrologueSystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+In this game, there is a change[N]
+in the movement of mounted units.[AN]
+After the actions [Red]Attack[Red],[N]
+[Red]Capture[Red], and [Red]Staff[Red],[AN]
+it's possible to continue moving[N]
+for [Red]at most two tiles[Red].[AN]
+For all other actions, you're[N]
+able to use all leftover movement.[AN]
+In addition, there is a new[N]
+menu option called the [Red]Guide[Red].[AN]
+If you are having trouble[N]
+with the current mission,[AN]
+please take a look.[A][X]
+
+#0x94F Chapter1BaseSystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+In the Base, you can[N]
+do many things,[AN]
+including [Red]Talk[Red], [Red]Buy[Red], [Red]Sell[Red],[N]
+[Red]Support[Red], and so on.[AN]
+You [Red]cannot Support[N]
+outside the base[Red],[AN]
+and you [Red]cannot gain[N]
+support points in the base[Red].[AN]
+Please remember this.[AN]
+You can also [Red]undo all[N]
+Support ranks [Red]of a unit[AN]
+by paying money at the[N]
+house in the [Red]upper right[Red].[AN]
+Remember that you can use[N]
+the [Red]Unit[Red] menu command[AN]
+to see which characters[N]
+can [Red]Talk[Red] to each other.[AN]
+In addition, the [Red]Lore[Red] menu[N]
+command appears only in the Base.[AN]
+Selecting [Red]Lore[Red] will show[N]
+you brief explanations of characters[AN]
+and specifications of the base.[AN]
+There are new entries in the story[N]
+menu [Red]every time[Red] you visit the base.[A][X]
+
+#0x9D6 Chapter8BaseSystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+The Seize point has been blocked.[N]
+Check the guide, or just wait.[A][X]
+
+## Chapter10BaseSystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+In the next chapter, Lizzy[N]
+will be escorting Elffin.[AN]
+She will temporarily[N]
+be unavailable in preparations.[AN]
+Make sure to prepare her[N]
+equipment before moving on.[A][X]
+
+#0xE61 Chapter12SystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+The chapter clear[N]
+condition has changed.[AN]
+The clear condition is[N]
+now "all units escape".[A][X]
+
+#0xA75 Chapter15SystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+To clear this chapter,[N]
+seize two castles with Lizzy.[AN]
+No specific order is necessary.[A][X]
+
+#0xD56 Chapter16SystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+The chapter clear[N]
+condition has changed.[AN]
+The clear condition is[N]
+now "all units escape".[A][X]
+
+
+#0xE6E Chapter162SystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+You have recieved the Grannblaze.[AN]
+When Isaac wields it, he[N]
+can gain a special skill.[A][X]
+
+#0xD57 UnkSystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+Goal Achieved.[A][X]
+

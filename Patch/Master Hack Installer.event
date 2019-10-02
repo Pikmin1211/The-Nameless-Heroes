@@ -72,7 +72,7 @@
 		SHORT 0x38B //Iron Sword description
 
 		ORG $F6FE6E //Steel Sword
-		SHORT 0x382 //Slim Sword description
+		SHORT 0x38B //Iron Sword description
 
 		ORG $F71BF6 //Sleep Sword
 		SHORT 0x38D //Steel Sword description
@@ -131,7 +131,23 @@
 
 	POP
 
-/*
+*/
 
 // Font handled by batch via febuilder
-//#include "EngFont/EngFont.event"
+//#include "EngFont/EngFont.event
+
+#define GuideTable 0xEFC370
+#define GuideTableEntry(chapter) "0xEFC370 + (chapter * 0x4)"
+
+PUSH
+	ORG GuideTableEntry(0)
+	POIN PrologueGuideEvent
+POP
+
+#define SetBackgroundJP(bg) "SVAL 0x2 bg; CALL 0xA60420"
+#define DoubleTextBG(text1,text2,bg) "SetBackgroundJP(bg); TEXTSTART; TEXTSHOW text1; TEXTEND; TEXTSHOW2 text2; TEXTEND"
+
+ALIGN 4
+PrologueGuideEvent:
+DoubleTextBG(PrologueGuide,PrologueGuide2,0xE)
+ENDA

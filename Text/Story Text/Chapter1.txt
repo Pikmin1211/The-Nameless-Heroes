@@ -1,9 +1,9 @@
 #0x87F Chapter1Opening
 
-After they drove away the[N]
-bandits who attacked the village,[AN]
-Isaac and the mercenaries leave[N]
-for the neighboring town, Valetta,[AN]
+After the group had[N]
+driven away the bandits,[AN]
+Isaac and the mercenaries[N]
+head out to Valetta,[AN]
 to rescue those who were taken away.[AN][Event]
 Valetta is a port town with many fisheries[N]
 and easy naval access to Etruria,[AN]
@@ -14,7 +14,7 @@ Assuming the worst, the[N]
 mercenaries walk heavily.[AN][Event]
 Valletta, the biggest port town in[N]
 Dia, has become a hell on earth.[AN]
-The scent of death hangs in the air.[A][Event][X]
+The scent of death hangs in the air.[AN][Event][X]
 
 
 
@@ -91,6 +91,11 @@ Piled corpses of men,[N]
 women taken away...[AN]
 It's like a hell on earth.[AN]
 
+[FarLeft]
+How cruel...[AN]
+There must be people in need of[N]
+our aid. We have to make haste.[AN]
+
 [FarRight][LoadKara]
 Gah... it's so terrible...[....][N]
 Ugh...[AN]
@@ -109,11 +114,6 @@ I can't allow this![AN]
 [Clear][LoadOlson]
 Commander, give[N]
 us your orders.[AN]
-
-[FarLeft]
-How cruel...[AN]
-There must be people in need of[N]
-our aid. We have to make haste.[AN]
 
 [FarRight][Clear][LoadKara]
 
@@ -134,15 +134,7 @@ Mommyyy![AN]
 
 [Left]
 ...![AN]
-It's a survivor![N]
-Sorry, Kara.[AN]
-
-[FarRight][LoadKara]
-
-[Left]
-You can scout later.[AN]
-We need to tend to that[N]
-survivor right away.[A][X]
+It's a survivor![AN][X]
 
 
 
@@ -182,19 +174,7 @@ It's not safe for you.[AN]
 
 [MidRight]
 ...[....][N]
-Thank you...[AN][Clear]
-
-[MidLeft]
-Sorry, Kara.[AN]
-Can you go[N]
-scouting now?[AN]
-
-[MidRight][LoadKara]
-Of course.[N]
-Leave it to me![AN]
-
-[MidLeft]
-Don't overdo it.[A][X]
+Thank you...[A][Clear][X]
 
 
 
@@ -262,8 +242,8 @@ their women back alive![A][X]
 
 
 [MidRight][LoadPhelix]
-Damn! I hurried here, but it[N]
-looks like I was too late.[AN]
+Damn! It looks[N]
+like I was too late.[AN]
 Commander! Everyone![N]
 Please be safe, guys...[A][X]
 
@@ -301,8 +281,6 @@ No no, it's too[N]
 early to give up.[AN]
 Also, it seems somebody[N]
 was here before us.[AN]
-See...[....]oh, could[N]
-that be...[....]Isaac?[AN]
 
 [MidLeft]
 You mean the commander and[N]
@@ -328,7 +306,7 @@ I seem to be a bit late.[AN]
 [MidRight]
 Phelix, I'm just glad you came.[N]
 And with perfect timing as well.[AN]
-Now we move against those pirates.[N]
+Now we drive off those pirates.[N]
 Lead the front, Phelix.[AN]
 
 [MidLeft]
@@ -356,7 +334,7 @@ We need your[N]
 skills with a bow.[AN]
 
 [MidLeft]
-Leave it to me, Commander.[N]
+Leave it to me, commander.[N]
 I never miss my target.[A][X]
 
 
@@ -417,7 +395,7 @@ Me... beaten...?[A][X]
 
 [MidRight][LoadCurrent][MidLeft][LoadBrownHairMan]
 Y... you guys...[N]
-are... mercenaries?[AN]
+are... here to help us?[AN]
 Heh... as ya can see...[N]
 I can't hold out long...[AN]
 My wife... taken away...[AN]
@@ -484,7 +462,18 @@ so please forgive me![AN]
 To the northwest... from this port,[N]
 there is an isolated island...[AN]
 I have a map on this ship...[AN]
-You'll... you'll spare me, right?[AN]
+
+[MidLeft]
+A map? I saw no[N]
+such thing on board.[AN]
+Where the hell is it?[AN]
+
+[MidRight]
+The m-map is...[N]
+It's right here...[AN]
+Here, p-please...[AN]
+You'll... you'll[N]
+spare me, right?[AN]
 
 [MidLeft]
 Spare you?[AN]
@@ -503,8 +492,8 @@ S-stop![A][X]
 #0x8F8 Chapter1EndEvent2
 
 [MidLeft][LoadIsaac][MidRight][LoadAudrey]
-Isaac, we found the map[N]
-to that isolated island.[AN]
+Seems the pirates[N]
+have been broken up.[AN]
 
 [MidLeft]
 It seems that the women were[N]
@@ -572,19 +561,18 @@ I see.[AN]
 
 [MidLeft]
 What you do want to look out for,[N]
-though, is the [Red]cracked wall [Red]up top.[AN]
-Once you pass by there, you'll[N]
-soon be in our [Red]ballista's range.[Red][AN]
-Coincidentally, the wyvern rider is going[N]
-to charge you [Red]once you enter it's range.[Red][AN]
+though, are the [Red]cracked walls [Red]up top.[AN]
+One is just for passage, but the[N]
+other may contain [Red]something valuable.[Red][AN]
+Once you enter the passge, the[N]
+wyvern will begin to attack you.[AN]
 
 [MidRight]
-Both at once, huh... What a pain.[AN]
-Maybe I can just [Red]stall [Red]the[N]
-ballista until it runs out of ammo.[AN]
+The wyvern rider, huh...[AN]
+What a pain. Maybe I should[N]
+use [Red]the ballista [Red]to attack it.[AN]
 
 [MidLeft]
-Hah! What a boring strategy.[AN]
 Once you get close to me, we'll[N]
 send in some [Red]more reinforcements.[Red][AN]
 Good luck with just standing and[N]

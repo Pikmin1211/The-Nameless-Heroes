@@ -1,4 +1,0 @@
-PUSH
-ORG 0x57994C
-#incbin "Eng_Font_Put_At_57994C.dmp"
-POP

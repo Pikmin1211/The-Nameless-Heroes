@@ -237,7 +237,7 @@ POIN StrayThiefList
 BYTE 0x08
 
 ORG 0xAB0998
-POIN NecromancerList
+POIN CommandeurList
 BYTE 0x05
 
 ORG 0xAB09B4
@@ -417,8 +417,8 @@ BYTE Letter_C Letter_e Letter_r Letter_b Letter_e Letter_r Letter_u Letter_s
 StrayThiefList:
 BYTE Letter_S Letter_t Letter_r Letter_a Letter_y Letter_T Letter_h Letter_f
 
-NecromancerList:
-BYTE Letter_N Letter_e Letter_c Letter_r Letter_o
+CommandeurList:
+BYTE Letter_C Letter_m Letter_n Letter_d Letter_r
 
 SummonerList:
 BYTE Letter_S Letter_u Letter_m Letter_m Letter_o Letter_n Letter_e Letter_r

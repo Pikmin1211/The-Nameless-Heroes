@@ -41,19 +41,20 @@ Did somebody drop this!?[A][X]
 
 #0xE46 FerrisTreasure
 [MidRight][LoadFerris]
-Huh, what's this?[N]
-I'll report it to the commander.[A][X]
+Huh, what's this?[AN]
+I'll report it to[N]
+the commander.[A][X]
 
 #0xE47 BrianTreasure
 [MidRight][LoadBrian]
 Hmm?[AN]
 This looks valuable...[N]
-I should let Isaac know.[A][X]
+I should let someone know.[A][X]
 
 #0xE54 ChloeTreasure
 [MidRight][LoadChloe]
 What's this...?[N]
-Hm, should I tell Isaac?[A][X]
+Hm, should I tell someone?[A][X]
 
 #0xE59 RemTreasure
 [MidRight][LoadRem]
@@ -68,11 +69,130 @@ Ohh, lucky me! I wonder how[N]
 much this thingy goes for?[A][X]
 
 #0xE41 BerkusTreasure
+[MidRight][LoadBerkus]
 The hell is this thing[N]
 doing lying around here?[A][X]
 
 #0xE4C JohnnyTreasure
+[MidRight][LoadJohnny]
 Boy howdy, this sure[N]
 is... uninterestin'.[AN]
 Someone else want this?[A][X]
 
+#0xE45 JesterTreasure
+[MidRight][LoadJester]
+Oh, what's this...?[AN]
+[Beat][N]
+Nobody is looking, right?[A][X]
+
+#0xE48 BarrelleTreasure
+[MidRight][LoadBarrelle]
+Hm, this might be a nice[N]
+addition to my collection...[A][X]
+
+#0xE49 DylanTreasure
+[MidRight][LoadDylan]
+Oh? Oh! What a steal![AN]
+Seems I stumbled onto[N]
+something worthwhile...[AN]
+Or maybe this was fate?[A][X]
+
+#0xE4B ArtieTreasure
+[MidRight][LoadArtie]
+Oh! Ohh! That's mine![N]
+I called it! Hands off![A][X]
+
+#0xE4D LizzyTreasure
+[MidRight][LoadLizzy]
+Did someone drop this?[N]
+Guess I'll ask around later.[A][X]
+
+#0xE4E CerberusTreasure
+[MidRight][LoadCerberus]
+...Lucky. I'll take this.[A][X]
+
+#0xE4F HamiltonTreasure
+[MidRight][LoadHamilton]
+Well well, this is...![AN]
+What idiot misplaced[N]
+something like this?[A][X]
+
+#0xE50 LilliaTreasure
+[MidRight][LoadLillia]
+Oh, my! Did someone drop this?[N]
+They must be beside themselves.[AN]
+Hey, does anyone know about this?[A][X]
+
+#0xE51 JeanaTreasure
+[MidRight][LoadJeana]
+What's this thing for?[N]
+I'll report it later.[A][X]
+
+#0xE5B RichterTreasure
+[MidRight][LoadRichter]
+I don't think this is anyone's...[N]
+Nobody should mind if I take it.[A][X]
+
+#0xE5C RosalieTreasure
+[MidRight][LoadRosalie]
+Whoa, whoa! I wondered[N]
+what this thing was...[AN]
+Looks like somebody lost it.[N]
+I can hold onto it... Ehehe...[A][X]
+
+#0xE5D MythraTreasure
+[MidRight][LoadMythra]
+Hmm... what do I do with this?[N]
+I should report it, at least.[A][X]
+
+#0xE5E EliseTreasure
+[MidRight][LoadElise]
+I'm always having to pick[N]
+things up for you guys...[AN]
+What is this, anyways?[A][X]
+
+#0xE53 SeleneTreasure
+[MidRight][LoadSelene]
+Ouch! What the...?[AN]
+I nearly tripped[N]
+over this thing...[AN]
+Who dropped it here?[A][X]
+
+#0xE55 BorisTreasure
+[MidRight][LoadBoris]
+Ey, ey! What in the-[AN]
+Something's jammed[N]
+in the goddamn wheels![AN]
+What is... this?[N]
+Guess I'll hang onto it.[A][X]
+
+#0xE56 ArianaTreasure
+[MidRight][LoadAriana]
+Ohh! Finder's keepers![N]
+I'll be off to sell this.[AN]
+Praise the Goddess, and[N]
+all that shtick. Haha![A][X]
+
+#0xE57 SofiaTreasure
+[MidRight][LoadSofia]
+I wonder if someone lost this.[N]
+Um, is anyone missing something?[A][X]
+
+#0xE58 VulcanTreasure
+[MidRight][LoadVulcan]
+I think I can make use of this.[AN]
+Workin' with what you can get[N]
+your hands on is merc basics.[A][X]
+
+#0xE5A MurphyTreasure
+[MidRight][LoadMurphy]
+Oh...?! This is a nice find,[N]
+but to just pocket it...?[AN]
+I have higher standards![AN]
+A true swordsman can live[N]
+with the bare necessities![A][X]
+
+#0xF2E KronosTreasure
+[MidRight][LoadKronos]
+Oh? Seems one of my phantoms[N]
+has brought me something.[A][X]
