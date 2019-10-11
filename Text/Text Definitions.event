@@ -50,7 +50,6 @@
 #define FE7DefendTheme $DFA
 #define FE7BossTheme $DFC
 #define FE7MorphTheme $DFB
-#define FE7HectorMapTheme $DFE
 #define FE7BadGuyEvents $E02
 #define FE7MarkyjoeMeme $E01
 #define FE7LynSong $DFF
@@ -116,6 +115,9 @@
 #define Chapter16bName $110
 #define Chapter16bObjective $E6D
 #define Chapter17Name $0F9
+#define Chapter17xName $10F
+#define Chapter17Objective $F37
+#define MapChapter17Objective $12E
 #define AffinityTexts $001
 #define dodgetext $5D9
 #define leadershipstarstxt $06D
@@ -257,7 +259,7 @@
 #define RichterEscape2 $DB7
 #define RosalieEscape $57E
 #define RosalieEscape2 $DBA
-#define RosalieEscape3 $DB8
+#define RosalieEscape3 $DBB
 #define MythraEscape $590
 #define MythraEscape2 $DBE
 #define EliseEscape $DC1

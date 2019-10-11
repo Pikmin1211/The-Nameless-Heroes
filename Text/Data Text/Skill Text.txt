@@ -42,7 +42,8 @@ Act again after completing an action.[X]
 
 #0x5BB
 Pass[N]
-Move through enemy units.[X]
+Move through enemy units.[N]
+Ineffective in fog of war.[X]
 
 #0x5B1
 Renewal[N]
@@ -69,8 +70,8 @@ Nullify a magical attack.[X]
 
 #0x5CA
 Staff Savant[N]
-Healing staff range[N]
-is always Mag / 2.[X]
+Healing staff range is[N]
+always extended by rank.[X]
 
 #0x5CE
 Swordbreaker[N]
@@ -107,7 +108,7 @@ Deal effective damage to magic users.[X]
 
 #0x942
 Slayer[N]
-Deal effective damage to monsters.[X]
+Deal triple damage to monsters.[X]
 
 #0xB8
 Swordslayer[N]
@@ -191,24 +192,24 @@ Triangle Adept[N]
 Doubles weapon traingle effects.[X]
 
 #0x5A3
-Astra (Lv%)[N]
+(S Rank) Astra (Lv%)[N]
 Attack 5 times at half damage.[X]
 
 #0x5A2
-Luna (Skill%)[N]
+(S Rank) Luna (Skill%)[N]
 Halve opponent's defense.[X]
 
 #0x5A1
-Sol (Skill%)[N]
+(S Rank) Sol (Skill%)[N]
 Restore HP equal to half[N]
 of damage dealt.[X]
 
 #0x5A6
-Aether (Lv%)[N]
+(S Rank) Aether (Lv%)[N]
 Perform Luna and Sol consecutively.[X]
 
 #0x5B3
-Flare (Skill%)[N]
+(S Rank) Flare (Skill%)[N]
 Halve the foes's resistance and heal[N]
 HP equal to half of damage dealt.[X]
 
@@ -225,41 +226,43 @@ Divine Shield[N]
 Halves all damage received.[X]
 
 #0x5A4
-Colossus (Skill%)[N]
+(S Rank) Colossus (Skill%)[N]
 Add Con to damage.[X]
 
 #0x5A5
-Vengeance (Skill%)[N]
+(S Rank) Vengeance (Skill%)[N]
 Add half of lost HP to damage.[X]
 
 #0x5B8
 Proximity Shot[N]
-Can use bows at close range.[X]
+Can use bows at close range[N]
+with reduced accuracy.[X]
 
 #0x5B9
 Bowrange+[N]
-+1 maximum attack range[N]
-while using a bow.[X]
++1 range with bows. Reduces[N]
+accuracy at extended range.[X]
 
 #0x5BA
 Sure Shot (Skill%)[N]
-The attack will not miss.[X]
+The attack will not[N]
+miss. Breaks shields.[X]
 
 #0x5BF
-Petrify (Skill%)[N]
+(S Rank) Petrify (Skill%)[N]
 Turns the opponent to stone.[X]
 
 #0x5B7
-Enrage (Skill%)[N]
+(S Rank) Enrage (Skill%)[N]
 Makes the opponent go berserk.[X]
 
 #0x5C5
-Ignis (Skill%)[N]
+(S Rank) Ignis (Skill%)[N]
 Add Str/2 when attacking magically.[N]
 Add Mag/2 when attacking physically.[X]
 
 #0x5C8
-Dragon Fang (Skill%)[N]
+(S Rank) Dragon Fang (Skill%)[N]
 Multiplies damage by 1.5x.[X]
 
 #0x5BE
@@ -272,8 +275,9 @@ Locktouch[N]
 Open doors and chests without keys.[X]
 
 #0x5A7
-Shootout (Random%)[N]
-Deal quintuple damage.[X]
+(S Rank) Lethality (50%)[N]
+Deal quintuple damage on a[N]
+critical hit. Requires a sword.[X]
 
 #0x5B6
 Summon[N]
@@ -297,17 +301,17 @@ Can use remaining movement[N]
 after performing any action.[X]
 
 #0x5CF
-Impale (Skill%)[N]
+(S Rank) Impale (Skill%)[N]
 Deals double damage. Deals quadruple[N]
 damage if it will defeat the opponent.[X]
 
 #0x5D6
-Eclipse (Skill%)[N]
+(S Rank) Eclipse (Skill%)[N]
 If the attack does not defeat the[N]
 opponent, it reduces their HP to 1.[X]
 
 #0x5D4
-Crusade (Lv%)[N]
+(S Rank) Crusade (Lv%)[N]
 When HP is half or less, deal double damage[N]
 and restore HP equal to damage dealt.[X]
 
@@ -317,7 +321,7 @@ Enemies within 5 tiles[N]
 are ignited.[X]
 
 #0x592
-Genocide (HP%)[N]
+(S Rank) Genocide (HP%)[N]
 Increases all stats, negates all skills,[N]
 and doubles the length of combat.[X]
 

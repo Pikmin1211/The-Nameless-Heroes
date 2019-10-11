@@ -603,3 +603,12 @@ Vorpal Shield[X]
 
 #0x359
 Dance[X]
+
+#0x347
+Firestorm[X]
+
+#0x348
+Fenrir[X]
+
+#0xDFE
+Anemone[X]

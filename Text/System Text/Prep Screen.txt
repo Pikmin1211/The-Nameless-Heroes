@@ -134,7 +134,7 @@ Owner:[X]
 Done[X]
 
 #0x536
-Remaining[X]
+Left[X]
 
 #0x537
 x[X]

@@ -177,7 +177,7 @@ Improves critical hit rate.[X]
 A Sacred Twin tome. Spd +5.[X]
 
 #0x3EF
-Drains enemy HP into caster.[X]
+Heals by half of damage dealt.[X]
 
 #0x3F0
 Long-range weapon. Inflicts poison.[X]
@@ -242,7 +242,7 @@ Puts enemies to sleep for[N]
 several turns.[X]
 
 #0x43E
-Long-range weapon. Inflicts sleep.[X]
+Flier effective. Inflicts sleep.[X]
 
 #0x401
 Sends enemies into a[N]
@@ -620,3 +620,17 @@ Isaac only.[X]
 
 #0x38D
 Inflicts sleep.[X]
+
+#0x409
+A dance that allows[N]
+allies to move again.[X]
+
+#0x447
+Allows allies[N]
+to move again.[X]
+
+#0x3F8
+Long-range weapon.[X]
+
+#0xF2F
+A blade with a floral design.[X]

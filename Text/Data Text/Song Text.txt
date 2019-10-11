@@ -340,9 +340,6 @@ Rise to the Challenge[X]
 #0xDFB FE7MorphTheme
 Softly with Grace[X]
 
-#0xDFE FE7HectorMapTheme
-Precious Things[X]
-
 #0xE02 FE7BadGuyEvents
 Stratagem[X]
 
@@ -479,7 +476,7 @@ I Don't Want to be Called Weak[X]
 I Don't Need Promises[X]
 
 #0xE68
-Arsenal[X]
+Upon Selecting Resupply[X]
 
 #0xE69
 Akashi's Armory[X]

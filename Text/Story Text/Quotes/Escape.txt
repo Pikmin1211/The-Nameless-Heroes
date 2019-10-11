@@ -412,7 +412,7 @@ not forgetting anything, right?[AN]
 Is everyone else doing okay? I-[AN]
 Oh, I'm sorry... I just...[A][X]
 
-#0xDB8 RosalieEscape3
+#0xDBB RosalieEscape3
 [MidRight][LoadRosalie]
 I-it's here, right?[N]
 I c-can't stop... shaking...[AN]

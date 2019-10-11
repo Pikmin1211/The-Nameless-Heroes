@@ -6,6 +6,10 @@ ALIGN 4
 Img_5C6E08_Repointed:
 #incext Png2Dmp "Img_5C6E08_Repoint.png" --lz77
 
+//ALIGN 4
+//LinkArenaEN:
+//#incext Png2Dmp "LinkArenaEN.png" --lz77
+
 //EvaluationScreen:
 //#incext Png2Dmp "evaluation_08AC5598.png" -lz77
 
@@ -16,6 +20,7 @@ ORG $B8B1C
 POIN ClassFontEN
 ORG 0xD1838
 POIN ClassFontEN
+
 //ORG 0xBCB5C
 //POIN EvaluationScreen
 //ORG 0xAC5598
@@ -24,4 +29,28 @@ ORG $A92B38
 #incext Png2Dmp "Img_A92B38.png"
 ORG $BB08B4
 #incext Png2Dmp "Img_BB08B4.png" --lz77
+//ORG $EAD850
+ORG $11A3AC8
+#incbin "Supply.dmp"
 POP
+
+/*
+ORG 0x43A54
+POIN LinkArenaEN
+ORG 0x44770
+POIN LinkArenaEN
+ORG 0x4573C
+POIN LinkArenaEN
+ORG 0x45E6C
+POIN LinkArenaEN
+ORG 0x468D8
+POIN LinkArenaEN
+ORG 0x46A1C
+POIN LinkArenaEN
+ORG 0x47110
+POIN LinkArenaEN
+ORG 0x47460
+POIN LinkArenaEN
+ORG 0x4781C
+POIN LinkArenaEN
+*/

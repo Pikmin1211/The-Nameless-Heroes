@@ -186,3 +186,12 @@ or Defeat Ken[X]
 
 #0xF9 Chapter17Name
 Moonlit Knight[X]
+
+#0x10F Chapter17xName
+Ch 17x[X]
+
+#0xF37 Chapter17Objective
+Defeat All Bandits[X]
+
+#0x12E MapChapter17Objective
+Defeat All[X]

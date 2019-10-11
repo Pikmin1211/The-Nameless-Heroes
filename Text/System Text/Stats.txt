@@ -234,9 +234,6 @@ Critical[X]
 #0x4AD
 Dodge[X]
 
-#0x4AE
-MP/2[X]
-
 #0x4B6
 Total[X]
 
@@ -504,3 +501,6 @@ Prf[X]
 
 #0x4B5
 3- 15[X]
+
+#0x4AE
+RNK[X]

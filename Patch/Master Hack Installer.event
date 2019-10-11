@@ -76,6 +76,9 @@
 
 		ORG $F71BF6 //Sleep Sword
 		SHORT 0x38D //Steel Sword description
+
+		ORG $F7098C //Sleep Staff Use
+		SHORT 0x38D //Steel Sword description
 	POP
 
 	//Class Descriptions

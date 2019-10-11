@@ -357,3 +357,16 @@ Money on hand.[X]
 #0x677
 Only units with animation turned[N]
 on can perform combat animation.[X]
+
+#0xEF7
+Escape[X]
+
+#0xEF8
+Escape from the area.[X]
+
+#0xEF9
+Arrive[X]
+
+#0xEFA
+Arrive at a[N]
+destination.[X]

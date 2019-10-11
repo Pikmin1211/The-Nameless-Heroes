@@ -291,3 +291,6 @@ Edmund[X]
 
 #0x1F2
 Evil[X]
+
+#0xC9
+Raptor[X]
