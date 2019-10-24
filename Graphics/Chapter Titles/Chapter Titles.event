@@ -32,6 +32,12 @@ Chapter4Image:
 Chapter4ImageSmall:
 #incext Png2Dmp "Chapter 4 Small.png" --lz77
 
+Chapter5Image:
+#incext Png2Dmp "Chapter 5.png" --lz77
+
+Chapter5ImageSmall:
+#incext Png2Dmp "Chapter 5 Small.png" --lz77
+
 
 PUSH
 ORG 0xA7356C
@@ -56,4 +62,8 @@ ORG 0xA732F0
 POIN Chapter4Image
 ORG 0xA732F4
 POIN Chapter4ImageSmall
+ORG 0xA73308
+POIN Chapter5Image
+ORG 0xA7330C
+POIN Chapter5ImageSmall
 POP

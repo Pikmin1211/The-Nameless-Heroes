@@ -171,3 +171,7 @@ Swallow." Lax and free-spirited.[X]
 #0x205
 An Etrurian summoner. Vexed that[N]
 his abilitues are not recognized.[X]
+
+#0x21A
+An Etrurian commander who[N]
+manages the Eburacum mines.[X]

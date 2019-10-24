@@ -581,6 +581,10 @@ __TEXTPROCESS205:
 #incbin ".TextEntries\text_buildfile205.fetxt.dmp"
 setText($205, __TEXTPROCESS205)
 
+__TEXTPROCESS21A:
+#incbin ".TextEntries\text_buildfile21A.fetxt.dmp"
+setText($21A, __TEXTPROCESS21A)
+
 __TEXTPROCESS5B5:
 #incbin ".TextEntries\text_buildfile5B5.fetxt.dmp"
 setText($5B5, __TEXTPROCESS5B5)
@@ -7924,6 +7928,50 @@ setText($988, __TEXTPROCESS988)
 __TEXTPROCESS091:
 #incbin ".TextEntries\text_buildfileChapter4Guide.fetxt.dmp"
 setText($91, __TEXTPROCESS091)
+
+__TEXTPROCESS989:
+#incbin ".TextEntries\text_buildfileChapter5Opening1.fetxt.dmp"
+setText($989, __TEXTPROCESS989)
+
+__TEXTPROCESS97E:
+#incbin ".TextEntries\text_buildfileChapter5Opening2.fetxt.dmp"
+setText($97E, __TEXTPROCESS97E)
+
+__TEXTPROCESS97F:
+#incbin ".TextEntries\text_buildfileChapter5Opening3.fetxt.dmp"
+setText($97F, __TEXTPROCESS97F)
+
+__TEXTPROCESS980:
+#incbin ".TextEntries\text_buildfileChapter5Opening4.fetxt.dmp"
+setText($980, __TEXTPROCESS980)
+
+__TEXTPROCESS97C:
+#incbin ".TextEntries\text_buildfileChapter5Opening5.fetxt.dmp"
+setText($97C, __TEXTPROCESS97C)
+
+__TEXTPROCESS982:
+#incbin ".TextEntries\text_buildfileChapter5Opening6.fetxt.dmp"
+setText($982, __TEXTPROCESS982)
+
+__TEXTPROCESS98A:
+#incbin ".TextEntries\text_buildfileChapter5Ending1.fetxt.dmp"
+setText($98A, __TEXTPROCESS98A)
+
+__TEXTPROCESS971:
+#incbin ".TextEntries\text_buildfileChapter5Ending2.fetxt.dmp"
+setText($971, __TEXTPROCESS971)
+
+__TEXTPROCESSF12:
+#incbin ".TextEntries\text_buildfileChapter5AreaEvent.fetxt.dmp"
+setText($F12, __TEXTPROCESSF12)
+
+__TEXTPROCESS97A:
+#incbin ".TextEntries\text_buildfileChapter5VSDenny.fetxt.dmp"
+setText($97A, __TEXTPROCESS97A)
+
+__TEXTPROCESS981:
+#incbin ".TextEntries\text_buildfileChapter5DennyDeath.fetxt.dmp"
+setText($981, __TEXTPROCESS981)
 
 __TEXTPROCESSD13:
 #incbin ".TextEntries\text_buildfileD13.fetxt.dmp"

@@ -457,5 +457,16 @@
 #define Chapter4SaarBattleQuote $987
 #define Chapter4SaarDeathQuote $988
 #define Chapter4Guide $091
+#define Chapter5Opening1 $989
+#define Chapter5Opening2 $97E
+#define Chapter5Opening3 $97F
+#define Chapter5Opening4 $980
+#define Chapter5Opening5 $97C
+#define Chapter5Opening6 $982
+#define Chapter5Ending1 $98A
+#define Chapter5Ending2 $971
+#define Chapter5AreaEvent $F12
+#define Chapter5VSDenny $97A
+#define Chapter5DennyDeath $981
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

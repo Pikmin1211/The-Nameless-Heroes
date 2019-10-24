@@ -123,6 +123,7 @@
 [LoadSaar] = [LoadFace][0x34][0x1]
 [LoadArcard] = [LoadFace][0x40][0x1]
 [LoadGalius] = [LoadFace][0x42][0x1]
+[LoadDenny] = [LoadFace][0x2E][0x1]
 
 
 [LoadWrys] = [LoadFace][0x2D][0x1]

@@ -1,0 +1,352 @@
+#0x989 Chapter5Opening1
+
+[MidLeft][LoadIsaac]
+We're almost[N]
+at the exit...[AN]
+
+[MidRight][LoadGreenSoldier]
+That's right.[AN]
+But the Etrurians are gathering[N]
+soldiers to prevent our escape.[AN]
+There aren't many, but they're[N]
+Etrurian soldiers all the same.[AN]
+Don't be off your guard.[AN]
+
+[MidLeft]
+In order to survive, we just need[N]
+to remove the obstacles ahead.[AN]
+According to your instructions,[AN]
+we're heading east from the mine,[N]
+then escaping by ship. Right?[AN]
+
+[MidRight]
+Correct.[AN]
+The rioters will boarded and[N]
+sent back to whence they came.[AN]
+
+[MidLeft]
+That's a relief.[AN]
+What happens to them[N]
+if we screw this up?[AN]
+
+[MidRight]
+We're not that dishonorable.[N]
+When we do a job, we do it right.[AN]
+By the way, which island are[N]
+you and your mercenaries from?[AN]
+I don't imagine it's this one.[AN]
+
+[MidLeft]
+We're not from the islands.[AN]
+We happened to be working in Dia[N]
+and were transported here by force.[AN]
+
+[MidRight]
+That must have been terrible.[N]
+I say this for your own safety -[AN]
+Get out of the Western Isles[N]
+as soon as you get the chance.[AN]
+As you could tell, those Etrurians[N]
+view us as nothing more than slaves.[AN]
+If you refuse their demands,[AN]
+they'll execute you, burn down[N]
+your home... you get the idea.[AN]
+Sticking around here only[N]
+serves to invite disaster.[AN]
+
+[MidLeft]
+Yeah, I'll[N]
+think it over.[AN]
+
+[MidRight]
+That would be wise.[AN]
+Looks like we're[N]
+just about there.[AN]
+Brace yourself.[A][X]
+
+
+
+
+
+#0x97E Chapter5Opening2
+
+[MidLeft][LoadIsaac][Right][LoadMoneyMan]
+I can see the exit![N]
+We're almost there, guys![AN]
+
+[FarRight][LoadBrownHairMan]
+Finally, done with those Etrurian[N]
+bastards! We won't forget this![AN]
+
+[Right][ClearFace][LoadYoungMan]
+With this momentum,[N]
+we can get outta here![AN]
+Let's break through[N]
+that exit! Rrraaargh![AN]
+
+[FarRight][ClearFace][LoadGingerMan]
+Cough, cough...[N]
+I can... go home now?[AN]
+[Right][ClearFace][FarRight][ClearFace]
+
+[MidRight][LoadAudrey]
+With this much force,[N]
+there's no stopping us now.[AN]
+Isaac, have you decided on[N]
+our next course of action?[AN]
+Surely after this we can't[N]
+stay on the isles any longer.[AN]
+
+[MidLeft]
+Don't be too hasty.[AN]
+We aren't out of[N]
+the water just yet.[AN]
+
+[MidRight]
+Sorry, Isaac.[N]
+You're right.[AN]
+
+[MidLeft]
+Though, that Resistance soldier said[N]
+we should get away from the islands.[AN]
+
+[MidRight]
+What do you think?[AN]
+
+[MidLeft]
+Our work isn't exactly easy.[AN]
+This island isn't fit for[N]
+us to make our living here.[AN]
+I can say that much.[AN]
+
+[MidRight]
+I agree. I feel sorry for[N]
+the Resistance, though...[A][X]
+
+
+
+
+
+
+#0x97F Chapter5Opening3
+
+[MidLeft][LoadRedSoldier]
+These escapees...[AN]
+Shit, they're really[N]
+gaining traction...[AN]
+But their advance[N]
+will be stopped here.[AN]
+Listen up! If you forfeit,[N]
+we'll reduce your sentence![AN]
+Any further advance will[N]
+be met with execution![AN]
+You will not defeat us![N]
+Make your decision now![A][X]
+
+
+
+
+#0x980 Chapter5Opening4
+
+[MidLeft][LoadIsaac]
+So they say.[AN]
+
+[Right][LoadCaptain]
+Grah! You morons![AN]
+You think we're gonna[N]
+accept those terms?![AN]
+Crawl back into the[N]
+hole you came from![AN]
+
+[FarRight][LoadPirate]
+Kill them![AN]
+Don't stop until we kill[N]
+every last one of them![AN]
+
+[Right]
+Yeah! Let's go![N]
+We're almost free![AN]
+Those damned guards[N]
+can't stop us![A][X]
+
+
+
+
+#0x97C Chapter5Opening5
+
+[MidRight][LoadRedSoldier][MidLeft][LoadDenny]
+Damnit, give me a report![N]
+What the hell is going on?[AN]
+
+
+[MidRight]
+Yes, sir! Eberacum's[N]
+inamates staged a breakout...[AN]
+Some of our soldiers have been[N]
+drugged with sleeping powder.[AN]
+The troops gathered here[N]
+are all we have available.[AN]
+Jutes sent us a message that[N]
+they will send reinforcements...[AN]
+But there's no way they will[N]
+arrive here in time to help.[AN]
+
+[MidLeft]
+Outrageous![AN]
+Etruria's honor will be sullied[N]
+by this... this insurrection![AN]
+What of my other generals?![AN]
+
+[MidRight]
+We've recieved no reply...[N]
+They're presumed dead, sir.[AN]
+
+[MidLeft]
+Hmph, how pathetic.[N]
+Alright men, defensive position![AN]
+At all costs, we hold out[N]
+until reinforcements arrive![A][X]
+
+
+
+
+
+
+#0x982 Chapter5Opening6
+
+[MidLeft][LoadIsaac]
+Seems they're moving[N]
+in tight groups.[AN]
+Alright, let's try[N]
+to focus our attacks![A][X]
+
+
+
+
+
+
+#0x98A Chapter5Ending1
+
+[MidRight][LoadGreenSoldier][MidLeft][LoadIsaac]
+All right, we've[N]
+broken through.[AN]
+
+[MidRight]
+Seems our plan worked.[AN]
+From here, we move to[N]
+the coast on the southeast.[AN]
+We, the Resistance,[N]
+will lead you there.[AN]
+
+[MidLeft]
+I hear the ship is waiting there.[AN]
+So far, things have gone well.[N]
+Let's hope our luck keeps up.[AN]
+
+[MidRight]
+The nearby fortresses are sure[N]
+to be sending troops our way.[AN]
+We need to move quickly.[AN]
+Come what may, we must reach[N]
+the coast before they arrive.[AN]
+Would you be able to guard[N]
+us as we escort the prisoners?[AN]
+While we'd like to assist you in[N]
+combat, they are top priority.[AN]
+Any objections?[AN]
+
+[MidLeft]
+None from me.[AN]
+Though I'm not exactly[N]
+keen on dying just yet.[AN]
+We'll withdraw when it[N]
+becomes too much for us.[AN]
+
+[MidRight]
+Right. Just make sure[N]
+to guard us until then.[AN]
+We'll be counting[N]
+on your assistance.[AN]
+
+[MidLeft]
+Understood.[A][X]
+
+
+
+
+
+
+#0x971 Chapter5Ending2
+
+[MidRight][LoadGreenSoldier][MidLeft][LoadIsaac]
+By the way, I never[N]
+asked your boss's name.[AN]
+I'm told they call her[N]
+"The Hero of the West".[AN]
+
+[MidRight]
+Her name is Echidna.[AN]
+And it's thanks to her we[N]
+stand a fighting chance at all.[AN]
+She's the heart of the Resistance.[AN]
+
+[MidLeft]
+Sounds like one[N]
+hell of a person.[AN]
+
+[MidRight]
+We don't know her[N]
+very well personally.[AN]
+She came to us out of[N]
+nowhere to guide us.[AN]
+That's why she has[N]
+such a nickname.[AN]
+
+[MidLeft]
+Is it possible to[N]
+meet Echidna in person?[AN]
+I want to thank her[N]
+for helping us out.[AN]
+
+[MidRight]
+Echidna should be on[N]
+the coast waiting for us.[AN]
+
+[MidLeft]
+Looks like we'll have to[N]
+get through this one too, then.[AN]
+What is she like, I wonder...[A][X]
+
+
+
+
+
+#0xF12 Chapter5AreaEvent
+
+[MidLeft][LoadDenny]
+Looks like they've arrived.[AN]
+Platoons, on your ready![N]
+We must stop these criminals![A][X]
+
+
+
+
+
+#0x97A Chapter5VSDenny
+
+[MidLeft][LoadDenny]
+You damned runaways![N]
+Stop at once![AN]
+Looks like it's up to me...[N]
+I shall stop you myself![A][X]
+
+
+
+
+
+#0x981 Chapter5DennyDeath
+
+[MidLeft][LoadDenny]
+No way...[N]
+This isn't...[AN]
+How this should end...[A][CloseEyes][.....][X]
