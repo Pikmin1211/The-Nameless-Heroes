@@ -12,3 +12,4 @@
 #include "Chapter3.txt"
 #include "Chapter4.txt"
 #include "Chapter5.txt"
+#include "Chapter6.txt"

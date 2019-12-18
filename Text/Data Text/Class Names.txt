@@ -245,7 +245,10 @@ Marshall[X]
 Thumaturge[X]
 
 #0xF10
-Swd. Knight[X]
+Swd. Armor[X]
 
 #0xF2B
 Butler[X]
+
+#0xF41
+Sergeant[X]

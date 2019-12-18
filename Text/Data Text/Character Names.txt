@@ -134,7 +134,7 @@ Hyuuga[X]
 Schnee[X]
 
 #0x92
-Hugh[X]
+Magi[X]
 
 #0x97
 Haguro[X]
@@ -185,7 +185,7 @@ Gladiator[X]
 Bandit[X]
 
 #0x1D0
-O'Neill[X]
+Julio[X]
 
 #0xD4F
 Phelix[X]
@@ -215,16 +215,10 @@ Haltmann's[X]
 Valkyrie[X]
 
 #0x1DB
-Bazba's[X]
+Rosh's[X]
 
 #0x1DD
 Monster[X]
-
-#0x1E9
-Frelian[X]
-
-#0x1EA
-Rausten[X]
 
 #0x1ED
 Civilian[X]
@@ -242,7 +236,7 @@ Pirate[X]
 Haltmann[X]
 
 #0x1C0
-Breguet[X]
+Hesus[X]
 
 #0x1D2
 Harvey[X]
@@ -251,7 +245,7 @@ Harvey[X]
 Civilian[X]
 
 #0x1C2
-Bazba[X]
+Rosh[X]
 
 #0x1C3
 Saar[X]
@@ -294,3 +288,42 @@ Evil[X]
 
 #0xC9
 Raptor[X]
+
+#0x1EA
+Vigilante[X]
+
+#0xD37
+Liam[X]
+
+#0x1E9
+Liam's[X]
+
+#0xD40
+Jeronimo[X]
+
+#0xF66
+Borg[X]
+
+#0x1BC
+Tyler[X]
+
+#0x1F3
+Horvas[X]
+
+#0x19A
+Quixote[X]
+
+#0xF65
+Trident[X]
+
+#0x19F
+Unicorn[X]
+
+#0x1B2
+Centurion[X]
+
+#0xF64
+Aegis[X]
+
+#0xF67
+Carlos[X]

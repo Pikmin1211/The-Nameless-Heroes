@@ -63,10 +63,10 @@ not to be taken by surprise.[A][X]
 Hey, Boss![AN]
 They're saying that some[N]
 mercenary folk've showed up![AN]
-And that O'Neill[N]
-and Breguet were...[AN]
+And that Julio[N]
+and Hesus were...[AN]
 
-[MidRight][LoadBazba]
+[MidRight][LoadRosh]
 Killed, and they say[N]
 it was these worms.[AN]
 Cocky bastards...[AN]
@@ -88,7 +88,7 @@ Yeah![A][X]
 
 #0x917 Chapter2Opening3
 
-[MidRight][LoadBazba]
+[MidRight][LoadRosh]
 Well, that was a ruckus.[AN]
 Those mercenaries'll soon be[N]
 cleared out, so don't worry.[AN]
@@ -155,7 +155,7 @@ Oh? Is it my turn?[AN]
 Fear not, sir. My eyes[N]
 are a sharp as a hawk's.[AN]
 Allow me to direct[N]
-you through the fog.[A][X]
+you through the fog.[A][Clear][X]
 
 
 
@@ -173,7 +173,7 @@ from a long distance.[AN]
 However, I'll be wide open[N]
 while I'm operating it.[AN]
 If possible, I'd ask you[N]
-to try and protect me.[A][X]
+to try and protect me.[A][Clear][X]
 
 
 
@@ -458,12 +458,12 @@ Hurry! They shouldn't be far![A][X]
 
 
 
-#0x8FD Chapter2IsaacVsBazba
+#0x8FD Chapter2IsaacVsRosh
 
 [MidRight][LoadIsaac]
 You're the boss, right?[AN][Clear]
 
-[MidLeft][LoadBazba]
+[MidLeft][LoadRosh]
 Huh? So you're the lot[N]
 runnin' around my island?[AN]
 I'll make ya pay[N]
@@ -476,7 +476,7 @@ or to surrender and[N]
 be arrested by us.[AN][ClearText]
 Choose which you like.[AN][Clear]
 
-[MidLeft][LoadBazba]
+[MidLeft][LoadRosh]
 Oi, you forgot the[N]
 third option here, eh?[AN]
 To kill all[N]
@@ -486,11 +486,11 @@ of ya bastards![A][X]
 
 
 
-#0x953 Chapter2VsBazba
+#0x953 Chapter2VsRosh
 
-[MidLeft][LoadBazba]
+[MidLeft][LoadRosh]
 I'm the head of this pirate[N]
-crew, the mighty Bazba![AN][ClearText]
+crew, the mighty Rosh![AN][ClearText]
 Hope you've enjoyed your life,[N]
 'cuz it's about to end![A][X]
 
@@ -498,10 +498,10 @@ Hope you've enjoyed your life,[N]
 
 
 
-#0x954 Chapter2BazbaDeath
+#0x954 Chapter2RoshDeath
 
-[MidLeft][LoadBazba]
-I'm the... mighty... Bazba...[N]
+[MidLeft][LoadRosh]
+I'm the... mighty... Rosh...[N]
 This ain't... uuugh...[A][X]
 
 

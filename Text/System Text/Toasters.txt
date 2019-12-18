@@ -126,10 +126,6 @@ Your inventory is full.[X]
 #0x7E1
 Item cannot be repaired.[X]
 
-#0x7E2
-You cannot stop in the[N]
-middle of the tutorial.[X]
-
 #0x7E3
 Your supply convoy is full.[N]
 Select an item to discard.[X]
@@ -308,11 +304,6 @@ Skill learned.[X]
 #0x81E
 Skill learned.[X]
 
-#0x82B
-Linking error.[N]
-Turn the power off, check[N]
-the connections, and retry.[X]
-
 #0x82C
 Already used[X]
 
@@ -326,9 +317,6 @@ between units.[X]
 #0x6F4
 This unit cannot take part[N]
 in this chapter.[X]
-
-#0x6F5
-We select two units and exchange items.[X]
 
 #0x6F6
 Please select the person you want to exchange items with.[X]
@@ -346,14 +334,6 @@ Display all units' items.[X]
 
 #0x6FA
 Buy and sell items.[X]
-
-#0x6FB
-I can not fight because I do not[N]
-have weapons that I can use.[X]
-
-#0x6FC
-You can not sortie if you[N]
-do not have usable weapons.[X]
 
 #0x6FD
 You can not sort this unit.[X]

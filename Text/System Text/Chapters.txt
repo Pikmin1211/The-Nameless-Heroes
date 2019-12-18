@@ -126,12 +126,12 @@ Pride and Belief[X]
 Seize Gate[X]
 
 #0xED Chapter12Name
-Lost in a Sandstorm[X]
+Lost in the Sand[X]
 
 #0x139 Chapter13Objective
 Defeat Boss[X]
 
-#0xF5
+#0xF5 Chapter13Name
 Flames of Evil[X]
 
 #0x143 MapChapter14Objective
@@ -182,16 +182,20 @@ Black Clash[X]
 
 #0xE6D Chapter16bObjective
 Defeat Officers[N]
-or Defeat Ken[X]
+or Defeat Kempf[X]
 
 #0xF9 Chapter17Name
 Moonlit Knight[X]
 
 #0x10F Chapter17xName
-Ch 17x[X]
+Knightly Figure[X]
 
-#0xF37 Chapter17Objective
-Defeat All Bandits[X]
-
-#0x12E MapChapter17Objective
+#0x13C MapChapter17xObjective
 Defeat All[X]
+
+#0xF37 Chapter17xObjective
+Defeat all[N]
+the bandits[X]
+
+#0x14A Chapter17bObjective
+Stop Lizzy[X]

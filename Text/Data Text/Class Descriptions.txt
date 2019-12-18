@@ -15,8 +15,8 @@ Magicians with a mastery of all magics.[N]
 Equip: Anima, light, dark. Skill: Lifetaker.[X]
 
 #0x691
-Elite soldiers who have honed their skills[N]
-to perfection. Equip: Lances. Skill: Impale.[X]
+Elite soldiers who take the front line.[N]
+Equip: Lances. Skills: Lancefaire, Impale.[X]
 
 #0x2CB
 Mountain thieves who attack with[N]
@@ -313,3 +313,7 @@ open seas. Equip: Ballistae.[X]
 #0xF2D
 Knights of great skill. Equip:[N]
 Lances, bows. Skill: Pavise.[X]
+
+#0xF42
+An experienced and fierce warrior.[N]
+Equip: Swords, lances. Skill: Petrify.[X]

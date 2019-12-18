@@ -34,12 +34,6 @@ Save[X]
 #0x564
 World Map[X]
 
-#0xD37
-Liam[X]
-
-#0xD40
-Jeronimo[X]
-
 #0xE2D
 Support Down[X]
 

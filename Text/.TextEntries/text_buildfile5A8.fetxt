@@ -1,4 +1,4 @@
 Wrath[N]
 
-Crit +50% when HP is at 1.[X]
+Crit +50% when HP < 50%.[X]
 

@@ -328,7 +328,7 @@ bastards. Let's go![A][X]
 
 #0x8D4 PrologueTurn1Enemy
 
-[MidRight][LoadONeill]
+[MidRight][LoadJulio]
 Damn, they hired mercenaries...[....][AN]
 But how long can they hold out[N]
 with so few fighters?[AN]
@@ -374,23 +374,23 @@ At yer command, boss![A][X]
 
 
 
-#0x8D6 PrologueVSONeill
+#0x8D6 PrologueVSJulio
 
-[MidLeft][LoadONeill]
+[MidLeft][LoadJulio]
 I'll start by killing you![A][X]
 
 
 
 
 
-#0x8DD PrologueIsaacVSONeill
+#0x8DD PrologueIsaacVSJulio
 
 [MidRight][LoadIsaac]
 You've been razing this[N]
 village for your own gain...[AN]
 I'll make you pay for that.[AN]
 
-[Clear][MidLeft][LoadONeill]
+[Clear][MidLeft][LoadJulio]
 Damn![AN]
 What the hell[N]
 are you bastards!?[AN]
@@ -401,9 +401,9 @@ no fuckin' match![A][X]
 
 
 
-#0x8D7 PrologueONeillDeath
+#0x8D7 PrologueJulioDeath
 
-[MidLeft][LoadONeill]
+[MidLeft][LoadJulio]
 Wh-what the hell...?[A][X]
 
 
@@ -533,7 +533,7 @@ save our village...[A][X]
 
 #0x8D3 PrologueRangeEvent
 
-[MidRight][LoadONeill]
+[MidRight][LoadJulio]
 Hey, assholes![N]
 Get out here![A][X]
 

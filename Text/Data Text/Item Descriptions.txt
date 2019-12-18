@@ -634,3 +634,11 @@ Long-range weapon.[X]
 
 #0xF2F
 A blade with a floral design.[X]
+
+#0xF40
+Lizzy only. A blade able to control space.[X]
+
+#0xF61
+When held, survive a[N]
+fatal blow with 1 HP and[N]
+fully heal after combat.[X]

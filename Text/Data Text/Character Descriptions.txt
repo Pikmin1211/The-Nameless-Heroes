@@ -70,11 +70,11 @@ A bandit who roams[N]
 around this region.[X]
 
 #0x235
-A member of Bazba's bandits,[N]
+A member of Rosh's pirates,[N]
 who roam around this region.[X]
 
 #0x21D
-The leader of Bazba's Bandits.[X]
+The leader of a pirate crew.[X]
 
 #0x230
 A soldier from the Kingdom[N]
@@ -175,3 +175,7 @@ his abilitues are not recognized.[X]
 #0x21A
 An Etrurian commander who[N]
 manages the Eburacum mines.[X]
+
+#0x21F
+Commander of the troops sent[N]
+to Jutes. An Etrurian general.[X]

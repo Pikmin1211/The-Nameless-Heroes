@@ -15,14 +15,6 @@ Has been transferred.[X]
 #0x824
 [Left][LoadYggdra][X]
 
-#0x825
-[Left]An error has occured.[X]
-
-#0x82A
-[Left][LoadYggdra]
-You can do no damage.[A][ClearText]
-Would you like to quit?[Yes][X]
-
 #0x836
 Welcome to the armory![A][N]
 These are the weapons[N]

@@ -370,3 +370,39 @@ Arrive[X]
 #0xEFA
 Arrive at a[N]
 destination.[X]
+
+
+#0xE13
+Shove[X]
+
+#0xE14
+Push an adjacent[N]
+unit one tile away.[X]
+
+#0xE15
+Smite[X]
+
+#0xE16
+Push an adjacent[N]
+unit two tiles away.[X]
+
+#0xE17
+Pivot[X]
+
+#0xE18
+Move to the opposite[N]
+side of an adjacent ally.[X]
+
+#0xE19
+Pull[X]
+
+#0xE1A
+Move adjacent ally to[N]
+this unit's opposite side.[X]
+
+#0xE1B
+Swap[X]
+
+#0xE1C
+Swap positions with[N]
+an adjacent ally.[X]

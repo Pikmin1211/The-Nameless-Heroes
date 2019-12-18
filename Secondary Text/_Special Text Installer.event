@@ -1,0 +1,29 @@
+#include "_ASCII Definitions.event"
+
+{
+	#include "Terrain_Names.event"
+}
+
+{
+	#include "Main_Menu.event"
+}
+
+{
+	#include "Unit_Menu.event"
+}
+
+{
+	#include "Turn_Counter.event"
+}
+
+{
+	#include "Use_Menu.event"
+}
+
+{
+	#include "Discard_Menu.event"
+}
+
+{
+	#include "Class_Change_Menu.event"
+}

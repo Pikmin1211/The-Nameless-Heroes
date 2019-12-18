@@ -22,7 +22,7 @@ The scent of death hangs in the air.[AN][Event][X]
 
 #0x8E9 Chapter1StartEvent
 
-[MidRight][LoadBlondeHairMan][MidLeft][LoadBreguet]
+[MidRight][LoadBlondeHairMan][MidLeft][LoadHesus]
 Hey! Are you sure these are all[N]
 the girls and treasures in town!?[AN]
 
@@ -54,17 +54,17 @@ more damn valuables![A][X]
 
 #0x8EA Chapter1StartEventPart2
 
-[MidRight][LoadBreguet][MidLeft][LoadPirate]
+[MidRight][LoadHesus][MidLeft][LoadPirate]
 Boss man! We're in trouble![AN]
 I heard the guys who bumped[N]
-off O'Neill are heading here![AN]
+off Julio are heading here![AN]
 You didn't tell us we[N]
 would be fighting anybody![AN]
 
 [MidRight]
 Hey now, you don't[N]
 have to be afraid.[AN]
-That idiot O'Neill was[N]
+That idiot Julio was[N]
 just taken off guard.[AN]
 Those "mercenaries" can barely[N]
 swing their own weapons.[AN]
@@ -225,7 +225,7 @@ make a fool of us![A][X]
 
 #0x8F0 Chapter1Turn2Event
 
-[MidRight][LoadBreguet]
+[MidRight][LoadHesus]
 Alright lads![AN]
 Here comes those[N]
 righteous heroes![AN]
@@ -369,9 +369,9 @@ I'm always happy to assist you.[A][X]
 
 
 
-#0x8F5 Chapter1VsBreguet
+#0x8F5 Chapter1VsHesus
 
-[MidLeft][LoadBreguet]
+[MidLeft][LoadHesus]
 Damn! I can't count on[N]
 those goons for anything![AN]
 Bah! I'll handle this myself![A][X]
@@ -380,9 +380,9 @@ Bah! I'll handle this myself![A][X]
 
 
 
-#0x8F6 BreguetDeath
+#0x8F6 HesusDeath
 
-[MidLeft][LoadBreguet]
+[MidLeft][LoadHesus]
 Wh-what?[N]
 Me... beaten...?[A][X]
 
@@ -438,7 +438,7 @@ I'm so sorry.[A][X]
 
 #0x8F7 Chapter1EndEvent
 
-[Right][LoadBreguet][MidLeft][LoadIsaac]
+[Right][LoadHesus][MidLeft][LoadIsaac]
 Come on, tell us where[N]
 your damned base is.[AN]
 Where have you taken the people[N]
@@ -519,7 +519,7 @@ I hope so.[A][X]
 
 
 #0x48 Chapter1Guide
-[MidLeft][LoadBreguet]
+[MidLeft][LoadHesus]
 Tsk, what a cheap-ass town.[AN]
 
 [MidRight][Beat][AN]

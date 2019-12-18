@@ -1,0 +1,1178 @@
+#0x9A4 Chapter6Opening1
+
+[MidRight][LoadGreenSoldier][MidLeft][LoadIsaac]
+[Beat][AN]
+Fresh air at last...[N]
+It's been a long time.[AN]
+
+[MidRight]
+Now we all need to escape[N]
+to the southwest coast.[AN]
+We'll probably be met with[N]
+some harsh resistance here.[AN]
+Brace yourselves, friends.[AN]
+
+[MidLeft]
+Of course.[AN]
+Let's carry[N]
+out our mission.[AN]
+
+[MidRight]
+We're counting on you.[AN]
+I need to go gather[N]
+up the civilians,[AN]
+so we part ways here.[AN]
+I'll leave the[N]
+rest in your hands.[AN]
+
+[ClearFace][LoadAudrey]
+Isaac, everyone is ready.[AN]
+We need to protect[N]
+these people, huh...[AN]
+How long do you think[N]
+we'll need to hold out?[AN]
+
+[MidLeft]
+[CloseEyes][Beat][.....][OpenEyes]I have no idea.[AN]
+We have the Resistance helping[N]
+us, but that's anyone's guess.[AN]
+What I do know is that[N]
+we owe them our freedom.[AN]
+That's why we need to try[N]
+our damndest to help them.[AN]
+
+[MidRight]
+For you and the Resistance,[N]
+I'll do my best as well.[AN]
+
+[MidLeft]
+Good. It's nice to know that[N]
+we're all on the same page.[AN]
+Once we've escorted all[N]
+the prisoners to safety,[AN]
+We need to [Red]escape[Red][N]
+from the southern fort.[AN]
+I can't... no, I won't[N]
+allow any sacrifices.[AN]
+
+[MidRight]
+Alright. The Resistance said[N]
+the boat will be waiting there.[AN]
+We'll let them handle the rest.[AN]
+
+[MidLeft]
+Then it's time.[N]
+Mercenaries, move out![A][X]
+
+
+
+
+#0x9A5 Chapter6Opening2
+
+[MidLeft][LoadNuma][MidRight][LoadRedSoldier]
+Commander Numa.[AN]
+We've discovered a group ahead[N]
+that we believe to be the fugitives.[AN]
+They seem to be trying to make[N]
+a run for the southeastern coast.[AN]
+We'll begin our pursuit immediately.[AN]
+
+[MidLeft]
+Very well. If they don't obey[N]
+our orders, you may kill them.[AN]
+Hmph, those Eburacum bastards...[N]
+They've made us quite a ruckus.[AN]
+They must have known that our[N]
+troop was out at the time...[AN]
+What fools. They've escaped[N]
+right back into our spears.[AN]
+
+[MidRight]
+It seems that the Resistance[N]
+is involved in their escape.[AN]
+I'm afraid they have some[N]
+kind of setup here...[AN]
+
+[MidLeft]
+Huh, the Resistance?[AN]
+They seem to be rallying[N]
+with some "Hero of the West".[AN]
+If it's them here, then...[AN]
+That "Hero" person[N]
+must be here as well.[AN]
+Be sure to find her and[N]
+capture her - alive.[AN]
+
+[MidRight]
+Alive...?[AN]
+But sir, shouldn't we[N]
+execute her on the spot?[AN]
+If we let her live, then...[AN]
+
+[MidLeft]
+Use your head.[AN]
+These Resistance fighters all[N]
+see this person as an icon.[AN]
+Suppose we catch her alive and[N]
+then execute her publicly.[AN]
+It'll destroy their morale.[AN]
+
+[MidRight]
+I see...[AN]
+
+[MidLeft]
+So, get a move on![AN]
+
+[MidRight]
+Yes, sir![A][X]
+
+
+
+
+#0x9A6 Chapter6Opening3
+
+[MidLeft][LoadGingerMan][MidRight][LoadGreenSoldier]
+We'll guide you to[N]
+the safe zone, alright?[AN]
+Whatever happens,[N]
+keep close to us.[AN]
+And if anything[N]
+happens to us...[AN]
+Just run straight for[N]
+the southeastern fort.[AN]
+Don't go looking back.[AN]
+I promise you'll be in[N]
+good hands there.[AN]
+
+[MidLeft]
+R-right. [CloseEyes]Deep breaths.[.....][OpenEyes][N]
+We're all gonna be fine.[A][X]
+
+
+
+
+#0x9A7 Chapter6Opening4
+
+[FarLeft][LoadKara][Left][LoadSofia][MidRight][LoadEchidna]
+Okay gang, it's time.[AN]
+Those prisoners will[N]
+be coming here any moment.[AN]
+Remember, focus on our[N]
+mission, you got that?[AN]
+
+[FarLeft]
+Roger that![N]
+Leave it to me![AN]
+
+[Left]
+[CloseEyes][Beat][.....][OpenEyes][N]
+...U-um, right![AN]
+
+[MidRight]
+Kara, you're[N]
+energetic...[AN]
+Per usual.[AN]
+
+[FarLeft]
+Thanks, heheh...[AN]
+
+[MidRight]
+That wasn't supposed[N]
+to be a compliment...[AN]
+And, Sofia, you look[N]
+completely exhausted.[AN]
+I don't think I've seen[N]
+you take a single break.[AN]
+I know you feel obligated[N]
+to heal us with your staves,[AN]
+but you're of no use if[N]
+you're falling asleep on us.[AN]
+Take some time to rest,[N]
+you've definitely earned it.[AN]
+
+[Left]
+...Huh...?[N]
+No... I'm alright.[AN]
+A lot of people have[N]
+been suffering...[AN]
+I want to help them[N]
+as soon as I can...[AN]
+
+[MidRight]
+Listen to yourself, girl.[N]
+You can barely speak to me.[AN]
+Don't you think you're[N]
+overdoing it here?[AN]
+
+[Left]
+I'll get some rest once[N]
+the mission is over, so...[AN]
+Please, let me help you.[N]
+I really must...[AN]
+
+[MidRight]
+[CloseEyes]...[.....][OpenEyes]Alright, fine.[AN]
+But the moment we're done here,[N]
+I'll carry you to bed if I have to.[AN]
+
+[Left]
+Ah, thank you[N]
+very much, ma'am![AN]
+
+[ClearFace][LoadJester]
+Miss Echidna! Emergency![N]
+Pirates...! The pirates are...![AN]
+
+[MidRight]
+Whoa, whoa. Easy, kid.[N]
+What's this about pirates?[AN]
+
+[Left]
+Uh, well...[AN]
+
+[FarFarRight]
+Echidna! Please come quickly![AN]
+It's pirates! Pirates have[N]
+started showing up onshore![AN]
+
+[MidRight]
+Well, shit. Talk about[N]
+bad timing, am I right?[AN]
+Alright, I'll head over[N]
+there and fend them off.[AN]
+If that ship goes down,[N]
+we're about as good as dead.[AN]
+Jester, lead the others and[N]
+deal with the situation here.[AN]
+
+[Left]
+R-right! Leave it to us![N]
+We fight for justice![AN]
+
+[MidRight]
+And don't you all go dying[N]
+on me, you got that? Now go![A][X]
+
+
+
+
+
+#0x9B2 Chapter6Ending
+
+[MidLeft][LoadIsaac][MidRight][LoadEchidna]
+So, you finally showed up, huh?[AN]
+What a slowpoke! You're late,[N]
+so hurry it up and get onboard![AN]
+
+[MidLeft]
+...Are you the so-called[N]
+"Hero of the West"?[AN]
+
+[MidRight]
+Well, I'm told people call me that.[N]
+Didya need something from me?[AN]
+
+[MidLeft]
+The Resistance has helped us a lot.[AN]
+As the leader of my mercenaries,[N]
+I'd like to express our gratitudes.[AN]
+
+[MidRight]
+Hah! Well, don't worry about it.[N]
+Besides, we owe you our thanks too.[AN]
+You saved our arses back there.[AN]
+Say, you lot are pretty tough...[N]
+Have you considered joining us?[AN]
+
+[MidLeft]
+I'm grateful for the invitation,[N]
+but we've already decided to leave.[AN]
+I'm afraid we'll be parting ways.[AN]
+
+[MidRight]
+Ah, I'm sorry to hear that.[N]
+Taking a better look at you...[AN]
+You don't seem to be from around[N]
+here, so that's a smart move.[AN]
+
+[MidLeft]
+I have to put our safety first.[N]
+...I hope you can understand.[AN]
+
+[MidRight]
+Not a problem here.[AN]
+The Resistance ain't a popular[N]
+group to be joining anyways...[AN]
+Well, if we do meet again,[N]
+maybe you'll change your tune.[AN]
+Oh, I almost forgot. My name[N]
+is Echidna. And you are...?[AN]
+
+[MidLeft]
+My name is Isaac.[N]
+[ToggleSmile]It's a pleasure.[AN][ToggleSmile]
+
+[MidRight]
+Well, Isaac... I'll remember[N]
+your name. And what you did here.[AN]
+And remember, we're always open.[AN]
+
+[MidLeft]
+I'd be happy to help if[N]
+the opportunity comes.[A][Clear][X]
+
+
+
+
+
+#0x9AC Chapter6Ending2
+
+[MidLeft][LoadJester][MidRight][LoadEchidna]
+Hey, Jester! Good to see[N]
+you made it out okay.[AN]
+I was worried since you're[N]
+always going off about...[AN]
+Justice, was it? But you[N]
+ain't seen much fighting.[AN]
+
+[MidLeft]
+Geez, I can handle[N]
+myself, you know![AN]
+
+[MidRight]
+Uh-huh... not sure[N]
+I really believe that.[AN]
+Didn't you get a lot[N]
+of help out there?[AN]
+
+[MidLeft]
+Well I...[.....][AN]
+wait, were you[N]
+watching me?[AN]
+
+[MidRight]
+Hah! No, I just had something[N]
+of a hunch, honest, Jester.[AN]
+You got a little sister, right?[AN]
+I don't care what you start[N]
+yelling on the battlefield,[AN]
+but remember to think about[N]
+the people back at home.[AN]
+Personally, I'd say you'd want[N]
+to get back as soon as you can.[AN]
+
+[MidLeft]
+Well... we got into a bit of[N]
+fight since I've seen her, but...[AN]
+I can't stop fighting just yet.[AN]
+It's for her... no, for[N]
+everyone on the island.[AN]
+That's what my justice is.[AN]
+
+[MidRight]
+Alright, well, I can't force ya.[AN]
+Just remember, if you go out there[N]
+and get yourself killed, well...[AN]
+I don't think anyone wants to[N]
+be telling your sister about it.[AN]
+
+[MidLeft]
+[CloseEyes][Beat][.....][N][OpenEyes]
+Yeah, I know.[AN]
+But anyways, miss Echidna...[N]
+Why did you call me out here?[AN]
+
+[MidRight]
+Ah, right. Jester, I want you to[N]
+stick with Isaac's group for now.[AN]
+
+[MidLeft]
+With them? Why?[AN]
+
+[MidRight]
+Somebody's gotta guard that boat.[AN]
+Not like the other ships don't[N]
+have anyone looking after them.[AN]
+Besides, might do you some good[N]
+to work with the mercenaries.[AN]
+
+[MidLeft]
+Hm...[AN]
+Well, if you[N]
+say so, then.[AN]
+
+[MidRight]
+If you want to fight for your justice,[N]
+you're gonna need to toughen up, kid.[AN]
+You can head on back once everything's[N]
+cleaned up. And don't get reckless.[AN]
+
+[MidLeft]
+Understood![A][Clear][X]
+
+
+
+
+#0x9AD Chapter6Ending3
+
+[FarLeft][LoadKara][Left][LoadSofia][MidRight][LoadEchidna]
+Ah, Kara. Looks like[N]
+you made it out okay.[AN]
+
+[FarLeft]
+Yeah! I saw commander[N]
+and the mercenaries too![AN]
+
+[MidRight]
+Commander...?[AN]
+Oh, you mean[N]
+that Isaac fellow?[AN]
+
+[FarLeft]
+That's right! Did you[N]
+talk to him, Echidna?[AN]
+
+[MidRight]
+I did, if only a little.[N]
+He seems tough as nails.[AN]
+If we had a hardened veteran[N]
+like him on our side, well...[AN]
+Things would be a lot[N]
+easier for us, eh?[AN]
+
+[FarLeft]
+Isaac is really tough![N]
+And reliable too![AN]
+
+[MidRight]
+I can tell he's helped[N]
+you guys through a lot.[AN]
+
+[FarLeft]
+You think so?[AN]
+
+[MidRight]
+Call it a gut feeling.[AN]
+Anyways, you two are[N]
+free to go join him.[AN]
+The ship's over there.[AN]
+
+[FarLeft]
+Alright![AN]
+...Um, I know it's only[N]
+been a little while,[AN]
+But thank you for[N]
+everything you've done![AN]
+[ClearFace]
+
+[MidRight]
+Hah, take care, girl.[AN]
+Now, Sofia. I guess[N]
+you're going too?[AN]
+
+[Left]
+Yes, I am. Thank you for[N]
+taking care of us, Echidna.[AN]
+
+[MidRight]
+It goes both ways, kid.[N]
+You saved plenty of lives.[AN]
+Make sure to look after[N]
+Isaac and the mercenaries.[AN]
+
+[Left]
+Yes, I will![N]
+Thank you again![AN]
+
+[MidRight]
+The men will be sad to[N]
+hear you're going, though.[AN]
+
+[Left]
+H-huh?[AN]
+
+[MidRight]
+Hahah, it's nothing.[AN]
+Remember to look after[N]
+yourself too, got it?[A][X]
+
+
+
+
+#0x9B3 Chapter6Ending4
+
+[MidRight][LoadIsaac][MidLeft][LoadGeese]
+Oi, mate! Ya gettin' used ta[N]
+bein' out on the water?[AN]
+
+[MidRight]
+This ship is very large, and well[N]
+built, so I think I'll be alright.[AN]
+Are you alright with this, though?[AN]
+I'm told this is usually a cargo[N]
+ship, and a well-earned one too.[AN]
+It seems like harboring refugees[N]
+would be quite troublesome for you.[AN]
+
+[MidLeft]
+Ar, well, about that.[AN]
+What would ya think if[N]
+I said we're pirates?[AN]
+
+[MidRight]
+...Are you?[AN]
+
+[MidLeft]
+Hahah, no. Don't be givin'[N]
+me such a frightened face.[AN]
+We ain't quite like that.[AN]
+
+[MidRight]
+Well, I don't see how you'd[N]
+benefit from having us either way.[AN]
+Is there some profit in this?[AN]
+
+[MidLeft]
+Nothin' like that. A while ago, we were[N]
+workin' transport for merchant ships.[AN]
+But as of late, Bern's been startin'[N]
+up their silly little war, and well...[AN]
+Business went straight to the water.[AN]
+We tried to take up pirateerin' but[N]
+we ended up bein' awful pirates. Hah![AN]
+In the end we're back to our old ways.[AN]
+
+[MidRight]
+That explains the size of the ship.[N]
+It really is a merchant's ship, huh.[AN]
+
+[MidLeft]
+We're part of a merchant's[N]
+guild over in Bulgar...[AN]
+Have ya heard o' it?[AN]
+We've got a reputation to[N]
+uphold, so you can trust us.[AN]
+
+[MidRight]
+Yeah, I've heard of it.[AN]
+I didn't expect even you would[N]
+need to resort to piratery though.[AN]
+
+[MidLeft]
+Crazy, ain't it. Business is tough[N]
+all over these blasted islands.[AN]
+Well anyways, lad, we're gonna[N]
+be anchoring in Russel first.[AN]
+We got plenty o' cargo to drop[N]
+off down at 'er port below deck.[AN]
+After that we'll take ya straight[N]
+to yer destination. That alright?[AN]
+
+[MidRight]
+That's not a problem. We'll[N]
+take care of guard duty, then.[AN]
+
+[MidLeft]
+Perfect. Me and my men[N]
+can't fight worth nuts.[AN]
+It's a four day sail from[N]
+here, so take it easy.[AN]
+
+[MidRight]
+Four days, huh...[AN]
+
+[MidLeft]
+Hah! That's right.[AN]
+Think you'll get tired[N]
+o' seein' my ugly mug?[AN]
+
+[MidRight]
+[ToggleSmile]Heh, something[N]
+like that.[AN][ToggleSmile]
+
+[MidLeft]
+Gahaha! Can't blame ya.[N]
+Four days ain't enough,[AN]
+but I'll make ya see the[N]
+real beauty of the sea.[AN]
+You'll see, lad! Ha![AN]
+
+[MidRight][Beat][AN]
+
+[FarFarLeft]
+Heyyyy! Can you[N]
+hear meeeee!?[AN]
+
+[MidLeft]
+Someone's hollerin'.[N]
+Is it at us...?[AN]
+
+[MidRight]
+Ah, it's...[A][X]
+
+
+
+
+#0x95D Chapter6Ending5
+
+[MidLeft][LoadEchidna]
+Heeeey![N]
+Can ya hear meee?![AN]
+Looks like we're[N]
+about to take off![AN]
+Don't forget to[N]
+keep in touch![AN]
+Take care, lad![A][X]
+
+
+
+
+#0x95C Chapter6Ending6
+
+[MidRight][LoadIsaac][MidLeft][LoadGeese]
+Heh, looks like[N]
+somebody's popular.[AN]
+Are ya as good as[N]
+she makes ya seem?[AN]
+
+[MidRight]
+You could say that.[AN]
+
+[MidLeft]
+Guess we've got nothin'[N]
+ta worry about, then.[AN]
+Well, I've got some[N]
+work ta be doin' now.[AN]
+Oh, and before I[N]
+forget ta mention it...[AN]
+If ya feel sick,[N]
+try ta hurl overboard.[AN]
+Don't want ta be moppin'[N]
+up your mess. Gahaha![AN]
+Bon voyage, friend.[AN]
+
+[MidRight]
+Uh, right.[N]
+Thanks.[A][X]
+
+
+
+
+#0xE3B Chapter6Ending7
+
+[MidRight][LoadGalius][MidLeft][LoadRedSoldier]
+Commander Galius![N]
+The area is under control.[AN]
+We've purged any resistance,[N]
+as per your orders, sir.[AN]
+We've also received some[N]
+reports about the Nameless...[AN]
+
+[MidRight]
+Gwahahaha! Well done.[N]
+Those Nameless dotards...[AN]
+Seems they've been working[N]
+with that Resistance here.[AN]
+Well now, was anyone[N]
+needlessly violent today?[AN]
+
+[MidLeft]
+No, sir. Our troop[N]
+was well behaved.[AN]
+
+[MidRight]
+Excellent. As professionals,[N]
+we have standards to uphold.[AN]
+I don't need those who...[AN]
+indulge themselves in[N]
+gratuitous violence around.[AN]
+We must properly represent[N]
+the glory of Etruria.[AN]
+Now then, sorry to[N]
+keep you waiting, ma'am.[A][X]
+
+
+
+
+#0xE3C Chapter6Ending8
+
+[MidLeft][LoadGalius][FarRight][LoadLoli][Right][LoadKelikGirl][HalfCloseEyes]
+No, no...[AN]
+Don't come[N]
+any closer![AN]
+
+[MidLeft][ToggleSmile]
+Heheh. Don't be afraid now.[AN]
+My name is Galius, commander[N]
+of the Schwarz Ritter.[AN]
+Ma'am, I have a...[N]
+favor to ask of you.[AN]
+That is why we kept you and[N]
+your child alive, after all.[AN]
+Little miss, everyone is dead,[N]
+except for you and your mother.[AN]
+Do you know why that is, hmm?[AN]
+
+[FarRight]
+H-huh?[AN]
+
+[MidLeft]
+It's because they gave harbor to[N]
+the Resistance and worked with them.[AN]
+Do you understand, little one?[N]
+I would like you to remember this.[AN]
+After all, we wouldn't want[N]
+something like this to happen again.[AN]
+
+[Right]
+What do you want from us?[N]
+Please, don't hurt us![AN]
+
+[MidLeft]
+Whoa, whoa. Hold on there, ma'am.[AN]
+We are honorable knights. I would[N]
+never do something so... barbaric.[AN]
+I believe you've seen enough[N]
+violence today, don't you agree?[AN]
+Men, release these women.[A][X]
+
+
+
+
+
+#0xE3D Chapter6Ending9
+
+[MidRight][LoadGalius][MidLeft][LoadRedSoldier]
+Sir... why did[N]
+we let them go?[AN]
+
+[MidRight]
+It's simple, my boy. How can a[N]
+story be told with no teller?[AN]
+And I'm sure those two will[N]
+be telling such a nice story.[AN]
+Perhaps for the rest of[N]
+their little lives... Gahaha![AN]
+Alright, let's get a move on.[AN]
+We must report the prescence[N]
+of the Nameless, posthaste.[A][X]
+
+
+
+
+
+#0x5C Chapter6Guide
+
+[MidRight][LoadIsaac][MidLeft][LoadWrys]
+Allow me to instruct you for[N]
+the next mission, as usual.[AN]
+
+[MidRight]
+Someone's eager today.[AN]
+
+[MidLeft]
+That's what the Guide Corner[N]
+is here for, after all.[AN]
+Without further ado...[AN]
+For this mission, you'll have[N]
+[Red]20 rounds [Red]to escape the field.[AN]
+
+[MidRight]
+There aren't many enemies on[N]
+the way to the escape point.[AN]
+It almost seems too easy...[AN]
+
+[MidLeft]
+You'd be correct.[AN]
+Naturally, there will be[N]
+reinforcements appearing.[AN]
+Bandits will be coming down[N]
+from the path in the upper right.[AN]
+And if [Red]three [Red]civilians are[N]
+killed, the mission is a failure.[AN]
+They'll be escaping from the fort's[N]
+gate, so be sure to protect them.[AN]
+
+[MidRight]
+That will be quite difficult.[AN]
+We'll need to fend off the[N]
+Etrurians from the left, too.[AN]
+I might need to split our party.[AN]
+
+[MidLeft]
+Alongside the bandits, their[N]
+leader will be appearing as well.[AN]
+I'm sure you know of[N]
+your personal skill, Intimidate?[AN]
+
+[MidRight]
+Yeah, it can lower the[N]
+evasion of any enemies nearby.[AN]
+This is going to be difficult.[AN]
+I want to have my sword wielding[N]
+allies deal with those brigands,[AN]
+but they typically don't have[N]
+much in the way of endurance.[AN]
+I'll need to carefully consider[N]
+where to send everyone here.[AN]
+
+[MidLeft]
+That would be wise. Did you[N]
+see the group in the lower left?[AN]
+
+[MidRight]
+The enemy formation there[N]
+seems very tough to crack.[AN]
+
+[MidLeft]
+The group surrounding the commander[N]
+will charge you around the [Red]11th round.[Red][AN]
+So, you don't need to head all[N]
+the way down there to face them.[AN]
+In fact, more enemies may start[N]
+appearing, so it's best not to.[AN]
+
+[MidRight]
+In that case,[AN]
+we should head for the exit[N]
+once all the civilians are safe.[AN]
+We'll need to fend off both[N]
+the Etrurians and the bandits...[AN]
+It'll be tough, but we'll[N]
+have to grin and bear it.[AN]
+Thanks for the advice.[A][X]
+
+
+
+
+#0x8C4 Chapter6Turn3Event
+
+[MidRight][LoadPirate][MidLeft][LoadMike]
+A'right, time ta get ta work.[AN]
+Looks like these runaways 'ave[N]
+got a pretty bounty on 'er heads.[AN]
+Heheheh, this job'll be easier[N]
+'an taking candy from a baby.[AN]
+Them Etrurian blokes a'ways[N]
+give us the easiest work.[AN]
+We should thank 'em, eh?[AN]
+
+[MidRight]
+Yeah, I guess yer right![AN]
+Those Resistance folk[N]
+are a bunch of civs.[AN]
+Ain't no match for us![AN]
+'Course we'd be scared[N]
+shitless if that...[AN]
+"Hero o' the West"[N]
+were here, huh?[AN]
+
+[MidLeft]
+Bahh, what's to be 'fraid of?[AN]
+He ain't no Hero, probably[N]
+just got lucky is all.[AN]
+When people are outta hope,[N]
+they look real hard for it.[AN]
+Nothin' ta worry about, boy.[AN]
+
+[MidRight]
+I hope yer right, chief.[A][X]
+
+
+
+
+
+
+#0x946 Chapter6CiviliansEscaped
+
+[MidLeft][LoadIsaac]
+Looks like that's the last of them.[N]
+Let's get out of here ourselves.[AN]
+No sense in keeping on fighting[N]
+when we don't really have to.[A][X]
+
+
+
+
+
+#0x985 Chapter6MikeBattle
+
+[MidLeft][LoadMike]
+Heheheh! Looks like we're[N]
+gonna be making a killin'.[AN]
+Nice gig, ain't it?[AN]
+Now, stay put so my[N]
+axe can get a clean hit![A][X]
+
+
+
+
+
+#0x986 Chapter6MikeDeath
+
+[MidLeft][LoadMike]
+Argh...[N]
+I screwed up...[A][X]
+
+
+
+
+
+#0x9B0 Chapter6NumaBattle
+
+[MidLeft][LoadNuma]
+You pathetic Resistance![AN]
+Let's see you squirm after[N]
+I skewer you on my spear![A][X]
+
+
+
+
+
+
+#0x9B1 Chapter6NumaDeath
+
+[MidLeft][LoadNuma]
+Ergh...[N]
+How... how could...?[A][X]
+
+
+
+
+
+#0x8E6 Chapter6IsaacKaraTalk
+
+[MidLeft][LoadIsaac][MidRight][LoadKara]
+Ah, Commander!![N]
+I'm glad you're okay.[AN]
+
+
+[MidLeft][Beat][AN][MoveRight][MoveRight][Clear][MidLeft][LoadIsaac]
+
+[MidRight]
+Ow! W-why'd[N]
+you hit me?![AN]
+
+[MidLeft]
+Audrey told me you were[N]
+supposed to be back in Ilia.[AN]
+Why are you here?[AN]
+
+[MidRight]
+W-well... I'm part of these[N]
+mercenaries too, you know?![AN]
+And yet you're trying to[N]
+leave me out of all this...[AN]
+And I can't accept the way you[N]
+gave me this stupid certificate![AN]
+You can have it back![AN]
+
+[MidLeft]
+[CloseEyes][Beat][AN][OpenEyes]
+Heh, what a bizarre girl.[AN]
+
+[MidRight]
+What do you mean[N]
+by that, huh?[AN]
+
+[MidLeft]
+I guess there's nothing we[N]
+can about it now, so...[AN]
+I suppose we can look after[N]
+you for a bit longer, Kara.[AN]
+And make sure you properly[N]
+apologize to Audrey,[AN]
+and everyone else. Capiche?[AN]
+
+[MidRight]
+Y-yeah, I got it...[A][X]
+
+
+
+
+
+
+#0x991 Chapter6IsaacJesterTalk
+
+[MidLeft][LoadJester]
+Huff... huff...[N]
+I can... still fight...[AN]
+I gotta... keep...[AN]
+
+[FarFarLeft]
+Hey, kid.[AN]
+
+[MidLeft]
+?![AN]
+[Clear]
+
+[MidRight][LoadJester][MidLeft][LoadIsaac]
+Oh, sorry pal.[N]
+Didn't mean to scare you.[AN]
+I just noticed you were charging[N]
+in there like a bat out of hell.[AN]
+
+[MidRight]
+W-what?[AN]
+
+[MidLeft]
+You're not used to the[N]
+battlefield, are you?[AN]
+
+[MidRight]
+What are you talking about?[AN]
+I may not look like it,[N]
+but I'm a damn good fighter-[AN]
+
+[MidLeft]
+Would a damn good fighter be so startled[N]
+by someone talking to them from behind?[AN]
+You're obviously out of your element.[AN]
+
+[MidRight]
+Ah...[AN]
+
+[MidLeft]
+Luckily I was able to stop you,[N]
+but who knows about next time?[AN]
+That's all I'm trying to say.[N]
+Watch yourself out there, kid.[AN]
+[Clear]
+
+[MidRight]
+Is he on my side...?[A][X]
+
+
+
+
+
+#0x98C Chapter6IsaacSofiaTalk
+
+[MidRight][LoadSofia][MidLeft][LoadIsaac]
+Sofia...[AN]
+I'm glad you're[N]
+alright, too.[AN]
+
+[MidRight]
+Is that you... Isaac?[N]
+It's good to see you again.[AN]
+I'm sorry I didn't make[N]
+it back to you sooner.[AN]
+
+[MidLeft]
+No, it's alright. You were[N]
+just doing what you needed to.[AN]
+Looks like you've been running[N]
+yourself ragged helping out...[AN]
+As you always do.[AN]
+
+[MidRight]
+...This is the best I can do.[AN]
+After Berkus and the[N]
+others were taken away,[AN]
+I tried telling them it was[N]
+some kind of mistake, but...[AN]
+In the end, I was somehow[N]
+able to get help here,[AN]
+from the Resistance.[AN]
+So I've been fighting with them[N]
+hoping to meet up with Audrey.[AN]
+I've been trying to treat[N]
+their wounded, and...[AN]
+
+[MidLeft]
+Sofia, you're clearly exhausted.[AN]
+I know how you are, but you really[N]
+need to look after yourself as well.[AN]
+
+[MidRight]
+Echidna just told me the[N]
+same thing a moment ago.[AN]
+
+[MidLeft]
+She's that hero I'm told about?[AN]
+I guess I'm not the only one who[N]
+thinks you work yourself too hard.[AN]
+
+[MidRight]
+You think so...?[AN]
+Well anyway, I'll[N]
+join back up with you.[AN]
+I'd like to help everyone[N]
+by healing their wounds...[AN]
+After all, I don't want[N]
+any more people to die.[AN]
+
+[MidLeft]
+As long as you don't[N]
+overdo it, Sofia.[A][X]
+
+
+
+
+
+#0x98D Chapter6Village1
+
+[MidRight][LoadCurrent][MidLeft][LoadMoneyMan]
+Sorry, but... I can't allow fugitives[N]
+from Eberacum into our village.[AN]
+Who knows what would happen to us[N]
+if they found you hiding here?[AN]
+I know you've had it hard, but[N]
+we just want to live in peace...[AN]
+Please, take this and leave.[A][X]
+
+
+
+
+
+#0x98E Chapter6Village2
+
+[MidRight][LoadCurrent][MidLeft][LoadOldMom]
+Oh, hello.[N]
+Did you come to see me dance?[AN]
+I'm sorry, but I just finished[N]
+a few moments ago.[AN]
+Oh, by the way... Would you be interested[N]
+in one of these items?[AN]
+A wealthy patron left me a small ransom[N]
+in gifts after watching my performance.[AN]
+You can sell one for gold if you'd like[N]
+or use them to improve your skills.[AN]
+I simply cannot carry all of this by[N]
+myself, so please, take this one.[AN]
+Wealth is useless if you can't use it[N]
+to bring happiness to others, right?[AN]
+Thanks for dropping by. Perhaps we'll[N]
+meet again someday.[A][X]
+
+
+
+
+#0x98F Chapter6Village3
+
+[MidRight][LoadCurrent][MidLeft][LoadOldMan]
+In my youth, I was a knight of some[N]
+renown, I'll have you know.[AN]
+I've even crossed blades with one of[N]
+Etruria's most famous generals, I have.[AN]
+Ah, but I'm an old man now...[AN]
+I'm starting to worry... What if I die[N]
+without passing on my techniques?[AN]
+So I decided to write down what I've[N]
+learned in a book. I have it here.[AN]
+You seem like a strong warrior. I'd[N]
+be honored if you would accept it.[A][X]
+
+
+
+
+
+#0x984 Chapter6NumaCharge
+
+[MidLeft][LoadNuma]
+What are you waiting[N]
+for, you wimps?[AN]
+All right, then...[AN]
+I'll lead the[N]
+charge! After me![A][X]

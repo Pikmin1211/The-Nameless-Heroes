@@ -612,3 +612,9 @@ Fenrir[X]
 
 #0xDFE
 Anemone[X]
+
+#0xF3F
+Dimentior[X]
+
+#0xBC
+Life Draught[X]

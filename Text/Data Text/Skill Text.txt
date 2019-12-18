@@ -20,7 +20,7 @@ Negates the opponent's counterattack.[X]
 
 #0x5A8
 Wrath[N]
-Crit +50% when HP is at 1.[X]
+Crit +50% when HP < 50%.[X]
 
 #0x5C0
 Hero[N]
@@ -120,14 +120,15 @@ Tower Shield[N]
 
 #0x5C6
 Bunker[N]
-Reduces follow-up damage received by half.[X]
+Reduces follow-up damage[N]
+received by half.[X]
 
 #0x5CD
 Desperation[N]
 Follow-up attacks will occur immediately.[X]
 
 #0xD0C
-Continue[N]
+Accost[N]
 Doubles the amount of[N]
 rounds of all combat.[X]
 
@@ -142,7 +143,7 @@ Damage dealt and recieved +10.[X]
 
 #0x5D1
 Death Blow[N]
-Damage +5 and Crit + 15[N]
+Damage +5 and Crit +15[N]
 when attacking.[X]
 
 #0x599
@@ -151,13 +152,13 @@ Def +10 when attacking.[X]
 
 #0x5D3
 Shift[N]
-Can change weapons when attacked[N]
-if unable to counterattack.[X]
+Changes weapon to deal the most[N]
+damage while counterattacking.[X]
 
 #0x5D5
-Mysterious Rhythm[N]
-Once every 4 turns, skills occur[N]
-at a 100% activation rate.[X]
+Quickened Pulse[N]
+Every 4 turns, gain a charge to[N]
+proc a skill in the next combat.[X]
 
 #0x59D
 Powerstaff[N]
@@ -174,9 +175,9 @@ Heals all status effects at[N]
 the start of every turn.[X]
 
 #0x595
-Moonlight[N]
-Instead of performing a follow-up attack,[N]
-negates the opponent's counterattack.[X]
+Moonlight (Combat Art)[N]
+Negate the opponent's[N]
+counterattack.[X]
 
 #0x0598
 Short Shield[N]
@@ -192,24 +193,25 @@ Triangle Adept[N]
 Doubles weapon traingle effects.[X]
 
 #0x5A3
-(S Rank) Astra (Lv%)[N]
-Attack 5 times at half damage.[X]
+(S Rank) Astra (Combat Art)[N]
+Attack 5 times at half damage in one[N]
+blow. Requires a sword and nonzero crit.[X]
 
 #0x5A2
-(S Rank) Luna (Skill%)[N]
+(S Rank) Luna (Combat Art)[N]
 Halve opponent's defense.[X]
 
 #0x5A1
-(S Rank) Sol (Skill%)[N]
-Restore HP equal to half[N]
-of damage dealt.[X]
+(S Rank) Sol (Combat Art)[N]
+Restore HP equal to[N]
+half of damage dealt.[X]
 
 #0x5A6
-(S Rank) Aether (Lv%)[N]
+(S Rank) Aether (Combat Art)[N]
 Perform Luna and Sol consecutively.[X]
 
 #0x5B3
-(S Rank) Flare (Skill%)[N]
+(S Rank) Flare (Combat Art)[N]
 Halve the foes's resistance and heal[N]
 HP equal to half of damage dealt.[X]
 
@@ -226,11 +228,11 @@ Divine Shield[N]
 Halves all damage received.[X]
 
 #0x5A4
-(S Rank) Colossus (Skill%)[N]
+(S Rank) Colossus (Combat Art)[N]
 Add Con to damage.[X]
 
 #0x5A5
-(S Rank) Vengeance (Skill%)[N]
+(S Rank) Vengeance (Combat Art)[N]
 Add half of lost HP to damage.[X]
 
 #0x5B8
@@ -239,7 +241,7 @@ Can use bows at close range[N]
 with reduced accuracy.[X]
 
 #0x5B9
-Bowrange+[N]
+Bowrange +[N]
 +1 range with bows. Reduces[N]
 accuracy at extended range.[X]
 
@@ -249,20 +251,20 @@ The attack will not[N]
 miss. Breaks shields.[X]
 
 #0x5BF
-(S Rank) Petrify (Skill%)[N]
+Petrify (Combat Art)[N]
 Turns the opponent to stone.[X]
 
 #0x5B7
-(S Rank) Enrage (Skill%)[N]
+Enrage (Combat Art)[N]
 Makes the opponent go berserk.[X]
 
 #0x5C5
-(S Rank) Ignis (Skill%)[N]
+(S Rank) Ignis (Combat Art)[N]
 Add Str/2 when attacking magically.[N]
 Add Mag/2 when attacking physically.[X]
 
 #0x5C8
-(S Rank) Dragon Fang (Skill%)[N]
+(S Rank) Dragon Fang (Combat Art)[N]
 Multiplies damage by 1.5x.[X]
 
 #0x5BE
@@ -275,7 +277,7 @@ Locktouch[N]
 Open doors and chests without keys.[X]
 
 #0x5A7
-(S Rank) Lethality (50%)[N]
+(S Rank) Lethality (Combat Art)[N]
 Deal quintuple damage on a[N]
 critical hit. Requires a sword.[X]
 
@@ -288,7 +290,7 @@ Watchful[N]
 Cannot be captured or stolen from.[X]
 
 #0xD0F
-Tower Shield+[N]
+Tower Shield +[N]
 Negates all ranged attacks.[X]
 
 #0xD10
@@ -301,17 +303,17 @@ Can use remaining movement[N]
 after performing any action.[X]
 
 #0x5CF
-(S Rank) Impale (Skill%)[N]
+(S Rank) Impale (Combat Art)[N]
 Deals double damage. Deals quadruple[N]
 damage if it will defeat the opponent.[X]
 
 #0x5D6
-(S Rank) Eclipse (Skill%)[N]
+(S Rank) Eclipse (Combat Art)[N]
 If the attack does not defeat the[N]
 opponent, it reduces their HP to 1.[X]
 
 #0x5D4
-(S Rank) Crusade (Lv%)[N]
+(S Rank) Crusade (Combat Art)[N]
 When HP is half or less, deal double damage[N]
 and restore HP equal to damage dealt.[X]
 
@@ -321,13 +323,14 @@ Enemies within 5 tiles[N]
 are ignited.[X]
 
 #0x592
-(S Rank) Genocide (HP%)[N]
+Genocide (HP%)[N]
 Increases all stats, negates all skills,[N]
 and doubles the length of combat.[X]
 
 #0x5B0
-Adept (Skill%)[N]
-Initiates another attack.[X]
+Adept (Combat Art)[N]
+Attacks twice with[N]
+a combat art.[X]
 
 #0x5C7
 Void Curse[N]
@@ -335,7 +338,7 @@ Unit gives no experience[N]
 points upon being defeated.[X]
 
 #0x5CC
-Crit+15[N]
+Crit +15[N]
 Grants +15 to[N]
 critical hit rate.[X]
 
@@ -349,7 +352,110 @@ Skybreaker[N]
 Deal effective[N]
 damage to fliers.[X]
 
+#0xF4D
+Wingclipper (Combat Art)[N]
+Deal effective[N]
+damage to fliers.[X]
+
+#0xF4E
+Armorcrusher (Combat Art)[N]
+Deal effective[N]
+damage to armors.[X]
+
+#0xF4F
+Horsekiller (Combat Art)[N]
+Deal effective[N]
+damage to cavalry.[X]
+
+#0xF50
+Monsterslayer (Combat Art)[N]
+Deal effective[N]
+damage to monsters.[X]
+
 #0xF2C
 Avo +15[N]
 Grants +15 to[N]
 avoid rate.[X]
+
+#0xF51
+Distant Counter[N]
+When unable to attack back,[N]
+counter-damage the attacker.[X]
+
+#0xF52
+Savior[N]
+Def/Res +10 while rescuing.[X]
+
+#0xF53
+Poison Strike[N]
+-10 HP to the target after[N]
+combat this unit initiates.[X]
+
+#0xF54
+Darting Blow[N]
+Attack Speed +5 and[N]
+avoid +30 when attacking.[X]
+
+#0xF55
+Puissance[N]
+Atk/Def/AS + 3 and Hit[N]
++20 while at full HP.[X]
+
+#0xF56
+Solidarity[N]
+Atk/AS +3 and Hit +20 when[N]
+no allies are within 2 tiles.[X]
+
+#0xF57
+Fortress[N]
+Atk -3, Def +3 and Avo +20.[X]
+
+#0xF5F
+Fury[N]
+Attacks are brave at full HP.[N]
+Lose 1 HP after attacking.[X]
+
+#0xF58
+Magic Blade[N]
+Always attack the lower of the[N]
+foe's defense and resistance.[X]
+
+#0xF5A
+Swordfaire[N]
++3 Atk when using swords.[X]
+
+#0xF5B
+Lancefaire[N]
++3 Atk when using lances.[X]
+
+#0xF5C
+Axefaire[N]
++3 Atk when using axes.[X]
+
+#0xF5D
+Bowfaire[N]
++3 Atk when using bows.[X]
+
+#0xF5E
+Tomefaire[N]
++3 Atk when using tomes.[X]
+
+#0xF59
+Triangle Inept[N]
+Unit is unaffected by[N]
+the weapon triangle.[X]
+
+#0xF69
+Slowdown[N]
+Ignore enemy Atk and AS bonuses,[N]
+and -2 Atk and AS for the enemy.[X]
+
+#0xF16
+Fast Attack[N]
+Always follow up[N]
+if attacking.[X]
+
+#0xF17
+Fast Defense[N]
+Always follow up[N]
+if defending.[X]

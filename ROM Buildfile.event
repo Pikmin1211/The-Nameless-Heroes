@@ -4,7 +4,7 @@
 
     ORG FreeSpace
 
-    #include "Secondary Text/Special Text.event"
+    #include "Secondary Text/_Special Text Installer.event"
 
     #include "Text/Install Text Data.event"
 
