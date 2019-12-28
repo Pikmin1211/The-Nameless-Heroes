@@ -1,5 +1,0 @@
-402C0100DCCDEF0820300000	//Load units and move. Used for new units[Units:0x8EFCDDC]
-4005010002000000	//SVAL[MemorySlot:0x1 Slot1][Value_to_store:0x2]
-400C010000000000	//BEQ (If [MemorySlot:0x0 Always 0 (write protected)][MemorySlot:0x0 Always 0 (write protected)][ConditionID:0x1]
-20080100	//LABEL[ConditionID:0x1]
-20010000	//Return

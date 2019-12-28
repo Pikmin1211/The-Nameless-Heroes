@@ -92,7 +92,7 @@ Fight for Freedom[X]
 The Resistance[X]
 
 #0xF4 Chapter7Name
-A Promise[X]
+With a New Fate[X]
 
 #0xF1 Chapter8Name
 As a Knight[X]
@@ -144,7 +144,7 @@ Dark Clouds Brew[X]
 Seize Two Gates[X]
 
 #0xF7 Chapter15Name
-Burning Sand[X]
+Couraged Advance[X]
 
 #0x142 Chapter16Objective
 Attack with[N]

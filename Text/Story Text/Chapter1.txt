@@ -354,7 +354,7 @@ Is Ferris with you?[AN]
 
 [MidLeft]
 He's a bit winded, but he's here.[N]
-I'm releived we made it in time.[AN]
+I'm relieved we made it in time.[AN]
 
 [MidRight]
 Yeah, me too.[AN]

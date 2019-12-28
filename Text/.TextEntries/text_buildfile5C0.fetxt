@@ -1,6 +1,6 @@
 Hero[N]
 
-When HP is less than half,[N]
+When HP < 50%, skill activation rate[N]
 
-skill activation rate +30%.[X]
++50% and Atk / Def / Res / AS + 8.[X]
 

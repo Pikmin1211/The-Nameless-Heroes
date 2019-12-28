@@ -1,0 +1,64 @@
+
+
+[MidLeft][LoadBerkus][MidRight][LoadSofia]
+
+Oh, Berkus![AN]
+
+I'm glad you're alive...[N]
+
+Are you doing alright?[AN]
+
+
+
+[MidLeft]
+
+...Actually, I'm in[N]
+
+pretty rough shape.[AN]
+
+That mine was a hellhole.[N]
+
+I could use a checkup...[AN]
+
+
+
+[MidRight][MoveLeft]
+
+Let me take a look here...[AN]
+
+[MoveLeft]
+
+You seem to be suffering[N]
+
+from some malnutrition...[AN]
+
+And you're covered in lashes.[AN]
+
+[ClearFace][MidRight][LoadSofia]
+
+Here, I'll go and make[N]
+
+you some food right away...[AN]
+
+Just stay here and rest, okay?[AN]
+
+
+
+[MidLeft]
+
+Yeah, I will...[AN]
+
+Sorry to have to[N]
+
+trouble you, Sofia.[AN]
+
+
+
+[MidRight]
+
+N-no, it's okay.[AN]
+
+I'm a medic,[N]
+
+after all![A][X]
+

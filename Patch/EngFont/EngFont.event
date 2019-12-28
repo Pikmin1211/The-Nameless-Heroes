@@ -3,27 +3,5 @@
 #define FontEntry(NextFont,ASCII,Width) "POIN NextFont; BYTE ASCII Width 0x00 0x00"
 #define FontEntry(ASCII,Width) "BYTE 0x00 0x00 0x00 0x00 ASCII Width 0x00 0x00"
 
-#define ItemFontHook 0x590EB4
-
-#define SerifFontHook 0x5B6384
-
-// Filenames
-// Font size is 5 unless stated otherwise
-// Serif uppercase font size is 6 unless stated otherwise
-
-ALIGN 4
-
-ItemFontBigA:
-FontEntry(0x41,5)
-#incbin "Item/BigA.bin"
-
-SerifFontBigA:
-FontEntry(0x41,6)
-#incbin "Serif/BigA.bin"
-
-PUSH
-ORG ItemFontHook
-POIN ItemFontBigA
-ORG SerifFontHook
-POIN SerifFontBigA
-POP
+#include "Item/_ItemFont.event"
+#include "Serif/_SerifFont.event"

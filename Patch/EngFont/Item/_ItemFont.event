@@ -1,0 +1,351 @@
+#define ItemFontHook 0x590EB4
+
+// Filenames
+// Font size is 5 unless stated otherwise
+// Serif uppercase font size is 6 unless stated otherwise
+
+//#define FontEntry(NextFont,ASCII,Width) "POIN NextFont; BYTE ASCII Width 0x00 0x00"
+//#define FontEntry(ASCII,Width) "BYTE 0x00 0x00 0x00 0x00 ASCII Width 0x00 0x00"
+
+ALIGN 4
+
+ItemFontBigA:
+FontEntry(ItemFontBigB,0x41,5)
+#incbin "BigA.img.bin"
+
+ItemFontBigB:
+FontEntry(ItemFontBigC,0x42,5)
+#incbin "BigB.img.bin"
+
+ItemFontBigC:
+FontEntry(ItemFontBigD,0x43,5)
+#incbin "BigC.img.bin"
+
+ItemFontBigD:
+FontEntry(ItemFontBigE,0x44,5)
+#incbin "BigD.img.bin"
+
+ItemFontBigE:
+FontEntry(ItemFontBigF,0x45,5)
+#incbin "BigE.img.bin"
+
+ItemFontBigF:
+FontEntry(ItemFontBigG,0x46,5)
+#incbin "BigF.img.bin"
+
+ItemFontBigG:
+FontEntry(ItemFontBigH,0x47,5)
+#incbin "BigG.img.bin"
+
+ItemFontBigH:
+FontEntry(ItemFontBigI,0x48,5)
+#incbin "BigH.img.bin"
+
+ItemFontBigI:
+FontEntry(ItemFontBigJ,0x49,2)
+#incbin "BigI2.img.bin"
+
+ItemFontBigJ:
+FontEntry(ItemFontBigK,0x4A,5)
+#incbin "BigJ.img.bin"
+
+ItemFontBigK:
+FontEntry(ItemFontBigL,0x4B,5)
+#incbin "BigK.img.bin"
+
+ItemFontBigL:
+FontEntry(ItemFontBigM,0x4C,5)
+#incbin "BigL.img.bin"
+
+ItemFontBigM:
+FontEntry(ItemFontBigN,0x4D,6)
+#incbin "BigM6.img.bin"
+
+ItemFontBigN:
+FontEntry(ItemFontBigO,0x4E,5)
+#incbin "BigN.img.bin"
+
+ItemFontBigO:
+FontEntry(ItemFontBigP,0x4F,5)
+#incbin "BigO.img.bin"
+
+ItemFontBigP:
+FontEntry(ItemFontBigQ,0x50,5)
+#incbin "BigP.img.bin"
+
+ItemFontBigQ:
+FontEntry(ItemFontBigR,0x51,6)
+#incbin "BigQ6.img.bin"
+
+ItemFontBigR:
+FontEntry(ItemFontBigS,0x52,5)
+#incbin "BigR.img.bin"
+
+ItemFontBigS:
+FontEntry(ItemFontBigT,0x53,5)
+#incbin "BigS.img.bin"
+
+ItemFontBigT:
+FontEntry(ItemFontBigU,0x54,6)
+#incbin "BigT6.img.bin"
+
+ItemFontBigU:
+FontEntry(ItemFontBigV,0x55,5)
+#incbin "BigU.img.bin"
+
+ItemFontBigV:
+FontEntry(ItemFontBigW,0x56,6)
+#incbin "BigV6.img.bin"
+
+ItemFontBigW:
+FontEntry(ItemFontBigX,0x57,6)
+#incbin "BigW6.img.bin"
+
+ItemFontBigX:
+FontEntry(ItemFontBigY,0x58,6)
+#incbin "BigX6.img.bin"
+
+ItemFontBigY:
+FontEntry(ItemFontBigZ,0x59,6)
+#incbin "BigY6.img.bin"
+
+ItemFontBigZ:
+FontEntry(ItemFontLila,0x5A,5)
+#incbin "BigZ.img.bin"
+
+ItemFontLila:
+FontEntry(ItemFontLilb,0x61,6)
+#incbin "Lila6.img.bin"
+
+ItemFontLilb:
+FontEntry(ItemFontLilc,0x62,5)
+#incbin "Lilb.img.bin"
+
+ItemFontLilc:
+FontEntry(ItemFontLild,0x63,5)
+#incbin "Lilc.img.bin"
+
+ItemFontLild:
+FontEntry(ItemFontLile,0x64,5)
+#incbin "Lild.img.bin"
+
+ItemFontLile:
+FontEntry(ItemFontLilf,0x65,5)
+#incbin "Lile.img.bin"
+
+ItemFontLilf:
+FontEntry(ItemFontLilg,0x66,4)
+#incbin "Lilf4.img.bin"
+
+ItemFontLilg:
+FontEntry(ItemFontLilh,0x67,5)
+#incbin "Lilg.img.bin"
+
+ItemFontLilh:
+FontEntry(ItemFontLili,0x68,5)
+#incbin "Lilh.img.bin"
+
+ItemFontLili:
+FontEntry(ItemFontLilj,0x69,2)
+#incbin "Lili2.img.bin"
+
+ItemFontLilj:
+FontEntry(ItemFontLilk,0x6A,4)
+#incbin "Lilj4.img.bin"
+
+ItemFontLilk:
+FontEntry(ItemFontLill,0x6B,5)
+#incbin "Lilk.img.bin"
+
+ItemFontLill:
+FontEntry(ItemFontLilm,0x6C,2)
+#incbin "Lill2.img.bin"
+
+ItemFontLilm:
+FontEntry(ItemFontLiln,0x6D,6)
+#incbin "Lilm6.img.bin"
+
+ItemFontLiln:
+FontEntry(ItemFontLilo,0x6E,5)
+#incbin "Liln.img.bin"
+
+ItemFontLilo:
+FontEntry(ItemFontLilp,0x6F,5)
+#incbin "Lilo.img.bin"
+
+ItemFontLilp:
+FontEntry(ItemFontLilq,0x70,5)
+#incbin "Lilp.img.bin"
+
+ItemFontLilq:
+FontEntry(ItemFontLilr,0x71,5)
+#incbin "Lilq.img.bin"
+
+ItemFontLilr:
+FontEntry(ItemFontLils,0x72,4)
+#incbin "Lilr4.img.bin"
+
+ItemFontLils:
+FontEntry(ItemFontLilt,0x73,5)
+#incbin "Lils.img.bin"
+
+ItemFontLilt:
+FontEntry(ItemFontLilu,0x74,4)
+#incbin "Lilt4.img.bin"
+
+ItemFontLilu:
+FontEntry(ItemFontLilv,0x75,5)
+#incbin "Lilu.img.bin"
+
+ItemFontLilv:
+FontEntry(ItemFontLilw,0x76,6)
+#incbin "Lilv6.img.bin"
+
+ItemFontLilw:
+FontEntry(ItemFontLilx,0x77,6)
+#incbin "Lilw6.img.bin"
+
+ItemFontLilx:
+FontEntry(ItemFontLily,0x78,6)
+#incbin "Lilx6.img.bin"
+
+ItemFontLily:
+FontEntry(ItemFontLilz,0x79,5)
+#incbin "Lily.img.bin"
+
+ItemFontLilz:
+FontEntry(ItemFontZero,0x7A,5)
+#incbin "Lilz.img.bin"
+
+ItemFontZero:
+FontEntry(ItemFontOne,0x30,7)
+#incbin "NumZero7.img.bin"
+
+ItemFontOne:
+FontEntry(ItemFontTwo,0x31,7)
+#incbin "NumOne7.img.bin"
+
+ItemFontTwo:
+FontEntry(ItemFontThree,0x32,7)
+#incbin "NumTwo7.img.bin"
+
+ItemFontThree:
+FontEntry(ItemFontFour,0x33,7)
+#incbin "NumThree7.img.bin"
+
+ItemFontFour:
+FontEntry(ItemFontFive,0x34,7)
+#incbin "NumFour7.img.bin"
+
+ItemFontFive:
+FontEntry(ItemFontSix,0x35,7)
+#incbin "NumFive7.img.bin"
+
+ItemFontSix:
+FontEntry(ItemFontSeven,0x36,7)
+#incbin "NumSix7.img.bin"
+
+ItemFontSeven:
+FontEntry(ItemFontEight,0x37,7)
+#incbin "NumSeven7.img.bin"
+
+ItemFontEight:
+FontEntry(ItemFontNine,0x38,7)
+#incbin "NumEight7.img.bin"
+
+ItemFontNine:
+FontEntry(ItemFontSymAccent,0x39,7)
+#incbin "NumNine7.img.bin"
+
+ItemFontSymAccent:
+FontEntry(ItemFontSymApostrophe,0x7E,6)
+#incbin "SymAccent6.img.bin"
+
+ItemFontSymApostrophe:
+FontEntry(ItemFontSymAsterisk,0x27,2)
+#incbin "SymApostrophe2.img.bin"
+
+ItemFontSymAsterisk:
+FontEntry(ItemFontSymColon,0x2A,6)
+#incbin "SymAsterisk6.img.bin"
+
+ItemFontSymColon:
+FontEntry(ItemFontSymComma,0x3A,2)
+#incbin "SymColon2.img.bin"
+
+ItemFontSymComma:
+FontEntry(ItemFontSymDash,0x2C,2)
+#incbin "SymComma2.img.bin"
+
+ItemFontSymDash:
+FontEntry(ItemFontSymEqual,0x2D,4)
+#incbin "SymDash4.img.bin"
+
+ItemFontSymEqual:
+FontEntry(ItemFontSymExclamation,0x3D,4)
+#incbin "SymEqual4.img.bin"
+
+ItemFontSymExclamation:
+FontEntry(ItemFontSymLeftarrow,0x21,4)
+#incbin "SymExclamation4.img.bin"
+
+ItemFontSymLeftarrow:
+FontEntry(ItemFontSymLeftbracket,0x3C,5)
+#incbin "SymLeftarrow5.img.bin"
+
+ItemFontSymLeftbracket:
+FontEntry(ItemFontSymLeftsquarebracket,0x28,4)
+#incbin "SymLeftbracket4.img.bin"
+
+ItemFontSymLeftsquarebracket:
+FontEntry(ItemFontSymPercent,0x5B,3)
+#incbin "SymLeftsquarebracket3.img.bin"
+
+ItemFontSymPercent:
+FontEntry(ItemFontSymPeriod,0x25,6)
+#incbin "SymPercent6.img.bin"
+
+ItemFontSymPeriod:
+FontEntry(ItemFontSymPlus,0x2E,2)
+#incbin "SymPeriod2.img.bin"
+
+ItemFontSymPlus:
+FontEntry(ItemFontSymQuestion,0x2B,6)
+#incbin "SymPlus6.img.bin"
+
+ItemFontSymQuestion:
+FontEntry(ItemFontSymQuote,0x3F,6)
+#incbin "SymQuestion6.img.bin"
+
+ItemFontSymQuote:
+FontEntry(ItemFontSymRightarrow,0x22,4)
+#incbin "SymQuote4.img.bin"
+
+ItemFontSymRightarrow:
+FontEntry(ItemFontSymRightbracket,0x3E,5)
+#incbin "SymRightarrow5.img.bin"
+
+ItemFontSymRightbracket:
+FontEntry(ItemFontSymRightsquarebracket,0x29,4)
+#incbin "SymRightbracket4.img.bin"
+
+ItemFontSymRightsquarebracket:
+FontEntry(ItemFontSymSemicolon,0x5D,3)
+#incbin "SymRightsquarebracket3.img.bin"
+
+ItemFontSymSemicolon:
+FontEntry(ItemFontSymSlash,0x3B,2)
+#incbin "SymSemicolon2.img.bin"
+
+ItemFontSymSlash:
+FontEntry(ItemFontSymSpace,0x2F,5)
+#incbin "SymSlash5.img.bin"
+
+ItemFontSymSpace:
+FontEntry(0x20,3)
+#incbin "SymSpace3.img.bin"
+
+PUSH
+ORG ItemFontHook
+POIN ItemFontBigA
+POP

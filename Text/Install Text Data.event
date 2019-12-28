@@ -2525,6 +2525,10 @@ __TEXTPROCESS0BC:
 #incbin ".TextEntries\text_buildfile0BC.fetxt.dmp"
 setText($BC, __TEXTPROCESS0BC)
 
+__TEXTPROCESS37E:
+#incbin ".TextEntries\text_buildfile37E.fetxt.dmp"
+setText($37E, __TEXTPROCESS37E)
+
 __TEXTPROCESS392:
 #incbin ".TextEntries\text_buildfile392.fetxt.dmp"
 setText($392, __TEXTPROCESS392)
@@ -8110,11 +8114,11 @@ __TEXTPROCESS96B:
 setText($96B, __TEXTPROCESS96B)
 
 __TEXTPROCESS987:
-#incbin ".TextEntries\text_buildfileChapter4SaarBattleQuote.fetxt.dmp"
+#incbin ".TextEntries\text_buildfileChapter4DanielBattleQuote.fetxt.dmp"
 setText($987, __TEXTPROCESS987)
 
 __TEXTPROCESS988:
-#incbin ".TextEntries\text_buildfileChapter4SaarDeathQuote.fetxt.dmp"
+#incbin ".TextEntries\text_buildfileChapter4DanielDeathQuote.fetxt.dmp"
 setText($988, __TEXTPROCESS988)
 
 __TEXTPROCESS091:
@@ -8276,6 +8280,38 @@ setText($98F, __TEXTPROCESS98F)
 __TEXTPROCESS984:
 #incbin ".TextEntries\text_buildfileChapter6NumaCharge.fetxt.dmp"
 setText($984, __TEXTPROCESS984)
+
+__TEXTPROCESS93A:
+#incbin ".TextEntries\text_buildfileChapter7BaseIsaacJesterTalk.fetxt.dmp"
+setText($93A, __TEXTPROCESS93A)
+
+__TEXTPROCESS8E1:
+#incbin ".TextEntries\text_buildfileChapter7BaseIsaacRemTalk.fetxt.dmp"
+setText($8E1, __TEXTPROCESS8E1)
+
+__TEXTPROCESS8FE:
+#incbin ".TextEntries\text_buildfileChapter7BaseSofiaBerkusTalk.fetxt.dmp"
+setText($8FE, __TEXTPROCESS8FE)
+
+__TEXTPROCESSACB:
+#incbin ".TextEntries\text_buildfileChapter7BaseTitorJohnnyTalk.fetxt.dmp"
+setText($ACB, __TEXTPROCESSACB)
+
+__TEXTPROCESS939:
+#incbin ".TextEntries\text_buildfileChapter7BaseOlsonBrianTalk.fetxt.dmp"
+setText($939, __TEXTPROCESS939)
+
+__TEXTPROCESS8EE:
+#incbin ".TextEntries\text_buildfileChapter7BaseIsaacHermesTalk.fetxt.dmp"
+setText($8EE, __TEXTPROCESS8EE)
+
+__TEXTPROCESSD43:
+#incbin ".TextEntries\text_buildfileChapter7BaseJeronimoTalk.fetxt.dmp"
+setText($D43, __TEXTPROCESSD43)
+
+__TEXTPROCESS883:
+#incbin ".TextEntries\text_buildfileChapter7BaseWorldMap.fetxt.dmp"
+setText($883, __TEXTPROCESS883)
 
 __TEXTPROCESSD13:
 #incbin ".TextEntries\text_buildfileD13.fetxt.dmp"

@@ -457,8 +457,8 @@
 #define Chapter4Gate $F21
 #define Chapter4Ending3 $958
 #define Chapter4GateOpen $96B
-#define Chapter4SaarBattleQuote $987
-#define Chapter4SaarDeathQuote $988
+#define Chapter4DanielBattleQuote $987
+#define Chapter4DanielDeathQuote $988
 #define Chapter4Guide $091
 #define Chapter5Opening1 $989
 #define Chapter5Opening2 $97E
@@ -499,5 +499,13 @@
 #define Chapter6Village2 $98E
 #define Chapter6Village3 $98F
 #define Chapter6NumaCharge $984
+#define Chapter7BaseIsaacJesterTalk $93A
+#define Chapter7BaseIsaacRemTalk $8E1
+#define Chapter7BaseSofiaBerkusTalk $8FE
+#define Chapter7BaseTitorJohnnyTalk $ACB
+#define Chapter7BaseOlsonBrianTalk $939
+#define Chapter7BaseIsaacHermesTalk $8EE
+#define Chapter7BaseJeronimoTalk $D43
+#define Chapter7BaseWorldMap $883
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

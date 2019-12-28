@@ -711,7 +711,7 @@ I can't quite shake my worries...[AN]
 If she submits these, she can become[N]
 a fully-fledged pegasus knight.[AN]
 ...That of course means she[N]
-would have to fly to Illia.[AN]
+would have to fly to Ilia.[AN]
 I think we'd all miss her.[AN]
 
 [MidRight]
@@ -777,7 +777,7 @@ Right, I'll go get them now.[A][X]
 
 #0x932 Chapter3Ending5
 
-[Left][LoadMoneyMan][MidRight][LoadSaar]
+[Left][LoadMoneyMan][MidRight][LoadDaniel]
 Listen well, people of this village![AN]
 I come bearing orders[N]
 from Lord Florence of Dia![AN]
@@ -831,7 +831,7 @@ So then what should we do?[AN]
 
 [Left]
 Here. Take these papers, and give[N]
-them to Kara. Tell her to flee to Illia.[AN]
+them to Kara. Tell her to flee to Ilia.[AN]
 We can't look after her any longer.[N]
 I'm sure she'll be fine on her own.[AN]
 

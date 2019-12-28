@@ -1,10 +1,11 @@
 #0x5B5
-Pavise (Lv%)[N]
+Pavise (Skill%)[N]
 Reduces physical damage by half.[X]
 
 #0x5AC
-Miracle (Luck x3%)[N]
-Survive a fatal blow with 1 HP.[X]
+Miracle[N]
+When HP is above 1, survive[N]
+a fatal blow with 1 HP.[X]
 
 #0x5AB
 Nihil[N]
@@ -15,8 +16,9 @@ Nullify[N]
 Negates effective damage.[X]
 
 #0x5A9
-Cancel (Speed%)[N]
-Negates the opponent's counterattack.[X]
+Cancel[N]
+Negates the opponent's[N]
+counterattack.[X]
 
 #0x5A8
 Wrath[N]
@@ -24,8 +26,8 @@ Crit +50% when HP < 50%.[X]
 
 #0x5C0
 Hero[N]
-When HP is less than half,[N]
-skill activation rate +30%.[X]
+When HP < 50%, skill activation rate[N]
++50% and Atk / Def / Res / AS + 8.[X]
 
 #0x5AA
 Ambush[N]
@@ -52,7 +54,7 @@ start of every turn.[X]
 
 #0x5AF
 Intimidate[N]
-Enemies within 3 tiles lose 10 avoid.[X]
+Enemies within 3 tiles lose 15 avoid.[X]
 
 #0x5C1
 Fortune[N]
@@ -193,25 +195,25 @@ Triangle Adept[N]
 Doubles weapon traingle effects.[X]
 
 #0x5A3
-(S Rank) Astra (Combat Art)[N]
+(S Rank) Astra (Lv%)[N]
 Attack 5 times at half damage in one[N]
 blow. Requires a sword and nonzero crit.[X]
 
 #0x5A2
-(S Rank) Luna (Combat Art)[N]
+(S Rank) Luna (Skill%)[N]
 Halve opponent's defense.[X]
 
 #0x5A1
-(S Rank) Sol (Combat Art)[N]
+(S Rank) Sol (Skill%)[N]
 Restore HP equal to[N]
 half of damage dealt.[X]
 
 #0x5A6
-(S Rank) Aether (Combat Art)[N]
+(S Rank) Aether (Lv%)[N]
 Perform Luna and Sol consecutively.[X]
 
 #0x5B3
-(S Rank) Flare (Combat Art)[N]
+(S Rank) Flare (Skill%)[N]
 Halve the foes's resistance and heal[N]
 HP equal to half of damage dealt.[X]
 
@@ -228,11 +230,11 @@ Divine Shield[N]
 Halves all damage received.[X]
 
 #0x5A4
-(S Rank) Colossus (Combat Art)[N]
+(S Rank) Colossus (Skill%)[N]
 Add Con to damage.[X]
 
 #0x5A5
-(S Rank) Vengeance (Combat Art)[N]
+(S Rank) Vengeance (Skill%)[N]
 Add half of lost HP to damage.[X]
 
 #0x5B8
@@ -252,19 +254,20 @@ miss. Breaks shields.[X]
 
 #0x5BF
 Petrify (Combat Art)[N]
-Turns the opponent to stone.[X]
+Turns the opponent to[N]
+stone for this phase.[X]
 
 #0x5B7
 Enrage (Combat Art)[N]
 Makes the opponent go berserk.[X]
 
 #0x5C5
-(S Rank) Ignis (Combat Art)[N]
+(S Rank) Ignis (Skill%)[N]
 Add Str/2 when attacking magically.[N]
 Add Mag/2 when attacking physically.[X]
 
 #0x5C8
-(S Rank) Dragon Fang (Combat Art)[N]
+(S Rank) Dragon Fang (Skill%)[N]
 Multiplies damage by 1.5x.[X]
 
 #0x5BE
@@ -277,9 +280,9 @@ Locktouch[N]
 Open doors and chests without keys.[X]
 
 #0x5A7
-(S Rank) Lethality (Combat Art)[N]
-Deal quintuple damage on a[N]
-critical hit. Requires a sword.[X]
+(S Rank) Lethality (50%)[N]
+Deals fatal damage[N]
+on a critical hit.[X]
 
 #0x5B6
 Summon[N]
@@ -303,17 +306,17 @@ Can use remaining movement[N]
 after performing any action.[X]
 
 #0x5CF
-(S Rank) Impale (Combat Art)[N]
+(S Rank) Impale (Skill%)[N]
 Deals double damage. Deals quadruple[N]
 damage if it will defeat the opponent.[X]
 
 #0x5D6
-(S Rank) Eclipse (Combat Art)[N]
+(S Rank) Eclipse (Skill%)[N]
 If the attack does not defeat the[N]
 opponent, it reduces their HP to 1.[X]
 
 #0x5D4
-(S Rank) Crusade (Combat Art)[N]
+(S Rank) Crusade (Lv%)[N]
 When HP is half or less, deal double damage[N]
 and restore HP equal to damage dealt.[X]
 
@@ -323,14 +326,14 @@ Enemies within 5 tiles[N]
 are ignited.[X]
 
 #0x592
-Genocide (HP%)[N]
+(S Rank) Genocide (HP%)[N]
 Increases all stats, negates all skills,[N]
 and doubles the length of combat.[X]
 
 #0x5B0
 Adept (Combat Art)[N]
-Attacks twice with[N]
-a combat art.[X]
+Attack twice in succesion. Does[N]
+not stack with brave weapons.[X]
 
 #0x5C7
 Void Curse[N]
@@ -403,12 +406,12 @@ Atk/Def/AS + 3 and Hit[N]
 
 #0xF56
 Solidarity[N]
-Atk/AS +3 and Hit +20 when[N]
+Atk and AS +3 when there are[N]
 no allies are within 2 tiles.[X]
 
 #0xF57
 Fortress[N]
-Atk -3, Def +3 and Avo +20.[X]
+Atk -2, Def +4.[X]
 
 #0xF5F
 Fury[N]

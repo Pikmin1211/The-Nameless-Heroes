@@ -99,8 +99,10 @@
 		#incbin "antihuffman/454120.bin"
 	POP
 
-/*
 // Draw Singlebyte	
+
+	ALIGN 4
+
 	item:
 	#incbin "DrawSyngleByte/drawsinglebyte_item.bin"
 
@@ -136,10 +138,8 @@
 
 	POP
 
-*/
-
 // Font handled by batch via febuilder
-//#include "EngFont/EngFont.event
+#include "EngFont/EngFont.event"
 
 #define GuideTable 0xEFC370
 #define GuideTableEntry(chapter) "0xEFC370 + (chapter * 0x4)"

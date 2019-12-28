@@ -1,8 +1,0 @@
-01=Großes Schild
-02=Gebet
-04=Verzicht
-08=Zug
-10=Abbrechen
-20=Wut
-40=Tapferer General
-80=Hinterhalt

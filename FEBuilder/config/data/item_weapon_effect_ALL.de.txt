@@ -1,6 +1,0 @@
-0=Keine
-1=Gift
-2=Absorption
-3=HP halbiert
-4=Manchmal Zähler
-5=Versteinerung

@@ -618,3 +618,6 @@ Dimentior[X]
 
 #0xBC
 Life Draught[X]
+
+#0x37E
+Life Ring[X]

@@ -1,6 +1,0 @@
-//アドレスパッチとして実装します
-TYPE=ADDR
-TAG=#SOUND
-
-ADDRESS=0x080bc5c8
-ADDRESS_TYPE=SONG

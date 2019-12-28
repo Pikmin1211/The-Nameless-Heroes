@@ -276,12 +276,12 @@ Maybe I should [Red]talk to them[Red]...?[A][X]
 
 
 #0x957 Chapter4TurnEvent
-[MidLeft][LoadRedSoldier][MidRight][LoadSaar]
+[MidLeft][LoadRedSoldier][MidRight][LoadDaniel]
 You there! What the[N]
 hell is going on?[AN]
 
 [MidLeft]
-Sir Saar![AN]
+Sir Daniel![AN]
 It seems that the[N]
 prisoners are rioting.[AN]
 If we can't stop them,[N]
@@ -749,7 +749,7 @@ So we're good to go?[AN]
 
 [MidRight]
 Yes, the exit is just up that way.[N]
-The area is pretty densely gaurded,[AN]
+The area is pretty densely guarded,[AN]
 but there's less guards than usual.[N]
 With this many people... should be fine.[AN]
 
@@ -943,7 +943,7 @@ handle those fools, and you...[AN]
 you can focus on your governance.[AN]
 You and Sir Roartz hold[N]
 the future in your hands.[AN]
-I and the Schwarz Ritter[N]
+I and the Schwarzritter[N]
 can handle the dirty work.[AN]
 
 [MidLeft]
@@ -967,9 +967,9 @@ I'm staying until everyone leaves! Go![A][X]
 
 
 
-#0x987 Chapter4SaarBattleQuote
+#0x987 Chapter4DanielBattleQuote
 
-[MidLeft][LoadSaar]
+[MidLeft][LoadDaniel]
 You will atone for your[N]
 rebellion with your life![A][X]
 
@@ -978,9 +978,9 @@ rebellion with your life![A][X]
 
 
 
-#0x988 Chapter4SaarDeathQuote
+#0x988 Chapter4DanielDeathQuote
 
-[MidLeft][LoadSaar]
+[MidLeft][LoadDaniel]
 Glory to... Etruria...[A][X]
 
 

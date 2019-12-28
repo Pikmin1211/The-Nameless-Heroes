@@ -1,8 +1,0 @@
-00=Keine
-01=Meteor
-02=Mondlicht
-03=Sonne
-04=Himmel
-05=Glück
-06=Heiliges Schild
-07=Schrein
