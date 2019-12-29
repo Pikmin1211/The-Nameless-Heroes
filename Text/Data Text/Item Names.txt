@@ -50,7 +50,7 @@ Light Brand[X]
 Runesword[X]
 
 #0x2EB
-Lancereaver[X]
+[UpperL][0x40]ancereaver[X]
 
 #0x2EC
 Zanbato[X]
@@ -419,7 +419,7 @@ Garm[X]
 Nighogg[X]
 
 #0x2FF
-Heavy Lance[X]
+[UpperH][0x40]eavy Lance[X]
 
 #0x300
 Short Spear[X]
@@ -473,28 +473,28 @@ Skill Manual[X]
 Sleep Sword[X]
 
 #0x7D
-Lthr. Shield[X]
+[UpperL][0x40][Lowere][0x40][Lowera][0x40]t[Lowerh][0x40][Lowere][0x40][Lowerr][0x40] [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
 
 #0x76
 Iron Shield[X]
 
 #0x53
-Stl. Shield[X]
+[UpperS][0x40]t[Lowere][0x40][Lowere][0x40]l [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
 
 #0x7C
-Silv. Shield[X]
+[UpperS][0x40]il[Lowerv][0x40][Lowere][0x40][Lowerr][0x40] [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
 
 #0x81
 Spellshield[X]
 
 #0x69
-Prayer Amlt.[X]
+[UpperP][0x40][Lowerr][0x40][Lowera][0x40][Lowery][0x40][Lowere][0x40][Lowerr][0x40] [UpperA][0x40]m[Loweru][0x40]l[Lowere][0x40]t[X]
 
 #0xB7
 Iron Rain[X]
 
 #0xD12
-Drg. Shield[X]
+[UpperD][0x40][Lowerr][0x40][Lowera][0x40][Lowerg][0x40][Lowero][0x40][Lowern][0x40] [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
 
 #0x59C
 Noble Rapier[X]
@@ -509,7 +509,7 @@ Cmd Manual[X]
 Stonehoist[X]
 
 #0x6AE
-Master Swd[X]
+M[Lowera][0x40][Lowers][0x40]t[Lowere][0x40][Lowerr][0x40] [UpperS][0x40]w[Lowero][0x40][Lowerr][0x40][Lowerd][0x40][X]
 
 #0xB5
 Luna[X]

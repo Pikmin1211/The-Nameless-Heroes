@@ -5,19 +5,19 @@ Chevalier[X]
 Legionnaire[X]
 
 #0x248
-Swd. Knight[X]
+[UpperS][0x40]w[Lowero][0x40][Lowerr][0x40][Lowerd][0x40] [UpperK][0x40][Lowern][0x40]i[Lowerg][0x40][Lowerh][0x40]t[X]
 
 #0xD3B
-Lnc. Knight[X]
+[UpperL][0x40][Lowera][0x40][Lowern][0x40][Lowerc][0x40][Lowere][0x40] [UpperK][0x40][Lowern][0x40]i[Lowerg][0x40][Lowerh][0x40]t[X]
 
 #0x249
 Paladin[X]
 
 #0x24A
-Lnc. Armor[X]
+[UpperL][0x40][Lowera][0x40][Lowern][0x40][Lowerc][0x40][Lowere][0x40] [UpperA][0x40][Lowerr][0x40]m[Lowero][0x40][Lowerr][X]
 
 #0x288
-Axe Armor[X]
+Axe [UpperA][0x40][Lowerr][0x40]m[Lowero][0x40][Lowerr][X]
 
 #0x24B
 General[X]
@@ -56,7 +56,7 @@ Wyvern Rider[X]
 Wyvern Lord[X]
 
 #0x257
-Wyvern Kn.[X]
+W[Lowery][0x40][Lowerv][0x40][Lowere][0x40][Lowerr][0x40][Lowern][0x40] [UpperK][0x40][Lowern][0x40]i[Lowerg][0x40][Lowerh][0x40]t[X]
 
 #0x25C
 Dark Flier[X]
@@ -125,7 +125,7 @@ Priest[X]
 Bard[X]
 
 #0x26E
-Pegasus Kn.[X]
+[UpperP][0x40][Lowere][0x40][Lowerg][0x40][Lowera][0x40][Lowers][0x40][Loweru][0x40][Lowers][0x40] [UpperK][0x40][Lowern][0x40]i[Lowerg][0x40][Lowerh][0x40]t[X]
 
 #0x26F
 Falcoknight[X]
@@ -164,7 +164,7 @@ Halberdier[X]
 Nomad[X]
 
 #0x27C
-Nmd. Trooper[X]
+N[Lowero][0x40]m[Lowera][0x40][Lowerd][0x40] T[Lowerr][0x40][Lowero][0x40][Lowero][0x40][Lowerp][0x40][Lowere][0x40][Lowerr][X]
 
 #0x27D
 Spider[X]
@@ -182,7 +182,7 @@ Hellhound[X]
 Cerberus[X]
 
 #0x282
-Axe Knight[X]
+Axe [UpperK][0x40][Lowern][0x40]i[Lowerg][0x40][Lowerh][0x40]t[X]
 
 #0x283
 Dragoon[X]
@@ -194,7 +194,7 @@ Baron[X]
 Ballistician[X]
 
 #0x285
-Master Kn.[X]
+M[Lowera][0x40][Lowers][0x40]t[Lowere][0x40][Lowerr][0x40] [UpperK][0x40][Lowern][0x40]i[Lowerg][0x40][Lowerh][0x40]t[X]
 
 #0x28A
 Dracozombie[X]
@@ -242,10 +242,10 @@ War Monk[X]
 Marshall[X]
 
 #0xE66
-Thumaturge[X]
+T[Lowerh][0x40][Lowera][0x40][Loweru][0x40]m[Lowera][0x40]t[Loweru][0x40][Lowerr][0x40][Lowerg][0x40][Lowere][0x40][X]
 
 #0xF10
-Swd. Armor[X]
+[UpperS][0x40]w[Lowero][0x40][Lowerr][0x40][Lowerd][0x40] [UpperA][0x40][Lowerr][0x40]m[Lowero][0x40][Lowerr][X]
 
 #0xF2B
 Butler[X]

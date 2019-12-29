@@ -1,0 +1,179 @@
+//#define FontEntry(NextFont,ASCII,Width) "POIN NextFont; BYTE ASCII Width 0x00 0x00"
+//#define FontEntry(ASCII,Width) "BYTE 0x00 0x00 0x00 0x00 ASCII Width 0x00 0x00"
+
+ALIGN 4
+
+ItemShortFontBigA:
+FontEntry(ItemShortFontBigB,0x9B,4)
+#incbin "upa.img.bin"
+
+ItemShortFontBigB:
+FontEntry(ItemShortFontBigC,0x9C,4)
+#incbin "upb.img.bin"
+
+ItemShortFontBigC:
+FontEntry(ItemShortFontBigD,0x9D,4)
+#incbin "upc.img.bin"
+
+ItemShortFontBigD:
+FontEntry(ItemShortFontBigE,0x9E,4)
+#incbin "upd.img.bin"
+
+ItemShortFontBigE:
+FontEntry(ItemShortFontBigF,0x9F,4)
+#incbin "upe.img.bin"
+
+ItemShortFontBigF:
+FontEntry(ItemShortFontBigG,0xA0,4)
+#incbin "upf.img.bin"
+
+ItemShortFontBigG:
+FontEntry(ItemShortFontBigH,0xA2,4)
+#incbin "upg.img.bin"
+
+ItemShortFontBigH:
+FontEntry(ItemShortFontBigJ,0xA3,4)
+#incbin "uph.img.bin"
+
+ItemShortFontBigJ:
+FontEntry(ItemShortFontBigK,0xA4,4)
+#incbin "upj.img.bin"
+
+ItemShortFontBigK:
+FontEntry(ItemShortFontBigL,0xA5,4)
+#incbin "upk.img.bin"
+
+ItemShortFontBigL:
+FontEntry(ItemShortFontBigO,0xA6,4)
+#incbin "upl.img.bin"
+
+ItemShortFontBigO:
+FontEntry(ItemShortFontBigP,0xA7,4)
+#incbin "upo.img.bin"
+
+ItemShortFontBigP:
+FontEntry(ItemShortFontBigQ,0xA8,4)
+#incbin "upp.img.bin"
+
+ItemShortFontBigQ:
+FontEntry(ItemShortFontBigR,0xA9,5)
+#incbin "upq.img.bin"
+
+ItemShortFontBigR:
+FontEntry(ItemShortFontBigS,0xAC,4)
+#incbin "upr.img.bin"
+
+ItemShortFontBigS:
+FontEntry(ItemShortFontBigU,0xAD,4)
+#incbin "ups.img.bin"
+
+ItemShortFontBigU:
+FontEntry(ItemShortFontBigV,0xAE,4)
+#incbin "upu.img.bin"
+
+ItemShortFontBigV:
+FontEntry(ItemShortFontBigX,0xAF,4)
+#incbin "upv.img.bin"
+
+ItemShortFontBigX:
+FontEntry(ItemShortFontBigY,0xB0,4)
+#incbin "upx.img.bin"
+
+ItemShortFontBigY:
+FontEntry(ItemShortFontBigZ,0xB1,4)
+#incbin "upy.img.bin"
+
+ItemShortFontBigZ:
+FontEntry(ItemShortFontLila,0xB2,5)
+#incbin "upz.img.bin"
+
+ItemShortFontLila:
+FontEntry(ItemShortFontLilb,0xC1,5)
+#incbin "a.img.bin"
+
+ItemShortFontLilb:
+FontEntry(ItemShortFontLilc,0xC2,4)
+#incbin "b.img.bin"
+
+ItemShortFontLilc:
+FontEntry(ItemShortFontLild,0xC3,4)
+#incbin "c.img.bin"
+
+ItemShortFontLild:
+FontEntry(ItemShortFontLile,0xC4,4)
+#incbin "d.img.bin"
+
+ItemShortFontLile:
+FontEntry(ItemShortFontLilf,0xC5,4)
+#incbin "e.img.bin"
+
+ItemShortFontLilf:
+FontEntry(ItemShortFontLilg,0xC6,4)
+#incbin "f.img.bin"
+
+ItemShortFontLilg:
+FontEntry(ItemShortFontLilh,0xC7,4)
+#incbin "g.img.bin"
+
+ItemShortFontLilh:
+FontEntry(ItemShortFontLilj,0xC8,4)
+#incbin "h.img.bin"
+
+ItemShortFontLilj:
+FontEntry(ItemShortFontLilk,0xC9,3)
+#incbin "j.img.bin"
+
+ItemShortFontLilk:
+FontEntry(ItemShortFontLiln,0xCA,4)
+#incbin "k.img.bin"
+
+ItemShortFontLiln:
+FontEntry(ItemShortFontLilo,0xCB,4)
+#incbin "n.img.bin"
+
+ItemShortFontLilo:
+FontEntry(ItemShortFontLilp,0xCC,4)
+#incbin "o.img.bin"
+
+ItemShortFontLilp:
+FontEntry(ItemShortFontLilq,0xCD,4)
+#incbin "p.img.bin"
+
+ItemShortFontLilq:
+FontEntry(ItemShortFontLilr,0xCE,4)
+#incbin "q.img.bin"
+
+ItemShortFontLilr:
+FontEntry(ItemShortFontLils,0xCF,3)
+#incbin "r.img.bin"
+
+ItemShortFontLils:
+FontEntry(ItemShortFontLilu,0xD0,4)
+#incbin "s.img.bin"
+
+ItemShortFontLilu:
+FontEntry(ItemShortFontLilv,0xD6,4)
+#incbin "u.img.bin"
+
+ItemShortFontLilv:
+FontEntry(ItemShortFontLilx,0xD7,4)
+#incbin "v.img.bin"
+
+ItemShortFontLilx:
+FontEntry(ItemShortFontLily,0xD8,4)
+#incbin "x.img.bin"
+
+ItemShortFontLily:
+FontEntry(ItemShortFontLilz,0xD9,4)
+#incbin "y.img.bin"
+
+ItemShortFontLilz:
+FontEntry(0xDA,4)
+#incbin "z.img.bin"
+
+#define ItemShortFontHook ItemFontSymSpace
+
+PUSH
+ORG ItemShortFontHook
+POIN ItemShortFontBigA
+POP

@@ -1,5 +1,3 @@
-#define ItemFontHook 0x590EB4
-
 // Filenames
 // Font size is 5 unless stated otherwise
 // Serif uppercase font size is 6 unless stated otherwise
@@ -344,6 +342,8 @@ FontEntry(ItemFontSymSpace,0x2F,5)
 ItemFontSymSpace:
 FontEntry(0x20,3)
 #incbin "SymSpace3.img.bin"
+
+#define ItemFontHook 0x590EB4
 
 PUSH
 ORG ItemFontHook
