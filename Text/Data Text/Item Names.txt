@@ -50,7 +50,7 @@ Light Brand[X]
 Runesword[X]
 
 #0x2EB
-[UpperL][0x40]ancereaver[X]
+L[Lowera]ncereaver[X]
 
 #0x2EC
 Zanbato[X]
@@ -419,7 +419,7 @@ Garm[X]
 Nighogg[X]
 
 #0x2FF
-[UpperH][0x40]eavy Lance[X]
+H[Lowere]avy Lance[X]
 
 #0x300
 Short Spear[X]
@@ -473,28 +473,28 @@ Skill Manual[X]
 Sleep Sword[X]
 
 #0x7D
-[UpperL][0x40][Lowere][0x40][Lowera][0x40]t[Lowerh][0x40][Lowere][0x40][Lowerr][0x40] [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
+[UpperL][Lowere][Lowera]t[Lowerh][Lowere][Lowerr] [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
 
 #0x76
 Iron Shield[X]
 
 #0x53
-[UpperS][0x40]t[Lowere][0x40][Lowere][0x40]l [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
+[UpperS]t[Lowere][Lowere]l [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
 
 #0x7C
-[UpperS][0x40]il[Lowerv][0x40][Lowere][0x40][Lowerr][0x40] [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
+[UpperS]il[Lowerv][Lowere][Lowerr] [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
 
 #0x81
 Spellshield[X]
 
 #0x69
-[UpperP][0x40][Lowerr][0x40][Lowera][0x40][Lowery][0x40][Lowere][0x40][Lowerr][0x40] [UpperA][0x40]m[Loweru][0x40]l[Lowere][0x40]t[X]
+[UpperP][Lowerr][Lowera][Lowery][Lowere][Lowerr] [UpperA]m[Loweru]l[Lowere]t[X]
 
 #0xB7
 Iron Rain[X]
 
 #0xD12
-[UpperD][0x40][Lowerr][0x40][Lowera][0x40][Lowerg][0x40][Lowero][0x40][Lowern][0x40] [UpperS][0x40][Lowerh][0x40]i[Lowere][0x40]l[Lowerd][0x40][X]
+[UpperD][Lowerr][Lowera][Lowerg][Lowero][Lowern] [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
 
 #0x59C
 Noble Rapier[X]
@@ -509,7 +509,7 @@ Cmd Manual[X]
 Stonehoist[X]
 
 #0x6AE
-M[Lowera][0x40][Lowers][0x40]t[Lowere][0x40][Lowerr][0x40] [UpperS][0x40]w[Lowero][0x40][Lowerr][0x40][Lowerd][0x40][X]
+M[Lowera][Lowers]t[Lowere][Lowerr] [UpperS]w[Lowero][Lowerr][Lowerd][X]
 
 #0xB5
 Luna[X]
