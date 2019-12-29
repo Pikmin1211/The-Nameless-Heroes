@@ -14,10 +14,10 @@ L[Lowera][Lowern][Lowerc]e K[Lowern]i[Lowerg][Lowerh]t[X]
 Paladin[X]
 
 #0x24A
-[UpperL][Lowera][Lowern][Lowerc][Lowere] [UpperA][Lowerr]m[Lowero][Lowerr][X]
+L[Lowera][Lowern][Lowerc]e Armor[X]
 
 #0x288
-[UpperA][Lowerx][Lowere] [UpperA][Lowerr]m[Lowero][Lowerr][X]
+Axe Armor[X]
 
 #0x24B
 General[X]
@@ -56,7 +56,7 @@ Wyvern Rider[X]
 Wyvern Lord[X]
 
 #0x257
-W[Lowery][Lowerv][Lowere][Lowerr][Lowern] [UpperK][Lowern]i[Lowerg][Lowerh]t[X]
+Wyv[Lowere][Lowerr][Lowern] K[Lowern]i[Lowerg][Lowerh]t[X]
 
 #0x25C
 Dark Flier[X]
@@ -182,7 +182,7 @@ Hellhound[X]
 Cerberus[X]
 
 #0x282
-A[Lowerx]e K[Lowern]i[Lowerg][Lowerh]t[X]
+Axe K[Lowern]i[Lowerg][Lowerh]t[X]
 
 #0x283
 Dragoon[X]
@@ -245,7 +245,7 @@ Marshall[X]
 T[Lowerh][Lowera][Loweru]m[Lowera]t[Loweru][Lowerr][Lowerg][Lowere][X]
 
 #0xF10
-[UpperS]w[Lowero][Lowerr][Lowerd] [UpperA][Lowerr]m[Lowero][Lowerr][X]
+Sw[Lowero][Lowerr][Lowerd] Armor[X]
 
 #0xF2B
 Butler[X]

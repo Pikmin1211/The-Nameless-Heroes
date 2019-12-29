@@ -50,7 +50,7 @@ Light Brand[X]
 Runesword[X]
 
 #0x2EB
-L[Lowera]ncereaver[X]
+La[Lowern]cerea[Lowerv]er[X]
 
 #0x2EC
 Zanbato[X]
@@ -419,7 +419,7 @@ Garm[X]
 Nighogg[X]
 
 #0x2FF
-H[Lowere]avy Lance[X]
+Hea[Lowerv][Lowery] Spear[X]
 
 #0x300
 Short Spear[X]
@@ -479,22 +479,22 @@ Sleep Sword[X]
 Iron Shield[X]
 
 #0x53
-[UpperS]t[Lowere][Lowere]l [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
+Steel S[Lowerh]iel[Lowerd][X]
 
 #0x7C
-[UpperS]il[Lowerv][Lowere][Lowerr] [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
+Sil[Lowerv]e[Lowerr] S[Lowerh]iel[Lowerd][X]
 
 #0x81
 Spellshield[X]
 
 #0x69
-[UpperP][Lowerr][Lowera][Lowery][Lowere][Lowerr] [UpperA]m[Loweru]l[Lowere]t[X]
+P[Lowerr][Lowera][Lowery][Lowere][Lowerr] Am[Loweru]l[Lowere]t[X]
 
 #0xB7
 Iron Rain[X]
 
 #0xD12
-[UpperD][Lowerr][Lowera][Lowerg][Lowero][Lowern] [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
+D[Lowerr][Lowera][Lowerg][Lowero][Lowern] S[Lowerh]iel[Lowerd][X]
 
 #0x59C
 Noble Rapier[X]
@@ -515,7 +515,7 @@ M[Lowera][Lowers]t[Lowere][Lowerr] [UpperS]w[Lowero][Lowerr][Lowerd][X]
 Luna[X]
 
 #0x6EA
-Mstry. Ring[X]
+M[Lowera]st[Lowere][Lowerr][Lowery] Ri[Lowern]g[X]
 
 #0x344
 Stone[X]
@@ -617,7 +617,10 @@ Anemone[X]
 Dimentior[X]
 
 #0xBC
-Life Draught[X]
+Phoe[Lowern]i[Lowerx] Vi[Lowera]l[X]
 
 #0x37E
 Life Ring[X]
+
+#0xF6B
+Ryusei[X]
