@@ -1,0 +1,21 @@
+PUSH
+
+	ORG 0x8F760
+	POIN TurnText
+
+	ORG 0x8F684
+	POIN LeftText
+
+	ORG 0x8F6EC
+	POIN LastTurnText
+
+POP
+
+TurnText:
+EndString(Turn)
+
+LastTurnText:
+EndString(Last Turn)
+
+LeftText:
+EndString(Left)

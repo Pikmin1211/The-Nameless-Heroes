@@ -4,13 +4,13 @@
 
     ORG FreeSpace
 
-    #include "Secondary Text/_Special Text Installer.event"
+    #include "Special Text/_Special Text Installer.event"
 
     #include "Text/Install Text Data.event"
 
-    #include "Patch/Master Hack Installer.event"
+    #include "Patch/_Master Hack Installer.event"
 
-    #include "Graphics/Graphics Installer.event"
+    #include "Graphics/_Master Graphics Installer.event"
     
 #else
     ERROR You are not assembling FE8 events!

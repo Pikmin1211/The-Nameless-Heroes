@@ -1,9 +1,0 @@
-//#define FontEntry(NextFont,ASCII,Width,ImageFile) "POIN NextFont; BYTE ASCII Width 0x00 0x00; #incbin ImageFile"
-//#define FontEntry(ASCII,Width,ImageFile) "BYTE 0x00 0x00 0x00 0x00 ASCII Width 0x00 0x00; #incbin ImageFile"
-#define FontEntry(NextFont,ASCII,Width) "POIN NextFont; BYTE ASCII Width 0x00 0x00"
-#define FontEntry(ASCII,Width) "BYTE 0x00 0x00 0x00 0x00 ASCII Width 0x00 0x00"
-
-#include "Item/_ItemFont.event"
-#include "Serif/_SerifFont.event"
-
-#include "Item_Short/_ItemShortFont.event"

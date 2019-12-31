@@ -1,0 +1,15 @@
+PUSH
+
+	ORG 0xBAB914
+	POIN Change
+
+	ORG 0xBAB938
+	POIN Cancel
+
+POP
+
+Change:
+MenuString(Change)
+
+Cancel:
+MenuString(Cancel)

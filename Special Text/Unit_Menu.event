@@ -1,0 +1,252 @@
+PUSH
+
+	// 00
+	ORG 0x0B49E40
+	POIN Seize
+
+	// 01
+	ORG 0x0B49E64
+	POIN AttackCommand
+
+	// 02
+	ORG 0x0B49E88
+	POIN AttackCommand
+
+	// 03
+	ORG 0x0B49EAC
+	POIN Staff
+
+	// 04
+	ORG 0x0B49ED0
+	POIN Ride
+
+	// 05
+	ORG 0x0B49EF4
+	POIN Exit
+
+	// 06
+	ORG 0x0B49F18
+	POIN DanceCommand
+
+	// 07
+	ORG 0x0B49F3C
+	POIN Steal
+
+	// 08
+	ORG 0x0B49F60
+	POIN Summon
+
+	// 09
+	ORG 0x0B49F84
+	POIN Capture
+
+	// 0A
+	ORG 0x0B49FA8
+	POIN Pick
+
+	// 0B
+	ORG 0x0B49FCC
+	POIN Talk
+
+	// 0C
+	ORG 0x0B49FF0
+	POIN Visit
+
+	// 0D
+	ORG 0x0B4A014
+	POIN Chest
+
+	// 0E
+	ORG 0x0B4A038
+	POIN Door
+
+	// 0F
+	ORG 0x0B4A05C
+	POIN Escape
+
+	// 10
+	ORG 0x0B4A080
+	POIN Armory
+
+	// 11
+	ORG 0x0B4A0A4
+	POIN Vendor
+
+	// 12
+	ORG 0x0B4A0C8
+	POIN Secret
+
+	// 13
+	ORG 0x0B4A0EC
+	POIN Arena
+
+	// 14
+	ORG 0x0B4A110
+	POIN RescueCommand
+
+	// 15
+	ORG 0x0B4A134
+	POIN Refuge
+
+	// 16
+	ORG 0x0B4A158
+	POIN Drop
+
+	// 17
+	ORG 0x0B4A17C
+	POIN Take
+
+	// 18
+	ORG 0x0B4A1A0
+	POIN Give
+
+	// 19
+	ORG 0x0B4A1C4
+	POIN Support
+
+	// 1A
+	ORG 0x0B4A1E8
+	POIN Item
+
+	// 1B
+	ORG 0x0B4A20C
+	POIN Trade
+
+	// 1C
+	ORG 0x0B4A230
+	POIN Supply
+
+	// 1D
+	ORG 0x0B4A254
+	POIN Arrive
+
+	// 1E
+	ORG 0x0B4A278
+	POIN Shove
+
+	// 1F
+	ORG 0x0B4A29C
+	POIN Smite
+
+	// 20
+	ORG 0x0B4A2C0
+	POIN Pivot
+
+	// 21
+	ORG 0x0B4A2E4
+	POIN Pull
+
+	// 22
+	ORG 0x0B4A308
+	POIN Swap
+
+	// 3E
+	ORG 0x0B4A6F8
+	POIN Wait
+
+POP
+
+Seize:
+MenuString(Seize)
+
+AttackCommand:
+MenuString(Attack)
+
+Staff:
+MenuString(Staff)
+
+Ride:
+MenuString(Ride)
+
+Exit:
+MenuString(Exit)
+
+DanceCommand:
+MenuString(Dance)
+
+Steal:
+MenuString(Steal)
+
+Summon:
+MenuString(Summon)
+
+Capture:
+MenuString(Capture)
+
+Pick:
+MenuString(Pick)
+
+Talk:
+MenuString(Talk)
+
+Visit:
+MenuString(Visit)
+
+Chest:
+MenuString(Chest)
+
+Door:
+MenuString(Door)
+
+Armory:
+MenuString(Armory)
+
+Vendor:
+MenuString(Vendor)
+
+Secret:
+MenuString(Secret)
+
+Arena:
+MenuString(Arena)
+
+RescueCommand:
+MenuString(Rescue)
+
+Refuge:
+MenuString(Refuge)
+
+Drop:
+MenuString(Drop)
+
+Take:
+MenuString(Take)
+
+Give:
+MenuString(Give)
+
+Support:
+MenuString(Support)
+
+Item:
+MenuString(Item)
+
+Trade:
+MenuString(Trade)
+
+Supply:
+MenuString(Supply)
+
+Escape:
+MenuString(Escape)
+
+Arrive:
+MenuString(Arrive)
+
+Shove:
+MenuString(Shove)
+
+Smite:
+MenuString(Smite)
+
+Pivot:
+MenuString(Pivot)
+
+Pull:
+BYTE ASCIISpace 0xAC 0x40 0xC5 0x40 0xCD 0x40 0xCC 0x40 0xD0 0x40 ASCIIi ASCIIt ASCIIi 0xCC 0x40 0xCB 0x40 0x00 //Short Font
+
+Swap:
+MenuString(Swap)
+
+Wait:
+MenuString(Wait)

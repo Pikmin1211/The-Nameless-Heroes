@@ -2,7 +2,7 @@
 Coated in lethal poison.[X]
 
 #0x393
-Effective against infantry.[X]
+Effective against: [HorseIcon] [ArmorIcon][X]
 
 #0x394
 Can strike consecutively.[X]
@@ -14,10 +14,10 @@ Improves critical hit rate.[X]
 Improves critical hit rate.[X]
 
 #0x397
-Effective against knights.[X]
+Effective against: [ArmorIcon][X]
 
 #0x398
-Effective against wyverns.[X]
+Effective against: [DragonIcon][X]
 
 #0x399
 Suffused with light magic.[X]
@@ -26,7 +26,7 @@ Suffused with light magic.[X]
 Imbued with dark magic.[X]
 
 #0x39B
-Strong against spears.[X]
+[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] [Lowera][Lowern][Lowerd] t[Lowerr]i[Lowerp]l[Lowere][Lowers] t[Lowerh][Lowere] w[Lowere][Lowera][Lowerp][Lowero][Lowern] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere].[X]
 
 #0x435
 Puts the target to sleep.[X]
@@ -38,13 +38,13 @@ Dummy[X]
 Long-range weapon.[X]
 
 #0x39D
-Isaac only. A blade with dragonic power.[X]
+Isaac only. A blade with draconic power.[X]
 
 #0x3BF
 A legendary axe. Defense +5.[X]
 
 #0x3E3
-Effective against fliers.[X]
+Effective against: [FlierIcon][X]
 
 #0x3B1
 Effective against ballisticians.[X]
@@ -93,7 +93,7 @@ Increases leadership stars by 2.[X]
 Allows the use of S rank skills.[X]
 
 #0x39C
-Effective against cavalry.[X]
+Effective against: [HorseIcon][X]
 
 #0x3A4
 Coated in lethal poison.[X]
@@ -105,7 +105,7 @@ Can strike consecutively.[X]
 Improves critical hit rate.[X]
 
 #0x3A7
-Effective against cavalry.[X]
+Effective against: [HorseIcon][X]
 
 #0x3A8
 Doubles as ranged attack.[X]
@@ -114,7 +114,7 @@ Doubles as ranged attack.[X]
 Doubles as ranged attack.[X]
 
 #0x3AA
-Strong against axes.[X]
+[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] [Lowera][Lowern][Lowerd] t[Lowerr]i[Lowerp]l[Lowere][Lowers] t[Lowerh][Lowere] w[Lowere][Lowera][Lowerp][Lowero][Lowern] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere].[X]
 
 #0x3B4
 Coated in lethal poison.[X]
@@ -126,10 +126,10 @@ Can strike consecutively.[X]
 Improves critical hit rate.[X]
 
 #0x3B7
-Effective against cavalry.[X]
+Effective against: [HorseIcon][X]
 
 #0x3B8
-Effective against knights.[X]
+Effective against: [ArmorIcon][X]
 
 #0x3B9
 Might injure its wielder.[X]
@@ -141,10 +141,10 @@ Doubles as ranged attack.[X]
 Doubles as ranged attack.[X]
 
 #0x3BC
-Strong against swords.[X]
+[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] [Lowera][Lowern][Lowerd] t[Lowerr]i[Lowerp]l[Lowere][Lowers] t[Lowerh][Lowere] w[Lowere][Lowera][Lowerp][Lowero][Lowern] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere].[X]
 
 #0x3BD
-Good against swordfighters.[X]
+[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere]. [UpperE][Lowerf][Lowerf][Lowere][Lowerc]ti[Lowerv][Lowere] [UpperA][Lowerg][Lowera]i[Lowern][Lowers]t: [SwordIcon][X]
 
 #0x3C2
 Doubles as ranged attack.[X]
@@ -186,8 +186,8 @@ Long-range weapon. Inflicts poison.[X]
 A Sacred Twin tome. Skill +5.[X]
 
 #0x3F9
-Restores HP to allies [N]
-adjacent spaces.[X]
+Restores HP to allies[N]
+in adjacent spaces.[X]
 
 #0x437
 Restores some HP.[X]
@@ -242,7 +242,7 @@ Puts enemies to sleep for[N]
 several turns.[X]
 
 #0x43E
-Flier effective. Inflicts sleep.[X]
+Inflicts sleep. Effective against: [FlierIcon][X]
 
 #0x401
 Sends enemies into a[N]
@@ -300,7 +300,7 @@ of adjacent allies briefly.[X]
 Raises resistance.[X]
 
 #0x3BE
-Effective against wyverns.[X]
+Effective against: [DragonIcon][X]
 
 #0x40B
 Increases HP by a max of[N]
@@ -505,7 +505,7 @@ The Sacred Twin black axe. Spd +5.[X]
 The Sacred Twin serpent bow. Luck +5.[X]
 
 #0x3AF
-Effective against knights.[X]
+Effective against: [ArmorIcon][X]
 
 #0x3B0
 Doubles as ranged attack.[X]
@@ -603,7 +603,7 @@ A monstrous, overgrown claw.[X]
 Launches lethal poison.[X]
 
 #0xF0D
-Lizzy only. Effective against knights.[X]
+Lizzy only. Effective against: [ArmorIcon][X]
 
 #0x3F6
 Magic. Capable of indirect attacks.[X]

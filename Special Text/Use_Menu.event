@@ -1,0 +1,28 @@
+PUSH
+
+	ORG 0x5c4a94
+	POIN Use
+
+	ORG 0x5c4ab8
+	POIN Equip
+
+	ORG 0x5c4adc
+	POIN Trade
+
+	ORG 0x5c4b00
+	POIN Discard
+
+
+POP
+
+Use:
+EndString(Use)
+
+Equip:
+EndString(Equip)
+
+Trade:
+EndString(Trade)
+
+Discard:
+EndString(Discard)

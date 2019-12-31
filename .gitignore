@@ -32,6 +32,9 @@ $RECYCLE.BIN/
 *.ss8
 *.ss9
 
+#notes folder
+/Notes
+
 # =========================
 # Operating System Files
 # =========================

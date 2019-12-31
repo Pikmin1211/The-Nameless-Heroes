@@ -1,0 +1,59 @@
+PUSH
+	
+	// 00
+	ORG 0x5c534c
+	POIN Range
+
+	// 01
+	ORG 0x5c5370
+	POIN Unit
+
+	// 02
+	ORG 0x5c5394
+	POIN Status
+
+	// 03
+	ORG 0x5c53b8
+	POIN Guide
+
+	// 04
+	ORG 0x5c53dc
+	POIN Options
+
+	// 05
+	ORG 0x5c5400
+	POIN Lore
+
+	// 06
+	ORG 0x5c5424
+	POIN Suspend
+
+	// 07
+	ORG 0x5c5448
+	POIN End
+	
+POP
+
+Range:
+MenuString(Range)
+
+Unit:
+MenuString(Unit)
+
+Status:
+MenuString(Status)
+
+Guide:
+MenuString(Guide)
+
+Options:
+MenuString(Options)
+
+Lore:
+MenuString(Lore)
+
+Suspend:
+MenuString(Suspend)
+
+End:
+MenuString(End)

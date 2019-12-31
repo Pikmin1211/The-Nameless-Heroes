@@ -1,0 +1,227 @@
+//#define FontEntry(NextFont,ASCII,Width) "POIN NextFont; BYTE ASCII Width 0x00 0x00"
+//#define FontEntry(ASCII,Width) "BYTE 0x00 0x00 0x00 0x00 ASCII Width 0x00 0x00"
+
+ALIGN 4
+
+SerifShortFontBigA:
+FontEntry(SerifShortFontBigB,0x9B,5)
+#incbin "upa.img.bin"
+
+SerifShortFontBigB:
+FontEntry(SerifShortFontBigC,0x9C,5)
+#incbin "upb.img.bin"
+
+SerifShortFontBigC:
+FontEntry(SerifShortFontBigD,0x9D,5)
+#incbin "upc.img.bin"
+
+SerifShortFontBigD:
+FontEntry(SerifShortFontBigE,0x9E,5)
+#incbin "upd.img.bin"
+
+SerifShortFontBigE:
+FontEntry(SerifShortFontBigF,0x9F,5)
+#incbin "upe.img.bin"
+
+SerifShortFontBigF:
+FontEntry(SerifShortFontBigG,0xA0,5)
+#incbin "upf.img.bin"
+
+SerifShortFontBigG:
+FontEntry(SerifShortFontBigH,0xA2,5)
+#incbin "upg.img.bin"
+
+SerifShortFontBigH:
+FontEntry(SerifShortFontBigJ,0xA3,5)
+#incbin "uph.img.bin"
+
+SerifShortFontBigJ:
+FontEntry(SerifShortFontBigK,0xA4,5)
+#incbin "upj.img.bin"
+
+SerifShortFontBigK:
+FontEntry(SerifShortFontBigL,0xA5,5)
+#incbin "upk.img.bin"
+
+SerifShortFontBigL:
+FontEntry(SerifShortFontBigO,0xA6,5)
+#incbin "upl.img.bin"
+
+SerifShortFontBigO:
+FontEntry(SerifShortFontBigP,0xA7,5)
+#incbin "upo.img.bin"
+
+SerifShortFontBigP:
+FontEntry(SerifShortFontBigQ,0xA8,5)
+#incbin "upp.img.bin"
+
+SerifShortFontBigQ:
+FontEntry(SerifShortFontBigR,0xA9,6)
+#incbin "upq.img.bin"
+
+SerifShortFontBigR:
+FontEntry(SerifShortFontBigS,0xAC,5)
+#incbin "upr.img.bin"
+
+SerifShortFontBigS:
+FontEntry(SerifShortFontBigU,0xAD,5)
+#incbin "ups.img.bin"
+
+SerifShortFontBigU:
+FontEntry(SerifShortFontBigV,0xAE,5)
+#incbin "upu.img.bin"
+
+SerifShortFontBigV:
+FontEntry(SerifShortFontBigX,0xAF,4)
+#incbin "upv.img.bin"
+
+SerifShortFontBigX:
+FontEntry(SerifShortFontBigY,0xB0,4)
+#incbin "upx.img.bin"
+
+SerifShortFontBigY:
+FontEntry(SerifShortFontBigZ,0xB1,4)
+#incbin "upy.img.bin"
+
+SerifShortFontBigZ:
+FontEntry(SerifShortFontLila,0xB2,5)
+#incbin "upz.img.bin"
+
+SerifShortFontLila:
+FontEntry(SerifShortFontLilb,0xC1,4)
+#incbin "a.img.bin"
+
+SerifShortFontLilb:
+FontEntry(SerifShortFontLilc,0xC2,4)
+#incbin "b.img.bin"
+
+SerifShortFontLilc:
+FontEntry(SerifShortFontLild,0xC3,4)
+#incbin "c.img.bin"
+
+SerifShortFontLild:
+FontEntry(SerifShortFontLile,0xC4,4)
+#incbin "d.img.bin"
+
+SerifShortFontLile:
+FontEntry(SerifShortFontLilf,0xC5,4)
+#incbin "e.img.bin"
+
+SerifShortFontLilf:
+FontEntry(SerifShortFontLilg,0xC6,4)
+#incbin "f.img.bin"
+
+SerifShortFontLilg:
+FontEntry(SerifShortFontLilh,0xC7,5)
+#incbin "g.img.bin"
+
+SerifShortFontLilh:
+FontEntry(SerifShortFontLilk,0xC8,4)
+#incbin "h.img.bin"
+
+SerifShortFontLilk:
+FontEntry(SerifShortFontLiln,0xCA,4)
+#incbin "k.img.bin"
+
+SerifShortFontLiln:
+FontEntry(SerifShortFontLilo,0xCB,4)
+#incbin "n.img.bin"
+
+SerifShortFontLilo:
+FontEntry(SerifShortFontLilp,0xCC,4)
+#incbin "o.img.bin"
+
+SerifShortFontLilp:
+FontEntry(SerifShortFontLilq,0xCD,4)
+#incbin "p.img.bin"
+
+SerifShortFontLilq:
+FontEntry(SerifShortFontLilr,0xCE,4)
+#incbin "q.img.bin"
+
+SerifShortFontLilr:
+FontEntry(SerifShortFontLils,0xCF,3)
+#incbin "r.img.bin"
+
+SerifShortFontLils:
+FontEntry(SerifShortFontLilt,0xD0,4)
+#incbin "s.img.bin"
+
+SerifShortFontLilt:
+FontEntry(SerifShortFontLilu,0xC9,4)
+#incbin "t.img.bin"
+
+SerifShortFontLilu:
+FontEntry(SerifShortFontLilv,0xD6,4)
+#incbin "u.img.bin"
+
+SerifShortFontLilv:
+FontEntry(SerifShortFontLilx,0xD7,4)
+#incbin "v.img.bin"
+
+SerifShortFontLilx:
+FontEntry(SerifShortFontLily,0xD8,4)
+#incbin "x.img.bin"
+
+SerifShortFontLily:
+FontEntry(SerifShortFontLilz,0xD9,4)
+#incbin "y.img.bin"
+
+SerifShortFontLilz:
+FontEntry(SerifShortFontArmor,0xDA,4)
+#incbin "z.img.bin"
+
+SerifShortFontArmor:
+FontEntry(SerifShortFontDragon,0xDB,0xF)
+#incbin "armor.img.bin"
+
+SerifShortFontDragon:
+FontEntry(SerifShortFontFlier,0xDC,0x11)
+#incbin "dragon.img.bin"
+
+SerifShortFontFlier:
+FontEntry(SerifShortFontHorse,0xDD,0x11)
+#incbin "flier.img.bin"
+
+SerifShortFontHorse:
+FontEntry(SerifShortFontSword,0xDE,0xE)
+#incbin "horse.img.bin"
+
+SerifShortFontSword:
+FontEntry(SerifShortFontLance,0xDF,0xD)
+#incbin "sword.img.bin"
+
+SerifShortFontLance:
+FontEntry(SerifShortFontAxe,0xE0,0xD)
+#incbin "lance.img.bin"
+
+SerifShortFontAxe:
+FontEntry(SerifShortFontBow,0xE1,0xD)
+#incbin "axe.img.bin"
+
+SerifShortFontBow:
+FontEntry(SerifShortFontAnima,0xE2,0xD)
+#incbin "bow.img.bin"
+
+SerifShortFontAnima:
+FontEntry(SerifShortFontLight,0xE3,0xC)
+#incbin "anima.img.bin"
+
+SerifShortFontLight:
+FontEntry(SerifShortFontDark,0xE4,0xD)
+#incbin "light.img.bin"
+
+SerifShortFontDark:
+FontEntry(SerifShortFontStaff,0xE5,0xC)
+#incbin "dark.img.bin"
+
+SerifShortFontStaff:
+FontEntry(0xE6,0xD)
+#incbin "staff.img.bin"
+
+#define SerifShortFontHook SerifFontSymSpace
+
+PUSH
+ORG SerifShortFontHook
+POIN SerifShortFontBigA
+POP

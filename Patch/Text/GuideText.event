@@ -1,0 +1,15 @@
+#define GuideTable 0xEFC370
+#define GuideTableEntry(chapter) "0xEFC370 + (chapter * 0x4)"
+
+PUSH
+	ORG GuideTableEntry(0)
+	POIN PrologueGuideEvent
+POP
+
+#define SetBackgroundJP(bg) "SVAL 0x2 bg; CALL 0xA60420"
+#define DoubleTextBG(text1,text2,bg) "SetBackgroundJP(bg); TEXTSTART; TEXTSHOW text1; TEXTEND; TEXTSHOW2 text2; TEXTEND"
+
+ALIGN 4
+PrologueGuideEvent:
+DoubleTextBG(PrologueGuide,PrologueGuide2,0xE)
+ENDA

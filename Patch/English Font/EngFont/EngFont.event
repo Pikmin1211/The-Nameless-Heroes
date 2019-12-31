@@ -1,0 +1,10 @@
+#define FontEntry(NextFont,ASCII,Width) "POIN NextFont; BYTE ASCII Width 0x00 0x00"
+#define FontEntry(ASCII,Width) "BYTE 0x00 0x00 0x00 0x00 ASCII Width 0x00 0x00"
+
+// Standard Font
+#include "Item/_ItemFont.event"
+#include "Serif/_SerifFont.event"
+
+// Short Width Font
+#include "Item_Short/_ItemShortFont.event"
+#include "Serif_Short/_SerifShortFont.event"

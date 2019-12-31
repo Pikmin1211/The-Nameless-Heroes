@@ -1,0 +1,8 @@
+PUSH
+	ORG $2af4
+	#incbin "2af4.bin"
+	ORG $9fb2
+	#incbin "9fb2.bin"
+	ORG $454120
+	#incbin "454120.bin"
+POP

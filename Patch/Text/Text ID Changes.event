@@ -1,0 +1,35 @@
+//Affinity Text
+PUSH
+	ORG $DC950
+	WORD 0x01 //original text id 499
+	WORD 0x02 //original text id 49A
+	WORD 0x03 //original text id 49B
+	WORD 0x04 //original text id 49C
+	WORD 0x05 //original text id 49F
+	WORD 0x06 //original text id 49E
+	WORD 0x07 //original text id 49D
+POP
+
+//Item descriptions
+PUSH
+	ORG $F707DA //Ruin tome
+	SHORT 0x396 //High crit description
+
+	ORG $F6FE4A //Slim Sword
+	SHORT 0x38B //Iron Sword description
+
+	ORG $F6FE6E //Steel Sword
+	SHORT 0x38B //Iron Sword description
+
+	ORG $F71BF6 //Sleep Sword
+	SHORT 0x38D //Steel Sword description
+
+	ORG $F7098C //Sleep Staff Use
+	SHORT 0x38D //Steel Sword description
+POP
+
+//Class Descriptions
+PUSH
+	ORG $85B766 //Commandeur
+	SHORT 0x292
+POP

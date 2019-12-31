@@ -1,0 +1,36 @@
+#define jumpToHack_r1j(offset) "BYTE 0x0 0x49 0x8F 0x46; POIN offset|1"
+#define jumpToHack_r3j(offset) "BYTE 0x0 0x4B 0x9F 0x46; POIN offset|1"
+
+ALIGN 4
+
+item:
+#incbin "drawsinglebyte_item.bin"
+
+itemwidth:
+#incbin "drawsinglebyte_item_width.bin"
+
+nextline:
+#incbin "drawsinglebyte_nextline.bin"
+
+serif:
+#incbin "drawsinglebyte_serif.bin"
+
+serifwidth:
+#incbin "drawsinglebyte_serif_width.bin"
+
+PUSH
+
+	ORG $40c2
+	BYTE 0x0 0x0
+	jumpToHack_r1j(serif)
+	ORG $3e74
+	jumpToHack_r3j(serifwidth)
+	ORG $3f44
+	jumpToHack_r1j(item)
+	ORG $3e2c
+	jumpToHack_r3j(itemwidth)
+	ORG $3f12
+	BYTE 0x0 0x0
+	jumpToHack_r1j(nextline)
+
+POP
