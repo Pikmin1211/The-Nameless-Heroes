@@ -216,8 +216,12 @@ FontEntry(SerifShortFontStaff,0xE5,0xC)
 #incbin "dark.img.bin"
 
 SerifShortFontStaff:
-FontEntry(0xE6,0xD)
+FontEntry(SerifShortFontBallista,0xE6,0xD)
 #incbin "staff.img.bin"
+
+SerifShortFontBallista:
+FontEntry(0xE7,14)
+#incbin "ballista.img.bin"
 
 #define SerifShortFontHook SerifFontSymSpace
 

@@ -47,7 +47,7 @@ A legendary axe. Defense +5.[X]
 Effective against: [FlierIcon][X]
 
 #0x3B1
-Effective against ballisticians.[X]
+Effective against: [BallistaIcon][X]
 
 #0x39F
 Magic. Capable of indirect attacks.[X]

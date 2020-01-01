@@ -10,7 +10,7 @@
 // Testing Stuff
 
 ORG $1A514D8
-UNIT Audrey BaronA 0x0 Level(4,Ally,0) [12,2] 0 0 0 0 [SteelAxe,Hatchet,LeatherShield] NoAI
+UNIT Audrey BaronA 0x0 Level(4,Ally,0) [12,2] 0 0 0 0 [Thunderbolt,Hatchet,LeatherShield] NoAI
 UNIT Kara MasterKnightA 0x0 Level(1,Ally,0) [8,2] 0 0 0 0 [WingSpear,Javelin] NoAI
 UNIT Olson Butler 0x0 Level(2,Ally,0) [9,3] 0 0 0 0 [Thunder,PrayerAmulet] NoAI
 UNIT Morris Priest 0x0 Level(1,Ally,0) [10,2] 0 0 0 0 [Heal,Vulnerary] NoAI
