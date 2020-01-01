@@ -50,7 +50,7 @@ Light Brand[X]
 Runesword[X]
 
 #0x2EB
-La[Lowern]cerea[Lowerv]er[X]
+La[_n]cerea[_v]er[X]
 
 #0x2EC
 Zanbato[X]
@@ -419,7 +419,7 @@ Garm[X]
 Nighogg[X]
 
 #0x2FF
-Hea[Lowerv][Lowery] Spear[X]
+Hea[_v][_y] Spear[X]
 
 #0x300
 Short Spear[X]
@@ -473,28 +473,28 @@ Skill Manual[X]
 Sleep Sword[X]
 
 #0x7D
-[UpperL][Lowere][Lowera]t[Lowerh][Lowere][Lowerr] [UpperS][Lowerh]i[Lowere]l[Lowerd][X]
+[_L][_e][_a]t[_h][_e][_r] [_S][_h]i[_e]l[_d][X]
 
 #0x76
 Iron Shield[X]
 
 #0x53
-Steel S[Lowerh]iel[Lowerd][X]
+Steel S[_h]iel[_d][X]
 
 #0x7C
-Sil[Lowerv]e[Lowerr] S[Lowerh]iel[Lowerd][X]
+Sil[_v]e[_r] S[_h]iel[_d][X]
 
 #0x81
 Spellshield[X]
 
 #0x69
-P[Lowerr][Lowera][Lowery][Lowere][Lowerr] Am[Loweru]l[Lowere]t[X]
+P[_r][_a][_y][_e][_r] Am[_u]l[_e]t[X]
 
 #0xB7
 Iron Rain[X]
 
 #0xD12
-D[Lowerr][Lowera][Lowerg][Lowero][Lowern] S[Lowerh]iel[Lowerd][X]
+D[_r][_a][_g][_o][_n] S[_h]iel[_d][X]
 
 #0x59C
 Noble Rapier[X]
@@ -509,13 +509,13 @@ Cmd Manual[X]
 Stonehoist[X]
 
 #0x6AE
-M[Lowera][Lowers]t[Lowere][Lowerr] [UpperS]w[Lowero][Lowerr][Lowerd][X]
+M[_a][_s]t[_e][_r] [_S]w[_o][_r][_d][X]
 
 #0xB5
 Luna[X]
 
 #0x6EA
-M[Lowera]st[Lowere][Lowerr][Lowery] Ri[Lowern]g[X]
+M[_a]st[_e][_r][_y] Ri[_n]g[X]
 
 #0x344
 Stone[X]
@@ -617,7 +617,7 @@ Anemone[X]
 Dimentior[X]
 
 #0xBC
-Phoe[Lowern]i[Lowerx] Vi[Lowera]l[X]
+Phoe[_n]i[_x] Vi[_a]l[X]
 
 #0x37E
 Life Ring[X]

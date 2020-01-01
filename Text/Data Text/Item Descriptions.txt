@@ -26,7 +26,7 @@ Suffused with light magic.[X]
 Imbued with dark magic.[X]
 
 #0x39B
-[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] [Lowera][Lowern][Lowerd] t[Lowerr]i[Lowerp]l[Lowere][Lowers] t[Lowerh][Lowere] w[Lowere][Lowera][Lowerp][Lowero][Lowern] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere].[X]
+[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[X]
 
 #0x435
 Puts the target to sleep.[X]
@@ -114,7 +114,7 @@ Doubles as ranged attack.[X]
 Doubles as ranged attack.[X]
 
 #0x3AA
-[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] [Lowera][Lowern][Lowerd] t[Lowerr]i[Lowerp]l[Lowere][Lowers] t[Lowerh][Lowere] w[Lowere][Lowera][Lowerp][Lowero][Lowern] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere].[X]
+[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[X]
 
 #0x3B4
 Coated in lethal poison.[X]
@@ -141,10 +141,10 @@ Doubles as ranged attack.[X]
 Doubles as ranged attack.[X]
 
 #0x3BC
-[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] [Lowera][Lowern][Lowerd] t[Lowerr]i[Lowerp]l[Lowere][Lowers] t[Lowerh][Lowere] w[Lowere][Lowera][Lowerp][Lowero][Lowern] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere].[X]
+[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[X]
 
 #0x3BD
-[UpperR][Lowere][Lowerv][Lowere][Lowerr][Lowers][Lowere][Lowers] t[Lowerr]i[Lowera][Lowern][Lowerg]l[Lowere]. [UpperE][Lowerf][Lowerf][Lowere][Lowerc]ti[Lowerv][Lowere] [UpperA][Lowerg][Lowera]i[Lowern][Lowers]t: [SwordIcon][X]
+[_R][_e][_v][_e][_r][_s][_e][_s] t[_r]i[_a][_n][_g]l[_e]. [_E][_f][_f][_e][_c]ti[_v][_e] [_A][_g][_a]i[_n][_s]t: [SwordIcon][X]
 
 #0x3C2
 Doubles as ranged attack.[X]

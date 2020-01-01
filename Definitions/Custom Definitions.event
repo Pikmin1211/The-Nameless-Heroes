@@ -1,0 +1,30 @@
+#include "Character Definitions.event"
+#include "Class Definitions.event"
+#include "Item Definitions.event"
+
+#define MenuString(stuff) "BYTE 0x20; String(stuff) ; BYTE 0x00"
+#define EndString(stuff) "String(stuff) ; BYTE 0x00"
+
+#define FreeSpace 0x1B78070
+
+// Testing Stuff
+
+ORG $1A514D8
+UNIT Audrey BaronA 0x0 Level(4,Ally,0) [12,2] 0 0 0 0 [SteelAxe,Hatchet,LeatherShield] NoAI
+UNIT Kara MasterKnightA 0x0 Level(1,Ally,0) [8,2] 0 0 0 0 [WingSpear,Javelin] NoAI
+UNIT Olson Butler 0x0 Level(2,Ally,0) [9,3] 0 0 0 0 [Thunder,PrayerAmulet] NoAI
+UNIT Morris Priest 0x0 Level(1,Ally,0) [10,2] 0 0 0 0 [Heal,Vulnerary] NoAI
+UNIT Isaac Legionnaire 0x0 Level(1,Ally,0) [10,1] 0 0 0 0 [Alondite,SteelAxe,PaviseManual,SteelShield] NoAI
+UNIT Edmund LanceArmor 0x0 Level(2,Ally,0) [11,3] 0 0 0 0 [IronLance,IronShield] NoAI
+UNIT
+
+/*
+ORG $1A514D8
+UNIT Audrey Fighter_F 0x0 Level(4,Ally,0) [12,2] 0 0 0 0 [SteelAxe,Hatchet,LeatherShield] NoAI
+UNIT Kara PegasusKnight 0x0 Level(1,Ally,0) [8,2] 0 0 0 0 [WingSpear,Javelin] NoAI
+UNIT Olson Mage 0x0 Level(2,Ally,0) [9,3] 0 0 0 0 [Thunder,PrayerAmulet] NoAI
+UNIT Morris Priest 0x0 Level(1,Ally,0) [10,2] 0 0 0 0 [Heal,Vulnerary] NoAI
+UNIT Isaac Legionnaire 0x0 Level(1,Ally,0) [10,1] 0 0 0 0 [Alondite,SteelAxe,PaviseManual,SteelShield] NoAI
+UNIT Edmund LanceArmor 0x0 Level(2,Ally,0) [11,3] 0 0 0 0 [IronLance,IronShield] NoAI
+UNIT
+*/

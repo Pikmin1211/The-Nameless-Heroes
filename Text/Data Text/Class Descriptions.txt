@@ -7,44 +7,45 @@ A mercenary with a commanding[N]
 prescence. Equip: Swords, axes.[X]
 
 #0x2A3
-Powerful pegasi who trample over their[N]
-foes. Equip: Lances. Skill: Galeforce.[X]
+[_P][_o][_w][_e][_r][_f][_u][_l] [_r][_i][_d][_e][_r][_s] [_o][_f] [_b][_l][_a][_c][_k] [_w][_i][_n][_g][_e][_d] [_p][_e][_g][_a][_s][_i] [_w][_h][_o] [_t][_r][_a][_m][_p][_l][_e][N]
+[_o][_v][_e][_r] [_t][_h][_e][_i][_r] [_f][_o][_e][_s]. [_E][_q][_u][_i][_p]: [_L][_a][_n][_c][_e][_s]. [_S][_k][_i][_l][_l]: [_G][_a][_l][_e][_f][_o][_r][_c][_e].[X]
+
 
 #0x2C8
-Magicians with a mastery of all magics.[N]
-Equip: Anima, light, dark. Skill: Lifetaker.[X]
+[_F][_l][_y][_i][_n][_g] [_m][_a][_g][_i][_c][_i][_a][_n][_s] [_w][_i][_t][_h] [_a] [_m][_a][_s][_t][_e][_r][_y] [_o][_f] [_a][_l][_l] [_m][_a][_g][_i][_c][_s].[N]
+[_E][_q][_u][_i][_p]: [_A][_n][_i][_m][_a], [_L][_i][_g][_h][_t], [_D][_a][_r][_k]. [_S][_k][_i][_l][_l]: [_L][_i][_k][_e][_t][_a][_k][_e][_r].[X]
 
 #0x691
-Elite soldiers who take the front line.[N]
-Equip: Lances. Skills: Lancefaire, Impale.[X]
+[_E][_l][_i][_t][_e] [_s][_o][_l][_d][_i][_e][_r][_s] [_w][_h][_o] [_h][_a][_v][_e] [_h][_o][_n][_e][_d] [_t][_h][_e][_i][_r] [_s][_k][_i][_l][_l][_s] [_t][_o][N]
+[_p][_e][_r][_f][_e][_c][_t][_i][_o][_n]. [_E][_q][_u][_i][_p]: [_L][_a][_n][_c][_e][_s]. [_S][_k][_i][_l][_l][_s]: [_I][_m][_p][_a][_l][_e], [_L][_a][_n][_c][_e][_f][_a][_i][_r][_e].[X]
 
 #0x2CB
-Mountain thieves who attack with[N]
-razor sharp axes. Equip: Axes.[X]
+A title gifted to the self-proclaimed[N]
+king of thieves. Equip: Axes. Skill: Nihil.[X]
 
 #0x2D1
-Powerful soldiers with highly trained[N]
-offensive techniques. Equip: Lances.[X]
+[_V][_e][_t][_e][_r][_a][_n] [_s][_o][_l][_d][_i][_e][_r][_s] [_w][_i][_t][_h] [_r][_u][_t][_h][_l][_e][_s][_s] [_o][_f][_f][_e][_n][_s][_i][_v][_e][N]
+[_t][_e][_c][_h][_n][_i][_q][_u][_e]. [_E][_q][_u][_i][_p]: [_L][_a][_n][_c][_e][_s]. [_S][_k][_i][_l][_l]: [_D][_r][_a][_g][_o][_n] [_F][_a][_n][_g].[X]
 
 #0x2D0
-Armored titans wielding many weapons.[N]
-Equip: Swords, bows, anima, staves.[X]
+[_A][_r][_m][_o][_r][_e][_d] [_t][_i][_t][_a][_n][_s] [_w][_i][_e][_l][_d][_i][_n][_g] [_m][_a][_n][_y] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [BowIcon] [AnimaIcon] [StaffIcon][X]
 
 #0x2D2
-Armored titans wielding many weapons.[N]
-Equip: Lances, axes, light, dark.[X]
+[_A][_r][_m][_o][_r][_e][_d] [_t][_i][_t][_a][_n][_s] [_w][_i][_e][_l][_d][_i][_n][_g] [_m][_a][_n][_y] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [LanceIcon] [AxeIcon] [LightIcon] [DarkIcon][X]
 
 #0x2D4
-Knights trained in a variety of weapons.[N]
-Equip: Swords, lances, staves, anima.[X]
+[_K][_n][_i][_g][_h][_t][_s] [_t][_r][_a][_i][_n][_e][_d] [_i][_n] [_a] [_v][_a][_r][_i][_e][_t][_y] [_o][_f] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [LanceIcon] [AnimaIcon] [StaffIcon][X]
 
 #0x2D5
-Knights trained in a variety of weapons.[N]
-Equip: Axes, bows, light, dark.[X]
+[_K][_n][_i][_g][_h][_t][_s] [_t][_r][_a][_i][_n][_e][_d] [_i][_n] [_a] [_v][_a][_r][_i][_e][_t][_y] [_o][_f] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [AxeIcon] [BowIcon] [LightIcon] [DarkIcon][X]
 
 #0x6A1
-Loyal servants who heal and defend[N]
-their masters. Equip: Swords, staves.[X]
+[_S][_e][_r][_v][_a][_n][_t][_s] [_w][_h][_o] [_h][_e][_a][_l] [_a][_n][_d] [_d][_e][_f][_e][_n][_d] [_t][_h][_e][_i][_r] [_m][_a][_s][_t][_e][_r][_s]. [_S][_k][_i][_l][_l][_s]:[N]
+[_R][_e][_n][_e][_w][_a][_l], [_T][_o][_m][_e][_b][_r][_e][_a][_k][_e][_r], [_S][_t][_a][_t] +15. [_E][_q][_u][_i][_p]: [SwordIcon] [StaffIcon][X]
 
 #0xE60
 Commanders whose footsteps leave[N]

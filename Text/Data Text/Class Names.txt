@@ -5,16 +5,16 @@ Chevalier[X]
 Legionnaire[X]
 
 #0x248
-Sw[Lowero][Lowerr][Lowerd] K[Lowern]i[Lowerg][Lowerh]t[X]
+Sw[_o][_r][_d] K[_n]i[_g][_h]t[X]
 
 #0xD3B
-L[Lowera][Lowern][Lowerc]e K[Lowern]i[Lowerg][Lowerh]t[X]
+L[_a][_n][_c]e K[_n]i[_g][_h]t[X]
 
 #0x249
 Paladin[X]
 
 #0x24A
-L[Lowera][Lowern][Lowerc]e Armor[X]
+L[_a][_n][_c]e Armor[X]
 
 #0x288
 Axe Armor[X]
@@ -56,7 +56,7 @@ Wyvern Rider[X]
 Wyvern Lord[X]
 
 #0x257
-Wyv[Lowere][Lowerr][Lowern] K[Lowern]i[Lowerg][Lowerh]t[X]
+Wyv[_e][_r][_n] K[_n]i[_g][_h]t[X]
 
 #0x25C
 Dark Flier[X]
@@ -125,7 +125,7 @@ Priest[X]
 Bard[X]
 
 #0x26E
-[UpperP][Lowere][Lowerg][Lowera][Lowers][Loweru][Lowers] [UpperK][Lowern]i[Lowerg][Lowerh]t[X]
+[_P][_e][_g][_a][_s][_u][_s] [_K][_n][_i][_g][_h][_t][X]
 
 #0x26F
 Falcoknight[X]
@@ -164,7 +164,7 @@ Halberdier[X]
 Nomad[X]
 
 #0x27C
-N[Lowero]m[Lowera][Lowerd] T[Lowerr][Lowero][Lowero][Lowerp][Lowere][Lowerr][X]
+N[_o]m[_a][_d] T[_r][_o][_o][_p][_e][_r][X]
 
 #0x27D
 Spider[X]
@@ -182,7 +182,7 @@ Hellhound[X]
 Cerberus[X]
 
 #0x282
-Axe K[Lowern]i[Lowerg][Lowerh]t[X]
+Axe K[_n]i[_g][_h]t[X]
 
 #0x283
 Dragoon[X]
@@ -194,7 +194,7 @@ Baron[X]
 Ballistician[X]
 
 #0x285
-M[Lowera][Lowers]t[Lowere][Lowerr] [UpperK][Lowern]i[Lowerg][Lowerh]t[X]
+M[_a][_s]t[_e][_r] [_K][_n]i[_g][_h]t[X]
 
 #0x28A
 Dracozombie[X]
@@ -242,10 +242,10 @@ War Monk[X]
 Marshall[X]
 
 #0xE66
-T[Lowerh][Lowera][Loweru]m[Lowera]t[Loweru][Lowerr][Lowerg][Lowere][X]
+T[_h][_a][_u]m[_a]t[_u][_r][_g][_e][X]
 
 #0xF10
-Sw[Lowero][Lowerr][Lowerd] Armor[X]
+Sw[_o][_r][_d] Armor[X]
 
 #0xF2B
 Butler[X]

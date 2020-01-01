@@ -83,7 +83,7 @@ Rem[X]
 Hermes[X]
 
 #0xB0
-M[Loweru]r[Lowera]s[Lowera]m[Lowere][X]
+M[_u]r[_a]s[_a]m[_e][X]
 
 #0x1BA
 Mythra[X]
@@ -311,7 +311,7 @@ Tyler[X]
 Horvas[X]
 
 #0x19A
-D[Lowero][Lowern] Q[Loweru]i[Lowerx][Lowero]t[Lowere][X]
+D[_o][_n] Q[_u]i[_x][_o]t[_e][X]
 
 #0xF65
 Trident[X]
