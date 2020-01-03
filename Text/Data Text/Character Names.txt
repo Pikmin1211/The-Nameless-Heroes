@@ -257,13 +257,13 @@ Scoundrel[X]
 Denny[X]
 
 #0x1C6
-Tirado[X]
+Evan[X]
 
 #0x1CB
 Caellach[X]
 
-#0x1C8
-Pablo[X]
+#0x1C9
+Freya[X]
 
 #0x1E4
 Klimt[X]
@@ -275,7 +275,7 @@ Gheb[X]
 Novala[X]
 
 #0x1C5
-Murray[X]
+Hawkwood[X]
 
 #0xAB
 Officer[X]
@@ -327,3 +327,6 @@ Aegis[X]
 
 #0xF67
 Carlos[X]
+
+#0x1B6
+Grace[X]

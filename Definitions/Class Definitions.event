@@ -1,7 +1,7 @@
 #define Chevalier 0x1
 #define Legionnaire 0x2
 #define Commandeur 0x3
-#define CommandKnight 0x3
+#define CommandKnight 0x4
 #define SwordKnight 0x5
 #define LanceKnight 0x6
 #define LancePaladin 0x7

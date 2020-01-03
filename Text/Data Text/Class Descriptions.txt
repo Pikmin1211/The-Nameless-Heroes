@@ -1,31 +1,30 @@
 #0x290
-A young monarch who protects[N]
-their home. Equip: Swords.[X]
+A young monarch who fights to[N]
+protect their home. Equip: [SwordIcon][X]
 
 #0x72
-A mercenary with a commanding[N]
-prescence. Equip: Swords, axes.[X]
+[_A] [_h][_a][_r][_d][_e][_n][_e][_d] [_m][_e][_r][_c][_e][_n][_a][_r][_y] [_w][_i][_t][_h] [_a] [_c][_o][_m][_m][_a][_n][_d][_i][_n][_g] [_f][_i][_e][_l][_d][N]
+[_p][_r][_e][_s][_e][_n][_c][_e]. [_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_S][_o][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon][X]
 
 #0x2A3
-[_P][_o][_w][_e][_r][_f][_u][_l] [_r][_i][_d][_e][_r][_s] [_o][_f] [_b][_l][_a][_c][_k] [_w][_i][_n][_g][_e][_d] [_p][_e][_g][_a][_s][_i] [_w][_h][_o] [_t][_r][_a][_m][_p][_l][_e][N]
-[_o][_v][_e][_r] [_t][_h][_e][_i][_r] [_f][_o][_e][_s]. [_E][_q][_u][_i][_p]: [_L][_a][_n][_c][_e][_s]. [_S][_k][_i][_l][_l]: [_G][_a][_l][_e][_f][_o][_r][_c][_e].[X]
-
+[_P][_o][_w][_e][_r][_f][_u][_l] [_r][_i][_d][_e][_r][_s] [_o][_f] [_b][_l][_a][_c][_k] [_w][_i][_n][_g][_e][_d] [_p][_e][_g][_a][_s][_i] [_w][_h][_o][N]
+[_t][_r][_a][_m][_p][_l][_e] [_o][_v][_e][_r] [_t][_h][_e][_i][_r] [_f][_o][_e][_s]. [_S][_k][_i][_l][_l]: [_G][_a][_l][_e][_f][_o][_r][_c][_e]. [_E][_q][_u][_i][_p]: [LanceIcon][X]
 
 #0x2C8
-[_F][_l][_y][_i][_n][_g] [_m][_a][_g][_i][_c][_i][_a][_n][_s] [_w][_i][_t][_h] [_a] [_m][_a][_s][_t][_e][_r][_y] [_o][_f] [_a][_l][_l] [_m][_a][_g][_i][_c][_s].[N]
-[_E][_q][_u][_i][_p]: [_A][_n][_i][_m][_a], [_L][_i][_g][_h][_t], [_D][_a][_r][_k]. [_S][_k][_i][_l][_l]: [_L][_i][_k][_e][_t][_a][_k][_e][_r].[X]
+[_F][_l][_y][_i][_n][_g] [_m][_a][_g][_i][_c][_i][_a][_n][_s] [_w][_i][_t][_h] [_a] [_m][_a][_s][_t][_e][_r][_y] [_o][_f] [_a][_l][_l][N]
+[_m][_a][_g][_i][_c][_s]. [_S][_k][_i][_l][_l]: [_L][_i][_k][_e][_t][_a][_k][_e][_r]. [_E][_q][_u][_i][_p]: [AnimaIcon] [LightIcon] [DarkIcon][X]
 
 #0x691
 [_E][_l][_i][_t][_e] [_s][_o][_l][_d][_i][_e][_r][_s] [_w][_h][_o] [_h][_a][_v][_e] [_h][_o][_n][_e][_d] [_t][_h][_e][_i][_r] [_s][_k][_i][_l][_l][_s] [_t][_o][N]
-[_p][_e][_r][_f][_e][_c][_t][_i][_o][_n]. [_E][_q][_u][_i][_p]: [_L][_a][_n][_c][_e][_s]. [_S][_k][_i][_l][_l][_s]: [_I][_m][_p][_a][_l][_e], [_L][_a][_n][_c][_e][_f][_a][_i][_r][_e].[X]
+[_p][_e][_r][_f][_e][_c][_t][_i][_o][_n]. [_S][_k][_i][_l][_l][_s]: [_I][_m][_p][_a][_l][_e], [_L][_a][_n][_c][_e][_f][_a][_i][_r][_e]. [_E][_q][_u][_i][_p]: [LanceIcon][X]
 
 #0x2CB
 A title gifted to the self-proclaimed[N]
-king of thieves. Equip: Axes. Skill: Nihil.[X]
+king of thieves. Skill: Nihil. Equip: [AxeIcon][X]
 
 #0x2D1
 [_V][_e][_t][_e][_r][_a][_n] [_s][_o][_l][_d][_i][_e][_r][_s] [_w][_i][_t][_h] [_r][_u][_t][_h][_l][_e][_s][_s] [_o][_f][_f][_e][_n][_s][_i][_v][_e][N]
-[_t][_e][_c][_h][_n][_i][_q][_u][_e]. [_E][_q][_u][_i][_p]: [_L][_a][_n][_c][_e][_s]. [_S][_k][_i][_l][_l]: [_D][_r][_a][_g][_o][_n] [_F][_a][_n][_g].[X]
+[_t][_e][_c][_h][_n][_i][_q][_u][_e]. [_S][_k][_i][_l][_l]: [_D][_r][_a][_g][_o][_n] [_F][_a][_n][_g]. [_E][_q][_u][_i][_p]: [LanceIcon][X]
 
 #0x2D0
 [_A][_r][_m][_o][_r][_e][_d] [_t][_i][_t][_a][_n][_s] [_w][_i][_e][_l][_d][_i][_n][_g] [_m][_a][_n][_y] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
@@ -48,208 +47,208 @@ king of thieves. Equip: Axes. Skill: Nihil.[X]
 [_R][_e][_n][_e][_w][_a][_l], [_T][_o][_m][_e][_b][_r][_e][_a][_k][_e][_r], [_S][_t][_a][_t] +15. [_E][_q][_u][_i][_p]: [SwordIcon] [StaffIcon][X]
 
 #0xE60
-Commanders whose footsteps leave[N]
-death in their wake. Equip: Axes, dark.[X]
+[_D][_a][_r][_k] [_k][_n][_i][_g][_h][_t][_s] [_w][_h][_o] [_l][_e][_a][_v][_e] [_d][_e][_a][_t][_h] [_i][_n] [_t][_h][_e][_i][_r] [_w][_a][_k][_e].[N]
+[_S][_k][_i][_l][_l][_s]: [_S][_h][_o][_r][_t] [_S][_h][_i][_e][_l][_d], [_L][_u][_n][_a], [_S][_h][_i][_f][_t]. [_E][_q][_u][_i][_p]: [AxeIcon] [DarkIcon][X]
 
 #0xDD0
-A mysterious fencer who fights[N]
-with a holy blade. Equip: Swords.[X]
+A mysterious fencer who fights with a holy[N]
+sword. Skills: Miracle, Crusade. Equip: [SwordIcon][X]
 
 #0x2D3
-A seasoned leader upon whom victory[N]
-hinges. Equip: Swords, anima, staves.[X]
+[_A] [_s][_e][_a][_s][_o][_n][_e][_d] [_l][_e][_a][_d][_e][_r] [_u][_p][_o][_n] [_w][_h][_o][_m] [_v][_i][_c][_t][_o][_r][_y] [_h][_i][_n][_g][_e][_s].[N]
+[_S][_k][_i][_l][_l][_s]: [_M][_i][_r][_a][_c][_l][_e], [_C][_h][_a][_r][_m], [_S][_h][_i][_f][_t]. [_E][_q][_u][_i][_p]: [SwordIcon] [AnimaIcon] [StaffIcon][X]
 
 #0x9A8
 Heavy tanks specialized in attacking[N]
-from a long range. Equip: Ballistae.[X]
+from a great distance. Equip: [BallistaIcon][X]
 
 #0x2C7
 Plainsmen with high speed and[N]
-strong movement. Equip: Bows.[X]
+strong movement. Equip: [BowIcon][X]
 
 #0x2CF
 A title bestowed upon nomads of great[N]
-skill. Equip: Swords, bows. Skill: Adept.[X]
+skill. Skill: Adept. Equip: [SwordIcon] [BowIcon][X]
 
 #0x294
 Mounted knights with swift[N]
-movement. Equip: Swords.[X]
+movement. Equip: [SwordIcon][X]
 
 #0xD3C
 Mounted knights with swift[N]
-movement. Equip: Lances.[X]
+movement. Equip: [LanceIcon][X]
 
 #0x2CE
 Mounted knights with swift[N]
-movement. Equip: Axes.[X]
+movement. Equip: [AxeIcon][X]
 
 #0x295
-Mounted knights with superior abilities.[N]
-Equip: Swords, lances. Skill: Sol.[X]
+Mounted knights with superior[N]
+abilities. Skill: Sol. Equip: [SwordIcon] [LanceIcon][X]
 
 #0xDCE
-Mounted knights with superior abilities.[N]
-Equip: Lances, axes. Skill: Sol.[X]
+Mounted knights with superior[N]
+abilities. Skill: Sol. Equip: [LanceIcon] [AxeIcon][X]
 
 #0xDCD
-Mounted knights with superior abilities.[N]
-Equip: Swords, axes. Skill: Sol.[X]
+Mounted knights with superior[N]
+abilities. Skill: Sol. Equip: [SwordIcon] [AxeIcon][X]
 
 #0x296
 Heavily armored knights with[N]
-high defenses. Equip: Lances.[X]
+high defenses. Equip: [LanceIcon][X]
 
 #0x907
 Heavily armored knights with[N]
-high defenses. Equip: Axes.[X]
+high defenses. Equip: [AxeIcon][X]
 
 #0x297
-Knights of great skill. Equip:[N]
-Lances, axes. Skill: Pavise.[X]
+Knights of great skill.[N]
+Skill: Pavise. Equip: [LanceIcon] [AxeIcon][X]
 
 #0x2A8
-Knights of great skill. Equip:[N]
-Swords, lances. Skill: Luna.[X]
+Knights of great skill.[N]
+Skill: Luna. Equip: [SwordIcon] [LanceIcon][X]
 
 #0x298
 Multitalented knaves with an[N]
-eye for riches. Equip: Swords.[X]
+eye for riches. Equip: [SwordIcon][X]
 
 #0x299
 Well-balanced professional[N]
-soldiers-for-hire. Equip: Swords.[X]
+soldiers-for-hire. Equip: [SwordIcon][X]
 
 #0x29A
 Seasoned veterans with remarkable[N]
-skill. Equip: Swords, axes. Skill: Aether.[X]
+skill. Skill: Aether. Equip: [SwordIcon] [AxeIcon][X]
 
 #0x29B
-Talented swordsmen skilled in swift[N]
-killing strokes. Equip: Swords.[X]
+Talented swordsmen skilled in[N]
+swift killing strokes. Equip: [SwordIcon][X]
 
 #0x29C
-Fast swordsmen of lethal skill. Equip:[N]
-Swords. Skills: Avo+15, Crit+15, Astra.[X]
+[_L][_i][_g][_h][_t][_n][_i][_n][_g]-[_f][_a][_s][_t] [_s][_w][_o][_r][_d][_s][_m][_e][_n] [_o][_f] [_p][_e][_e][_r][_l][_e][_s][_s] [_a][_n][_d] [_l][_e][_t][_h][_a][_l][N]
+[_s][_k][_i][_l][_l]. [_S][_k][_i][_l][_l][_s]: [_C][_r][_i][_t] +15, [_A][_s][_t][_r][_a]. [_E][_q][_u][_i][_p]: [SwordIcon][X]
 
 #0x29D
-Masters of the killing arts. Equip:[N]
-Swords, bows. Skills: Lethality, Pass.[X]
+Masters of the killing arts.[N]
+Skills: Lethality, Pass. Equip: [SwordIcon] [BowIcon][X]
 
 #0x29E
-Warriors who use bows to attack[N]
-from afar. Equip: Bows.[X]
+Warriors who use bows to[N]
+attack from afar. Equip: [BowIcon][X]
 
 #0x29F
-Archers of unparalleled accuracy. Equip:[N]
-Bows. Skills: Bowrange+, Sure Shot.[X]
+Archers of unparalleled accuracy.[N]
+Skills: Bowrange+, Sure Shot. Equip: [BowIcon][X]
 
 #0x2A0
 Fighters skilled in both sword and bow.[N]
-Equip: Swords, bows. Skill: Proximity Shot.[X]
+Skill: Proximity Shot. Equip: [SwordIcon] [BowIcon][X]
 
 #0x2A1
-High-flying knights vulnerable only to[N]
-bows and magic. Equip: Lances.[X]
+High-flying knights vulnerable[N]
+only to bows and magic. Equip: [LanceIcon][X]
 
 #0x2A2
 Wyvern-mounted knights of superior[N]
-skill. Equip: Lances, axes. Skill: Enrage.[X]
+skill. Skill: Enrage. Equip: [LanceIcon] [AxeIcon][X]
 
 #0x2A9
 Wyvern-mounted knights of superior[N]
-skill. Equip: Swords, lances. Skill: Sol.[X]
+skill. Skill: Sol. Equip: [SwordIcon] [LanceIcon][X]
 
 #0x2C5
 Wyvern riders who can pierce enemy[N]
-defenses. Equip: Lances. Skill: Luna.[X]
+defenses. Skill: Luna. Equip: [LanceIcon][X]
 
 #0x2A4
-Magic wielders with solid skills but low[N]
-physical strength. Equip: Anima.[X]
+Magic wielders with solid skills but[N]
+low physical strength. Equip: [AnimaIcon][X]
 
 #0x2A5
-Advanced scholars of magical codices.[N]
-Equip: Anima, light, staves. Skill: Flare.[X]
+Advanced scholars of magical[N]
+codices. Skill: Flare. Equip: [AnimaIcon] [LightIcon] [StaffIcon][X]
 
 #0x2A6
-Knights trained in both anima and swords.[N]
-Equip: Swords, anima. Skill: Ambush.[X]
+Knights trained in both anima and[N]
+swords. Skill: Ambush. Equip: [SwordIcon] [AnimaIcon][X]
 
 #0x2A7
 Seasoned priests who heal their allies.[N]
-Equip: Light, staves. Skill: Mageslayer.[X]
+Skills: Miracle, Mageslayer. Equip: [LightIcon] [StaffIcon][X]
 
 #0x2B3
 Wielders of magic who are stronger,[N]
-but slower, than mages. Equip: Dark.[X]
+but slower, than mages. Equip: [DarkIcon][X]
 
 #0x2B4
 Wielders of deep and ancient magic.[N]
-Equip: Dark, anima, staves. Skill: Eclipse.[X]
+magic. Skill: Eclipse. Equip: [DarkIcon] [StaffIcon][X]
 
 #0x2B5
 Master sorcerers who summon fighters.[N]
-Equip: Anima, dark. Skill: Summon.[X]
+Skill: Summon. Equip: [AnimaIcon] [DarkIcon][X]
 
 #0x2AD
-Knaves who need no keys to open locks.[N]
-Equip: Swords, staves. Skills: Pick, Pass.[X]
+Knaves who need no tools or keys to open[N]
+locks. Skills: Pick, Pass. Equip: [SwordIcon] [StaffIcon][X]
 
 #0x2B2
-Knights with great mobility and defense.[N]
-Equip: Swords, lances, axes. Skill: Luna.[X]
+Knights with great mobility and[N]
+defense. Skill: Luna. Equip: [SwordIcon] [LanceIcon] [AxeIcon][X]
 
 #0x2AE
-Ruffians with great strength but[N]
-poor defense. Equip: Axes.[X]
+Ruffians with great strength[N]
+but poor defense. Equip: [AxeIcon][X]
 
 #0x2AF
 Stalwart warriors whose power is their[N]
-pride. Equip: Axes, bows. Skill: Colossus.[X]
+pride. Skill: Colossus. Equip: [AxeIcon] [BowIcon][X]
 
 #0x2C1
 Tough brawlers who call the[N]
-sea their home. Equip: Axes.[X]
+sea their home. Equip: [AxeIcon][X]
 
 #0x2B0
 Mighty mercenaries who thrive[N]
-in mountains. Equip: Axes.[X]
+in mountains. Equip: [AxeIcon][X]
 
 #0x2B1
-Fighters at home in mountains and sea.[N]
-Equip: Axes. Skills: Crit+15, Vengeance.[X]
+Fighters at home in both mountains and[N]
+sea. Skills: Crit+15, Vengeance. Equip: [AxeIcon][X]
 
 #0x2B6
-Spiritual guides who use sacred staves[N]
-to heal allies. Equip: Light, staves.[X]
+Spiritual guides who use sacred[N]
+staves to heal allies. Equip: [LightIcon] [StaffIcon][X]
 
 #0x2BA
 Airborne knights who resist magic but[N]
-are weak against bows. Equip: Lances.[X]
+are weak against bows. Equip: [LanceIcon][X]
 
 #0x2BB
-Sky warriors who resist magic. Equip:[N]
-Swords, lances, staves. Skill: Petrify.[X]
+Swift sky warriors who shrug off magic[N]
+attacks. Skill: Petrify. Equip: [SwordIcon] [LanceIcon] [StaffIcon][X]
 
 #0x2BC
-Holy women who use staves to heal[N]
-their allies. Equip: Light, staves.[X]
+Holy women who use staves to[N]
+heal their allies. Equip: [LightIcon] [StaffIcon][X]
 
 #0x2BD
-Maidens who wield staves from[N]
-horseback. Equip: Staves.[X]
+Maidens who wield staves[N]
+from horseback. Equip: [StaffIcon][X]
 
 #0x2BE
-Holy women on horseback. Equip: Anima,[N]
-staves. Skills: Aegis, Staff Savant.[X]
+Battle maidens who wield powerful magic.[N]
+Skills: Aegis, Staff Savant. Equip: [LightIcon] [StaffIcon][X]
 
 #0x2BF
-Dancers whose dances revitalize[N]
-their allies. They cannot attack.[X]
+Dancers whose dances revitalize their[N]
+allies. They cannot attack. Skill: Dance.[X]
 
 #0x2C0
 Militants with well-rounded[N]
-abilities. Equip: Lances.[X]
+abilities. Equip: [LanceIcon][X]
 
 #0x2C4
 Phantom warriors who vanish[N]
@@ -260,12 +259,12 @@ An innocent peasant lacking any[N]
 combat skills at all.[X]
 
 #0x292
-A knight sworn to fight for[N]
-justice. Equip: Swords, lances.[X]
+A knight sworn to fight for justice.[N]
+Skills: Sol, Charm. Equip: [SwordIcon] [LanceIcon][X]
 
 #0x293
-An inspiring commander who strikes fear[N]
-into their enemies. Equip: Swords, axes.[X]
+[_A] [_c][_o][_m][_m][_a][_n][_d][_e][_r] [_w][_h][_o] [_s][_t][_r][_i][_k][_e][_s] [_f][_e][_a][_r] [_i][_n][_t][_o] [_t][_h][_e][_i][_r] [_e][_n][_e][_m][_i][_e][_s].[N]
+[_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_S][_o][_l], [_C][_h][_a][_r][_m]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon][X]
 
 #0x2C9
 Giant poisonous mountain[N]
@@ -288,20 +287,20 @@ Carriages that carry[N]
 valuable wares. Cannot fight.[X]
 
 #0xE62
-Clerics familiar with the battlefield. Equip:[N]
-Axes, staves. Skills: Renewal, Boon.[X]
+[_C][_l][_e][_r][_i][_c][_s] [_f][_a][_m][_i][_l][_i][_a][_r] [_w][_i][_t][_h] [_t][_h][_e] [_d][_i][_v][_i][_n][_e] [_a][_n][_d] [_b][_a][_t][_t][_l][_e][_f][_i][_e][_l][_d].[N]
+[_S][_k][_i][_l][_l][_s]: [_R][_e][_n][_e][_w][_a][_l], [_B][_o][_o][_n]. [_E][_q][_u][_i][_p]: [AxeIcon] [StaffIcon][X]
 
 #0x2DA
-Peerless leaders who can turn the[N]
-tides of battle. Equip: Swords, axes.[X]
+[_P][_e][_e][_r][_l][_e][_s][_s] [_l][_e][_a][_d][_e][_r][_s] [_w][_h][_o] [_c][_a][_n] [_t][_u][_r][_n] [_t][_h][_e] [_t][_i][_d][_e][_s] [_o][_f][N]
+[_b][_a][_t][_t][_l][_e]. [_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_C][_h][_a][_r][_m]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon][X]
 
 #0xE67
-Powerful magicians who travel[N]
-on horseback. Equip: Anima.[X]
+Powerful magicians who[N]
+travel on horseback. Equip: [AnimaIcon][X]
 
 #0xF11
 Heavily armored knights with[N]
-high defenses. Equip: Swords.[X]
+high defenses. Equip: [SwordIcon][X]
 
 #0x2B8
 Musicians whose melodies[N]
@@ -309,12 +308,12 @@ aid allies. Unable to attack.[X]
 
 #0x2C3
 Warships that patrol the[N]
-open seas. Equip: Ballistae.[X]
+open seas. Equip: [BallistaIcon][X]
 
 #0xF2D
-Knights of great skill. Equip:[N]
-Lances, bows. Skill: Pavise.[X]
+Knights of great skill.[N]
+Skill: Pavise. Equip: [LanceIcon] [BowIcon][X]
 
 #0xF42
 An experienced and fierce warrior.[N]
-Equip: Swords, lances. Skill: Petrify.[X]
+Skill: Petrify. Equip: [SwordIcon] [LanceIcon][X]

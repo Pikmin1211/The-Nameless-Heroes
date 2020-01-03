@@ -35,6 +35,9 @@ $RECYCLE.BIN/
 #notes folder
 /Notes
 
+#Shortcuts
+*.shortcut
+
 # =========================
 # Operating System Files
 # =========================
