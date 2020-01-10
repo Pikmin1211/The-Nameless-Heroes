@@ -10,21 +10,21 @@
 PUSH
 
 ORG $AAEB40
-#incext Png2Dmp "Img_AAEB40.png" --lz77
+#incext Png2Dmp "StatusMenu.png" --lz77
 ORG $AA65A8
-#incext Png2Dmp "Img_AA65A8.png" --lz77
+#incext Png2Dmp "DifficultySelect.png" --lz77
 ORG $AA39DC
-#incext Png2Dmp "Img_AA39DC_eng.png" --lz77
+#incext Png2Dmp "MainMenu.png" --lz77
 ORG $AA59A0
-#incext Png2Dmp "Img_AA59A0.png" --lz77
+#incext Png2Dmp "ExtrasMenu.png" --lz77
 ORG $A96D18
-#incext Png2Dmp "Img_A96D18.png" --lz77
+#incext Png2Dmp "PrepMenu.png" --lz77
 ORG $A99FE8
-#incext Png2Dmp "Img_A99FE8.png" --lz77
+#incext Png2Dmp "BattlePrep1.png" --lz77
 ORG $A95E80
-#incext Png2Dmp "Img_A95E80.png" --lz77
-ORG $A972B0 //Support banner
-#incext Png2Dmp "Img_A972B0.png" --lz77
+#incext Png2Dmp "BattlePrep2.png" --lz77
+ORG $A972B0
+#incext Png2Dmp "SupportMenu.png" --lz77
 ORG $B4400
 POIN SoundRoomGraphics
 
@@ -49,7 +49,7 @@ POP
 ALIGN 4
 
 SoundRoomGraphics:
-#incext Png2Dmp "Img_AAAC4C.png" --lz77
+#incext Png2Dmp "SoundRoom.png" --lz77
 
 //PUSH
 

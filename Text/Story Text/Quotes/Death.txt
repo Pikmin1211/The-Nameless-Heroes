@@ -232,8 +232,8 @@ I'll have to back out.[A][X]
 Again... I have[N]
 failed my duty...[A][CloseEyes][.....][X]
 
-#0xC00 MurphyDeath
-[MidRight][LoadMurphy]
+#0xC00 MurasameDeath
+[MidRight][LoadMurasame]
 Well, well...[AN]
 Looks like it's[N]
 curtains for me...[A][CloseEyes][.....][X]
@@ -242,3 +242,20 @@ curtains for me...[A][CloseEyes][.....][X]
 [MidRight][LoadKronos]
 Gah... I-I swear...[N]
 I'm not incompetent...[A][CloseEyes][.....][X]
+
+#0xF73 GraceDeath
+[MidRight][LoadGrace]
+Ugh... this feeling...[N]
+What... happened to me...[A][CloseEyes][.....][X]
+
+#0xF74 DonQuixoteDeath
+[MidRight][LoadDonQuixote]
+My life as a living legend...[N]
+Could it truly end... here...?[A][CloseEyes][.....][X]
+
+#0xABE HaltmannDeath
+[MidRight][LoadHaltmann]
+Well, well...[AN]
+So this is how[N]
+I crash and burn.[AN]
+I applaude the effort.[A][CloseEyes][.....][X]

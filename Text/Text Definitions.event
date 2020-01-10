@@ -192,8 +192,11 @@
 #define SofiaDeath $BFB
 #define VulcanRetreat $BF5
 #define VulcanDeath $BFC
-#define MurphyDeath $C00
+#define MurasameDeath $C00
 #define KronosDeath $C02
+#define GraceDeath $F73
+#define DonQuixoteDeath $F74
+#define HaltmannDeath $ABE
 #define IsaacEscape $572
 #define IsaacNotEscape $568
 #define FerrisEscape $56A
@@ -277,7 +280,10 @@
 #define SofiaEscape3 $DAA
 #define VulcanEscape $58F
 #define VulcanEscape2 $DAD
-#define MurphyEscape $DB4
+#define MurasameEscape $DB4
+#define GraceEscape $F7A
+#define GraceEscape2 $F77
+#define GraceEscape3 $F76
 #define IsaacTreasure $E3F
 #define WolfTreasure $E40
 #define OlsonTreasure $E42
@@ -311,8 +317,10 @@
 #define ArianaTreasure $E56
 #define SofiaTreasure $E57
 #define VulcanTreasure $E58
-#define MurphyTreasure $E5A
+#define MurasameTreasure $E5A
 #define KronosTreasure $F2E
+#define GraceTreasure $F78
+#define DonQuixoteTreasue $F7B
 #define PrologueSystemMessage $D3D
 #define Chapter1BaseSystemMessage $94F
 #define Chapter8BaseSystemMessage $9D6
@@ -430,6 +438,8 @@
 #define Chapter3LoactionJutes $F0C
 #define Chapter3Ending6 $ACE
 #define Chapter3Guide $046
+#define Chapter3GraceTurn1 $B68
+#define Chapter3GraceIsaacTalk $B6E
 #define Chapter4WorldMap $882
 #define Chapter4Opening $963
 #define Chapter4Opening2 $964
@@ -460,6 +470,7 @@
 #define Chapter4DanielBattleQuote $987
 #define Chapter4DanielDeathQuote $988
 #define Chapter4Guide $091
+#define Chapter4GraceAppears $F75
 #define Chapter5Opening1 $989
 #define Chapter5Opening2 $97E
 #define Chapter5Opening3 $97F
@@ -507,5 +518,6 @@
 #define Chapter7BaseIsaacHermesTalk $8EE
 #define Chapter7BaseJeronimoTalk $D43
 #define Chapter7BaseWorldMap $883
+#define Chapter7BaseIsaacGraceTalk $905
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

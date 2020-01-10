@@ -986,3 +986,104 @@ Gahaha![N]
 It's no big deal.[AN]
 Now, let's[N]
 go get 'em![A][X]
+
+
+
+
+#0xB68 Chapter3GraceTurn1
+[MidRight][LoadSchwartz][MidLeft][LoadGrace]
+Sir Schwartz! Please,[N]
+we must stop this![AN]
+This cannot be right...![AN]
+
+[MidRight]
+Oh, you're that cleric that[N]
+was assigned to us recently...[AN]
+And what exactly is not right, hm?[AN]
+
+[MidLeft]
+I saw everything![N]
+What you're doing is...[AN]
+
+[MidRight][MoveLeft]
+[MidLeft][MoveMidLeft]
+[TMM]!![AN][TMM]
+
+[Left]
+Oh? It's what now?[AN]
+We're the good guys,[N]
+don't you understand?[AN]
+I guess a newbie such[N]
+as yourself wouldn't...[AN]
+
+[MidLeft][Beat][AN]
+
+[Left]
+Sister, I'm ordering[N]
+you to the field.[AN]
+Head to the front and[N]
+treat our comrades.[AN]
+And, watch out[N]
+for stray arrows.[AN]
+Make sure to think[N]
+long and hard...[AN]
+About who's in[N]
+charge here.[AN]
+[Clear]
+
+[MidLeft][CloseEyes]
+Ugh...[N]
+This can't be it...[A][X]
+
+
+
+
+#0xB6E Chapter3GraceIsaacTalk
+[MidLeft][LoadIsaac][FarRight][LoadGrace][MoveRight][MoveRight]
+E... Excuse me![AN]
+
+[MidLeft]
+Huh? Oh, you're a cleric...[N]
+What are you doing here?[AN]
+
+[Right]
+I... I was assigned here[N]
+to Schwartz's group.[AN]
+I know this is sudden but...[AN]
+I surrender![N]
+I saw everything![AN]
+My conscience cannot allow[N]
+me to let them do such...[AN]
+such barbaric things![AN]
+
+[MidLeft]
+Sister, this will be seen[N]
+as a betrayal of Etruria.[AN]
+Your church will hear of this, too.[AN]
+I hope you understand[N]
+the consequences of that.[AN]
+
+[Right]
+I was not sent here to[N]
+commit such evil acts![AN]
+I would rather lose my position[N]
+than have any part in this.[AN]
+
+[MidLeft]
+...I understand.[N]
+Very well, sister.[AN]
+I'll look after you, then.[N]
+Make sure to keep behind me.[AN]
+
+[Right]
+R-right. I can use[N]
+a staff too, so...[AN]
+Please, allow me[N]
+to assist you![AN]
+
+[MidLeft]
+Of course. Please lend us your aid.[N]
+...As much as you can, anyways.[AN]
+
+[Right][MoveRight]
+Y-yes sir![A][X]

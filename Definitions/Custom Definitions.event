@@ -5,7 +5,7 @@
 #define MenuString(stuff) "BYTE 0x20; String(stuff) ; BYTE 0x00"
 #define EndString(stuff) "String(stuff) ; BYTE 0x00"
 
-#define FreeSpace 0x1B7BAF0
+#define FreeSpace 0x1B8DFEC
 
 // Testing Stuff
 /*

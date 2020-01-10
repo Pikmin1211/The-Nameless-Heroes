@@ -502,8 +502,24 @@ You sure 'bout this?[AN]
 I'm trained for these kinds[N]
 of situations, ya know.[A][X]
 
-#0xDB4 MurphyEscape
-[MidRight][LoadMurphy]
-That was "Legend of Murphy,[N]
+#0xDB4 MurasameEscape
+[MidRight][LoadMurasame]
+That was "Legend of Murasame,[N]
 the Master Swordsman"![AN]
 To be continued soon![A][X]
+
+#0xF7A GraceEscape
+[MidRight][LoadGrace]
+Leaving already...[N]
+I just hope I was helpful...[A][X]
+
+#0xF77 GraceEscape2
+[MidRight][LoadGrace]
+Huff, huff...[N]
+I'm ready to fall over...[A][X]
+
+#0xF76 GraceEscape3
+[MidRight][LoadGrace]
+Argh, I feel so useless![AN]
+I can't do anything[N]
+to help them now...[A][X]

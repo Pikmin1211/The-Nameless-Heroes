@@ -93,7 +93,7 @@ Well, that was a ruckus.[AN]
 Those mercenaries'll soon be[N]
 cleared out, so don't worry.[AN]
 
-[MidLeft][LoadHaltmann]
+[MidLeft][LoadRedSoldier]
 Hmph.[N]
 I don't particularly care.[AN]
 What I do care about is[N]

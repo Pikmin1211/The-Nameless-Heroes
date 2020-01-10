@@ -462,3 +462,8 @@ if attacking.[X]
 Fast Defense[N]
 Always follow up[N]
 if defending.[X]
+
+#0x830
+Magiciary (Combat Art)[N]
+Attack + 6 and Hit + 10.[N]
+Effect weakens at range.[X]

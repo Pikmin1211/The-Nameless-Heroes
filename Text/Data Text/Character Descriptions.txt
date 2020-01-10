@@ -169,8 +169,8 @@ A master swordsman named "The[N]
 Swallow." Lax and free-spirited.[X]
 
 #0x205
-An Etrurian summoner. Vexed that[N]
-his abilitues are not recognized.[X]
+Known as the "Phantomancer". Vexed[N]
+that his abilities are undersold.[X]
 
 #0x21A
 An Etrurian commander who[N]
@@ -179,3 +179,15 @@ manages the Eburacum mines.[X]
 #0x21F
 Commander of the troops sent[N]
 to Jutes. An Etrurian general.[X]
+
+#0xF72
+A beginner cleric of the St. Elimine[N]
+church. Always does her best.[X]
+
+#0xB1F
+A famous knight with a perfect[N]
+victory streak and high reputation.[X]
+
+#0xD55
+A mercenary known as "the King of[N]
+the Sky". Skilled in the air.[X]

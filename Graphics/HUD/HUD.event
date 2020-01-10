@@ -1,56 +1,33 @@
 ALIGN 4
 ClassFontEN:
-#incext Png2Dmp "classfonten.png" --lz77
+#incext Png2Dmp "ClassFontEN.png" --lz77
 
 ALIGN 4
-Img_5C6E08_Repointed:
-#incext Png2Dmp "Img_5C6E08_Repoint.png" --lz77
+HPBars:
+#incext Png2Dmp "HPBars.png" --lz77
 
-//ALIGN 4
-//LinkArenaEN:
-//#incext Png2Dmp "LinkArenaEN.png" --lz77
-
-//EvaluationScreen:
-//#incext Png2Dmp "evaluation_08AC5598.png" -lz77
+EvaluationScreen:
+#incext Png2Dmp "EvaluationScreen.png" --lz77
 
 PUSH
+
 ORG $156C8
-POIN Img_5C6E08_Repointed
+POIN HPBars
 ORG $B8B1C
 POIN ClassFontEN
 ORG 0xD1838
 POIN ClassFontEN
 
-//ORG 0xBCB5C
-//POIN EvaluationScreen
-//ORG 0xAC5598
-//#incext Png2Dmp "evaluation_08AC5598.png" -lz77
+ORG 0xBCB5C
+POIN EvaluationScreen
 ORG $A92B38
-#incext Png2Dmp "Img_A92B38.png"
+#incext Png2Dmp "StatusCond.png"
 ORG $BB08B4
-#incext Png2Dmp "Img_BB08B4.png" --lz77
-//ORG $EAD850
-ORG $11A3AC8
-#incbin "Supply.dmp"
-POP
+#incext Png2Dmp "Platform.png" --lz77
 
-/*
-ORG 0x43A54
-POIN LinkArenaEN
-ORG 0x44770
-POIN LinkArenaEN
-ORG 0x4573C
-POIN LinkArenaEN
-ORG 0x45E6C
-POIN LinkArenaEN
-ORG 0x468D8
-POIN LinkArenaEN
-ORG 0x46A1C
-POIN LinkArenaEN
-ORG 0x47110
-POIN LinkArenaEN
-ORG 0x47460
-POIN LinkArenaEN
-ORG 0x4781C
-POIN LinkArenaEN
-*/
+// Original image in fantasy2.gba
+// starts at 10 40 01 (0x18)
+ORG $11BFCFC
+#incbin "Supply.dmp"
+
+POP

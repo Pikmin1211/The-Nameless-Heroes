@@ -1,0 +1,86 @@
+[MidRight][LoadSchwartz][MidLeft][LoadGrace]
+
+Sir Schwartz! Please,[N]
+
+we must stop this![AN]
+
+This cannot be right...![AN]
+
+
+
+[MidRight]
+
+Oh, you're that cleric that[N] 
+
+was assigned to us recently...[AN]
+
+And what exactly is not right, hm?[AN]
+
+
+
+[MidLeft]
+
+I saw everything![N]
+
+What you're doing is...[AN]
+
+
+
+[MidRight][MoveLeft]
+
+[MidLeft][MoveMidLeft]
+
+[TMM]!![AN][TMM]
+
+
+
+[Left]
+
+Oh? It's what now?[AN]
+
+We're the good guys,[N]
+
+don't you understand?[AN]
+
+I guess a newbie such[N]
+
+as yourself wouldn't...[AN]
+
+
+
+[MidLeft][Beat][AN]
+
+
+
+[Left]
+
+Sister, I'm ordering[N]
+
+you to the field.[AN]
+
+Head to the front and[N] 
+
+treat our comrades.[AN]
+
+And, watch out[N]
+
+for stray arrows.[AN]
+
+Make sure to think[N]
+
+long and hard...[AN]
+
+about who's in[N]
+
+charge here.[AN]
+
+[Clear]
+
+
+
+[MidLeft][CloseEyes]
+
+Ugh...[N]
+
+This can't be it...[A][X]
+

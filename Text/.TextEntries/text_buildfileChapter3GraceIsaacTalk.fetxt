@@ -1,0 +1,95 @@
+[MidLeft][LoadIsaac][FarRight][LoadGrace][MoveRight][MoveRight]
+
+E... Excuse me![AN]
+
+
+
+[MidLeft]
+
+Huh? Oh, you're a cleric...[N]
+
+What are you doing here?[AN]
+
+
+
+[Right]
+
+I... I was assigned here[N]
+
+to Schwartz's group.[AN]
+
+I know this is sudden but...[AN]
+
+I surrender![N]
+
+I saw everything![AN]
+
+My conscience cannot allow[N]
+
+me to let them do such...[AN]
+
+such barbaric things![AN]
+
+
+
+[MidLeft]
+
+Sister, this will be seen[N]
+
+as a betrayal of Etruria.[AN]
+
+Your church will hear of this, too.[AN]
+
+I hope you understand[N]
+
+the consequences of that.[AN]
+
+
+
+[Right]
+
+I was not sent here to[N]
+
+commit such evil acts![AN]
+
+I would rather lose my position[N]
+
+than have any part in this.[AN]
+
+
+
+[MidLeft]
+
+...I understand.[N]
+
+Very well, sister.[AN]
+
+I'll look after you, then.[N]
+
+Make sure to keep behind me.[AN]
+
+
+
+[Right]
+
+R-right. I can use[N]
+
+a staff too, so...[AN]
+
+Please, allow me[N]
+
+to assist you![AN]
+
+
+
+[MidLeft]
+
+Of course. Please lend us your aid.[N]
+
+...As much as you can, anyways.[AN]
+
+
+
+[Right][MoveRight]
+
+Y-yes sir![A][X]

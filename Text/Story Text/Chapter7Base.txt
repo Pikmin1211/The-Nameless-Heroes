@@ -365,3 +365,37 @@ decided to send a priest from the[N]
 St. Elimine Church to the people.[AN]
 This facade was meant to ease[N]
 the pain of their hard labor.[A][Event][X]
+
+
+
+
+#0x905 Chapter7BaseIsaacGraceTalk
+[MidRight][LoadGrace][MidLeft][LoadIsaac]
+Thanks for your help, Grace.[AN]
+I heard you sent a letter[N]
+to the St. Elimine Church.[AN]
+Did you get a reply?[AN]
+
+[MidRight]
+No... I still haven't heard[N]
+back. What will I do now...?[AN]
+
+[MidLeft]
+...Until then, you can stay with us.[AN]
+I'd like you to continue working[N]
+as a member of our mercenaries.[AN]
+You'll be paid fairly, of course.[N]
+Does that sound alright with you?[AN]
+
+[MidRight]
+Y-yes! I won't[N]
+let you down![AN]
+
+[MidLeft]
+Just... don't go doing your[N]
+own thing again, though.[AN]
+Unless you want to sit through[N]
+another of Audrey's lectures.[AN]
+
+[MidRight]
+Ah... hahaha...[A][X]
