@@ -311,7 +311,7 @@ Tyler[X]
 Horvas[X]
 
 #0x19A
-D[_o][_n] Q[_u]i[_x][_o]t[_e][X]
+[_D][_o][_n][_Q][_u]i[_x][_o]t[_e][X]
 
 #0xF65
 Trident[X]

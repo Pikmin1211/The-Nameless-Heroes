@@ -24,9 +24,11 @@ ORG $A99FE8
 ORG $A95E80
 #incext Png2Dmp "BattlePrep2.png" --lz77
 ORG $A972B0
-#incext Png2Dmp "SupportMenu.png" --lz77
+#incext Png2Dmp "SupportMenuBanner.png" --lz77
 ORG $B4400
 POIN SoundRoomGraphics
+ORG $A6200
+POIN SupportMenuGraphics
 
 //Make the English FE8 menu work (this is basically tsa)
 ORG $A9D6A8
@@ -50,6 +52,11 @@ ALIGN 4
 
 SoundRoomGraphics:
 #incext Png2Dmp "SoundRoom.png" --lz77
+
+ALIGN 4
+
+SupportMenuGraphics:
+#incext Png2Dmp "SupportMenu.png" --lz77
 
 //PUSH
 
