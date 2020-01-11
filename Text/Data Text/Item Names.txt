@@ -410,7 +410,7 @@ Nagalfar[X]
 Audhulma[X]
 
 #0x2FC
-Eternal[X]
+[_E][_t][_e][_r][_n][_a][_l] [_S][_w][_o][_r][_d][X]
 
 #0x310
 Garm[X]
@@ -614,7 +614,7 @@ Fenrir[X]
 Anemone[X]
 
 #0xF3F
-Dimentior[X]
+[_D][_i][_m][_e][_n][_s][_i][_o][_n] [_B][_l][_a][_d][_e][X]
 
 #0xBC
 Phoe[_n]i[_x] Vi[_a]l[X]

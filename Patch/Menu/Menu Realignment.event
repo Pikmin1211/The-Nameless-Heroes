@@ -11,6 +11,10 @@
 		BYTE 0x7
 		//ORG $9aeac //prep menu width
 		//BYTE 0x0A
+		ORG $89478
+		BYTE 0x0 //shift str label over
+		ORG $1F5325
+		BYTE 0x0 //shift skl label over
 
 	//Item R-button menu stuff
 		//ORG $8B576 //Make monster weapons show stats
@@ -20,9 +24,9 @@
 		ORG $8C000 //shift Rng number over so it doesn't overlap with the label
 		BYTE 0x43
 		ORG $8BFEE //shift weapon rank over so it doesn't overlap with *its* label
-		BYTE 0x20
+		BYTE 0x1B // weapon rank letters need spaces
 		ORG $8C080 //shift staff weapon rank over
-		BYTE 0x1B
+		BYTE 0x16
 
 	//Map Menu Stuff
 		ORG $8F69A //shift number over for rout map's units remaining

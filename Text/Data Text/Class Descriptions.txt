@@ -4,7 +4,7 @@ protect their home. Equip: [SwordIcon][X]
 
 #0x72
 [_A] [_h][_a][_r][_d][_e][_n][_e][_d] [_m][_e][_r][_c][_e][_n][_a][_r][_y] [_w][_i][_t][_h] [_a] [_c][_o][_m][_m][_a][_n][_d][_i][_n][_g] [_f][_i][_e][_l][_d][N]
-[_p][_r][_e][_s][_e][_n][_c][_e]. [_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_S][_o][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon][X]
+[_p][_r][_e][_s][_e][_n][_c][_e]. [_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_S][_o][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon] [ShieldIcon][X]
 
 #0x2A3
 [_P][_o][_w][_e][_r][_f][_u][_l] [_r][_i][_d][_e][_r][_s] [_o][_f] [_b][_l][_a][_c][_k] [_w][_i][_n][_g][_e][_d] [_p][_e][_g][_a][_s][_i] [_w][_h][_o][N]
@@ -15,12 +15,12 @@ protect their home. Equip: [SwordIcon][X]
 [_m][_a][_g][_i][_c][_s]. [_S][_k][_i][_l][_l]: [_L][_i][_k][_e][_t][_a][_k][_e][_r]. [_E][_q][_u][_i][_p]: [AnimaIcon] [LightIcon] [DarkIcon][X]
 
 #0x691
-[_E][_l][_i][_t][_e] [_s][_o][_l][_d][_i][_e][_r][_s] [_w][_h][_o] [_h][_a][_v][_e] [_h][_o][_n][_e][_d] [_t][_h][_e][_i][_r] [_s][_k][_i][_l][_l][_s] [_t][_o][N]
-[_p][_e][_r][_f][_e][_c][_t][_i][_o][_n]. [_S][_k][_i][_l][_l][_s]: [_I][_m][_p][_a][_l][_e], [_L][_a][_n][_c][_e][_f][_a][_i][_r][_e]. [_E][_q][_u][_i][_p]: [LanceIcon][X]
+[_E][_l][_i][_t][_e] [_s][_o][_l][_d][_i][_e][_r][_s] [_w][_h][_o] [_h][_a][_v][_e] [_h][_o][_n][_e][_d] [_t][_h][_e][_i][_r] [_a][_b][_i][_l][_i][_t][_i][_e][_s].[N]
+[_S][_k][_i][_l][_l][_s]: [_I][_m][_p][_a][_l][_e], [_L][_a][_n][_c][_e][_f][_a][_i][_r][_e]. [_E][_q][_u][_i][_p]: [LanceIcon] [ShieldIcon][X]
 
 #0x2CB
 A title gifted to the self-proclaimed[N]
-king of thieves. Skill: Nihil. Equip: [AxeIcon][X]
+king of thieves. Skill: Nihil. Equip: [AxeIcon] [ShieldIcon][X]
 
 #0x2D1
 [_V][_e][_t][_e][_r][_a][_n] [_s][_o][_l][_d][_i][_e][_r][_s] [_w][_i][_t][_h] [_r][_u][_t][_h][_l][_e][_s][_s] [_o][_f][_f][_e][_n][_s][_i][_v][_e][N]
@@ -28,19 +28,19 @@ king of thieves. Skill: Nihil. Equip: [AxeIcon][X]
 
 #0x2D0
 [_A][_r][_m][_o][_r][_e][_d] [_t][_i][_t][_a][_n][_s] [_w][_i][_e][_l][_d][_i][_n][_g] [_m][_a][_n][_y] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
-[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [BowIcon] [AnimaIcon] [StaffIcon][X]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [BowIcon] [AnimaIcon] [StaffIcon] [ShieldIcon][X]
 
 #0x2D2
 [_A][_r][_m][_o][_r][_e][_d] [_t][_i][_t][_a][_n][_s] [_w][_i][_e][_l][_d][_i][_n][_g] [_m][_a][_n][_y] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
-[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [LanceIcon] [AxeIcon] [LightIcon] [DarkIcon][X]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [LanceIcon] [AxeIcon] [LightIcon] [DarkIcon] [ShieldIcon][X]
 
 #0x2D4
 [_K][_n][_i][_g][_h][_t][_s] [_t][_r][_a][_i][_n][_e][_d] [_i][_n] [_a] [_v][_a][_r][_i][_e][_t][_y] [_o][_f] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
-[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [LanceIcon] [AnimaIcon] [StaffIcon][X]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [SwordIcon] [LanceIcon] [AnimaIcon] [StaffIcon] [ShieldIcon][X]
 
 #0x2D5
 [_K][_n][_i][_g][_h][_t][_s] [_t][_r][_a][_i][_n][_e][_d] [_i][_n] [_a] [_v][_a][_r][_i][_e][_t][_y] [_o][_f] [_w][_e][_a][_p][_o][_n][_s]. [_S][_k][_i][_l][_l][_s]:[N]
-[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [AxeIcon] [BowIcon] [LightIcon] [DarkIcon][X]
+[_P][_a][_v][_i][_s][_e], [_A][_e][_g][_i][_s], [_R][_e][_n][_e][_w][_a][_l]. [_E][_q][_u][_i][_p]: [AxeIcon] [BowIcon] [LightIcon] [DarkIcon] [ShieldIcon][X]
 
 #0x6A1
 [_S][_e][_r][_v][_a][_n][_t][_s] [_w][_h][_o] [_h][_e][_a][_l] [_a][_n][_d] [_d][_e][_f][_e][_n][_d] [_t][_h][_e][_i][_r] [_m][_a][_s][_t][_e][_r][_s]. [_S][_k][_i][_l][_l][_s]:[N]
@@ -48,7 +48,7 @@ king of thieves. Skill: Nihil. Equip: [AxeIcon][X]
 
 #0xE60
 [_D][_a][_r][_k] [_k][_n][_i][_g][_h][_t][_s] [_w][_h][_o] [_l][_e][_a][_v][_e] [_d][_e][_a][_t][_h] [_i][_n] [_t][_h][_e][_i][_r] [_w][_a][_k][_e].[N]
-[_S][_k][_i][_l][_l][_s]: [_S][_h][_o][_r][_t] [_S][_h][_i][_e][_l][_d], [_L][_u][_n][_a], [_S][_h][_i][_f][_t]. [_E][_q][_u][_i][_p]: [AxeIcon] [DarkIcon][X]
+[_S][_k][_i][_l][_l][_s]: [_S][_h][_o][_r][_t] [_S][_h][_i][_e][_l][_d], [_L][_u][_n][_a], [_S][_h][_i][_f][_t]. [_E][_q][_u][_i][_p]: [AxeIcon] [DarkIcon] [ShieldIcon][X]
 
 #0xDD0
 A mysterious fencer who fights with a holy[N]
@@ -60,7 +60,7 @@ sword. Skills: Miracle, Crusade. Equip: [SwordIcon][X]
 
 #0x9A8
 Heavy tanks specialized in attacking[N]
-from a great distance. Equip: [BallistaIcon][X]
+from a great distance. Equip: [BallistaIcon] [ShieldIcon][X]
 
 #0x2C7
 Plainsmen with high speed and[N]
@@ -72,43 +72,43 @@ skill. Skill: Adept. Equip: [SwordIcon] [BowIcon][X]
 
 #0x294
 Mounted knights with swift[N]
-movement. Equip: [SwordIcon][X]
+movement. Equip: [SwordIcon] [ShieldIcon][X]
 
 #0xD3C
 Mounted knights with swift[N]
-movement. Equip: [LanceIcon][X]
+movement. Equip: [LanceIcon] [ShieldIcon][X]
 
 #0x2CE
 Mounted knights with swift[N]
-movement. Equip: [AxeIcon][X]
+movement. Equip: [AxeIcon] [ShieldIcon][X]
 
 #0x295
 Mounted knights with superior[N]
-abilities. Skill: Sol. Equip: [SwordIcon] [LanceIcon][X]
+abilities. Skill: Sol. Equip: [SwordIcon] [LanceIcon] [ShieldIcon][X]
 
 #0xDCE
 Mounted knights with superior[N]
-abilities. Skill: Sol. Equip: [LanceIcon] [AxeIcon][X]
+abilities. Skill: Sol. Equip: [LanceIcon] [AxeIcon] [ShieldIcon][X]
 
 #0xDCD
 Mounted knights with superior[N]
-abilities. Skill: Sol. Equip: [SwordIcon] [AxeIcon][X]
+abilities. Skill: Sol. Equip: [SwordIcon] [AxeIcon] [ShieldIcon][X]
 
 #0x296
 Heavily armored knights with[N]
-high defenses. Equip: [LanceIcon][X]
+high defenses. Equip: [LanceIcon] [ShieldIcon][X]
 
 #0x907
 Heavily armored knights with[N]
-high defenses. Equip: [AxeIcon][X]
+high defenses. Equip: [AxeIcon] [ShieldIcon][X]
 
 #0x297
-Knights of great skill.[N]
-Skill: Pavise. Equip: [LanceIcon] [AxeIcon][X]
+Veteran knights of great skill.[N]
+Skill: Pavise. Equip: [LanceIcon] [AxeIcon] [ShieldIcon][X]
 
 #0x2A8
-Knights of great skill.[N]
-Skill: Luna. Equip: [SwordIcon] [LanceIcon][X]
+Veteran knights of great skill.[N]
+Skill: Luna. Equip: [SwordIcon] [LanceIcon] [ShieldIcon][X]
 
 #0x298
 Multitalented knaves with an[N]
@@ -120,7 +120,7 @@ soldiers-for-hire. Equip: [SwordIcon][X]
 
 #0x29A
 Seasoned veterans with remarkable[N]
-skill. Skill: Aether. Equip: [SwordIcon] [AxeIcon][X]
+skill. Skill: Aether. Equip: [SwordIcon] [AxeIcon] [ShieldIcon][X]
 
 #0x29B
 Talented swordsmen skilled in[N]
@@ -144,7 +144,7 @@ Skills: Bowrange+, Sure Shot. Equip: [BowIcon][X]
 
 #0x2A0
 Fighters skilled in both sword and bow.[N]
-Skill: Proximity Shot. Equip: [SwordIcon] [BowIcon][X]
+Skill: Proximity Shot. Equip: [SwordIcon] [BowIcon] [ShieldIcon][X]
 
 #0x2A1
 High-flying knights vulnerable[N]
@@ -172,7 +172,7 @@ codices. Skill: Flare. Equip: [AnimaIcon] [LightIcon] [StaffIcon][X]
 
 #0x2A6
 Knights trained in both anima and[N]
-swords. Skill: Ambush. Equip: [SwordIcon] [AnimaIcon][X]
+swords. Skill: Ambush. Equip: [SwordIcon] [AnimaIcon] [ShieldIcon][X]
 
 #0x2A7
 Seasoned priests who heal their allies.[N]
@@ -196,7 +196,7 @@ locks. Skills: Pick, Pass. Equip: [SwordIcon] [StaffIcon][X]
 
 #0x2B2
 Knights with great mobility and[N]
-defense. Skill: Luna. Equip: [SwordIcon] [LanceIcon] [AxeIcon][X]
+defense. Skill: Luna. Equip: [SwordIcon] [LanceIcon] [AxeIcon] [ShieldIcon][X]
 
 #0x2AE
 Ruffians with great strength[N]
@@ -248,11 +248,11 @@ allies. They cannot attack. Skill: Dance.[X]
 
 #0x2C0
 Militants with well-rounded[N]
-abilities. Equip: [LanceIcon][X]
+abilities. Equip: [LanceIcon] [ShieldIcon][X]
 
 #0x2C4
 Phantom warriors who vanish[N]
-when attacked. Equip: Axes.[X]
+when attacked. Equip: [AxeIcon][X]
 
 #0x2D8
 An innocent peasant lacking any[N]
@@ -260,11 +260,11 @@ combat skills at all.[X]
 
 #0x292
 A knight sworn to fight for justice.[N]
-Skills: Sol, Charm. Equip: [SwordIcon] [LanceIcon][X]
+Skills: Sol, Charm. Equip: [SwordIcon] [LanceIcon] [ShieldIcon][X]
 
 #0x293
 [_A] [_c][_o][_m][_m][_a][_n][_d][_e][_r] [_w][_h][_o] [_s][_t][_r][_i][_k][_e][_s] [_f][_e][_a][_r] [_i][_n][_t][_o] [_t][_h][_e][_i][_r] [_e][_n][_e][_m][_i][_e][_s].[N]
-[_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_S][_o][_l], [_C][_h][_a][_r][_m]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon][X]
+[_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_S][_o][_l], [_C][_h][_a][_r][_m]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon] [ShieldIcon][X]
 
 #0x2C9
 Giant poisonous mountain[N]
@@ -292,15 +292,15 @@ valuable wares. Cannot fight.[X]
 
 #0x2DA
 [_P][_e][_e][_r][_l][_e][_s][_s] [_l][_e][_a][_d][_e][_r][_s] [_w][_h][_o] [_c][_a][_n] [_t][_u][_r][_n] [_t][_h][_e] [_t][_i][_d][_e][_s] [_o][_f][N]
-[_b][_a][_t][_t][_l][_e]. [_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_C][_h][_a][_r][_m]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon][X]
+[_b][_a][_t][_t][_l][_e]. [_S][_k][_i][_l][_l][_s]: [_I][_n][_t][_i][_m][_i][_d][_a][_t][_e], [_C][_h][_a][_r][_m]. [_E][_q][_u][_i][_p]: [SwordIcon] [AxeIcon] [ShieldIcon][X]
 
 #0xE67
-Powerful magicians who[N]
-travel on horseback. Equip: [AnimaIcon][X]
+Powerful magicians who travel[N]
+on horseback. Equip: [AnimaIcon] [ShieldIcon][X]
 
 #0xF11
 Heavily armored knights with[N]
-high defenses. Equip: [SwordIcon][X]
+high defenses. Equip: [SwordIcon] [ShieldIcon][X]
 
 #0x2B8
 Musicians whose melodies[N]
@@ -311,9 +311,9 @@ Warships that patrol the[N]
 open seas. Equip: [BallistaIcon][X]
 
 #0xF2D
-Knights of great skill.[N]
-Skill: Pavise. Equip: [LanceIcon] [BowIcon][X]
+Veteran knights of great skill.[N]
+Skill: Pavise. Equip: [LanceIcon] [BowIcon] [ShieldIcon][X]
 
 #0xF42
 An experienced and fierce warrior.[N]
-Skill: Petrify. Equip: [SwordIcon] [LanceIcon][X]
+Skill: Petrify. Equip: [SwordIcon] [LanceIcon] [ShieldIcon][X]

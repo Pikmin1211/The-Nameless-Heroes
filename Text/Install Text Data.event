@@ -5069,6 +5069,30 @@ __TEXTPROCESS508:
 #incbin ".TextEntries\text_buildfile508.fetxt.dmp"
 setText($508, __TEXTPROCESS508)
 
+__TEXTPROCESS4B9:
+#incbin ".TextEntries\text_buildfile4B9.fetxt.dmp"
+setText($4B9, __TEXTPROCESS4B9)
+
+__TEXTPROCESS4BA:
+#incbin ".TextEntries\text_buildfile4BA.fetxt.dmp"
+setText($4BA, __TEXTPROCESS4BA)
+
+__TEXTPROCESS4BB:
+#incbin ".TextEntries\text_buildfile4BB.fetxt.dmp"
+setText($4BB, __TEXTPROCESS4BB)
+
+__TEXTPROCESS4BC:
+#incbin ".TextEntries\text_buildfile4BC.fetxt.dmp"
+setText($4BC, __TEXTPROCESS4BC)
+
+__TEXTPROCESS4BD:
+#incbin ".TextEntries\text_buildfile4BD.fetxt.dmp"
+setText($4BD, __TEXTPROCESS4BD)
+
+__TEXTPROCESS4BE:
+#incbin ".TextEntries\text_buildfile4BE.fetxt.dmp"
+setText($4BE, __TEXTPROCESS4BE)
+
 __TEXTPROCESS4BF:
 #incbin ".TextEntries\text_buildfile4BF.fetxt.dmp"
 setText($4BF, __TEXTPROCESS4BF)

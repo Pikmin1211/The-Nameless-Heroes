@@ -220,8 +220,12 @@ FontEntry(SerifShortFontBallista,0xE6,0xD)
 #incbin "staff.img.bin"
 
 SerifShortFontBallista:
-FontEntry(0xE7,14)
+FontEntry(SerifShortFontShield,0xE7,14)
 #incbin "ballista.img.bin"
+
+SerifShortFontShield:
+FontEntry(0xE8,11)
+#incbin "shieldicon.img.bin"
 
 #define SerifShortFontHook SerifFontSymSpace
 

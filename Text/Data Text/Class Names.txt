@@ -47,7 +47,7 @@ Archer[X]
 Sniper[X]
 
 #0x254
-Ranger[X]
+F[_o][_r][_r][_e][_s]t K[_n]i[_g][_h]t[X]
 
 #0x255
 Wyvern Rider[X]
