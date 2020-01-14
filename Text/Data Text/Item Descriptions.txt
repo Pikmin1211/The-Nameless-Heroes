@@ -1,647 +1,647 @@
 #0x392
-Coated in lethal poison.[X]
+Coated in lethal poison.[2X][X]
 
 #0x393
-Effective against: [HorseIcon] [ArmorIcon][X]
+Effective against: [HorseIcon] [ArmorIcon][2X][X]
 
 #0x394
-Can strike consecutively.[X]
+Can strike consecutively.[2X][X]
 
 #0x395
-Improves critical hit rate.[X]
+Improves critical hit rate.[2X][X]
 
 #0x396
-Improves critical hit rate.[X]
+Improves critical hit rate.[2X][X]
 
 #0x397
-Effective against: [ArmorIcon][X]
+Effective against: [ArmorIcon][2X][X]
 
 #0x398
-Effective against: [DragonIcon][X]
+Effective against: [DragonIcon][2X][X]
 
 #0x399
-Suffused with light magic.[X]
+Suffused with light magic.[2X][X]
 
 #0x39A
-Imbued with dark magic.[X]
+Imbued with dark magic.[2X][X]
 
 #0x39B
-[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[X]
+[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[2X][X]
 
 #0x435
-Puts the target to sleep.[X]
+Puts the target to sleep.[2X][X]
 
 #0x433
-Dummy[X]
+Dummy[2X][X]
 
 #0x3EA
-Long-range weapon.[X]
+Long-range weapon.[2X][X]
 
 #0x39D
-Isaac only. A blade with draconic power.[X]
+Isaac only. A blade with draconic power.[2X][X]
 
 #0x3BF
-A legendary axe. Defense +5.[X]
+A legendary axe. Defense +5.[2X][X]
 
 #0x3E3
-Effective against: [FlierIcon][X]
+Effective against: [FlierIcon][2X][X]
 
 #0x3B1
-Effective against: [BallistaIcon][X]
+Effective against: [BallistaIcon][2X][X]
 
 #0x39F
-Magic. Capable of indirect attacks.[X]
+Magic. Capable of indirect attacks.[2X][X]
 
 #0x452
-Teaches a new skill.[X]
+Teaches a new skill.[2X][X]
 
 #0x469
 +1 Defense.[N]
-Easily used by anybody.[X]
+Easily used by anybody.[2X][X]
 
 #0x468
 +2 Defense.[N]
-Only usable by military.[X]
+Only usable by military.[2X][X]
 
 #0x8DC
 +8 Defense and +2 Resistance.[N]
-Only usable by military.[X]
+Only usable by military.[2X][X]
 
 #0x8E0
 +8 Defense and +2 Resistance.[N]
-Only usable by military.[X]
+Only usable by military.[2X][X]
 
 #0xE28
 +4 Defense.[N]
-Only usable by military.[X]
+Only usable by military.[2X][X]
 
 #0x91B
 +2 Defense and +3 Resistance.[N]
-For Lizzy only.[X]
+For Lizzy only.[2X][X]
 
 #0x968
 When held, survive a[N]
-fatal blow with 1 HP.[X]
+fatal blow with 1 HP.[2X][X]
 
 #0x6B3
-Increases leadership stars by 1.[X]
+Increases leadership stars by 1.[2X][X]
 
 #0x6AD
-Increases leadership stars by 2.[X]
+Increases leadership stars by 2.[2X][X]
 
 #0x430
-Allows the use of S rank skills.[X]
+Allows the use of S rank skills.[2X][X]
 
 #0x39C
-Effective against: [HorseIcon][X]
+Effective against: [HorseIcon][2X][X]
 
 #0x3A4
-Coated in lethal poison.[X]
+Coated in lethal poison.[2X][X]
 
 #0x3A5
-Can strike consecutively.[X]
+Can strike consecutively.[2X][X]
 
 #0x3A6
-Improves critical hit rate.[X]
+Improves critical hit rate.[2X][X]
 
 #0x3A7
-Effective against: [HorseIcon][X]
+Effective against: [HorseIcon][2X][X]
 
 #0x3A8
-Doubles as ranged attack.[X]
+Doubles as ranged attack.[2X][X]
 
 #0x3A9
-Doubles as ranged attack.[X]
+Doubles as ranged attack.[2X][X]
 
 #0x3AA
-[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[X]
+[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[2X][X]
 
 #0x3B4
-Coated in lethal poison.[X]
+Coated in lethal poison.[2X][X]
 
 #0x3B5
-Can strike consecutively.[X]
+Can strike consecutively.[2X][X]
 
 #0x3B6
-Improves critical hit rate.[X]
+Improves critical hit rate.[2X][X]
 
 #0x3B7
-Effective against: [HorseIcon][X]
+Effective against: [HorseIcon][2X][X]
 
 #0x3B8
-Effective against: [ArmorIcon][X]
+Effective against: [ArmorIcon][2X][X]
 
 #0x3B9
-Might injure its wielder.[X]
+Might injure its wielder.[2X][X]
 
 #0x3BA
-Doubles as ranged attack.[X]
+Doubles as ranged attack.[2X][X]
 
 #0x3BB
-Doubles as ranged attack.[X]
+Doubles as ranged attack.[2X][X]
 
 #0x3BC
-[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[X]
+[_R][_e][_v][_e][_r][_s][_e][_s] [_a][_n][_d] t[_r]i[_p]l[_e][_s] t[_h][_e] w[_e][_a][_p][_o][_n] t[_r]i[_a][_n][_g]l[_e].[2X][X]
 
 #0x3BD
-[_R][_e][_v][_e][_r][_s][_e][_s] t[_r]i[_a][_n][_g]l[_e]. [_E][_f][_f][_e][_c]ti[_v][_e] [_A][_g][_a]i[_n][_s]t: [SwordIcon][X]
+[_R][_e][_v][_e][_r][_s][_e][_s] t[_r]i[_a][_n][_g]l[_e]. [_E][_f][_f][_e][_c]ti[_v][_e] [_A][_g][_a]i[_n][_s]t: [SwordIcon][2X][X]
 
 #0x3C2
-Doubles as ranged attack.[X]
+Doubles as ranged attack.[2X][X]
 
 #0x3C6
-Coated in lethal poison.[X]
+Coated in lethal poison.[2X][X]
 
 #0x3C7
-Improves critical hit rate.[X]
+Improves critical hit rate.[2X][X]
 
 #0x3C8
-Can strike consecutively.[X]
+Can strike consecutively.[2X][X]
 
 #0x3C9
-Improves critical hit rate.[X]
+Improves critical hit rate.[2X][X]
 
 #0x3CA
-Extended attack range.[X]
+Extended attack range.[2X][X]
 
 #0x3CB
-Long-range weapon.[X]
+Long-range weapon.[2X][X]
 
 #0x3CC
-Super long-range weapon.[X]
+Super long-range weapon.[2X][X]
 
 #0x3CD
-Improves critical hit rate.[X]
+Improves critical hit rate.[2X][X]
 
 #0x3E6
-A Sacred Twin tome. Spd +5.[X]
+A Sacred Twin tome. Spd +5.[2X][X]
 
 #0x3EF
-Heals by half of damage dealt.[X]
+Heals by half of damage dealt.[2X][X]
 
 #0x3F0
-Long-range weapon. Inflicts poison.[X]
+Long-range weapon. Inflicts poison.[2X][X]
 
 #0x3F2
-A Sacred Twin tome. Skill +5.[X]
+A Sacred Twin tome. Skill +5.[2X][X]
 
 #0x3F9
 Restores HP to allies[N]
-in adjacent spaces.[X]
+in adjacent spaces.[2X][X]
 
 #0x437
-Restores some HP.[X]
+Restores some HP.[2X][X]
 
 #0x3FA
 Restores many HP to allies[N]
-in adjacent spaces.[X]
+in adjacent spaces.[2X][X]
 
 #0x438
-Restores more HP.[X]
+Restores more HP.[2X][X]
 
 #0x3FB
 Restores all HP to allies[N]
-in adjacent spaces.[X]
+in adjacent spaces.[2X][X]
 
 #0x439
-Restores all HP.[X]
+Restores all HP.[2X][X]
 
 #0x3FC
 Restores HP to allies[N]
-at a distance.[X]
+at a distance.[2X][X]
 
 #0x43A
 Restores HP to[N]
-distant allies.[X]
+distant allies.[2X][X]
 
 #0x3FD
 Restores all HP to allies[N]
-nearby.[X]
+nearby.[2X][X]
 
 #0x43B
 Restores HP to all[N]
-allies in one area.[X]
+allies in one area.[2X][X]
 
 #0x3FE
 Returns allies to normal[N]
-condition. (Cures sleep, etc.)[X]
+condition. (Cures sleep, etc.)[2X][X]
 
 #0x43C
 Restores allies to[N]
-normal status.[X]
+normal status.[2X][X]
 
 #0x3FF
 Halts all enemy magic[N]
-for several turns.[X]
+for several turns.[2X][X]
 
 #0x43D
-Blocks enemy magic.[X]
+Blocks enemy magic.[2X][X]
 
 #0x400
 Puts enemies to sleep for[N]
-several turns.[X]
+several turns.[2X][X]
 
 #0x43E
-Inflicts sleep. Effective against: [FlierIcon][X]
+Inflicts sleep. Effective against: [FlierIcon][2X][X]
 
 #0x401
 Sends enemies into a[N]
-berserker rage.[X]
+berserker rage.[2X][X]
 
 #0x43F
 Drives enemies to[N]
 attack wildly in a[N]
-frenzy of rage.[X]
+frenzy of rage.[2X][X]
 
 #0x402
 Moves allies in adjacent[N]
-spaces instantly elsewhere.[X]
+spaces instantly elsewhere.[2X][X]
 
 #0x440
 Warps allies to[N]
-other spaces.[X]
+other spaces.[2X][X]
 
 #0x403
 Moves allies from distant[N]
-spaces to adjacent ones.[X]
+spaces to adjacent ones.[2X][X]
 
 #0x441
 Warps allies to a[N]
 space adjacent to[N]
-the staff wielder.[X]
+the staff wielder.[2X][X]
 
 #0x404
 Lights an area. The light[N]
-grows weaker each turn.[X]
+grows weaker each turn.[2X][X]
 
 #0x442
-Lights up an area.[X]
+Lights up an area.[2X][X]
 
 #0x405
 Restores an adjacent ally's[N]
-weapons to new condition.[X]
+weapons to new condition.[2X][X]
 
 #0x443
 Restores items to[N]
-new condition.[X]
+new condition.[2X][X]
 
 #0x406
 Unlocks doors, even from[N]
-a distance.[X]
+a distance.[2X][X]
 
 #0x444
-Opens doors.[X]
+Opens doors.[2X][X]
 
 #0x407
 Increases magic resistance[N]
-of adjacent allies briefly.[X]
+of adjacent allies briefly.[2X][X]
 
 #0x445
-Raises resistance.[X]
+Raises resistance.[2X][X]
 
 #0x3BE
-Effective against: [DragonIcon][X]
+Effective against: [DragonIcon][2X][X]
 
 #0x40B
 Increases HP by a max of[N]
-5 points. Vanishes after use.[X]
+5 points. Vanishes after use.[2X][X]
 
 #0x449
-Raises Max HP.[X]
+Raises Max HP.[2X][X]
 
 #0x40C
 Increases Strength by[N]
-2 points. Vanishes after use.[X]
+2 points. Vanishes after use.[2X][X]
 
 #0x44A
-Raises strength.[X]
+Raises strength.[2X][X]
 
 #0x40D
 Increases Skill by 2 points.[N]
-Vanishes after use.[X]
+Vanishes after use.[2X][X]
 
 #0x44B
-Raises skill.[X]
+Raises skill.[2X][X]
 
 #0x40E
 Increases speed by[N]
-2 points. Vanishes after use.[X]
+2 points. Vanishes after use.[2X][X]
 
 #0x44C
-Raises speed.[X]
+Raises speed.[2X][X]
 
 #0x40F
 Increases luck by[N]
-4 points. Vanishes after use.[X]
+4 points. Vanishes after use.[2X][X]
 
 #0x44D
-Raises luck.[X]
+Raises luck.[2X][X]
 
 #0x410
 Increases defense by[N]
-2 points. Vanishes after use.[X]
+2 points. Vanishes after use.[2X][X]
 
 #0x44E
-Raises defense.[X]
+Raises defense.[2X][X]
 
 #0x411
 Increases resistance by[N]
-2 points. Vanishes after use.[X]
+2 points. Vanishes after use.[2X][X]
 
 #0x44F
-Raises resistance.[X]
+Raises resistance.[2X][X]
 
 #0x412
 Increases movement by[N]
-1 point. Vanishes after use.[X]
+1 point. Vanishes after use.[2X][X]
 
 #0x450
-Raises movement.[X]
+Raises movement.[2X][X]
 
 #0x413
 Increases magic by[N]
-2 points. Vanishes after use.[X]
+2 points. Vanishes after use.[2X][X]
 
 #0x451
-Raises magic.[X]
+Raises magic.[2X][X]
 
 #0x414
 For mercenaries, myrmidons,[N]
-and fighters Lv. 10 and up.[X]
+and fighters Lv. 10 and up.[2X][X]
 
 #0x415
 For knights, cavaliers,[N]
-and soldiers Lv. 10 and up.[X]
+and soldiers Lv. 10 and up.[2X][X]
 
 #0x466
 Use this on a worthy[N]
-unit to promote them.[X]
+unit to promote them.[2X][X]
 
 #0x416
 For archers and[N]
-nomads Lv. 10 and up.[X]
+nomads Lv. 10 and up.[2X][X]
 
 #0x417
 For pegasus knights and[N]
-wyvern riders Lv. 10 and up.[X]
+wyvern riders Lv. 10 and up.[2X][X]
 
 #0x418
 For magic and staff[N]
-wielders Lv. 10 and up.[X]
+wielders Lv. 10 and up.[2X][X]
 
 #0x419
-Opens chests.[X]
+Opens chests.[2X][X]
 
 #0x457
-Opens chests.[X]
+Opens chests.[2X][X]
 
 #0x41A
-Opens doors.[X]
+Opens doors.[2X][X]
 
 #0x458
-Opens doors.[X]
+Opens doors.[2X][X]
 
 #0x41B
-Opens doors and chests.[X]
+Opens doors and chests.[2X][X]
 
 #0x459
 Opens doors[N]
-and chests.[X]
+and chests.[2X][X]
 
 #0x41C
 A medicinal solution used[N]
-for healing minor wounds.[X]
+for healing minor wounds.[2X][X]
 
 #0x45A
-Restores some HP.[X]
+Restores some HP.[2X][X]
 
 #0x41D
 A powerful solution that[N]
-restores all HP.[X]
+restores all HP.[2X][X]
 
 #0x45B
-Restores all HP.[X]
+Restores all HP.[2X][X]
 
 #0x41E
 A draught that boosts Res.[N]
-Grows weaker each turn.[X]
+Grows weaker each turn.[2X][X]
 
 #0x45C
 Reduces damage[N]
-from magic attacks.[X]
+from magic attacks.[2X][X]
 
 #0x41F
 A medicinal solution that[N]
-cures poison.[X]
+cures poison.[2X][X]
 
 #0x45D
-Cures poison.[X]
+Cures poison.[2X][X]
 
 #0x420
 A staff with burning pitch.[N]
-Grows dimmer each turn.[X]
+Grows dimmer each turn.[2X][X]
 
 #0x45E
-Lights an area.[X]
+Lights an area.[2X][X]
 
 #0x421
 An amulet that protects fliers[N]
-from arrows.[X]
+from arrows.[2X][X]
 
 #0x45F
 Protects airborne[N]
-units from bows.[X]
+units from bows.[2X][X]
 
 #0x422
 If someone with this card[N]
-stops in a suspicious space...[X]
+stops in a suspicious space...[2X][X]
 
 #0x460
 Grants access to[N]
-secret shops.[X]
+secret shops.[2X][X]
 
 #0x423
 A special card that reduces[N]
-the cost of all items by half.[X]
+the cost of all items by half.[2X][X]
 
 #0x461
 Reduces the cost[N]
-of items.[X]
+of items.[2X][X]
 
 #0x426
 A valuable gemstone worth[N]
-10,000 gold.[X]
+10,000 gold.[2X][X]
 
 #0x427
 A rare gemstone worth[N]
-5,000 gold.[X]
+5,000 gold.[2X][X]
 
 #0x428
 An uncommon gemstone[N]
-worth 2,500 gold.[X]
+worth 2,500 gold.[2X][X]
 
 #0x42C
 A device that negates[N]
-enemy critical attacks.[X]
+enemy critical attacks.[2X][X]
 
 #0x465
 Negates enemies'[N]
-critical attacks.[X]
+critical attacks.[2X][X]
 
 #0x42D
 For some units Lv. 10 and up[N]
-who have not changed class.[X]
+who have not changed class.[2X][X]
 
 #0x3AD
-The Sacred Twin winged lance. Def +5.[X]
+The Sacred Twin winged lance. Def +5.[2X][X]
 
 #0x39E
-The Sacred Twin ice blade. Res +5.[X]
+The Sacred Twin ice blade. Res +5.[2X][X]
 
 #0x3C0
-The Sacred Twin black axe. Spd +5.[X]
+The Sacred Twin black axe. Spd +5.[2X][X]
 
 #0x3CE
-The Sacred Twin serpent bow. Luck +5.[X]
+The Sacred Twin serpent bow. Luck +5.[2X][X]
 
 #0x3AF
-Effective against: [ArmorIcon][X]
+Effective against: [ArmorIcon][2X][X]
 
 #0x3B0
-Doubles as ranged attack.[X]
+Doubles as ranged attack.[2X][X]
 
 #0x42F
 For thieves, pirates, and[N]
-brigands Lv. 10 and up.[X]
+brigands Lv. 10 and up.[2X][X]
 
 #0x3F4
-Turns targets to stone for a while.[X]
+Turns targets to stone for a while.[2X][X]
 
 #0x68
 Removes any skills learned via[N]
-manuals, and returns the manual.[X]
+manuals, and returns the manual.[2X][X]
 
 #0x8DF
 A dance that increases an[N]
-allies' attack by 10 for a turn.[X]
+allies' attack by 10 for a turn.[2X][X]
 
 #0x8E5
 A dance that increases an[N]
-allies' defenses by 10 for a turn.[X]
+allies' defenses by 10 for a turn.[2X][X]
 
 #0x8DA
 A dance that increases an allies'[N]
-critical hit rate by 10% for a turn.[X]
+critical hit rate by 10% for a turn.[2X][X]
 
 #0x59E
 A dance that increases an[N]
-allies' avoid by 10 for a turn.[X]
+allies' avoid by 10 for a turn.[2X][X]
 
 #0x429
-A small satchel of gold coins.[X]
+A small satchel of gold coins.[2X][X]
 
 #0xE2B
-Defense +2 when equipped.[X]
+Defense +2 when equipped.[2X][X]
 
 #0x42B
 A device that blocks units[N]
-from entering spaces.[X]
+from entering spaces.[2X][X]
 
 #0x3AC
-Lizzy only. A blade able to control time.[X]
+Lizzy only. A blade able to control time.[2X][X]
 
 #0x408
 A Sacred Twin staff. Fully[N]
-heals and resotres all allies.[X]
+heals and resotres all allies.[2X][X]
 
 #0x446
 Restores all HP as[N]
-well as allies' status.[X]
+well as allies' status.[2X][X]
 
 #0x3CF
 The breath of a dragon corpse.[N]
-It decays everything it touches.[X]
+It decays everything it touches.[2X][X]
 
 #0x3D0
 A stone imbued with mysterious might.[N]
-Manaketes draw strength from it.[X]
+Manaketes draw strength from it.[2X][X]
 
 #0x3D6
-A sharpened, decayed claw.[X]
+A sharpened, decayed claw.[2X][X]
 
 #0x3D7
-A foul talon meant to rend flesh.[X]
+A foul talon meant to rend flesh.[2X][X]
 
 #0x3D8
-A claw dripping with poison.[X]
+A claw dripping with poison.[2X][X]
 
 #0x3D9
-A claw slathered in deadly poison.[X]
+A claw slathered in deadly poison.[2X][X]
 
 #0x3DA
-A sharp, piercing fang.[X]
+A sharp, piercing fang.[2X][X]
 
 #0x3DB
-A long, daggerlike fang.[X]
+A long, daggerlike fang.[2X][X]
 
 #0x425
 A pricy gemstone worth[N]
-15,000 gold.[X]
+15,000 gold.[2X][X]
 
 #0x424
 An extravagent gemstone worth[N]
-20,000 gold.[X]
+20,000 gold.[2X][X]
 
 #0x42A
 A trap that damages[N]
-units that step on it.[X]
+units that step on it.[2X][X]
 
 #0x3D5
-A monstrous, overgrown claw.[X]
+A monstrous, overgrown claw.[2X][X]
 
 #0xE65
-Launches lethal poison.[X]
+Launches lethal poison.[2X][X]
 
 #0xF0D
-Lizzy only. Effective against: [ArmorIcon][X]
+Lizzy only. Effective against: [ArmorIcon][2X][X]
 
 #0x3F6
-Magic. Capable of indirect attacks.[X]
+Magic. Capable of indirect attacks.[2X][X]
 
 #0xE3E
 +2 Defense and +3 Resistance.[N]
-Usable by anybody.[X]
+Usable by anybody.[2X][X]
 
 #0x3EE
-Negates enemy resistance.[X]
+Negates enemy resistance.[2X][X]
 
 #0x38C
-Isaac only.[X]
+Isaac only.[2X][X]
 
 #0x38D
-Inflicts sleep.[X]
+Inflicts sleep.[2X][X]
 
 #0x409
 A dance that allows[N]
-allies to move again.[X]
+allies to move again.[2X][X]
 
 #0x447
 Allows allies[N]
-to move again.[X]
+to move again.[2X][X]
 
 #0x3F8
-Long-range weapon.[X]
+Long-range weapon.[2X][X]
 
 #0xF2F
-A blade with a floral design.[X]
+A blade with a floral design.[2X][X]
 
 #0xF40
-Lizzy only. A blade able to control space.[X]
+Lizzy only. A blade able to control space.[2X][X]
 
 #0xF61
 When held, survive a[N]
 fatal blow with 1 HP and[N]
-fully heal after combat.[X]
+fully heal after combat.[2X][X]
 
 #0xF6C
-Boris only. A brave weapon.[X]
+Boris only. A brave weapon.[2X][X]

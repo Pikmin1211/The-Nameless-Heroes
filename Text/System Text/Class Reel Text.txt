@@ -1,220 +1,220 @@
 #0x679
 A mercenary who roams the battlefield[N]
-and inspires fear in his enemies.[X]
+and inspires fear in his enemies.[2X][X]
 
 #0x67D
 A title earned only by those cavaliers whose[N]
-lives have been dedicated to justice.[X]
+lives have been dedicated to justice.[2X][X]
 
 #0x67E
 Heavily armored knights. Superior defense[N]
-outweighs their poor movement and speed.[X]
+outweighs their poor movement and speed.[2X][X]
 
 #0x67C
 Mounted knights with superior movement.[N]
-Well balanced for speed, defense, & attack.[X]
+Well balanced for speed, defense, & attack.[2X][X]
 
 #0x6A2
 Knights who soar through the skies. They[N]
-resist magic but are weak against bows.[X]
+resist magic but are weak against bows.[2X][X]
 
 #0x69F
 Members of the clergy who wield sacred[N]
-staves to aid allies. They wield no weapons.[X]
+staves to aid allies. They wield no weapons.[2X][X]
 
 #0x693
 Strategists with superior knowledge of[N]
-warfare who lead their allies to victory.[X]
+warfare who lead their allies to victory.[2X][X]
 
 #0x696
 Axe-wielding powerhouses whose wild fighting[N]
-style leaves them with poor defenses.[X]
+style leaves them with poor defenses.[2X][X]
 
 #0x680
 Rogues and fortune hunters. They possess[N]
-weak attacks but many other skills.[X]
+weak attacks but many other skills.[2X][X]
 
 #0x686
 Lightly protected warriors armed with bows.[N]
-They can attack from a distance.[X]
+They can attack from a distance.[2X][X]
 
 #0x68C
 Mages schooled in anima magic. They bypass[N]
-defenses but are weak against weapons.[X]
+defenses but are weak against weapons.[2X][X]
 
 #0x69E
 Ascetic wielders of sacred light magic.[N]
-Superior ability to hit but low attack power.[X]
+Superior ability to hit but low attack power.[2X][X]
 
 #0x697
 A title awarded to battle-tested warriors.[N]
-The strongest of all fighters.[X]
+The strongest of all fighters.[2X][X]
 
 #0x6AF
 Expert shamans who use magic to soar in[N]
-the sky. Trained in all schools of magic.[X]
+the sky. Trained in all schools of magic.[2X][X]
 
 #0x6B9
 Wise and powerful commanders with[N]
-expertise in all types of weapons.[X]
+expertise in all types of weapons.[2X][X]
 
 #0x6B1
 Armored tanks that can attack from a[N]
-long distance. Devastating to flying foes.[X]
+long distance. Devastating to flying foes.[2X][X]
 
 #0x683
 Swordsmen who possess superior speed and[N]
-technique. They specialize in killing strokes.[X]
+technique. They specialize in killing strokes.[2X][X]
 
 #0x6A4
 Wielders of sacred staves who aid allies in[N]
-battle. They refuse to take arms in combat.[X]
+battle. They refuse to take arms in combat.[2X][X]
 
 #0x6B0
 A maiden skilled with a sword, she is[N]
-a guardian knight of Etruria.[X]
+a guardian knight of Etruria.[2X][X]
 
 #0x6A9
 Axe-wielding privateers trained to[N]
-fight on the high seas.[X]
+fight on the high seas.[2X][X]
 
 #0x698
 Mighty axe fighters especially skilled[N]
-in mountain combat.[X]
+in mountain combat.[2X][X]
 
 #0x69B
 Masters of elder black magic. They are very[N]
-powerful, but very slow as well.[X]
+powerful, but very slow as well.[2X][X]
 
 #0x687
 Archers dedicated to mastering their art.[N]
-None can match their skill with the bow.[X]
+None can match their skill with the bow.[2X][X]
 
 #0x681
 Professional soldiers-for-hire. They are well[N]
-balanced, with superior abilities all around.[X]
+balanced, with superior abilities all around.[2X][X]
 
 #0x6A7
 Dancers whose grace soothes allies.[N]
-They do not fight in combat.[X]
+They do not fight in combat.[2X][X]
 
 #0x694
 Soldiers with highly refined skills. Their[N]
-spear techniques are swift and fatal.[X]
+spear techniques are swift and fatal.[2X][X]
 
 #0x684
 A title given to those dedicated to the[N]
-sword. Incredible speed and killing strokes.[X]
+sword. Incredible speed and killing strokes.[2X][X]
 
 #0x68E
 Mounted knights who stake the field[N]
-using both blades and magic tomes.[X]
+using both blades and magic tomes.[2X][X]
 
 #0x68B
 Sky knights with swooping lance strikes[N]
-that strike like thunder in a storm.[X]
+that strike like thunder in a storm.[2X][X]
 
 #0x6B4
 Faithful servants that support with[N]
-staves and strike with swords.[X]
+staves and strike with swords.[2X][X]
 
 #0x690
 Nomads of the eastern plains. Skilled in[N]
-horseback archery. Incredibly swift.[X]
+horseback archery. Incredibly swift.[2X][X]
 
 #0x6A5
 Mounted maidens whose sacred staves aid[N]
-allies. They are swift but will not fight.[X]
+allies. They are swift but will not fight.[2X][X]
 
 #0x699
 A title for those who live to fight. Strong in[N]
-mountains or at sea. Skilled in killing blows.[X]
+mountains or at sea. Skilled in killing blows.[2X][X]
 
 #0x695
 Adventurer-thieves with skills so great they[N]
-can open chests and doors without tools.[X]
+can open chests and doors without tools.[2X][X]
 
 #0x68D
 A title given to advanced mages. They wield[N]
-magic and can carry staves.[X]
+magic and can carry staves.[2X][X]
 
 
 #0x69A
 Knights with high defense and mobility. They[N]
-use swords, axes, and lances equally well.[X]
+use swords, axes, and lances equally well.[2X][X]
 
 #0x67B
 A powerful commander whose presence gives[N]
-allies courage and strikes fear into foes.[X]
+allies courage and strikes fear into foes.[2X][X]
 
 #0x688
 Mounted knights who charge into battle with[N]
-sword and bow. They possess great mobility.[X]
+sword and bow. They possess great mobility.[2X][X]
 
 #0x685
 Masters of the killing arts. They have the[N]
-ability to kill a foe with a single stroke.[X]
+ability to kill a foe with a single stroke.[2X][X]
 
 #0x6A6
 A title given to the finest troubadours.[N]
-Wields powerful magic to aid allies.[X]
+Wields powerful magic to aid allies.[2X][X]
 
 #0x69C
 A title granted to powerful shamans. Those[N]
-who battle them cower in fear of their might.[X]
+who battle them cower in fear of their might.[2X][X]
 
 #0x67F
 Lordly knights in heavy armor. They possess[N]
-excellent defensive and offensive skills.[X]
+excellent defensive and offensive skills.[2X][X]
 
 #0x678
 Knights mounted on a serpentine breed of[N]
-Wyvern. Their swift stikes penetrate armor.[X]
+Wyvern. Their swift stikes penetrate armor.[2X][X]
 
 #0x68F
 A title given to monks who have attained[N]
-enlightenment. Wields magic for offense.[X]
+enlightenment. Wields magic for offense.[2X][X]
 
 #0x68A
 Knights united with their wyvern mounts.[N]
-They have better movement and combat skill.[X]
+They have better movement and combat skill.[2X][X]
 
 #0x682
 The finest of all mercenary warriors.[N]
-Expert in all fields of combat.[X]
+Expert in all fields of combat.[2X][X]
 
 #0x6A3
 Knights united with their pegasus mounts.[N]
-They have superior skill and resistance.[X]
+They have superior skill and resistance.[2X][X]
 
 #0x6B7
 A title granted to gifted Soldiers.[N]
-They are powerful all-rounders.[X]
+They are powerful all-rounders.[2X][X]
 
 #0x6B5
 Ferocious, three-headed hellhounds. Their[N]
-triple-fanged bites are difficult to dodge.[X]
+triple-fanged bites are difficult to dodge.[2X][X]
 
 #0x6BA
 An outlander of unknown origins who[N]
-has deady skill in mountain combat.[X]
+has deady skill in mountain combat.[2X][X]
 
 #0x6AA
 Master mages with an unusual attunement to[N]
-the dark. Wields supreme magical power.[X]
+the dark. Wields supreme magical power.[2X][X]
 
 #0x69D
 A title granted to shamans who have used[N]
-forbidden magic to learn the summoning arts.[X]
+forbidden magic to learn the summoning arts.[2X][X]
 
 #0x692
 Legendary beasts whose existence is argued[N]
-upon. Their fiery breath can raze entire cities.[X]
+upon. Their fiery breath can raze entire cities.[2X][X]
 
 #0x689
 Knights who rule the skies from wyvern-back.[N]
-They are vulnerable to only bows and magic.[X]
+They are vulnerable to only bows and magic.[2X][X]
 
 #0x6A8
 Average foot soldiers with balanced[N]
-abilities. They bear spears in combat.[X]
+abilities. They bear spears in combat.[2X][X]

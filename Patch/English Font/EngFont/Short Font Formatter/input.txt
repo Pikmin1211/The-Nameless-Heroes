@@ -1,2 +1,2 @@
-Eternal Sword
-Dimension Blade
+Increases damage with the Eternal
+Sword. Evasion is raised after combat.

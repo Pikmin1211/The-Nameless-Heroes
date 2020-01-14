@@ -1,233 +1,233 @@
 #0x81F
 [Left][LoadYggdra]
 Save suspend data?[N]
-[Yes][X]
+[Yes][2X][X]
 
 #0x820
-[Left]Suspend data saved.[A][X]
+[Left]Suspend data saved.[A][2X][X]
 
 #0x821
-Base[X]
+Base[2X][X]
 
 #0x823
-Has been transferred.[X]
+Has been transferred.[2X][X]
 
 #0x824
-[Left][LoadYggdra][X]
+[Left][LoadYggdra][2X][X]
 
 #0x836
 Welcome to the armory![A][N]
 These are the weapons[N]
-we have for sale.[A][X]
+we have for sale.[A][2X][X]
 
 #0x837
 Welcome to the[N]
 general store![A][N]
 Here are all the items[N]
-we have for sale.[A][X]
+we have for sale.[A][2X][X]
 
 #0x52E
-Sell unwanted items.[X]
+Sell unwanted items.[2X][X]
 
 #0x838
-Come back again.[A][X]
+Come back again.[A][2X][X]
 
 #0x839
-Hope to see you again![A][X]
+Hope to see you again![A][2X][X]
 
 #0x83A
 Welcome to the armory.[A][ClearText]
 I deal in all sorts of goods.[N]
-[Buy/Sell][X]
+[Buy/Sell][2X][X]
 
 #0x83B
 Welcome to the general store.[A][ClearText]
 How can I help you?[N]
-[Buy/Sell][X]
+[Buy/Sell][2X][X]
 
 #0x83C
 Hey![A][ClearText]
-This is a secret shop.[Buy/Sell][X]
+This is a secret shop.[Buy/Sell][2X][X]
 
 #0x83D
 Do you need anything else?[N]
-[Buy/Sell][X]
+[Buy/Sell][2X][X]
 
 #0x83E
 Anything else for you?[N]
-[Buy/Sell][X]
+[Buy/Sell][2X][X]
 
 #0x83F
 Do you have anything else?[N]
-[Buy/Sell][X]
+[Buy/Sell][2X][X]
 
 #0x840
 Do you need anything else?[N]
-[ShopContinue][X]
+[ShopContinue][2X][X]
 
 #0x841
 Can I do anything else for you?[N]
-[ShopContinue][X]
+[ShopContinue][2X][X]
 
 #0x842
 Would you like anything else?[N]
-[ShopContinue][X]
+[ShopContinue][2X][X]
 
 #0x843
-What would you like?[X]
+What would you like?[2X][X]
 
 #0x844
-What can I get for you?[X]
+What can I get for you?[2X][X]
 
 #0x845
-Which one do you want?[X]
+Which one do you want?[2X][X]
 
 #0x846
-Anything else?[X]
+Anything else?[2X][X]
 
 #0x847
-Anything else?[X]
+Anything else?[2X][X]
 
 #0x848
-Are you looking for another?[X]
+Are you looking for another?[2X][X]
 
 #0x849
-What do you want to sell?[X]
+What do you want to sell?[2X][X]
 
 #0x84A
-What are you selling?[X]
+What are you selling?[2X][X]
 
 #0x84B
-Which one will you sell?[X]
+Which one will you sell?[2X][X]
 
 #0x84C
-You've got nothing to sell![A][X]
+You've got nothing to sell![A][2X][X]
 
 #0x84D
-You have nothing to sell.[A][X]
+You have nothing to sell.[A][2X][X]
 
 #0x84E
-I do not have anything to sell.[A][X]
+I do not have anything to sell.[A][2X][X]
 
 #0x84F
-Selling anything else?[X]
+Selling anything else?[2X][X]
 
 #0x850
-Anything else to sell?[X]
+Anything else to sell?[2X][X]
 
 #0x851
-Do you sell it elsewhere?[X]
+Do you sell it elsewhere?[2X][X]
 
 #0x852
-You don't have the money![A][X]
+You don't have the money![A][2X][X]
 
 #0x853
-You're short of funds.[A][X]
+You're short of funds.[A][2X][X]
 
 #0x854
-It seems I do not have enough money.[A][X]
+It seems I do not have enough money.[A][2X][X]
 
 #0x855
 How does [G] gold[N]
-sound to you?[Yes][X]
+sound to you?[Yes][2X][X]
 
 #0x856
 That's worth [G] gold.[N]
-Is that all right?[Yes][X]
+Is that all right?[Yes][2X][X]
 
 #0x857
 I'll pay [G] gold.[N]
-It's gold, is not it?[Yes][X]
+It's gold, is not it?[Yes][2X][X]
 
 #0x858
-Come back again.[A][X]
+Come back again.[A][2X][X]
 
 #0x859
-Drop in again.[A][X]
+Drop in again.[A][2X][X]
 
 #0x85A
-I hope to see you again.[A][X]
+I hope to see you again.[A][2X][X]
 
 #0x85B
-I can't buy that.[A][X]
+I can't buy that.[A][2X][X]
 
 #0x85C
-I can't buy that.[A][X]
+I can't buy that.[A][2X][X]
 
 #0x85D
-Sorry, but I can't buy that.[A][X]
+Sorry, but I can't buy that.[A][2X][X]
 
 #0x85E
 Looks like you're full.[A][ClearText]
 Send it to storage?[N]
-[Yes][X]
+[Yes][2X][X]
 
 #0x85F
 Your hands are full.[A][ClearText]
 Send it to storage?[N]
-[Yes][X]
+[Yes][2X][X]
 
 #0x860
 Looks like you're full.[A][ClearText]
 Send it to storage?[N]
-[Yes][X]
+[Yes][2X][X]
 
 #0x861
-Looks like you're full.[A][X]
+Looks like you're full.[A][2X][X]
 
 #0x862
-Your hands are full.[A][X]
+Your hands are full.[A][2X][X]
 
 #0x863
-Your hands are full.[A][X]
+Your hands are full.[A][2X][X]
 
 #0x864
-Right. I'll send it now.[A][X]
+Right. I'll send it now.[A][2X][X]
 
 #0x865
-Right. I'll have it sent.[A][X]
+Right. I'll have it sent.[A][2X][X]
 
 #0x866
-Right. I'll send it now.[A][X]
+Right. I'll send it now.[A][2X][X]
 
 #0x867
 No? Too bad. You could[N]
-take it if you made room.[A][X]
+take it if you made room.[A][2X][X]
 
 #0x868
 That's a shame. You could[N]
-carry it if you made room.[A][X]
+carry it if you made room.[A][2X][X]
 
 #0x869
 No? Too bad. You could[N]
-take it if you made room.[A][X]
+take it if you made room.[A][2X][X]
 
 #0x86A
 Too bad you don't have a[N]
-supply convoy to send it to.[A][X]
+supply convoy to send it to.[A][2X][X]
 
 #0x86B
 If you had some storage,[N]
-I could send it there...[A][X]
+I could send it there...[A][2X][X]
 
 #0x86C
 Too bad you don't have a[N]
-supply convoy to send it to.[A][X]
+supply convoy to send it to.[A][2X][X]
 
 #0x86D
 Your storage is full, too![N]
-Rearrange your things![A][X]
+Rearrange your things![A][2X][X]
 
 #0x86E
 Your storage is full,[N]
-too. Try again later.[A][X]
+too. Try again later.[A][2X][X]
 
 #0x86F
 Your storage is full, too![N]
-Rearrange your things![A][X]
+Rearrange your things![A][2X][X]
 
 #0x870
-Welcome to the arena![A][X]
+Welcome to the arena![A][2X][X]
 
 #0x871
 Welcome to the arena.[A][N]
@@ -238,40 +238,40 @@ If you want to continue,[A][N]
 we're going to have to[N]
 do things differently.[A][ClearText]
 I'm going to prepare some[N]
-more challenging foes.[A][X]
+more challenging foes.[A][2X][X]
 
 #0x872
 Would you like to wager[N]
-[G] gold?[Yes][X]
+[G] gold?[Yes][2X][X]
 
 #0x873
 Good luck. Don't get[N]
-yourself killed.[A][X]
+yourself killed.[A][2X][X]
 
 #0x874
 What's that? Bah![N]
-Get outta here![A][X]
+Get outta here![A][2X][X]
 
 #0x875
 Fight 'til you drop, or press[N]
-the B Button to yield.[A][X]
+the B Button to yield.[A][2X][X]
 
 #0x876
 So you won, eh? Here's[N]
-your prize. [G] gold.[A][X]
+your prize. [G] gold.[A][2X][X]
 
 #0x877
 Ahh, you lost? I'd hoped[N]
-for better from you.[A][X]
+for better from you.[A][2X][X]
 
 #0x878
 What? You yield? Well,[N]
-your gold is mine, then![A][X]
+your gold is mine, then![A][2X][X]
 
 #0x879
 Looks like no one wins.[N]
-Here's your money back.[A][X]
+Here's your money back.[A][2X][X]
 
 #0x87A
 You don't have the money![N]
-Try again later.[A][X]
+Try again later.[A][2X][X]

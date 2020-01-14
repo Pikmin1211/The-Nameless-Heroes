@@ -2,21 +2,21 @@
 For less[N]
 skilled players.[N]
 Gold will be[N]
-provided regularly.[X]
+provided regularly.[2X][X]
 
 #0x833
 For experienced[N]
 players. The[N]
 standard level[N]
-of difficulty.[X]
+of difficulty.[2X][X]
 
 #0x834
 For players seeking[N]
 a real challenge.[N]
 Enemies will be[N]
 more powerful[N]
-and numerous.[X]
+and numerous.[2X][X]
 
 #0x701
 Suspended data will be lost.[N]
-Is that all right?[X]
+Is that all right?[2X][X]

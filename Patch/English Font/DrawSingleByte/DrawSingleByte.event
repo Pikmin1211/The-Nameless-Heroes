@@ -32,5 +32,7 @@ PUSH
 	ORG $3f12
 	BYTE 0x0 0x0
 	jumpToHack_r1j(nextline)
+	ORG $12F8A
+	BYTE 0x1A 0x70 0x5A 0x70 //fix freezes by teq
 
 POP

@@ -1,408 +1,408 @@
 #0x60B
- Seize[X]
+ Seize[2X][X]
 
 #0x60C
- Attack[X]
+ Attack[2X][X]
 
 #0x60D
- Staff[X]
+ Staff[2X][X]
 
 #0x60E
- Play[X]
+ Play[2X][X]
 
 #0x60F
- Dance[X]
+ Dance[2X][X]
 
 #0x610
- Steal[X]
+ Steal[2X][X]
 
 #0x611
- Talk[X]
+ Talk[2X][X]
 
 #0x612
- Support[X]
+ Support[2X][X]
 
 #0x613
- Visit[X]
+ Visit[2X][X]
 
 #0x614
- Chest[X]
+ Chest[2X][X]
 
 #0x615
- Door[X]
+ Door[2X][X]
 
 #0x616
- Armory[X]
+ Armory[2X][X]
 
 #0x617
- Vendor[X]
+ Vendor[2X][X]
 
 #0x618
- Secret[X]
+ Secret[2X][X]
 
 #0x619
- Arena[X]
+ Arena[2X][X]
 
 #0x61A
- Rescue[X]
+ Rescue[2X][X]
 
 #0x61B
- Drop[X]
+ Drop[2X][X]
 
 #0x61C
- Take[X]
+ Take[2X][X]
 
 #0x61D
- Give[X]
+ Give[2X][X]
 
 #0x61E
- Item[X]
+ Item[2X][X]
 
 #0x61F
- Trade[X]
+ Trade[2X][X]
 
 #0x620
- Supply[X]
+ Supply[2X][X]
 
 #0x621
- Stat[X]
+ Stat[2X][X]
 
 #0x622
- Wait[X]
+ Wait[2X][X]
 
 #0x623
- Use[X]
+ Use[2X][X]
 
 #0x624
- Equip[X]
+ Equip[2X][X]
 
 #0x625
- Trade[X]
+ Trade[2X][X]
 
 #0x626
- Discard[X]
+ Discard[2X][X]
 
 #0x627
-Range[X]
+Range[2X][X]
 
 #0x628
-Options[X]
+Options[2X][X]
 
 #0x629
-Status[X]
+Status[2X][X]
 
 #0x62A
-Retreat[X]
+Retreat[2X][X]
 
 #0x62B
-Rcd[X]
+Rcd[2X][X]
 
 #0x62C
-Susp[X]
+Susp[2X][X]
 
 #0x62D
-End[X]
+End[2X][X]
 
 #0x62E
-Lead[X]
+Lead[2X][X]
 
 #0x62F
-Debug[X]
+Debug[2X][X]
 
 #0x630
-M. Save[X]
+M. Save[2X][X]
 
 #0x631
-Manual Save[X]
+Manual Save[2X][X]
 
 #0x632
-Map[X]
+Map[2X][X]
 
 #0x633 DebInfo
-Info[X]
+Info[2X][X]
 
 #0x634
-Weather[X]
+Weather[2X][X]
 
 #0x635 SearchEnemy
-Search[X]
+Search[2X][X]
 
 #0x636 NumberofLaps
-Laps[X]
+Laps[2X][X]
 
 #0x637
-Clear[X]
+Clear[2X][X]
 
 #0x638 GoodNight
-Sleep[X]
+Sleep[2X][X]
 
 #0x639
-[X]
+[2X][X]
 
 #0x63A Beforeclearingthefile
-Preclear[X]
+Preclear[2X][X]
 
 #0x63B willyoudo
-Are you sure?[X]
+Are you sure?[2X][X]
 
 #0x63D Icannotplayafterthat
-End[X]
+End[2X][X]
 
 #0x63E rogerthat
-Okay[X]
+Okay[2X][X]
 
 #0x63F
 There are no messages for[N]
-this menu item.[X]
+this menu item.[2X][X]
 
 #0x6E8
 Speak to an allied unit and[N]
-strengthen the bond you share.[X]
+strengthen the bond you share.[2X][X]
 
 #0x640
 End the turn. Be sure you're[N]
-done before you select this.[X]
+done before you select this.[2X][X]
 
 #0x641
-Attack an enemy unit.[X]
+Attack an enemy unit.[2X][X]
 
 #0x642
 Use the magic stored[N]
-within a staff.[X]
+within a staff.[2X][X]
 
 #0x643
 Dance[N]
 Perform a dance that allows[N]
-your allies to move again.[X]
+your allies to move again.[2X][X]
 
 #0x644
 Use a ring that allows your[N]
-allies to move again.[X]
+allies to move again.[2X][X]
 
 #0x645
 Shhh...[N]
-(Steal enemy items!)[X]
+(Steal enemy items!)[2X][X]
 
 #0x646
 Rescue an ally from[N]
-an adjacent space.[X]
+an adjacent space.[2X][X]
 
 #0x647
 Place a rescued ally in[N]
-an adjacent space.[X]
+an adjacent space.[2X][X]
 
 #0x648
 Pass a rescued ally to[N]
-another ally next to you.[X]
+another ally next to you.[2X][X]
 
 #0x649
 Receive a rescued ally from[N]
-another ally next to you.[X]
+another ally next to you.[2X][X]
 
 #0x64B
 Talk to an ally or enemy[N]
-in an adjacent space.[X]
+in an adjacent space.[2X][X]
 
 #0x64C
-Visit a village or a home.[X]
+Visit a village or a home.[2X][X]
 
 #0x64D
 Seize a designated point[N]
-to complete the chapter.[X]
+to complete the chapter.[2X][X]
 
 #0x64E
 A door.[N]
-Use a key to open it.[X]
+Use a key to open it.[2X][X]
 
 #0x650
 A chest.[N]
-Use a key to open it.[X]
+Use a key to open it.[2X][X]
 
 #0x651
 An armory.[N]
-Enter to buy weapons.[X]
+Enter to buy weapons.[2X][X]
 
 #0x652
 A shop.[N]
-Enter to buy items.[X]
+Enter to buy items.[2X][X]
 
 #0x653
 Congratulations! Only for[N]
-one as lucky as you...[X]
+one as lucky as you...[2X][X]
 
 #0x654
 An arena. Wager your life[N]
-in battle for gold.[X]
+in battle for gold.[2X][X]
 
 #0x655
-Use and equip items.[X]
+Use and equip items.[2X][X]
 
 #0x656
 Trade items with allies[N]
-in adjacent spaces.[X]
+in adjacent spaces.[2X][X]
 
 #0x657
 Adjacent units can exchange[N]
-items with your supply convoy.[X]
+items with your supply convoy.[2X][X]
 
 #0x658
 Get on ballista and[N]
-use it to attack.[X]
+use it to attack.[2X][X]
 
 #0x659
-Get off of ballista.[X]
+Get off of ballista.[2X][X]
 
 #0x65A
 Normal attack with a bow[N]
-occurs.[X]
+occurs.[2X][X]
 
 #0x65B
 Use the ballista to target[N]
-distant enemies.[X]
+distant enemies.[2X][X]
 
 #0x65C
 Ready weapons or magic.[N]
-Use them to counterattack.[X]
+Use them to counterattack.[2X][X]
 
 #0x65D
-Use items.[X]
+Use items.[2X][X]
 
 #0x65E
 Discard items. Important[N]
-items cannot be discarded.[X]
+items cannot be discarded.[2X][X]
 
 #0x65F
-Summon a phantom.[X]
+Summon a phantom.[2X][X]
 
 #0x660
 Open doors and chests without[N]
-using keys.[X]
+using keys.[2X][X]
 
 #0x661
 Attack an enemy and[N]
-attempt to capture them.[X]
+attempt to capture them.[2X][X]
 
 #0x662
 Display a chart of all[N]
-units on the field.[X]
+units on the field.[2X][X]
 
 #0x663
 Display current battle[N]
-progress.[X]
+progress.[2X][X]
 
 #0x664
-Set game speed and windows.[X]
+Set game speed and windows.[2X][X]
 
 #0x665
-Retreat from the current battle.[X]
+Retreat from the current battle.[2X][X]
 
 #0x666
-View tower and ruins battle records.[X]
+View tower and ruins battle records.[2X][X]
 
 #0x667
 Stop a battle in progress.[N]
-Battle can be continued later.[X]
+Battle can be continued later.[2X][X]
 
 #0x668
 View game-play and terminology[N]
-explanations.[X]
+explanations.[2X][X]
 
 #0x669
-End player's phase.[X]
+End player's phase.[2X][X]
 
 #0x66A
-Name of the unit.[X]
+Name of the unit.[2X][X]
 
 #0x66B
 The unit's class. Each class[N]
-possesses unique traits.[X]
+possesses unique traits.[2X][X]
 
 #0x66C
-Current Max HP.[X]
+Current Max HP.[2X][X]
 
 #0x66D
 Strength or magic power.[N]
-This affects attack ability.[X]
+This affects attack ability.[2X][X]
 
 #0x66E
 Weapon or magical tome[N]
-being used.[X]
+being used.[2X][X]
 
 #0x66F
 Physical condition.[N]
-Default is normal.[X]
+Default is normal.[2X][X]
 
 #0x670
-Number of allied units.[X]
+Number of allied units.[2X][X]
 
 #0x671
-Number of enemy units.[X]
+Number of enemy units.[2X][X]
 
 #0x672
-Name of the army commander.[X]
+Name of the army commander.[2X][X]
 
 #0x673
-Total time played.[X]
+Total time played.[2X][X]
 
 #0x674
-The goal of this chapter.[X]
+The goal of this chapter.[2X][X]
 
 #0x675
 Number of turns played at this[N]
-point in the current chapter.[X]
+point in the current chapter.[2X][X]
 
 #0x676
-Money on hand.[X]
+Money on hand.[2X][X]
 
 #0x677
 Only units with animation turned[N]
-on can perform combat animation.[X]
+on can perform combat animation.[2X][X]
 
 #0xEF7
-Escape[X]
+Escape[2X][X]
 
 #0xEF8
-Escape from the area.[X]
+Escape from the area.[2X][X]
 
 #0xEF9
-Arrive[X]
+Arrive[2X][X]
 
 #0xEFA
 Arrive at a[N]
-destination.[X]
+destination.[2X][X]
 
 
 #0xE13
-Shove[X]
+Shove[2X][X]
 
 #0xE14
 Push an adjacent[N]
-unit one tile away.[X]
+unit one tile away.[2X][X]
 
 #0xE15
-Smite[X]
+Smite[2X][X]
 
 #0xE16
 Push an adjacent[N]
-unit two tiles away.[X]
+unit two tiles away.[2X][X]
 
 #0xE17
-Pivot[X]
+Pivot[2X][X]
 
 #0xE18
 Move to the opposite[N]
-side of an adjacent ally.[X]
+side of an adjacent ally.[2X][X]
 
 #0xE19
-Pull[X]
+Pull[2X][X]
 
 #0xE1A
 Move adjacent ally to[N]
-this unit's opposite side.[X]
+this unit's opposite side.[2X][X]
 
 #0xE1B
-Swap[X]
+Swap[2X][X]
 
 #0xE1C
 Swap positions with[N]
-an adjacent ally.[X]
+an adjacent ally.[2X][X]

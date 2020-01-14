@@ -2,19 +2,19 @@
 [MidRight][LoadIsaac]
 Urgh... Damn...[AN]
 I have to...[N]
-keep going...[A][CloseEyes][.....][X]
+keep going...[A][CloseEyes][.....][2X][X]
 
 #0xBEF AudreyRetreat
 [MidRight][LoadAudrey]
 Ugh...[....][AN]
 Sorry, I'm seriously hurt.[A][CloseEyes][N]
-I'll back off for now.[A][X]
+I'll back off for now.[A][2X][X]
 
 #0x969 MorrisRetreat
 [MidRight][LoadMorris]
 I'm so sorry...[....][AN]
 Let me retreat for[N]
-the time being...[A][CloseEyes][.....][X]
+the time being...[A][CloseEyes][.....][2X][X]
 
 #0xBE9 KaraRetreat
 [MidRight][LoadKara]
@@ -22,18 +22,18 @@ Ack...[....][AN]
 Did I get[N]
 carried away...?[AN]
 Let me pull back[N]
-for a while...[....][A][X]
+for a while...[....][A][2X][X]
 
 #0x8E4 WolfRetreat
 [MidRight][LoadWolf]
 Sorry, it seems like I[N]
 can't fight fer' much longer.[AN]
-I'll retreat fer now.[A][X]
+I'll retreat fer now.[A][2X][X]
 
 #0x943 OlsonRetreat
 [MidRight][LoadOlson]
 I'm sorry, Commander.[AN]
-I'll lay low for now...[....][A][X]
+I'll lay low for now...[....][A][2X][X]
 
 #0xF19 EdmundRetreat
 [MidRight][LoadEdmund]
@@ -41,13 +41,13 @@ Argh...[....][AN]
 Seems I can't protect[N]
 my family any longer.[AN]
 I'll retreat for now.[N]
-Everyone! Be careful![A][X]
+Everyone! Be careful![A][2X][X]
 
 #0xE6B PhelixRetreat
 [MidRight][LoadPhelix][HalfCloseEyes]
 Damn...[AN]
 Captain, I'm sorry...[N]
-I'll get out for now...[A][X]
+I'll get out for now...[A][2X][X]
 
 #0x8CF FerrisRetreat
 [MidRight][LoadFerris]
@@ -55,207 +55,207 @@ I'll get out for now...[A][X]
 Forgive me, commander.[AN]
 Like this, I'll just[N]
 slow everyone down.[AN]
-I'll retreat for now.[A][X]
+I'll retreat for now.[A][2X][X]
 
 #0x8D2 BrianRetreat
 [MidRight][LoadBrian]
 I think I'm pushing it...[N][CloseEyes]
-I'll have to back away awhile.[A][X]
+I'll have to back away awhile.[A][2X][X]
 
 #0xBE5 WolfDeathQuote
 [MidRight][LoadWolf]
 Heh, can't believe...[AN]
 Some'un could actually[N]
-outmatch me... Ugh...[A][CloseEyes][.....][X]
+outmatch me... Ugh...[A][CloseEyes][.....][2X][X]
 
 #0xBE6 OlsonDeathQuote
 [MidRight][LoadOlson]
 In the end, this is all[N]
-I could accomplish...?[A][CloseEyes][.....][X]
+I could accomplish...?[A][CloseEyes][.....][2X][X]
 
 #0xBE8 MorrisDeathQuote
 [MidRight][LoadMorris]
 Seems I can't move...[N]
-How... unfortunate...[A][CloseEyes][.....][X]
+How... unfortunate...[A][CloseEyes][.....][2X][X]
 
 #0xBEB BrianDeathQuote
 [MidRight][LoadBrian]
 Heh... My my...[AN]
 Even in death...[N]
-Such excellence...[A][CloseEyes][.....][X]
+Such excellence...[A][CloseEyes][.....][2X][X]
 
 #0xBED FerrisDeathQuote
 [MidRight][LoadFerris]
 A warrior's death...[N]
-It's... as I imagined...[A][CloseEyes][.....][X]
+It's... as I imagined...[A][CloseEyes][.....][2X][X]
 
 #0xBF8 ChloeDeath
 [MidRight][LoadChloe]
 Ugh...[N]
 This is also...[AN][CloseEyes]
-The duty of a swordswoman...[A][X]
+The duty of a swordswoman...[A][2X][X]
 
 #0xC05 RemDeath
 [MidRight][LoadRem]
 Owww...[CloseEyes][AN]
-This is the worst...[A][X]
+This is the worst...[A][2X][X]
 
 #0xBFF PhelixDeath
 [MidRight][LoadPhelix]
 Th-this can't be...[N][CloseEyes]
-Goddamnit...[A][X]
+Goddamnit...[A][2X][X]
 
 #0xF18 EdmundDeath
 [MidRight][LoadEdmund]
 My family...![N]
 I have no regrets...[AN]
 If I have protected you[N]
-and... our home...![A][CloseEyes][.....][X]
+and... our home...![A][CloseEyes][.....][2X][X]
 
 #0xBE7 BerkusDeath
 [MidRight][LoadBerkus]
-Damn, pathetic...[A][CloseEyes][.....][X]
+Damn, pathetic...[A][CloseEyes][.....][2X][X]
 
 #0xBF6 TitorDeath
 [MidRight][LoadTitor]
 Ahaha... sorry guys...[N]
-Looks like the fun's over...[A][CloseEyes][.....][X]
+Looks like the fun's over...[A][CloseEyes][.....][2X][X]
 
 #0xBFD JohnnyDeath
 [MidRight][LoadJohnny]
 Seems this is my[N]
 final frontier...[AN][CloseEyes]
-Farewell, pardners...[A][X]
+Farewell, pardners...[A][2X][X]
 
 #0x8F3 KaraDeath
 [MidRight][LoadKara]
 Ugh...[N]
-I don't want to die yet...[A][CloseEyes][.....][X]
+I don't want to die yet...[A][CloseEyes][.....][2X][X]
 
 #0xBEC JesterDeath
 [MidRight][LoadJester]
 My sister...[N]
-sure will be upset with me...[A][CloseEyes][.....][X]
+sure will be upset with me...[A][CloseEyes][.....][2X][X]
 
 #0xBEA BarrelleDeath
 [MidRight][LoadBarrelle]
 Heh... Looks like[N]
-I'm done for...[A][CloseEyes][.....][X]
+I'm done for...[A][CloseEyes][.....][2X][X]
 
 #0xBF9 DylanDeath
 [MidRight][LoadDylan]
 I don't want to die[N]
-here like some mutt...[A][CloseEyes][.....][X]
+here like some mutt...[A][CloseEyes][.....][2X][X]
 
 #0xBF0 ArtieDeath
 [MidRight][LoadArtie]
 This is terrible...[N]
-What am I to do...?[A][CloseEyes][.....][X]
+What am I to do...?[A][CloseEyes][.....][2X][X]
 
 #0xBF4 LizzyDeath
 [MidRight][LoadLizzy]
 I've prepared myself for[N]
-this... but I... Oh...[A][CloseEyes][.....][X]
+this... but I... Oh...[A][CloseEyes][.....][2X][X]
 
 #0xBFA CerberusDeath
 [MidRight][LoadCerberus]
 Chief... I'll[N]
-leave it to you...[A][CloseEyes][.....][X]
+leave it to you...[A][CloseEyes][.....][2X][X]
 
 #0xBF2 HamiltonDeath
 [MidRight][LoadHamilton]
 Argh... Oh, man...[N]
-Is it my turn to die...?[A][CloseEyes][.....][X]
+Is it my turn to die...?[A][CloseEyes][.....][2X][X]
 
 #0xBFE LilliaDeath
 [MidRight][LoadLillia]
 Ah, no...[N]
-A miserable end...[A][CloseEyes][.....][X]
+A miserable end...[A][CloseEyes][.....][2X][X]
 
 #0xBEE JeanaDeath
 [MidRight][LoadJeana]
 I guess I'll be seeing...[N]
-My old Ilian friends...[A][CloseEyes][.....][X]
+My old Ilian friends...[A][CloseEyes][.....][2X][X]
 
 #0xBF1 RichterDeath
 [MidRight][LoadRichter]
 What the hell...?[N]
-How could I lose...?[A][CloseEyes][.....][X]
+How could I lose...?[A][CloseEyes][.....][2X][X]
 
 #0xC03 RosalieDeath
 [MidRight][LoadRosalie]
 Seems I'm...[N]
-Weak after all...[A][CloseEyes][.....][X]
+Weak after all...[A][CloseEyes][.....][2X][X]
 
 #0xC09 MythraDeath
 [MidRight][LoadMythra]
-Was I... of any help...?[A][CloseEyes][.....][X]
+Was I... of any help...?[A][CloseEyes][.....][2X][X]
 
 #0xC07 EliseDeath
 [MidRight][LoadElise]
 Master...[AN]
 If only I could...[N]
-Keep... serving...[A][CloseEyes][.....][X]
+Keep... serving...[A][CloseEyes][.....][2X][X]
 
 #0xB7F SeleneDeath
 [MidRight][LoadSelene]
 Mother...[N]
-I'll be with you soon...[A][CloseEyes][.....][X]
+I'll be with you soon...[A][CloseEyes][.....][2X][X]
 
 #0xC04 BorisDeath
 [MidRight][LoadBoris]
 Hah... Thought I was[N]
 ready for this, but...[AN]
-Damn... I'm scared...[A][CloseEyes][.....][X]
+Damn... I'm scared...[A][CloseEyes][.....][2X][X]
 
 #0xBF3 ArianaDeath
 [MidRight][LoadAriana]
 Hmph, looks like...[AN]
 Those bills are[N]
-finally due, huh...?[A][CloseEyes][.....][X]
+finally due, huh...?[A][CloseEyes][.....][2X][X]
 
 #0xBFB SofiaDeath
 [MidRight][LoadSofia]
 I'm so sorry...[AN]
 My usefulness is[N]
-at it's end...[A][CloseEyes][.....][X]
+at it's end...[A][CloseEyes][.....][2X][X]
 
 #0xBF5 VulcanRetreat
 [MidRight][LoadVulcan]
 Again... I have[N]
 failed my duty...[AN]
 Hate to say it, but[N]
-I'll have to back out.[A][X]
+I'll have to back out.[A][2X][X]
 
 #0xBFC VulcanDeath
 [MidRight][LoadVulcan]
 Again... I have[N]
-failed my duty...[A][CloseEyes][.....][X]
+failed my duty...[A][CloseEyes][.....][2X][X]
 
 #0xC00 MurasameDeath
 [MidRight][LoadMurasame]
 Well, well...[AN]
 Looks like it's[N]
-curtains for me...[A][CloseEyes][.....][X]
+curtains for me...[A][CloseEyes][.....][2X][X]
 
 #0xC02 KronosDeath
 [MidRight][LoadKronos]
 Gah... I-I swear...[N]
-I'm not incompetent...[A][CloseEyes][.....][X]
+I'm not incompetent...[A][CloseEyes][.....][2X][X]
 
 #0xF73 GraceDeath
 [MidRight][LoadGrace]
 Ugh... this feeling...[N]
-What... happened to me...[A][CloseEyes][.....][X]
+What... happened to me...[A][CloseEyes][.....][2X][X]
 
 #0xF74 DonQuixoteDeath
 [MidRight][LoadDonQuixote]
 My life as a living legend...[N]
-Could it truly end... here...?[A][CloseEyes][.....][X]
+Could it truly end... here...?[A][CloseEyes][.....][2X][X]
 
 #0xABE HaltmannDeath
 [MidRight][LoadHaltmann]
 Well, well...[AN]
 So this is how[N]
 I crash and burn.[AN]
-I applaude the effort.[A][CloseEyes][.....][X]
+I applaude the effort.[A][CloseEyes][.....][2X][X]

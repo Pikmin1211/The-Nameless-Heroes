@@ -46,7 +46,7 @@ Isaac and the mercenaries are working[N]
 as hired guards of a village.[AN]
 Starting now, they are involved[N]
 in a battle in The Western Isles[AN]
-which was lost through history.[AN][X]
+which was lost through history.[AN][2X][X]
 
 
 
@@ -106,7 +106,7 @@ Anything more to say?[AN]
 Then we go on with our mission.[AN]
 Now, we must set each house on fire[N]
 and leave this village.[AN]
-After that, our mission is complete.[A][X]
+After that, our mission is complete.[A][2X][X]
 
 
 
@@ -227,7 +227,7 @@ But you talk so long...[AN]
 [FarLeft]
 ...That's strange.[AN]
 I never heard of any[N]
-events being planned.[A][X]
+events being planned.[A][2X][X]
 
 
 
@@ -243,7 +243,7 @@ Bandits are attacking us![AN]
 And judging from the direction[N]
 they're coming from,[AN]
 I'd say they already ransacked[N]
-the neighbouring village...[A][X]
+the neighbouring village...[A][2X][X]
 
 
 
@@ -253,7 +253,7 @@ the neighbouring village...[A][X]
 [MidLeft][LoadIsaac]
 Bandits...[....][AN]
 Alright, we have a job to do.[N]
-Let's move![A][X]
+Let's move![A][2X][X]
 
 
 
@@ -320,7 +320,7 @@ Try to find and[N]
 capture weakened ones,[AN]
 and take their weapons.[AN]
 Now, we rout those[N]
-bastards. Let's go![A][X]
+bastards. Let's go![A][2X][X]
 
 
 
@@ -332,7 +332,7 @@ bastards. Let's go![A][X]
 Damn, they hired mercenaries...[....][AN]
 But how long can they hold out[N]
 with so few fighters?[AN]
-Boys! Do 'em in![A][X]
+Boys! Do 'em in![A][2X][X]
 
 
 
@@ -346,7 +346,7 @@ It seems they went and started[N]
 something while I was gone.[AN]
 Guess I should go help[N]
 out the boss-man.[AN]
-Nobody can stand up to the Wolf![A][X]
+Nobody can stand up to the Wolf![A][2X][X]
 
 
 
@@ -368,7 +368,7 @@ front with me.[AN]
 
 [MidLeft]
 Gotcha, gotcha.[N]
-At yer command, boss![A][X]
+At yer command, boss![A][2X][X]
 
 
 
@@ -377,7 +377,7 @@ At yer command, boss![A][X]
 #0x8D6 PrologueVSJulio
 
 [MidLeft][LoadJulio]
-I'll start by killing you![A][X]
+I'll start by killing you![A][2X][X]
 
 
 
@@ -395,7 +395,7 @@ Damn![AN]
 What the hell[N]
 are you bastards!?[AN]
 My men were[N]
-no fuckin' match![A][X]
+no fuckin' match![A][2X][X]
 
 
 
@@ -404,7 +404,7 @@ no fuckin' match![A][X]
 #0x8D7 PrologueJulioDeath
 
 [MidLeft][LoadJulio]
-Wh-what the hell...?[A][X]
+Wh-what the hell...?[A][2X][X]
 
 
 
@@ -469,7 +469,7 @@ This can't be a good sign...[....][AN]
 There's no point[N]
 lulling on about it.[AN]
 We're leaving as[N]
-soon as we're ready.[A][X]
+soon as we're ready.[A][2X][X]
 
 
 
@@ -483,7 +483,7 @@ Etruria, things haven't gone well.[AN]
 They must be up to something[N]
 behind closed doors...[....][AN]
 Here, I'll give this to you.[N]
-Wipe out those bandits, please![A][X]
+Wipe out those bandits, please![A][2X][X]
 
 
 
@@ -497,7 +497,7 @@ already been carried off...[AN]
 And the neighboring village is...[AN]
 What the hell is going on...?![AN]
 Please... Take this![N]
-Do anything to drive them away![A][X]
+Do anything to drive them away![A][2X][X]
 
 
 
@@ -512,7 +512,7 @@ There you go.[AN]
 You're the only ones[N]
 able to protect us.[AN]
 Please, I beg you...[N]
-save our village...[A][X]
+save our village...[A][2X][X]
 
 
 
@@ -521,7 +521,7 @@ save our village...[A][X]
 #0x90F PrologueVillage4
 
 [MidRight][LoadCurrent]
-...Is nobody home?[A][X]
+...Is nobody home?[A][2X][X]
 
 
 
@@ -535,7 +535,7 @@ save our village...[A][X]
 
 [MidRight][LoadJulio]
 Hey, assholes![N]
-Get out here![A][X]
+Get out here![A][2X][X]
 
 
 
@@ -612,7 +612,7 @@ skill and speed will be halved[Red].[AN]
 That sounds like an[N]
 important tactic.[AN]
 I'll have to keep my eyes open for[N]
-opportunites to make use of it.[AN][X]
+opportunites to make use of it.[AN][2X][X]
 
 #0x8 PrologueGuide2
 
@@ -658,14 +658,14 @@ but [Red]not necessary[Red].[AN]
 [MidRight]
 I see. Thank you.[AN]
 I'll be counting on you[N]
-next time, then.[AN][X]
+next time, then.[AN][2X][X]
 
 
 
 
 
 #0x5E9 PrologueTimestamp
-Present[X]
+Present[2X][X]
 
 
 
@@ -673,4 +673,4 @@ Present[X]
 
 #0xF0F PrologueShout
 Oh, no...[N]
-This is serious![A][X]
+This is serious![A][2X][X]

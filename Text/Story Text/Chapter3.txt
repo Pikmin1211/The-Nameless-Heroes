@@ -37,7 +37,7 @@ been hiding in the fog.[AN]
 Hrm... it seems to be[N]
 bearin' Etrurian colors.[AN]
 Is it a patrol ship?[N]
-Whadda they want from us?[A][X]
+Whadda they want from us?[A][2X][X]
 
 
 
@@ -49,7 +49,7 @@ Whadda they want from us?[A][X]
 This is a patrol ship[N]
 from the Kingdom of Etruria.[AN]
 Stop your ship, and[N]
-bring your captain to me.[A][X]
+bring your captain to me.[A][2X][X]
 
 
 
@@ -77,7 +77,7 @@ This misunderstandin' should[N]
 be cleared up right quick.[AN]
 
 [MidLeft]
-[ToggleMouthMove]...[A][X]
+[ToggleMouthMove]...[A][2X][X]
 
 
 
@@ -193,7 +193,7 @@ Damn rebels! You[N]
 deserve swift justice![AN]
 
 [FarLeft][MoveFarLeft]
-Hey, calm down![A][X]
+Hey, calm down![A][2X][X]
 
 
 
@@ -203,7 +203,7 @@ Hey, calm down![A][X]
 
 [MidLeft][LoadIsaac]
 This is becoming[N]
-a bad situation...[A][X]
+a bad situation...[A][2X][X]
 
 
 
@@ -265,7 +265,7 @@ Soldiers, kill those bastards![AN]
 Get ready to kill everyone on that ship![AN]
 It's a grave crime to insult me -[N]
 no, to insult the Etrurian knights![AN]
-Your death shall not be quick![A][X]
+Your death shall not be quick![A][2X][X]
 
 
 
@@ -324,7 +324,7 @@ on the decks as long as possible.[AN]
 
 [FarLeft]
 I'll leave it to ya...[N]
-Now, let's retreat, cap'n![A][X]
+Now, let's retreat, cap'n![A][2X][X]
 
 
 
@@ -339,7 +339,7 @@ chance for me to escape![AN]
 Hell, I busted into this ship,[AN]
 but since it set sail,[N]
 I've been in trouble.[AN]
-Oh well, time to scram![A][X]
+Oh well, time to scram![A][2X][X]
 
 
 
@@ -413,7 +413,7 @@ if only because I admire your gall.[AN]
 Just make sure to follow my orders.[AN]
 
 [MidRight]
-Of course, sir![A][X]
+Of course, sir![A][2X][X]
 
 
 
@@ -488,7 +488,7 @@ Hey, miss! Don't go that way![AN]
 You could get hurt! Hey![AN]
 
 [FarRight]
-Shut it already, fatso![A][X]
+Shut it already, fatso![A][2X][X]
 
 
 
@@ -499,7 +499,7 @@ Shut it already, fatso![A][X]
 [MidLeft][LoadSchwartz]
 Tsk, what an annoyance.[AN]
 My armor will get sullied...[N]
-With your blood![A][X]
+With your blood![A][2X][X]
 
 
 
@@ -542,7 +542,7 @@ shall die by my hand![AN]
 [Clear]
 
 [MidRight][LoadIsaac]
-I'll see you try.[A][X]
+I'll see you try.[A][2X][X]
 
 
 
@@ -554,7 +554,7 @@ I'll see you try.[A][X]
 Now I see...[N]
 That black armor...[AN]
 You dirty Etrurian minions...[AN]
-The Nameless...[A][X]
+The Nameless...[A][2X][X]
 
 
 
@@ -592,7 +592,7 @@ Shit![AN]
 Damnit![AN]
 When we meet again,[N]
 mercenaries...[AN]
-I'll make you pay![A][X]
+I'll make you pay![A][2X][X]
 
 
 
@@ -605,14 +605,14 @@ Listen to me, soldiers![AN]
 Your general is defeated,[N]
 so this fight is now pointless![AN]
 Drop your weapons and surrender,[N]
-and I can guarantee your safety![A][X]
+and I can guarantee your safety![A][2X][X]
 
 
 
 
 
 #0x7BA Chapter3TextBubble
-One month later...[X]
+One month later...[2X][X]
 
 
 
@@ -665,7 +665,7 @@ Personally I thought it[N]
 was a load o' hogwash...[AN]
 But after seein' those[N]
 men actin' like that...[AN]
-I'm startin' ta change me mind.[A][X]
+I'm startin' ta change me mind.[A][2X][X]
 
 
 
@@ -771,7 +771,7 @@ Go gather everyone. Looks like we[N]
 have another fight on our hands.[AN]
 
 [MidRight]
-Right, I'll go get them now.[A][X]
+Right, I'll go get them now.[A][2X][X]
 
 
 
@@ -857,12 +857,12 @@ Isaac, I...[AN]
 [Left]
 Thank you for taking care of me,[N]
 Audrey. I wish you the best.[AN]
-...Goodbye.[A][X]
+...Goodbye.[A][2X][X]
 
 
 
 #0xF0C Chapter3LoactionJutes
-Jutes[X]
+Jutes[2X][X]
 
 
 
@@ -888,7 +888,7 @@ Seems like they're causing trouble.[AN]
 Oh? Those lowly, simple-blooded scum?[N]
 And what are they supposed to do?[AN]
 Stab at us with their pitchforks?[N]
-Hahahah! They're not worth our time.[A][X]
+Hahahah! They're not worth our time.[A][2X][X]
 
 
 
@@ -985,7 +985,7 @@ Uh... Knight... Person.[AN]
 Gahaha![N]
 It's no big deal.[AN]
 Now, let's[N]
-go get 'em![A][X]
+go get 'em![A][2X][X]
 
 
 
@@ -1033,7 +1033,7 @@ charge here.[AN]
 
 [MidLeft][CloseEyes]
 Ugh...[N]
-This can't be it...[A][X]
+This can't be it...[A][2X][X]
 
 
 
@@ -1086,4 +1086,4 @@ Of course. Please lend us your aid.[N]
 ...As much as you can, anyways.[AN]
 
 [Right][MoveRight]
-Y-yes sir![A][X]
+Y-yes sir![A][2X][X]

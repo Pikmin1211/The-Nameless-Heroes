@@ -1,74 +1,74 @@
 #0x54
-Holy War[X]
+Holy War[2X][X]
 
 #0x57
-Mystery of the Emblem[X]
+Mystery of the Emblem[2X][X]
 
 #0x58
-Tales Series[X]
+Tales Series[2X][X]
 
 #0x61
-Yggdra Union[X]
+Yggdra Union[2X][X]
 
 #0x62
-Thracia 776[X]
+Thracia 776[2X][X]
 
 #0x67
-Shadow Dragon[X]
+Shadow Dragon[2X][X]
 
 #0x6F
-Personal Skill[X]
+Personal Skill[2X][X]
 
 #0x9C
-Lord[X]
+Lord[2X][X]
 
 #0xA8
-In front of the Church[X]
+In front of the Church[2X][X]
 
 #0xA9
-Liberation Base[X]
+Liberation Base[2X][X]
 
 #0xAE
-Robert[X]
+Robert[2X][X]
 
 #0xAF
-Settings[X]
+Settings[2X][X]
 
 #0xBA
-Liberation Conference Room[X]
+Liberation Conference Room[2X][X]
 
 #0xE4
-Gaiden[X]
+Gaiden[2X][X]
 
 #0xE5
-Chapter[X]
+Chapter[2X][X]
 
 #0x18E
-Clear count[X]
+Clear count[2X][X]
 
 #0x195
-1 year ago[X]
+1 year ago[2X][X]
 
 #0x196
-1 and a half years ago[X]
+1 and a half years ago[2X][X]
 
 #0x197
-Two years ago[X]
+Two years ago[2X][X]
 
 #0x198
-Four years ago[X]
+Four years ago[2X][X]
 
 #0x55E
-Allies[X]
+Allies[2X][X]
 
 #0x562
-Enemies[X]
+Enemies[2X][X]
 
 #0x564
-World[X]
+World[2X][X]
 
 #0x596
-Armory / Vendor[X]
+Armory / Vendor[2X][X]
 
 
 

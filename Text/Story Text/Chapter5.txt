@@ -62,7 +62,7 @@ think it over.[AN]
 That would be wise.[AN]
 Looks like we're[N]
 just about there.[AN]
-Brace yourself.[A][X]
+Brace yourself.[A][2X][X]
 
 
 
@@ -121,7 +121,7 @@ I can say that much.[AN]
 
 [MidRight]
 I agree. I feel sorry for[N]
-the Resistance, though...[A][X]
+the Resistance, though...[A][2X][X]
 
 
 
@@ -141,7 +141,7 @@ we'll reduce your sentence![AN]
 Any further advance will[N]
 be met with execution![AN]
 You will not defeat us![N]
-Make your decision now![A][X]
+Make your decision now![A][2X][X]
 
 
 
@@ -167,7 +167,7 @@ every last one of them![AN]
 Yeah! Let's go![N]
 We're almost free![AN]
 Those damned guards[N]
-can't stop us![A][X]
+can't stop us![A][2X][X]
 
 
 
@@ -205,7 +205,7 @@ They're presumed dead, sir.[AN]
 Hmph, how pathetic.[N]
 Alright men, defensive position![AN]
 At all costs, we hold out[N]
-until reinforcements arrive![A][X]
+until reinforcements arrive![A][2X][X]
 
 
 
@@ -218,7 +218,7 @@ until reinforcements arrive![A][X]
 Seems they're moving[N]
 in tight groups.[AN]
 Alright, let's try[N]
-to focus our attacks![A][X]
+to focus our attacks![A][2X][X]
 
 
 
@@ -269,7 +269,7 @@ We'll be counting[N]
 on your assistance.[AN]
 
 [MidLeft]
-Understood.[A][X]
+Understood.[A][2X][X]
 
 
 
@@ -315,7 +315,7 @@ the coast waiting for us.[AN]
 [MidLeft]
 Looks like we'll have to[N]
 get through this one too, then.[AN]
-What is she like, I wonder...[A][X]
+What is she like, I wonder...[A][2X][X]
 
 
 
@@ -326,7 +326,7 @@ What is she like, I wonder...[A][X]
 [MidLeft][LoadDenny]
 Looks like they've arrived.[AN]
 Platoons, on your ready![N]
-We must stop these criminals![A][X]
+We must stop these criminals![A][2X][X]
 
 
 
@@ -338,7 +338,7 @@ We must stop these criminals![A][X]
 You damned runaways![N]
 Stop at once![AN]
 Looks like it's up to me...[N]
-I shall stop you myself![A][X]
+I shall stop you myself![A][2X][X]
 
 
 
@@ -349,7 +349,7 @@ I shall stop you myself![A][X]
 [MidLeft][LoadDenny]
 No way...[N]
 This isn't...[AN]
-How this should end...[A][CloseEyes][.....][X]
+How this should end...[A][CloseEyes][.....][2X][X]
 
 
 
@@ -448,4 +448,4 @@ recklessly, so move with caution.[AN]
 That should conclude your briefing.[AN]
 
 [MidRight]
-See you next time.[A][X]
+See you next time.[A][2X][X]

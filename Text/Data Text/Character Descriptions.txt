@@ -1,193 +1,193 @@
 #0x8D1
 A former Etrurian military chief,[N]
-now commanding a mercenary band.[X]
+now commanding a mercenary band.[2X][X]
 
 #0x1F6
 A former Etrurian knight who[N]
-hates to back out of a fight.[X]
+hates to back out of a fight.[2X][X]
 
 #0x1F7
 A former Etrurian knight.[N]
-Reliable, but brusque and vulgar.[X]
+Reliable, but brusque and vulgar.[2X][X]
 
 #0x1F8
 A former Etrurian officer.[N]
-He works hard to better himself.[X]
+He works hard to better himself.[2X][X]
 
 #0x1FA
 A kind priest in training. Believes[N]
-that words can overcome violence.[X]
+that words can overcome violence.[2X][X]
 
 #0x1F9
 An apprentice Illian Pegasus Knight.[N]
-Her cheery attitude is contagious.[X]
+Her cheery attitude is contagious.[2X][X]
 
 #0x200
 Isaac's servant. She has been[N]
-faithful to him since childhood.[X]
+faithful to him since childhood.[2X][X]
 
 #0x22A
-A brigand leader.[X]
+A brigand leader.[2X][X]
 
 #0x1FC
 An anxious archer from Etruria.[N]
-Shoots with deadly precision.[X]
+Shoots with deadly precision.[2X][X]
 
 #0x1FD
 An Etrurian specialist who loves[N]
-all things shiny - or edible.[X]
+all things shiny - or edible.[2X][X]
 
 #0x20A
 An Etrurian swordswoman who trains[N]
-hard every day. Dislikes laziness.[X]
+hard every day. Dislikes laziness.[2X][X]
 
 #0x203
-A former Etrurian marshal.[N]
-Brave, but a bit of a slacker.[X]
+A former Etrurian officer.[N]
+Brave, but a bit of a slacker.[2X][X]
 
 #0x208
 A former Etrurian soldier who[N]
-always looks on the bright side.[X]
+always looks on the bright side.[2X][X]
 
 #0xF15
 A former Etrurian knight with a love[N]
-for tea. Treats his peers as family.[X]
+for tea. Treats his peers as family.[2X][X]
 
 #0xD50
 A former Etrurian knight who[N]
-cherishes those he cares about.[X]
+cherishes those he cares about.[2X][X]
 
 #0x20F
 A shifty merchant who handles[N]
-inventory for Isaac's group.[X]
+inventory for Isaac's group.[2X][X]
 
 #0x211
 A cheeky girl with no home or family.[N]
-Makes her livelihood by stealing.[X]
+Makes her livelihood by stealing.[2X][X]
 
 #0x234
 A bandit who roams[N]
-around this region.[X]
+around this region.[2X][X]
 
 #0x235
 A member of Rosh's pirates,[N]
-who roam around this region.[X]
+who roam around this region.[2X][X]
 
 #0x21D
-The leader of a pirate crew.[X]
+The leader of a pirate crew.[2X][X]
 
 #0x230
 A soldier from the Kingdom[N]
-of Etruria, to the west.[X]
+of Etruria, to the west.[2X][X]
 
 #0x21C
 An Etrurian Holy Knight. Holds[N]
-to a twisted idea of "justice."[X]
+to a twisted idea of "justice."[2X][X]
 
 #0x21E
 An Etrurian commander put in[N]
-charge of the Eberacum mines.[X]
+charge of the Eberacum mines.[2X][X]
 
 #0x244
 Ordinary citizens[N]
-caught in the battle.[X]
+caught in the battle.[2X][X]
 
 #0x1FE
 A member of the Resistance.[N]
-He dreams of being a hero.[X]
+He dreams of being a hero.[2X][X]
 
 #0x952
 A cool-headed Resistance[N]
-member working in Fibernia.[X]
+member working in Fibernia.[2X][X]
 
 #0x20B
 The leader of a band of chivalrous[N]
-thieves. Known as "The Silver Wolf."[X]
+thieves. Known as "The Silver Wolf."[2X][X]
 
 #0x201
 A self-proclaimed genius[N]
-witch. Pompous and childish.[X]
+witch. Pompous and childish.[2X][X]
 
 #0x202
 A knight who protects others.[N]
-Always cheerful and positive.[X]
+Always cheerful and positive.[2X][X]
 
 #0x213
 One of the Silver Wolf's men.[N]
-He can communicate with animals.[X]
+He can communicate with animals.[2X][X]
 
 #0x204
 An Ilian mercenary knight.[N]
-Sarcastic, but kind hearted.[X]
+Sarcastic, but kind hearted.[2X][X]
 
 #0x206
 A female knight of the Church.[N]
-She trains herself diligently.[X]
+She trains herself diligently.[2X][X]
 
 #0x207
 An Ilian pegasus knight. Strong[N]
-willed, and works professionally.[X]
+willed, and works professionally.[2X][X]
 
 #0x210
 A wandering swordsman who is[N]
-incredibly keen and observant.[X]
+incredibly keen and observant.[2X][X]
 
 #0x214
 A former Etrurian mage.[N]
-Timid and unfond of battle.[X]
+Timid and unfond of battle.[2X][X]
 
 #0x215
 A Fibernian village girl.[N]
-Wishes she looked older.[X]
+Wishes she looked older.[2X][X]
 
 #0x227
 A maid with an aura of calmness.[N]
-Does her work with great skill.[X]
+Does her work with great skill.[2X][X]
 
 #0x1FB
 A Resistance dancer. Hates[N]
-being compared to her mother.[X]
+being compared to her mother.[2X][X]
 
 #0x1FF
 A mechanic passionate about[N]
-the ballistae he constucts.[X]
+the ballistae he constucts.[2X][X]
 
 #0x20D
 A sister working for the[N]
-Church. Greedy and stingy.[X]
+Church. Greedy and stingy.[2X][X]
 
 #0x20C
 A former Etrurian cleric. Calm,[N]
-kind, and overly self-sacrificing.[X]
+kind, and overly self-sacrificing.[2X][X]
 
 #0x20E
 A mercenary named "The Guardian."[N]
-One of the Liberation's leaders.[X]
+One of the Liberation's leaders.[2X][X]
 
 #0xCA
 A master swordsman named "The[N]
-Swallow." Lax and free-spirited.[X]
+Swallow." Lax and free-spirited.[2X][X]
 
 #0x205
 Known as the "Phantomancer". Vexed[N]
-that his abilities are undersold.[X]
+that his abilities are undersold.[2X][X]
 
 #0x21A
 An Etrurian commander who[N]
-manages the Eburacum mines.[X]
+manages the Eburacum mines.[2X][X]
 
 #0x21F
 Commander of the troops sent[N]
-to Jutes. An Etrurian general.[X]
+to Jutes. An Etrurian general.[2X][X]
 
 #0xF72
 A beginner cleric of the St. Elimine[N]
-church. Always does her best.[X]
+church. Always does her best.[2X][X]
 
 #0xB1F
 A famous knight with a perfect[N]
-victory streak and high reputation.[X]
+victory streak and high reputation.[2X][X]
 
 #0xD55
 A mercenary known as "the King of[N]
-the Sky". Skilled in aerial combat.[X]
+the Sky". Skilled in aerial combat.[2X][X]

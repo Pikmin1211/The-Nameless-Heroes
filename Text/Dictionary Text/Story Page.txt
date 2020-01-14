@@ -1,45 +1,45 @@
 #0xD13
-Old Order[X]
+Old Order[2X][X]
 
 #0x55E
-Companions[X]
+Companions[2X][X]
 
 #0x565
-Others[X]
+Others[2X][X]
 
 #0x562
-Enemies[X]
+Enemies[2X][X]
 
 #0xAF
-The Base[X]
+The Base[2X][X]
 
 #0x558
-Chapter 6[X]
+Chapter 6[2X][X]
 
 #0x559
-Chapter 7[X]
+Chapter 7[2X][X]
 
 #0x55A
-Chapter 8[X]
+Chapter 8[2X][X]
 
 #0x560
-Terrain[X]
+Terrain[2X][X]
 
 #0x561
-Allies[X]
+Allies[2X][X]
 
 #0x563
-Save[X]
+Save[2X][X]
 
 #0x564
-World Map[X]
+World Map[2X][X]
 
 #0xE2D
-Support Down[X]
+Support Down[2X][X]
 
 #0xE30
-Secrets[X]
+Secrets[2X][X]
 
 #0x566
-: About[X]
+: About[2X][X]
 

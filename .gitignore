@@ -38,6 +38,9 @@ $RECYCLE.BIN/
 #Shortcuts
 *.shortcut
 
+#7zip
+*.7z
+
 # =========================
 # Operating System Files
 # =========================

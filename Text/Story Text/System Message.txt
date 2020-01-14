@@ -12,7 +12,7 @@ In addition, there is a new[N]
 menu option called the [Red]Guide[Red].[AN]
 If you are having trouble[N]
 with the current mission,[AN]
-please take a look.[A][X]
+please take a look.[A][2X][X]
 
 #0x94F Chapter1BaseSystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
@@ -39,12 +39,12 @@ Selecting [Red]Lore[Red] will show[N]
 you brief explanations of characters[AN]
 and specifications of the base.[AN]
 There are new entries in the story[N]
-menu [Red]every time[Red] you visit the base.[A][X]
+menu [Red]every time[Red] you visit the base.[A][2X][X]
 
 #0x9D6 Chapter8BaseSystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
 The Seize point has been blocked.[N]
-Check the guide, or just wait.[A][X]
+Check the guide, or just wait.[A][2X][X]
 
 ## Chapter10BaseSystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
@@ -53,36 +53,36 @@ will be escorting Elffin.[AN]
 She will temporarily[N]
 be unavailable in preparations.[AN]
 Make sure to prepare her[N]
-equipment before moving on.[A][X]
+equipment before moving on.[A][2X][X]
 
 #0xE61 Chapter12SystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
 The chapter clear[N]
 condition has changed.[AN]
 The clear condition is[N]
-now "all units escape".[A][X]
+now "all units escape".[A][2X][X]
 
 #0xA75 Chapter15SystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
 To clear this chapter,[N]
 seize two castles with Lizzy.[AN]
-No specific order is necessary.[A][X]
+No specific order is necessary.[A][2X][X]
 
 #0xD56 Chapter16SystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
 The chapter clear[N]
 condition has changed.[AN]
 The clear condition is[N]
-now "all units escape".[A][X]
+now "all units escape".[A][2X][X]
 
 
 #0xE6E Chapter162SystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
 You have recieved the Grannblaze.[AN]
 When Isaac wields it, he[N]
-can gain a special skill.[A][X]
+can gain a special skill.[A][2X][X]
 
 #0xD57 UnkSystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
-Goal Achieved.[A][X]
+Goal Achieved.[A][2X][X]
 

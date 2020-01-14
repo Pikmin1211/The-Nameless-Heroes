@@ -19,6 +19,7 @@
 [ClearText] = [2NL]
 [Smile] = [ToggleSmile]
 [TMM] = [ToggleMouthMove]
+[2X] = [0x00]
 
 [FarFarLeft] = [OpenFarFarLeft]
 [FarLeft] = [OpenFarLeft]

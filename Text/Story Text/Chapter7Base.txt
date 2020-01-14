@@ -61,7 +61,7 @@ of necessity, and nothing more.[AN]
 
 [MidLeft][MoveMidLeft]
 I-I will![N]
-Thank you, sir![A][X]
+Thank you, sir![A][2X][X]
 
 
 
@@ -108,7 +108,7 @@ Bah![AN]
 [ClearFace]
 
 [MidLeft][ToggleSmile]
-Heh...[A][X]
+Heh...[A][2X][X]
 
 
 
@@ -146,7 +146,7 @@ trouble you, Sofia.[AN]
 [MidRight]
 N-no, it's okay.[AN]
 I'm a medic,[N]
-after all![A][X]
+after all![A][2X][X]
 
 
 
@@ -176,7 +176,7 @@ leader Johnny...![AN]
 Whoa now, Titor, don't be hasty![N]
 We got our whole lives still,[AN]
 so don't go rushin' in there[N]
-like a bull in a china shop.[A][X]
+like a bull in a china shop.[A][2X][X]
 
 
 
@@ -258,7 +258,7 @@ as an officer...[AN]
 Yeah, I won't let anyone[N]
 steal that away from me.[AN]
 [Smile]
-Thanks, fool.[A][X]
+Thanks, fool.[A][2X][X]
 
 
 
@@ -320,7 +320,7 @@ To take it...?[AN]
 [MidLeft]
 Y-you just misheard that.[AN]
 Ahem, well, how about it?[N]
-Today's your only chance![A][X]
+Today's your only chance![A][2X][X]
 
 
 
@@ -339,7 +339,7 @@ And while me and Hermes[N]
 were out shopping, too...[AN]
 We were shocked, but it[N]
 looks like you're all okay.[AN]
-Anyways, here's my evaluation.[A][X]
+Anyways, here's my evaluation.[A][2X][X]
 
 
 
@@ -364,7 +364,7 @@ the capitol of Fibernia,[AN]
 decided to send a priest from the[N]
 St. Elimine Church to the people.[AN]
 This facade was meant to ease[N]
-the pain of their hard labor.[A][Event][X]
+the pain of their hard labor.[A][Event][2X][X]
 
 
 
@@ -398,4 +398,4 @@ Unless you want to sit through[N]
 another of Audrey's lectures.[AN]
 
 [MidRight]
-Ah... hahaha...[A][X]
+Ah... hahaha...[A][2X][X]

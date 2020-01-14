@@ -1,2 +1,2 @@
-Select[X]
+Select[2X][X]
 

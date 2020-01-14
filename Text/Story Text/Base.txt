@@ -76,4 +76,4 @@ You can [Red]seize [Red]that tile to leave.[AN]
 I got it. Thanks.[AN]
 
 [MidLeft]
-I look forward to seeing you again.[A][X]
+I look forward to seeing you again.[A][2X][X]

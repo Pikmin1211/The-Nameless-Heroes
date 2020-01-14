@@ -1,197 +1,197 @@
 #0x9
-Animation[X]
+Animation[2X][X]
 
 #0xA
-Autosave[X]
+Autosave[2X][X]
 
 #0xB
-Unit Window[X]
+Unit Window[2X][X]
 
 #0xC
-Combat[X]
+Combat[2X][X]
 
 #0xD
-Subtitle Help[X]
+Subtitle Help[2X][X]
 
 #0xE
-Autocursor[X]
+Autocursor[2X][X]
 
 #0xF
-Text Speed[X]
+Text Speed[2X][X]
 
 #0x10
-Game Speed[X]
+Game Speed[2X][X]
 
 #0x11
-Music[X]
+Music[2X][X]
 
 #0x12
-Sound Effects[X]
+Sound Effects[2X][X]
 
 #0x13
-Window Color[X]
+Window Color[2X][X]
 
 #0x14
-CPU Level[X]
+CPU Level[2X][X]
 
 #0x15
-Autoend Turns[X]
+Autoend Turns[2X][X]
 
 #0x16 Unit_Color
-OFF[X]
+OFF[2X][X]
 
 #0x17
-Show Objective[X]
+Show Objective[2X][X]
 
 #0x18
-Controller[X]
+Controller[2X][X]
 
 #0x19
-Rank Display[X]
+Rank Display[2X][X]
 
 #0x1A
-Show animation without backgrounds[X]
+Show animation without backgrounds[2X][X]
 
 #0x1B
-Show animation with backgrounds[X]
+Show animation with backgrounds[2X][X]
 
 #0x1C
-Turn combat animation off[X]
+Turn combat animation off[2X][X]
 
 #0x1D
-Set animation for each unit manually[X]
+Set animation for each unit manually[2X][X]
 
 #0x1E
-Set unit movement speed[X]
+Set unit movement speed[2X][X]
 
 #0x1F
-Set unit movement speed (fast)[X]
+Set unit movement speed (fast)[2X][X]
 
 #0x20
-Set message speed (slow)[X]
+Set message speed (slow)[2X][X]
 
 #0x21
-Set message speed[X]
+Set message speed[2X][X]
 
 #0x22
-Set message speed (fast)[X]
+Set message speed (fast)[2X][X]
 
 #0x23
-Set message speed (autoscroll)[X]
+Set message speed (autoscroll)[2X][X]
 
 #0x24
-Turn autosave on or off[X]
+Turn autosave on or off[2X][X]
 
 #0x25
-Show both unit windows[X]
+Show both unit windows[2X][X]
 
 #0x26
-Show one unit window[X]
+Show one unit window[2X][X]
 
 #0x27
-Turn unit window off[X]
+Turn unit window off[2X][X]
 
 #0x28
-Show basic Combat Info window[X]
+Show basic Combat Info window[2X][X]
 
 #0x29
-Show detailed Combat Info window[X]
+Show detailed Combat Info window[2X][X]
 
 #0x2A
-Turn Combat Info window off[X]
+Turn Combat Info window off[2X][X]
 
 #0x2B
-Set Easy/Help Scroll display[X]
+Set Easy/Help Scroll display[2X][X]
 
 #0x2C
-Set cursor to start on main hero[X]
+Set cursor to start on main hero[2X][X]
 
 #0x2D
-Set turn to end automatically[X]
+Set turn to end automatically[2X][X]
 
 #0x2E
-Turn music on or off[X]
+Turn music on or off[2X][X]
 
 #0x2F
-Turn sound effects on or off[X]
+Turn sound effects on or off[2X][X]
 
 #0x30
-Change window color[X]
+Change window color[2X][X]
 
 #0x31
-Set enemy AI[X]
+Set enemy AI[2X][X]
 
 #0x32
-Set colors for individual units[X]
+Set colors for individual units[2X][X]
 
 #0x33
-Turn Chapter Goal display on or off[X]
+Turn Chapter Goal display on or off[2X][X]
 
 #0x34
-Set Control Window display[X]
+Set Control Window display[2X][X]
 
 #0x35
-Rank Display[X]
+Rank Display[2X][X]
 
 #0x36
-ON[X]
+ON[2X][X]
 
 #0x37
-OFF[X]
+OFF[2X][X]
 
 #0x38
-1[X]
+1[2X][X]
 
 #0x39
-2[X]
+2[2X][X]
 
 #0x3A
-3[X]
+3[2X][X]
 
 #0x3B
-4[X]
+4[2X][X]
 
 #0x3C
-Slow[X]
+Slow[2X][X]
 
 #0x3D
-Norm[X]
+Norm[2X][X]
 
 #0x3E
-Fast[X]
+Fast[2X][X]
 
 #0x3F
-Max[X]
+Max[2X][X]
 
 #0x40
-Solo[X]
+Solo[2X][X]
 
 #0x41 Strat
-S[X]
+S[2X][X]
 
 #0x42 Detail
-D[X]
+D[2X][X]
 
 #0x43
-TWO[X]
+TWO[2X][X]
 
 #0x44
-ONE[X]
+ONE[2X][X]
 
 #0x45
-Players[X]
+Players[2X][X]
 
 #0x47
-Victory Cond[X]
+Victory Cond[2X][X]
 
 #0x4B
-ON[X]
+ON[2X][X]
 
 #0x4C
-OFF[X]
+OFF[2X][X]
 
 #0x4D
-Now Loading[X]
+Now Loading[2X][X]
 
 #0x63
-End[X]
+End[2X][X]

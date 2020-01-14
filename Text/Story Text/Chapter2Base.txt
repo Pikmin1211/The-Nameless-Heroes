@@ -12,7 +12,7 @@ towards Valletta,[AN][Event]
 they notice an unknown[N]
 boat approaching.[AN][Event]
 The boat is flying[N]
-an Etrurian flag...[A][Event][X]
+an Etrurian flag...[A][Event][2X][X]
 
 
 
@@ -63,7 +63,7 @@ quick if yer not focused.[AN]
 Yeah. Sorry, Wolf.[AN]
 
 [MidLeft]
-[ToggleMouthMove]...[A][X]
+[ToggleMouthMove]...[A][2X][X]
 
 
 
@@ -91,7 +91,7 @@ staff with me,[AN]
 I could cure you...[AN]
 I think they're sold[N]
 at the shop nearby.[AN]
-Maybe I should get one...[A][X]
+Maybe I should get one...[A][2X][X]
 
 
 
@@ -105,7 +105,7 @@ Sorry to say, but I have[N]
 nothing to sell at the moment.[AN]
 Um, you can have this, though.[AN]
 Just a little something to[N]
-thank you for your business...[A][X]
+thank you for your business...[A][2X][X]
 
 
 
@@ -126,4 +126,4 @@ to guard the base.[AN]
 Between you and me,[AN]
 I'm a bit lonely staying[N]
 here by myself.[AN]
-Now, please, take a look.[A][X]
+Now, please, take a look.[A][2X][X]

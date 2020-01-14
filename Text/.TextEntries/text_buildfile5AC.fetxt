@@ -1,6 +1,6 @@
-Miracle[N]
+Prayer[N]
 
-When HP is above 1, survive[N]
+When HP is above 50%, survive[N]
 
-a fatal blow with 1 HP.[X]
+a fatal blow with 1 HP.[2X][X]
 

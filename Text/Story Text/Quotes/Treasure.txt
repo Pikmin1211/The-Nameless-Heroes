@@ -1,162 +1,162 @@
 #0xE3F IsaacTreasure
 [MidRight][LoadIsaac][ToggleMouthMove]
 .....[N][ToggleMouthMove]
-This seems to be something.[A][X]
+This seems to be something.[A][2X][X]
 
 #0xE40 WolfTreasure
 [MidRight][LoadWolf]
 This looks good.[N]
-I'll just pick it up.[A][X]
+I'll just pick it up.[A][2X][X]
 
 #0xE42 OlsonTreasure
 [MidRight][LoadOlson]
 Did someone lose this...?[N]
-I'll just hold onto it.[A][X]
+I'll just hold onto it.[A][2X][X]
 
 #0xE43 MorrisTreasure
 [MidRight][LoadMorris]
 Oh? Looks like this was left[N]
-here. I should find the owner.[A][X]
+here. I should find the owner.[A][2X][X]
 
 #0xE44 KaraTreasure
 [MidRight][LoadKara]
 Ah! What a good find![N]
-Today's my lucky day![A][X]
+Today's my lucky day![A][2X][X]
 
 #0xE4A AudreyTreasure
 [MidRight][LoadAudrey]
 Hm... I wonder, is this[N]
-useful? I'll just take it.[A][X]
+useful? I'll just take it.[A][2X][X]
 
 #0xF1A EdmundTreasure
 [MidRight][LoadEdmund]
 Hm...?[N]
 What's this...?[AN]
-I should find the owner.[A][X]
+I should find the owner.[A][2X][X]
 
 #0xE5F PhelixTreasure
 [MidRight][LoadPhelix]
 Oh...? Hey! Guys!![N]
-Did somebody drop this!?[A][X]
+Did somebody drop this!?[A][2X][X]
 
 #0xE46 FerrisTreasure
 [MidRight][LoadFerris]
 Huh, what's this?[AN]
 I'll report it to[N]
-the commander.[A][X]
+the commander.[A][2X][X]
 
 #0xE47 BrianTreasure
 [MidRight][LoadBrian]
 Hmm?[AN]
 This looks valuable...[N]
-I should let someone know.[A][X]
+I should let someone know.[A][2X][X]
 
 #0xE54 ChloeTreasure
 [MidRight][LoadChloe]
 What's this...?[N]
-Hm, should I tell someone?[A][X]
+Hm, should I tell someone?[A][2X][X]
 
 #0xE59 RemTreasure
 [MidRight][LoadRem]
 Oh? Did some dolt drop this?[N]
 What a nice catch![AN]
 I've gotta sell it, before[N]
-anyone else notices![A][X]
+anyone else notices![A][2X][X]
 
 #0xE52 TitorTreasure
 [MidRight][LoadTitor]
 Ohh, lucky me! I wonder how[N]
-much this thingy goes for?[A][X]
+much this thingy goes for?[A][2X][X]
 
 #0xE41 BerkusTreasure
 [MidRight][LoadBerkus]
 The hell is this thing[N]
-doing lying around here?[A][X]
+doing lying around here?[A][2X][X]
 
 #0xE4C JohnnyTreasure
 [MidRight][LoadJohnny]
 Boy howdy, this sure[N]
 is... uninterestin'.[AN]
-Someone else want this?[A][X]
+Someone else want this?[A][2X][X]
 
 #0xE45 JesterTreasure
 [MidRight][LoadJester]
 Oh, what's this...?[AN]
 [Beat][N]
-Nobody is looking, right?[A][X]
+Nobody is looking, right?[A][2X][X]
 
 #0xE48 BarrelleTreasure
 [MidRight][LoadBarrelle]
 Hm, this might be a nice[N]
-addition to my collection...[A][X]
+addition to my collection...[A][2X][X]
 
 #0xE49 DylanTreasure
 [MidRight][LoadDylan]
 Oh? Oh! What a steal![AN]
 Seems I stumbled onto[N]
 something worthwhile...[AN]
-Or maybe this was fate?[A][X]
+Or maybe this was fate?[A][2X][X]
 
 #0xE4B ArtieTreasure
 [MidRight][LoadArtie]
 Oh! Ohh! That's mine![N]
-I called it! Hands off![A][X]
+I called it! Hands off![A][2X][X]
 
 #0xE4D LizzyTreasure
 [MidRight][LoadLizzy]
 Did someone drop this?[N]
-Guess I'll ask around later.[A][X]
+Guess I'll ask around later.[A][2X][X]
 
 #0xE4E CerberusTreasure
 [MidRight][LoadCerberus]
-...Lucky. I'll take this.[A][X]
+...Lucky. I'll take this.[A][2X][X]
 
 #0xE4F HamiltonTreasure
 [MidRight][LoadHamilton]
 Well well, this is...![AN]
 What idiot misplaced[N]
-something like this?[A][X]
+something like this?[A][2X][X]
 
 #0xE50 LilliaTreasure
 [MidRight][LoadLillia]
 Oh, my! Did someone drop this?[N]
 They must be beside themselves.[AN]
-Hey, does anyone know about this?[A][X]
+Hey, does anyone know about this?[A][2X][X]
 
 #0xE51 JeanaTreasure
 [MidRight][LoadJeana]
 What's this thing for?[N]
-I'll report it later.[A][X]
+I'll report it later.[A][2X][X]
 
 #0xE5B RichterTreasure
 [MidRight][LoadRichter]
 I don't think this is anyone's...[N]
-Nobody should mind if I take it.[A][X]
+Nobody should mind if I take it.[A][2X][X]
 
 #0xE5C RosalieTreasure
 [MidRight][LoadRosalie]
 Whoa, whoa! I wondered[N]
 what this thing was...[AN]
 Looks like somebody lost it.[N]
-I can hold onto it... Ehehe...[A][X]
+I can hold onto it... Ehehe...[A][2X][X]
 
 #0xE5D MythraTreasure
 [MidRight][LoadMythra]
 Hmm... what do I do with this?[N]
-I should report it, at least.[A][X]
+I should report it, at least.[A][2X][X]
 
 #0xE5E EliseTreasure
 [MidRight][LoadElise]
 I'm always having to pick[N]
 things up for you guys...[AN]
-What is this, anyways?[A][X]
+What is this, anyways?[A][2X][X]
 
 #0xE53 SeleneTreasure
 [MidRight][LoadSelene]
 Ouch! What the...?[AN]
 I nearly tripped[N]
 over this thing...[AN]
-Who dropped it here?[A][X]
+Who dropped it here?[A][2X][X]
 
 #0xE55 BorisTreasure
 [MidRight][LoadBoris]
@@ -164,25 +164,25 @@ Ey, ey! What in the-[AN]
 Something's jammed[N]
 in the goddamn wheels![AN]
 What is... this?[N]
-Guess I'll hang onto it.[A][X]
+Guess I'll hang onto it.[A][2X][X]
 
 #0xE56 ArianaTreasure
 [MidRight][LoadAriana]
 Ohh! Finder's keepers![N]
 I'll be off to sell this.[AN]
 Praise the Goddess, and[N]
-all that shtick. Haha![A][X]
+all that shtick. Haha![A][2X][X]
 
 #0xE57 SofiaTreasure
 [MidRight][LoadSofia]
 I wonder if someone lost this.[N]
-Um, is anyone missing something?[A][X]
+Um, is anyone missing something?[A][2X][X]
 
 #0xE58 VulcanTreasure
 [MidRight][LoadVulcan]
 I think I can make use of this.[AN]
 Workin' with what you can get[N]
-your hands on is merc basics.[A][X]
+your hands on is merc basics.[A][2X][X]
 
 #0xE5A MurasameTreasure
 [MidRight][LoadMurasame]
@@ -190,24 +190,24 @@ Oh...?! This is a nice find,[N]
 but to just pocket it...?[AN]
 I have higher standards![AN]
 A true swordsman can live[N]
-with the bare necessities![A][X]
+with the bare necessities![A][2X][X]
 
 #0xF2E KronosTreasure
 [MidRight][LoadKronos]
 Oh? Seems one of my phantoms[N]
-has brought me something.[A][X]
+has brought me something.[A][2X][X]
 
 #0xF78 GraceTreasure
 [MidRight][LoadGrace][MoveMidRight]
 Ouch![AN]
 Jeez, what did I[N]
-just step on?[A][X]
+just step on?[A][2X][X]
 
 #0xF7B DonQuixoteTreasue
 [MidRight][LoadDonQuixote][Beat][AN]
-...Nobody's looking, right?[A][X]
+...Nobody's looking, right?[A][2X][X]
 
 #0xF7C
 [MidRight][LoadHaltmann]
 Hmm...[N]
-What do I make of this?[A][X]
+What do I make of this?[A][2X][X]

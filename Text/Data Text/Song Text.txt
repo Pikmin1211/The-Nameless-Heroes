@@ -1,491 +1,491 @@
 #0x702
-The Valiant[X]
+The Valiant[2X][X]
 
 #0x703
-Main Theme[X]
+Main Theme[2X][X]
 
 #0x704
-Prologue[X]
+Prologue[2X][X]
 
 #0x705
-The Beginning[X]
+The Beginning[2X][X]
 
 #0x706
-Treasured Memories[X]
+Treasured Memories[2X][X]
 
 #0x707
-Grim Journey[X]
+Grim Journey[2X][X]
 
 #0x708
-Ties of Friendship[X]
+Ties of Friendship[2X][X]
 
 #0x709
-Ray of Hope[X]
+Ray of Hope[2X][X]
 
 #0x70A
-Distant Roads[X]
+Distant Roads[2X][X]
 
 #0x70B
-Rise Above[X]
+Rise Above[2X][X]
 
 #0x70C
-Follow Me![X]
+Follow Me![2X][X]
 
 #0x70D
-Determination[X]
+Determination[2X][X]
 
 #0x70E
-Truth, Despair, and Hope[X]
+Truth, Despair, and Hope[2X][X]
 
 #0x70F
-Land of Promise[X]
+Land of Promise[2X][X]
 
 #0x710
-Binding Vow[X]
+Binding Vow[2X][X]
 
 #0x711
-Grasp at Victory[X]
+Grasp at Victory[2X][X]
 
 #0x712
-Confront the Past[X]
+Confront the Past[2X][X]
 
 #0x713
-Shadows Approach[X]
+Shadows Approach[2X][X]
 
 #0x714
-Shadow of the Enemy[X]
+Shadow of the Enemy[2X][X]
 
 #0x715
-Assault[X]
+Assault[2X][X]
 
 #0x716
-From the Darkness[X]
+From the Darkness[2X][X]
 
 #0x717
-Twisted Shadows A[X]
+Twisted Shadows A[2X][X]
 
 #0x718
-Twisted Shadows B[X]
+Twisted Shadows B[2X][X]
 
 #0x719
-Envoy from the Dark[X]
+Envoy from the Dark[2X][X]
 
 #0x71A
-Attack[X]
+Attack[2X][X]
 
 #0x71B
-Defense[X]
+Defense[2X][X]
 
 #0x71C
-The Battle Must Be Won[X]
+The Battle Must Be Won[2X][X]
 
 #0x71D
-Powerful Foe[X]
+Powerful Foe[2X][X]
 
 #0x71E
-The Prince's Despair[X]
+The Prince's Despair[2X][X]
 
 #0x71F
-Return of the Demon King[X]
+Return of the Demon King[2X][X]
 
 #0x720
-Sacred Strength[X]
+Sacred Strength[2X][X]
 
 #0x721
-Tethys[X]
+Tethys[2X][X]
 
 #0x722
-Healing[X]
+Healing[2X][X]
 
 #0x723
-Curing[X]
+Curing[2X][X]
 
 #0x724
-To a Higher Place[X]
+To a Higher Place[2X][X]
 
 #0x725
-Advance[X]
+Advance[2X][X]
 
 #0x726
-Tension[X]
+Tension[2X][X]
 
 #0x727
-Raid![X]
+Raid![2X][X]
 
 #0x728
-Reunion[X]
+Reunion[2X][X]
 
 #0x729
-Indignation[X]
+Indignation[2X][X]
 
 #0x72A
-Sorrow[X]
+Sorrow[2X][X]
 
 #0x72B
-Laughter[X]
+Laughter[2X][X]
 
 #0x72C
-Legacy[X]
+Legacy[2X][X]
 
 #0x72D
-Lyon[X]
+Lyon[2X][X]
 
 #0x72E
-Lost Heart[X]
+Lost Heart[2X][X]
 
 #0x72F
-Lyon (Organ Arrangement)[X]
+Lyon (Organ Arrangement)[2X][X]
 
 #0x730
-The Final Battle[X]
+The Final Battle[2X][X]
 
 #0x731
-Solve the Riddle[X]
+Solve the Riddle[2X][X]
 
 #0x732
-Lights in the Dark[X]
+Lights in the Dark[2X][X]
 
 #0x733
-Comrades[X]
+Comrades[2X][X]
 
 #0x734
-Victory[X]
+Victory[2X][X]
 
 #0x735
-Into the Shadow of Victory[X]
+Into the Shadow of Victory[2X][X]
 
 #0x736
-Main Theme (Reprise)[X]
+Main Theme (Reprise)[2X][X]
 
 #0x737
-Combat Preperation[X]
+Combat Preperation[2X][X]
 
 #0x738
-Shops[X]
+Shops[2X][X]
 
 #0x739
-Armories[X]
+Armories[2X][X]
 
 #0x73A
-Bonds[X]
+Bonds[2X][X]
 
 #0x73B
-Colosseum Entrance[X]
+Colosseum Entrance[2X][X]
 
 #0x73C
-In the Colosseum[X]
+In the Colosseum[2X][X]
 
 #0x73D
-Colosseum Victory[X]
+Colosseum Victory[2X][X]
 
 #0x73E
-Colosseum Defeat[X]
+Colosseum Defeat[2X][X]
 
 #0x73F
-Victory Song A[X]
+Victory Song A[2X][X]
 
 #0x740
-Victory Song B[X]
+Victory Song B[2X][X]
 
 #0x741
-Game Over[X]
+Game Over[2X][X]
 
 #0x742
-In Sorrow's Shroud[X]
+In Sorrow's Shroud[2X][X]
 
 #0x743
-Records[X]
+Records[2X][X]
 
 #0x744
-Victory and the Future[X]
+Victory and the Future[2X][X]
 
 #0x745
-Fly with the Breeze[X]
+Fly with the Breeze[2X][X]
 
 #0x746
-Epilogue[X]
+Epilogue[2X][X]
 
 #0xDD5 FE3EnemyTheme
-Opposition[X]
+Opposition[2X][X]
 
 #0xDD6 FE1EnemyTheme
-Adversary[X]
+Adversary[2X][X]
 
 #0xDD1 FE1BossTheme
-Stalwart Opposition[X]
+Stalwart Opposition[2X][X]
 
 #0xDD2 FE1CoolMapTheme
-A Hero's Destiny[X]
+A Hero's Destiny[2X][X]
 
 #0xDD7 FE3BossTheme
-Confronting a Strong Foe[X]
+Confronting a Strong Foe[2X][X]
 
 #0xDD3 FE3ChillMapTheme
-Endless Battle[X]
+Endless Battle[2X][X]
 
 #0xDD4 FE3StrategyMap
-Young Light[X]
+Young Light[2X][X]
 
 #0xDD8 FE3BattleTheme
-Initiative[X]
+Initiative[2X][X]
 
 #0xDD9 FE4PrologueTheme
-Birth of the Holy Knight[X]
+Birth of the Holy Knight[2X][X]
 
 #0xDDA FE4SnowTheme
-Dance in the Sky[X]
+Dance in the Sky[2X][X]
 
 #0xDDF FE5AttackTheme
-Attack (FE5)[X]
+Attack (FE5)[2X][X]
 
 #0xDE0 FE5DefendTheme
-Defense (FE5)[X]
+Defense (FE5)[2X][X]
 
 #0xDE1 FE5BossTheme
-Boss (FE5)[X]
+Boss (FE5)[2X][X]
 
 #0xDDB FE5FieldsTheme
-Base[X]
+Base[2X][X]
 
 #0xDDC FE5FogTheme
-Scouting for Enemies[X]
+Scouting for Enemies[2X][X]
 
 #0xDDD FE5IntenseMapTheme
-Adversity[X]
+Adversity[2X][X]
 
 #0xDDE FE5SpookyMapTheme
-Defeat is Near[X]
+Defeat is Near[2X][X]
 
 #0xDE2 FE6Attack
-Attack! (FE6)[X]
+Attack! (FE6)[2X][X]
 
 #0xDE3 FE6Defend
-Revenge![X]
+Revenge![2X][X]
 
 #0xE27 FE6Arena
-Arena (FE6)[X]
+Arena (FE6)[2X][X]
 
 #0xDE4 FE6BossBattle
-Fight to Tomorrow[X]
+Fight to Tomorrow[2X][X]
 
 #0xDE6 FE6FogMap
-Shadow Approaches[X]
+Shadow Approaches[2X][X]
 
 #0xDE7 FE6BadGuys
-Messenger from the Darkness[X]
+Messenger from the Darkness[2X][X]
 
 #0xDE9 FE6Bandits
-Deer of the Mainland[X]
+Deer of the Mainland[2X][X]
 
 #0xDE8 FE6IntenseMapTheme
-Scars of the Scouring[X]
+Scars of the Scouring[2X][X]
 
 #0xDEA FE6GaidenBadGuys
-Legendary Inheritance[X]
+Legendary Inheritance[2X][X]
 
 #0xDEB FE6TravelMapTheme
-For the Commanders[X]
+For the Commanders[2X][X]
 
 #0xDEC
-Frontier[X]
+Frontier[2X][X]
 
 #0xDED FE6CoolMapTheme
-Within the Magnificent Nature[X]
+Within the Magnificent Nature[2X][X]
 
 #0xDF6 FE6Victory
-Binding Ties[X]
+Binding Ties[2X][X]
 
 #0xDF4
-When the Rush Comes[X]
+When the Rush Comes[2X][X]
 
 #0xDEE FE6EndMap
-Triumph[X]
+Triumph[2X][X]
 
 #0xDF5 FE6BadVictory
-Into the Shadow of Triumph[X]
+Into the Shadow of Triumph[2X][X]
 
 #0xDE5 FE6BadGuysCome
-An Unexpected Caller[X]
+An Unexpected Caller[2X][X]
 
 #0xDEF FE6WorldMap1
-I: Charge[X]
+I: Charge[2X][X]
 
 #0xDF0 FE6WorldMap2
-II: Reclaim the Capital[X]
+II: Reclaim the Capital[2X][X]
 
 #0xDF1 FE6WorldMap3
-III: Unseen Enemy[X]
+III: Unseen Enemy[2X][X]
 
 #0xDF2 FE6WorldMap4
-IV: Final Chapter[X]
+IV: Final Chapter[2X][X]
 
 #0xDF3 FE6RecruitTheme
-Join Us![X]
+Join Us![2X][X]
 
 #0xDF7 FE6ElfinTheme
-Poem of Breeze[X]
+Poem of Breeze[2X][X]
 
 #0xDF8 FE6BattlePrep
-Prepare to Charge (FE6)[X]
+Prepare to Charge (FE6)[2X][X]
 
 #0xDF9 FE7AttackTheme
-Strike[X]
+Strike[2X][X]
 
 #0xDFA FE7DefendTheme
-Safeguard[X]
+Safeguard[2X][X]
 
 #0xDFC FE7BossTheme
-Rise to the Challenge[X]
+Rise to the Challenge[2X][X]
 
 #0xDFB FE7MorphTheme
-Softly with Grace[X]
+Softly with Grace[2X][X]
 
 #0xE02 FE7BadGuyEvents
-Stratagem[X]
+Stratagem[2X][X]
 
 #0xE01 FE7MarkyjoeMeme
-Inescapable Fate[X]
+Inescapable Fate[2X][X]
 
 #0xDFF FE7LynSong
-Girl of the Plains[X]
+Girl of the Plains[2X][X]
 
 #0xE00 FE7GenericBaddies
-Black Fang[X]
+Black Fang[2X][X]
 
 #0xDFD Melee
-Together We Ride![X]
+Together We Ride![2X][X]
 
 #0xE03 FE7Prep
-Prepare to Charge (FE7)[X]
+Prepare to Charge (FE7)[2X][X]
 
 #0xE04 FE9Attack1
-Clash[X]
+Clash[2X][X]
 
 #0xE05 FE9Attack2
-Decisive Attack[X]
+Decisive Attack[2X][X]
 
 #0xE06 FE13IntenseMapTheme
-Destiny[X]
+Destiny[2X][X]
 
 #0xE07 YggdraMilanorAttack
-Milanor Thieves March[X]
+Milanor Thieves March[2X][X]
 
 #0xE08 YggdraKnightAttack
-Royal Army (Siege)[X]
+Royal Army (Siege)[2X][X]
 
 #0xE09 YggdraRuin
-Prelude to Ruin[X]
+Prelude to Ruin[2X][X]
 
 #0x61
-Royal Army (Blitzkrieg)[X]
+Royal Army (Blitzkrieg)[2X][X]
 
 #0xE34
-Royal Army (Defense)[X]
+Royal Army (Defense)[2X][X]
 
 #0xE35
-Royal Army (Decisive Battle)[X]
+Royal Army (Decisive Battle)[2X][X]
 
 #0xE33
-Yggdra Sortie![X]
+Yggdra Sortie![2X][X]
 
 #0xE0C
-Milanor Sortie![X]
+Milanor Sortie![2X][X]
 
 #0xE0B
-Gulcasa Sortie![X]
+Gulcasa Sortie![2X][X]
 
 #0xE0A
-Imperial Army (General) Sortie![X]
+Imperial Army (General) Sortie![2X][X]
 
 #0xE0D
-Pamela Theme (Unison)[X]
+Pamela Theme (Unison)[2X][X]
 
 #0xE0F TOS
-Battle (Tales of Phantasia)[X]
+Battle (Tales of Phantasia)[2X][X]
 
 #0xE10
-Fighting of the Spirit[X]
+Fighting of the Spirit[2X][X]
 
 #0xE11
-Olive Village[X]
+Olive Village[2X][X]
 
 #0xE12
-The Second Act[X]
+The Second Act[2X][X]
 
 #0xF43 TOD
-The Storm and Stress[X]
+The Storm and Stress[2X][X]
 
 #0xF44
-Go on a Cruise[X]
+Go on a Cruise[2X][X]
 
 #0xF45
-Kingdom[X]
+Kingdom[2X][X]
 
 #0xF46
-Despair[X]
+Despair[2X][X]
 
 #0xF47
-Idle Fears[X]
+Idle Fears[2X][X]
 
 #0xF48
-Unfinished World[X]
+Unfinished World[2X][X]
 
 #0xF49
-Mysterious Night[X]
+Mysterious Night[2X][X]
 
 #0xF4A
-A Sanctuary[X]
+A Sanctuary[2X][X]
 
 #0xE1D
-I'm a Champion![X]
+I'm a Champion![2X][X]
 
 #0xE1E
-Victim of Fate[X]
+Victim of Fate[2X][X]
 
 #0xE0E
-Ability Test[X]
+Ability Test[2X][X]
 
 #0xF4B TOSSong
-Untold Despair[X]
+Untold Despair[2X][X]
 
 #0xF4C
-Zelos[X]
+Zelos[2X][X]
 
 #0xE1F TOX2
-For the Sake of Mutual Proof[X]
+For the Sake of Mutual Proof[2X][X]
 
 #0xE20
-Proof of Choice[X]
+Proof of Choice[2X][X]
 
 #0xE21
-Song 4 U[X]
+Song 4 U[2X][X]
 
 #0xE22
-GATE OF STEINER[X]
+GATE OF STEINER[2X][X]
 
 #0xE23
-Fate to Despair[X]
+Fate to Despair[2X][X]
 
 #0xE24
-The Fragrance of Dark Coffee[X]
+The Fragrance of Dark Coffee[2X][X]
 
 #0xE25
-I Don't Want to be Called Weak[X]
+I Don't Want to be Called Weak[2X][X]
 
 #0xE26
-I Don't Need Promises[X]
+I Don't Need Promises[2X][X]
 
 #0xE68
-Upon Selecting Resupply[X]
+Upon Selecting Resupply[2X][X]
 
 #0xE69
-Akashi's Armory[X]
+Akashi's Armory[2X][X]
 
 #0xE6A
-Be Absentminded[X]
+Be Absentminded[2X][X]
 
 #0xF63
-Venus Lighthouse[X]
+Venus Lighthouse[2X][X]
 
 #0xF62 KnightsInTheNightmare
-Combat Preparations[X]
+Combat Preparations[2X][X]

@@ -1,469 +1,503 @@
 #0x5B5
 Pavise (Skill%)[N]
-Reduces physical damage by half.[X]
+Reduces physical damage by half.[2X][X]
 
 #0x5AC
+Prayer[N]
+When HP is above 50%, survive[N]
+a fatal blow with 1 HP.[2X][X]
+
+#0xF82
 Miracle[N]
 When HP is above 1, survive[N]
-a fatal blow with 1 HP.[X]
+a fatal blow with 1 HP.[2X][X]
 
 #0x5AB
 Nihil[N]
-Ignore opponent's combat skills.[X]
+Ignore opponent's combat skills.[2X][X]
 
 #0x5C3
 Nullify[N]
-Negates effective damage.[X]
+Negates effective damage.[2X][X]
 
 #0x5A9
 Cancel[N]
 Negates the opponent's[N]
-counterattack.[X]
+counterattack.[2X][X]
 
 #0x5A8
 Wrath[N]
-Crit +50% when HP < 50%.[X]
+Crit +50% when HP < 50%.[2X][X]
 
 #0x5C0
 Hero[N]
 When HP < 50%, skill activation rate[N]
-+50% and Atk / Def / Res / AS + 8.[X]
++50% and Atk / Def / Res / AS + 8.[2X][X]
 
 #0x5AA
 Ambush[N]
-Always attack first.[X]
+Always attack first.[2X][X]
 
 #0x5A0
 Paragon[N]
 Exp gain from defeating[N]
-enemies is doubled.[X]
+enemies is doubled.[2X][X]
 
 #0x5AD
 Re-Move (Luck%)[N]
-Act again after completing an action.[X]
+Act again after completing an action.[2X][X]
 
 #0x5BB
 Pass[N]
 Move through enemy units.[N]
-Ineffective in fog of war.[X]
+Ineffective in fog of war.[2X][X]
 
 #0x5B1
 Renewal[N]
 Restore 20%HP at the[N]
-start of every turn.[X]
+start of every turn.[2X][X]
 
 #0x5AF
 Intimidate[N]
-Enemies within 3 tiles lose 15 avoid.[X]
+Enemies within 3 tiles lose 15 avoid.[2X][X]
 
 #0x5C1
 Fortune[N]
 Opposing critical[N]
-hit rate is always 0.[X]
+hit rate is always 0.[2X][X]
 
 #0x5B2
 Galeforce[N]
 Act again after defeating an[N]
-enemy (once per turn).[X]
+enemy (once per turn).[2X][X]
 
 #0x5C4
 Aegis (Skill%)[N]
-Nullify a magical attack.[X]
+Nullify a magical attack.[2X][X]
 
 #0x5CA
 Staff Savant[N]
 Healing staff range is[N]
-always extended by rank.[X]
+always extended by rank.[2X][X]
 
 #0x5CE
 Swordbreaker[N]
 Damage dealt/received +3/-3, AS +3,[N]
-and Hit/Avoid +20 against swords.[X]
+and Hit/Avoid +20 against swords.[2X][X]
 
 #0xF27
 Tomebreaker[N]
 Damage dealt/received +3/-3, AS +3,[N]
-and Hit/Avoid +20 against magic tomes.[X]
+and Hit/Avoid +20 against magic tomes.[2X][X]
 
 #0xF28
 Lancebreaker[N]
 Damage dealt/received +3/-3, AS +3,[N]
-and Hit/Avoid +20 against lances.[X]
+and Hit/Avoid +20 against lances.[2X][X]
 
 #0xF29
 Axebreaker[N]
 Damage dealt/received +3/-3, AS +3,[N]
-and Hit/Avoid +20 against axes.[X]
+and Hit/Avoid +20 against axes.[2X][X]
 
 #0xF2A
 Bowbreaker[N]
 Damage dealt/received +3/-3, AS +3,[N]
-and Hit/Avoid +20 against bows.[X]
+and Hit/Avoid +20 against bows.[2X][X]
 
 #0x5CB
+Still Fighter[N]
+Prevents all follow-up attacks.[N]
+User counterattack is weakened.[2X][X]
+
+#0xF81
 Wary Fighter[N]
-Prevents all follow-up attacks.[X]
+Prevents all follow-up attacks.[2X][X]
 
 #0x5B4
 Magekiller[N]
-Deal effective damage to magic users.[X]
+Deal effective damage to magic users.[2X][X]
 
 #0x942
 Slayer[N]
-Deal triple damage to monsters.[X]
+Deal triple damage to monsters.[2X][X]
 
 #0xB8
 Swordslayer[N]
-Deal effective damage to sword users.[X]
+Deal effective damage to sword users.[2X][X]
 
 #0xD0B
 Tower Shield[N]
--6 damage when attacked at range.[X]
+-6 damage when attacked at range.[2X][X]
 
 #0x5C6
 Bunker[N]
 Reduces follow-up damage[N]
-received by half.[X]
+received by half.[2X][X]
 
 #0x5CD
 Desperation[N]
-Follow-up attacks will occur immediately.[X]
+Follow-up attacks will occur immediately.[2X][X]
 
 #0xD0C
 Accost[N]
 Doubles the amount of[N]
-rounds of all combat.[X]
+rounds of all combat.[2X][X]
 
 #0x5D0
 Lifetaker[N]
 Restore 50%HP after attacking[N]
-and defeating an enemy.[X]
+and defeating an enemy.[2X][X]
 
 #0x5D2
 Life and Death[N]
-Damage dealt and recieved +10.[X]
+Damage dealt and recieved +10.[2X][X]
 
 #0x5D1
 Death Blow[N]
 Damage +5 and Crit +15[N]
-when attacking.[X]
+when attacking.[2X][X]
 
 #0x599
 Armored Blow[N]
-Def +10 when attacking.[X]
+Def +10 when attacking.[2X][X]
 
 #0x5D3
 Shift[N]
 Changes weapon to deal the most[N]
-damage while counterattacking.[X]
+damage while counterattacking.[2X][X]
 
 #0x5D5
 Quickened Pulse[N]
 Every 4 turns, gain a charge to[N]
-proc a skill in the next combat.[X]
+proc a skill in the next combat.[2X][X]
 
 #0x59D
 Powerstaff[N]
 Take another action after using[N]
-a staff (once per turn).[X]
+a staff (once per turn).[2X][X]
 
 #0x593
 Charge (HP%)[N]
-Initiates another round of combat.[X]
+Initiates another round of combat.[2X][X]
 
 #0x594
 Boon[N]
 Heals all status effects at[N]
-the start of every turn.[X]
+the start of every turn.[2X][X]
 
 #0x595
 Moonlight (Combat Art)[N]
 Negate the opponent's[N]
-counterattack.[X]
+counterattack.[2X][X]
 
 #0x0598
 Short Shield[N]
--6 damage when attacked up close.[X]
+-6 damage when attacked up close.[2X][X]
 
 #0xD0D
 Fury[N]
 Str/Spd/Def/Res +2, but take[N]
-6 damage after attacking.[X]
+6 damage after attacking.[2X][X]
 
 #0xD0E
 Triangle Adept[N]
-Doubles weapon traingle effects.[X]
+Doubles weapon traingle effects.[2X][X]
 
 #0x5A3
 (S Rank) Astra (Lv%)[N]
 Attack 5 times at half damage in one[N]
-blow. Requires a sword and nonzero crit.[X]
+blow. Requires a sword and nonzero crit.[2X][X]
 
 #0x5A2
 (S Rank) Luna (Skill%)[N]
-Halve opponent's defense.[X]
+Halve opponent's defense.[2X][X]
 
 #0x5A1
 (S Rank) Sol (Skill%)[N]
 Restore HP equal to[N]
-half of damage dealt.[X]
+half of damage dealt.[2X][X]
 
 #0x5A6
 (S Rank) Aether (Lv%)[N]
-Perform Luna and Sol consecutively.[X]
+Perform Luna and Sol consecutively.[2X][X]
 
 #0x5B3
 (S Rank) Flare (Skill%)[N]
 Halve the foes's resistance and heal[N]
-HP equal to half of damage dealt.[X]
+HP equal to half of damage dealt.[2X][X]
 
 #0x59F
 Rightful King[N]
-+10% to skill activation rate.[X]
++10% to skill activation rate.[2X][X]
 
 #0x5AE
 Charm[N]
-Allies within 3 spaces gain +10 hit.[X]
+Allies within 3 spaces gain +10 hit.[2X][X]
 
 #0x5BC
 Divine Shield[N]
-Halves all damage received.[X]
+Reduce damage recieved by 25%.[2X][X]
 
 #0x5A4
 (S Rank) Colossus (Skill%)[N]
-Add Con to damage.[X]
+Add Con to damage.[2X][X]
 
 #0x5A5
 (S Rank) Vengeance (Skill%)[N]
-Add half of lost HP to damage.[X]
+Add half of lost HP to damage.[2X][X]
 
 #0x5B8
 Proximity Shot[N]
 Can use bows at close range[N]
-with reduced accuracy.[X]
+with reduced accuracy.[2X][X]
 
 #0x5B9
 Bowrange +[N]
 +1 range with bows. Reduces[N]
-accuracy at extended range.[X]
+accuracy at extended range.[2X][X]
 
 #0x5BA
 Sure Shot (Skill%)[N]
 The attack will not[N]
-miss. Breaks shields.[X]
+miss. Breaks shields.[2X][X]
 
 #0x5BF
 Petrify (Combat Art)[N]
 Turns the opponent to[N]
-stone for this phase.[X]
+stone for this phase.[2X][X]
 
 #0x5B7
 Enrage (Combat Art)[N]
-Makes the opponent go berserk.[X]
+Makes the opponent go berserk.[2X][X]
 
 #0x5C5
 (S Rank) Ignis (Skill%)[N]
 Add Str/2 when attacking magically.[N]
-Add Mag/2 when attacking physically.[X]
+Add Mag/2 when attacking physically.[2X][X]
 
 #0x5C8
 (S Rank) Dragon Fang (Skill%)[N]
-Multiplies damage by 1.5x.[X]
+Multiplies damage by 1.5x.[2X][X]
 
 #0x5BE
 Steal[N]
 Steal items when speed[N]
-is higher than target's.[X]
+is higher than target's.[2X][X]
 
 #0x5BD
 Locktouch[N]
-Open doors and chests without keys.[X]
+Open doors and chests without keys.[2X][X]
 
 #0x5A7
 (S Rank) Lethality (50%)[N]
 Deals fatal damage[N]
-on a critical hit.[X]
+on a critical hit.[2X][X]
 
 #0x5B6
 Summon[N]
-Summons a phantom.[X]
+Summons a phantom.[2X][X]
 
 #0x5C2
 Watchful[N]
-Cannot be captured or stolen from.[X]
+Cannot be captured or stolen from.[2X][X]
 
 #0xD0F
 Tower Shield +[N]
-Negates all ranged attacks.[X]
+Negates all ranged attacks.[2X][X]
 
 #0xD10
 Rightful God[N]
-+30% to skill activation rate.[X]
++30% to skill activation rate.[2X][X]
 
 #0x5C9
 Canto[N]
 Can use remaining movement[N]
-after performing any action.[X]
+after performing any action.[2X][X]
 
 #0x5CF
 (S Rank) Impale (Skill%)[N]
 Deals double damage. Deals quadruple[N]
-damage if it will defeat the opponent.[X]
+damage if it will defeat the opponent.[2X][X]
 
 #0x5D6
 (S Rank) Eclipse (Skill%)[N]
 If the attack does not defeat the[N]
-opponent, it reduces their HP to 1.[X]
+opponent, it reduces their HP to 1.[2X][X]
 
 #0x5D4
 (S Rank) Crusade (Lv%)[N]
 When HP is half or less, deal double damage[N]
-and restore HP equal to damage dealt.[X]
+and restore HP equal to damage dealt.[2X][X]
 
 #0x591
 Prominence[N]
 Enemies within 5 tiles[N]
-are ignited.[X]
+are ignited.[2X][X]
 
 #0x592
 (S Rank) Genocide (HP%)[N]
 Increases all stats, negates all skills,[N]
-and doubles the length of combat.[X]
+and doubles the length of combat.[2X][X]
 
 #0x5B0
 Adept (Combat Art)[N]
 Attack twice in succesion. Does[N]
-not stack with brave weapons.[X]
+not stack with brave weapons.[2X][X]
 
 #0x5C7
 Void Curse[N]
 Unit gives no experience[N]
-points upon being defeated.[X]
+points upon being defeated.[2X][X]
 
 #0x5CC
 Crit +15[N]
 Grants +15 to[N]
-critical hit rate.[X]
+critical hit rate.[2X][X]
 
 #0x828
 Aside[N]
 This character is only usable[N]
-for the duration of the chapter.[X]
+for the duration of the chapter.[2X][X]
 
 #0xE6C
 Skybreaker[N]
 Deal effective[N]
-damage to fliers.[X]
+damage to fliers.[2X][X]
 
 #0xF4D
 Wingclipper (Combat Art)[N]
-Deal effective[N]
-damage to fliers.[X]
+Double weapon might[N]
+against fliers.[2X][X]
 
 #0xF4E
 Armorcrusher (Combat Art)[N]
-Deal effective[N]
-damage to armors.[X]
+Double weapon might[N]
+against armors.[2X][X]
 
 #0xF4F
 Horsekiller (Combat Art)[N]
-Deal effective[N]
-damage to cavalry.[X]
+Double weapon might[N]
+against cavalry.[2X][X]
 
 #0xF50
 Monsterslayer (Combat Art)[N]
-Deal effective[N]
-damage to monsters.[X]
+Double weapon might[N]
+against monsters.[2X][X]
 
 #0xF2C
 Avo +15[N]
 Grants +15 to[N]
-avoid rate.[X]
+avoid rate.[2X][X]
 
 #0xF51
 Distant Counter[N]
 When unable to attack back,[N]
-counter-damage the attacker.[X]
+counter-damage the attacker.[2X][X]
 
 #0xF52
 Savior[N]
-Def/Res +10 while rescuing.[X]
+Def/Res +10 while rescuing.[2X][X]
 
 #0xF53
 Poison Strike[N]
 -10 HP to the target after[N]
-combat this unit initiates.[X]
+combat this unit initiates.[2X][X]
 
 #0xF54
 Darting Blow[N]
 Attack Speed +5 and[N]
-avoid +30 when attacking.[X]
+avoid +30 when attacking.[2X][X]
 
 #0xF55
 Puissance[N]
 Atk/Def/AS + 3 and Hit[N]
-+20 while at full HP.[X]
++20 while at full HP.[2X][X]
 
 #0xF56
 Solidarity[N]
 Atk and AS +3 when there are[N]
-no allies are within 2 tiles.[X]
+no allies are within 2 tiles.[2X][X]
 
 #0xF57
 Fortress[N]
-Atk -2, Def +4.[X]
+Atk -2, Def +4.[2X][X]
 
 #0xF5F
 Fury[N]
 Attacks are brave at full HP.[N]
-Lose 1 HP after attacking.[X]
+Lose 1 HP after attacking.[2X][X]
 
 #0xF58
 Magic Blade[N]
 Always attack the lower of the[N]
-foe's defense and resistance.[X]
+foe's defense and resistance.[2X][X]
 
 #0xF5A
 Swordfaire[N]
-+3 Atk when using swords.[X]
++3 Atk when using swords.[2X][X]
 
 #0xF5B
 Lancefaire[N]
-+3 Atk when using lances.[X]
++3 Atk when using lances.[2X][X]
 
 #0xF5C
 Axefaire[N]
-+3 Atk when using axes.[X]
++3 Atk when using axes.[2X][X]
 
 #0xF5D
 Bowfaire[N]
-+3 Atk when using bows.[X]
++3 Atk when using bows.[2X][X]
 
 #0xF5E
 Tomefaire[N]
-+3 Atk when using tomes.[X]
++3 Atk when using tomes.[2X][X]
 
 #0xF59
 Triangle Inept[N]
 Unit is unaffected by[N]
-the weapon triangle.[X]
+the weapon triangle.[2X][X]
 
 #0xF69
 Slowdown[N]
 Ignore enemy Atk and AS bonuses,[N]
-and -2 Atk and AS for the enemy.[X]
+and -2 Atk and AS for the enemy.[2X][X]
 
 #0xF16
 Fast Attack[N]
 Always follow up[N]
-if attacking.[X]
+if attacking.[2X][X]
 
 #0xF17
 Fast Defense[N]
 Always follow up[N]
-if defending.[X]
+if defending.[2X][X]
 
 #0x830
 Magiciary (Combat Art)[N]
 Attack + 6 and Hit + 10.[N]
-Effect weakens at range.[X]
+Effect weakens at range.[2X][X]
+
+#0xF6A
+Seal (Combat Art)[N]
+Silence the opponent.[2X][X]
+
+#0xF70
+Breath of Life[N]
+Allies in two tiles restore 20%HP[N]
+at the start of every turn.[2X][X]
+
+#0xF71
+Breath of Nature[N]
+Allies in two tiles recover status[N]
+effects at the start of every turn.[2X][X]
+
+#0xF79
+Eternal Blade (Combat Art)[N]
+Doubles the Eternal Sword's might.[N]
+Evasion is raised after combat.[2X][X]
+
+#0xF7D
+Swift Blade (Combat Art)[N]
+Evasion is raised after combat.[2X][X]
+

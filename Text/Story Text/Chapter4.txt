@@ -9,7 +9,7 @@ even if they are on the brink of collapse.[AN]
 A hellscape where man after man fade away[N]
 to skin and bones, and die of exhaustion.[AN]
 One day, a guard approaches Isaac's cell,[N]
-and offers to change the mercenaries' fate...[A][Event][X]
+and offers to change the mercenaries' fate...[A][Event][2X][X]
 
 
 
@@ -108,7 +108,7 @@ Now![AN]
 [ClearFace]
 
 [FarLeft]
-I'm sorry, friend...[A][X]
+I'm sorry, friend...[A][2X][X]
 
 
 
@@ -211,7 +211,7 @@ Here, I managed to get a key to[N]
 this cell from the guard chambers.[AN]
 I've also taken the liberty of[N]
 delivering back your crew's belongings.[AN]
-Good luck, friend.[A][X]
+Good luck, friend.[A][2X][X]
 
 
 
@@ -223,7 +223,7 @@ Good luck, friend.[A][X]
 Soon...[AN]
 The time is soon.[N]
 Just a little more...[AN]
-And then, freedom![A][X]
+And then, freedom![A][2X][X]
 
 
 
@@ -240,7 +240,7 @@ Show a little patience.[AN]
 [ClearFace][MidLeft][ClearFace]
 
 [FarLeft][LoadJohnny][CloseEyes]
-Zzz...[A][X]
+Zzz...[A][2X][X]
 
 
 
@@ -249,7 +249,7 @@ Zzz...[A][X]
 
 #0x967 Chapter4Opening5
 [Left][LoadBlondeHairMan]
-Is it still not time...?[A][X]
+Is it still not time...?[A][2X][X]
 
 
 
@@ -269,7 +269,7 @@ throne[Red], everyone needs to [Red]escape.[Red][AN]
 It seems the riot begins in [Red]6 [Red]minutes.[AN]
 After that, the guards will notice us.[AN]
 I'll have to [Red]protect the civilians [Red]as well.[N]
-Maybe I should [Red]talk to them[Red]...?[A][X]
+Maybe I should [Red]talk to them[Red]...?[A][2X][X]
 
 
 
@@ -321,7 +321,7 @@ Sir, yes sir![AN]
 
 [MidRight]
 Cocky fools... there is no escape![N]
-You shall be our slaves until death![A][X]
+You shall be our slaves until death![A][2X][X]
 
 
 
@@ -354,7 +354,7 @@ Keep close to me - unless[N]
 you plan on getting lost again?[AN]
 
 [Right]
-Ugh, I'm sorry about that...[A][X]
+Ugh, I'm sorry about that...[A][2X][X]
 
 
 
@@ -378,7 +378,7 @@ Hey, try to keep close to me, Chloe.[N]
 You don't want to go getting lost again.[AN]
 
 [Right]
-Oh, sorry. I'll try...[A][X]
+Oh, sorry. I'll try...[A][2X][X]
 
 
 
@@ -391,7 +391,7 @@ made it out of here.[AN]
 The first part of this[N]
 mission was a success.[AN]
 Now, we need to move on[N]
-and instigate those riots.[A][X]
+and instigate those riots.[A][2X][X]
 
 
 
@@ -423,7 +423,7 @@ you to join us?[AN]
 
 [MidRight]
 Gahaha! You kiddin'?[N]
-Count me in, boss![A][X]
+Count me in, boss![A][2X][X]
 
 
 
@@ -469,7 +469,7 @@ Been getting real sick[N]
 of this joint anyhow.[AN]
 Come on, let's hop to it![AN]
 
-[MidLeft][Beat][A][X]
+[MidLeft][Beat][A][2X][X]
 
 
 
@@ -506,7 +506,7 @@ Don't be reckless if you want[N]
 to see your parents again.[AN]
 
 [MidRight]
-Right... thank you.[A][X]
+Right... thank you.[A][2X][X]
 
 
 
@@ -532,7 +532,7 @@ to rot and die here![AN]
 [MidLeft]
 Cheers to that.[AN]
 Let's get out of[N]
-here in one piece.[A][X]
+here in one piece.[A][2X][X]
 
 
 
@@ -560,7 +560,7 @@ I'm gonna die on my own terms.[AN]
 That kind of talk[N]
 gets you nowhere.[AN]
 Focus on surviving[N]
-and we'll get you home.[A][X]
+and we'll get you home.[A][2X][X]
 
 
 
@@ -623,7 +623,7 @@ Let's save it for later.[N]
 Give me your orders, Isaac![AN]
 
 [MidLeft][ToggleSmile]
-Heh. Leave it to me.[A][X]
+Heh. Leave it to me.[A][2X][X]
 
 
 
@@ -652,7 +652,7 @@ Every good man west[N]
 of Bern needs one.[AN]
 Now then, we oughta pony up.[N]
 I'm sick of this damned calaboose.[AN]
-More of a free range man, you know?[A][X]
+More of a free range man, you know?[A][2X][X]
 
 
 
@@ -679,7 +679,7 @@ it's safe outside yet.[AN]
 
 [MidRight]
 We'll be fiiine! Think of it - me[N]
-and you, the dream team! Unstoppable![A][X]
+and you, the dream team! Unstoppable![A][2X][X]
 
 
 
@@ -694,7 +694,7 @@ like we're going! C'mon![AN]
 [MidLeft][Beat][AN][OpenEyes]
 Hm? Time to mosey on, I[N]
 s'pose. Alright, alright.[AN]
-Hold yer horses now...[A][X]
+Hold yer horses now...[A][2X][X]
 
 
 
@@ -758,7 +758,7 @@ I hope you're correct, then.[AN]
 
 [MidRight]
 We'll attempt to control the riots.[N]
-You can focus on getting out of here.[A][X]
+You can focus on getting out of here.[A][2X][X]
 
 
 
@@ -836,7 +836,7 @@ want once we get out of here.[AN]
 Let's get going![AN]
 
 [MidLeft]
-Right. I'll lead the way.[A][X]
+Right. I'll lead the way.[A][2X][X]
 
 
 
@@ -849,7 +849,7 @@ civilians has fallen.[AN]
 Everyone! Protect the[N]
 civilians at all costs![AN]
 We cannot afford any[N]
-more lives to be lost![A][X]
+more lives to be lost![A][2X][X]
 
 
 
@@ -886,7 +886,7 @@ has become a failure.[AN]
 Audrey, gather everyone.[AN]
 Looks like we'll have[N]
 to get out on our own.[AN]
-We have no choice...[A][X]
+We have no choice...[A][2X][X]
 
 
 
@@ -896,7 +896,7 @@ We have no choice...[A][X]
 [MidRight][LoadIsaac]
 That gate won't open with a normal key.[AN]
 I'll have to activate the switch[N]
-[Red]hidden by the throne [Red]to open it.[A][X]
+[Red]hidden by the throne [Red]to open it.[A][2X][X]
 
 
 
@@ -949,7 +949,7 @@ can handle the dirty work.[AN]
 [MidLeft]
 I see, I see...[AN]
 I'll leave it in your[N]
-capable hands then, Sir Galius.[A][X]
+capable hands then, Sir Galius.[A][2X][X]
 
 
 
@@ -961,7 +961,7 @@ capable hands then, Sir Galius.[A][X]
 Alright, the gate's open![N]
 Everyone, [Red]escape [Red]up the stairs![AN]
 After escaping, help the prisoners![N]
-I'm staying until everyone leaves! Go![A][X]
+I'm staying until everyone leaves! Go![A][2X][X]
 
 
 
@@ -971,7 +971,7 @@ I'm staying until everyone leaves! Go![A][X]
 
 [MidLeft][LoadDaniel]
 You will atone for your[N]
-rebellion with your life![A][X]
+rebellion with your life![A][2X][X]
 
 
 
@@ -981,7 +981,7 @@ rebellion with your life![A][X]
 #0x988 Chapter4DanielDeathQuote
 
 [MidLeft][LoadDaniel]
-Glory to... Etruria...[A][X]
+Glory to... Etruria...[A][2X][X]
 
 
 
@@ -1099,7 +1099,7 @@ Alright! Let's all[N]
 escape together, everyone![AN]
 
 [MidLeft]
-Let's get ready![A][X]
+Let's get ready![A][2X][X]
 
 
 
@@ -1109,4 +1109,4 @@ Let's get ready![A][X]
 Audrey told me to stay behind, but...[N]
 [CloseEyes]I ended up following anyways. Ah...[AN][OpenEyes]
 I-I'm sure I'll be helpful![N]
-I'll treat everyone's wounds![A][X]
+I'll treat everyone's wounds![A][2X][X]

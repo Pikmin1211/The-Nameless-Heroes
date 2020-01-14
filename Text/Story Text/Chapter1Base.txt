@@ -57,7 +57,7 @@ I've got it under control.[AN]
 
 [MidLeft]
 Thank you then, Chloe.[N]
-Lend us your blade.[A][X]
+Lend us your blade.[A][2X][X]
 
 
 
@@ -109,7 +109,7 @@ We must make them pay dearly for that![AN][Clear]
 
 [MidRight]
 I don't mind the enthusiasm, but...[N]
-try to keep your cool, Audrey.[A][X]
+try to keep your cool, Audrey.[A][2X][X]
 
 
 
@@ -138,7 +138,7 @@ Later![AN][Clear]
 That bonehead seems to be running[N]
 around checking up on everyone.[AN]
 I remember when I had[N]
-energy like that... heh.[A][X]
+energy like that... heh.[A][2X][X]
 
 
 
@@ -174,7 +174,7 @@ What is he up to now...?[AN]
 I guess I'll have to[N]
 find out for myself.[AN]
 He should just be[N]
-over the counter.[A][X]
+over the counter.[A][2X][X]
 
 
 
@@ -263,7 +263,7 @@ Don't make a big[N]
 deal out of this![AN]
 
 [MidLeft]
-Alright, alright...[A][X]
+Alright, alright...[A][2X][X]
 
 
 
@@ -301,7 +301,7 @@ Please, help yourself![AN]
 [MidLeft]
 If you insist... maybe[N]
 one or two couldn't hurt.[AN]
-Heh, well, let's see here...[A][X]
+Heh, well, let's see here...[A][2X][X]
 
 
 
@@ -361,7 +361,7 @@ really valuable, only 600 gold![AN]
 That's not exactly expensive...[AN]
 
 [MidLeft]
-So, what do you think?[A][X]
+So, what do you think?[A][2X][X]
 
 
 
@@ -372,7 +372,7 @@ So, what do you think?[A][X]
 [MidRight][LoadIsaac][MidLeft][LoadHermes]
 You won't?[AN]
 Can you not[N]
-afford it?[AN][X]
+afford it?[AN][2X][X]
 
 
 
@@ -389,7 +389,7 @@ Oh dear, is that so?[N]
 I guess you're having trouble...[AN]
 But, don't worry about it.[AN]
 If you can find the gold,[N]
-come talk to me again![A][X]
+come talk to me again![A][2X][X]
 
 
 
@@ -398,7 +398,7 @@ come talk to me again![A][X]
 #0xA5C Chapter1BaseSelection
 
 [MidRight]
-What should I say?[N][Yes][X]
+What should I say?[N][Yes][2X][X]
 
 
 
@@ -427,7 +427,7 @@ Until next time, commander![AN][Clear]
 
 [MidRight]
 Hm...[N]
-This doesn't seem half bad.[A][X]
+This doesn't seem half bad.[A][2X][X]
 
 
 
@@ -441,7 +441,7 @@ I'm not buying it this time.[AN]
 Oh, dear...[N]
 I'm sorry to hear that.[AN]
 If you change your mind,[N]
-please come see me again![A][X]
+please come see me again![A][2X][X]
 
 
 
@@ -453,7 +453,7 @@ please come see me again![A][X]
 I'm Geronimo, the recorder.[AN]
 I'm in charge of recording[N]
 everyone's Ranking.[AN]
-Please, take a look.[A][X]
+Please, take a look.[A][2X][X]
 
 
 
@@ -464,7 +464,7 @@ Please, take a look.[A][X]
 [MidRight][LoadCurrent][MidLeft]
 This is the dojo.[AN]
 You can train here.[AN]
-Are you ready? Here we go![A][X]
+Are you ready? Here we go![A][2X][X]
 
 
 
@@ -479,7 +479,7 @@ This is the "Support[N]
 Consultation Office".[AN]
 If you donate 500 gold,[N]
 I can erase your supports.[A][ClearText]
-Shall I?[N][No][X]
+Shall I?[N][No][2X][X]
 
 
 
@@ -492,7 +492,7 @@ I sincerely appreciate your donation.[N]
 Now, the past has been undone.[AN]
 Do not fret, my child. The[N]
 path to new bonds is now opened.[AN]
-Ho-ho.[A][X]
+Ho-ho.[A][2X][X]
 
 
 
@@ -505,7 +505,7 @@ Dear me...![AN]
 It seems that you[N]
 don't have enough gold.[AN]
 When you have the 500 gold,[N]
-come talk to me again.[A][X]
+come talk to me again.[A][2X][X]
 
 
 
@@ -528,4 +528,4 @@ hardships with them...[AN]
 Then, you are welcome[N]
 to come and see me.[AN]
 I'm certain that I'll[N]
-be of service to you.[A][X]
+be of service to you.[A][2X][X]

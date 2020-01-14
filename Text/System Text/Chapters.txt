@@ -1,201 +1,201 @@
 #0xE6
-Turns[X]
+Turns[2X][X]
 
 #0xD5
-0[X]
+0[2X][X]
 
 #0xD6
-1[X]
+1[2X][X]
 
 #0xD7
-2[X]
+2[2X][X]
 
 #0xD8
-3[X]
+3[2X][X]
 
 #0xD9
-4[X]
+4[2X][X]
 
 #0xDA
-5[X]
+5[2X][X]
 
 #0xDB
-6[X]
+6[2X][X]
 
 #0xDC
-7[X]
+7[2X][X]
 
 #0xDD
-8[X]
+8[2X][X]
 
 #0xDE
-9[X]
+9[2X][X]
 
 #0xDF
-Ch.[X]
+Ch.[2X][X]
 
 #0xE1
-x[X]
+x[2X][X]
 
 #0xE2
-Final[X]
+Final[2X][X]
 
 #0xE3
-Prologue[X]
+Prologue[2X][X]
 
 #0x12C PrologueObjective
-Defeat Boss[X]
+Defeat Boss[2X][X]
 
 #0x125 MapPrologueObjective
-Defeat Boss[X]
+Defeat Boss[2X][X]
 
 #0xE8 PrologueName
-Mercenary Sortie[X]
+Mercenary Sortie[2X][X]
 
 #0x147 Chapter1Objective
-Defeat Boss[X]
+Defeat Boss[2X][X]
 
 #0xE9 Chapter1Name
-Port Town Valetta[X]
+Port Town Valetta[2X][X]
 
 #0x134 Chapter2Objective
-Seize Gate[X]
+Seize Gate[2X][X]
 
 #0x127 MapChapter2Objective
-Seize Gate[X]
+Seize Gate[2X][X]
 
 #0xEA Chapter2Name
-Island of Devils[X]
+Island of Devils[2X][X]
 
 #0x124 Chapter3Objective
-Survive[X]
+Survive[2X][X]
 
 #0x13E MapChapter3Objective
-Survive[X]
+Survive[2X][X]
 
 #0xEB Chapter3Name
-Etrurian Ship[X]
+Etrurian Ship[2X][X]
 
 #0x131 Chapter4Objective
-Escape[X]
+Escape[2X][X]
 
 #0x128 MapChapter4Objective
-Escape[X]
+Escape[2X][X]
 
 #0xEC Chapter4Name
-Death Mountain[X]
+Death Mountain[2X][X]
 
 #0xEE Chapter5Name
-Fight for Freedom[X]
+Fight for Freedom[2X][X]
 
 #0xEF Chapter6Name
-The Resistance[X]
+The Resistance[2X][X]
 
 #0xF4 Chapter7Name
-With a New Fate[X]
+With a New Fate[2X][X]
 
 #0xF1 Chapter8Name
-As a Knight[X]
+As a Knight[2X][X]
 
 #0x13A Chapter9Objective
 Survive or[N]
-Defeat Boss[X]
+Defeat Boss[2X][X]
 
 #0xF2 Chapter9Name
-The Nameless[X]
+The Nameless[2X][X]
 
 #0x133 Chapter10Objective
-Talk to Vulcan[X]
+Talk to Vulcan[2X][X]
 
 #0x829 MapChapter10Objective
-Talk[X]
+Talk[2X][X]
 
 #0xF3 Chapter10Name
-Hopeful Voyage[X]
+Hopeful Voyage[2X][X]
 
 #0x132 Chapter11Objective
-Seize Throne[X]
+Seize Throne[2X][X]
 
 #0x12A MapChapter11Objective
-Seize Throne[X]
+Seize Throne[2X][X]
 
 #0x122 Chapter11Name
-Pride and Belief[X]
+Pride and Belief[2X][X]
 
 #0x137 Chapter12Objective
-Seize Gate[X]
+Seize Gate[2X][X]
 
 #0xED Chapter12Name
-Lost in the Sand[X]
+Lost in the Sand[2X][X]
 
 #0x139 Chapter13Objective
-Defeat Boss[X]
+Defeat Boss[2X][X]
 
 #0xF5 Chapter13Name
-Flames of Evil[X]
+Flames of Evil[2X][X]
 
 #0x143 MapChapter14Objective
-Defend[X]
+Defend[2X][X]
 
 #0xF6 Chapter14Name
-Dark Clouds Brew[X]
+Dark Clouds Brew[2X][X]
 
 #0x146 Chapter15Objective
-Seize Two Gates[X]
+Seize Two Gates[2X][X]
 
 #0xF7 Chapter15Name
-Couraged Advance[X]
+Couraged Advance[2X][X]
 
 #0x142 Chapter16Objective
 Attack with[N]
-the Liberation[X]
+the Liberation[2X][X]
 
 #0x13F MapChapter16Objective
-Attack[X]
+Attack[2X][X]
 
 #0xF8 Chapter16Name
-Desolate Capital[X]
+Desolate Capital[2X][X]
 
 #0x10C BaseName
-Base[X]
+Base[2X][X]
 
 #0x10D Chapter8xName
-Assault Strategy[X]
+Assault Strategy[2X][X]
 
 #0x149 Chapter12xObjective
-Seize Throne[X]
+Seize Throne[2X][X]
 
 #0xF0 Chapter12xName
-The Silver Wolf[X]
+The Silver Wolf[2X][X]
 
 #0x141 Chapter14xObjective
-Talk to Lizzy[X]
+Talk to Lizzy[2X][X]
 
 #0x10E Chapter14xName
-All for You[X]
+All for You[2X][X]
 
 #0x153 ArenaName
-Arena[X]
+Arena[2X][X]
 
 #0x110 Chapter16bName
-Black Clash[X]
+Black Clash[2X][X]
 
 #0xE6D Chapter16bObjective
 Defeat Officers[N]
-or Defeat Kempf[X]
+or Defeat Kempf[2X][X]
 
 #0xF9 Chapter17Name
-Moonlit Knight[X]
+Moonlit Knight[2X][X]
 
 #0x10F Chapter17xName
-Knightly Figure[X]
+Knightly Figure[2X][X]
 
 #0x13C MapChapter17xObjective
-Defeat All[X]
+Defeat All[2X][X]
 
 #0xF37 Chapter17xObjective
 Defeat all[N]
-the bandits[X]
+the bandits[2X][X]
 
 #0x14A Chapter17bObjective
-Stop Lizzy[X]
+Stop Lizzy[2X][X]

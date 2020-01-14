@@ -1,188 +1,188 @@
 #0x14C
-Plain[X]
+Plain[2X][X]
 
 #0x14D
-Road[X]
+Road[2X][X]
 
 #0x14E
-Village[X]
+Village[2X][X]
 
 #0x14F
-Village[X]
+Village[2X][X]
 
 #0x150
-House[X]
+House[2X][X]
 
 #0x151
-Armory[X]
+Armory[2X][X]
 
 #0x152
-Vendor[X]
+Vendor[2X][X]
 
 #0x153
-Arena[X]
+Arena[2X][X]
 
 #0x154
-C.Room[X]
+C.Room[2X][X]
 
 #0x155
-Fort[X]
+Fort[2X][X]
 
 #0x156
-Gate[X]
+Gate[2X][X]
 
 #0x157
-Forest[X]
+Forest[2X][X]
 
 #0x158
-Thicket[X]
+Thicket[2X][X]
 
 #0x159
-Sand[X]
+Sand[2X][X]
 
 #0x15A
-Desert[X]
+Desert[2X][X]
 
 #0x15B
-River[X]
+River[2X][X]
 
 #0x15C
-Mntn[X]
+Mntn[2X][X]
 
 #0x15D
-Peak[X]
+Peak[2X][X]
 
 #0x15E
-Bridge[X]
+Bridge[2X][X]
 
 #0x15F
-Bridge[X]
+Bridge[2X][X]
 
 #0x160
-Sea[X]
+Sea[2X][X]
 
 #0x161
-Lake[X]
+Lake[2X][X]
 
 #0x162
-Floor[X]
+Floor[2X][X]
 
 #0x163
-Floor[X]
+Floor[2X][X]
 
 #0x164
-Fence[X]
+Fence[2X][X]
 
 #0x165
-Wall[X]
+Wall[2X][X]
 
 #0x166
-Wall[X]
+Wall[2X][X]
 
 #0x167
-Rubble[X]
+Rubble[2X][X]
 
 #0x168
-Pillar[X]
+Pillar[2X][X]
 
 #0x169
-Door[X]
+Door[2X][X]
 
 #0x16A
-Throne[X]
+Throne[2X][X]
 
 #0x16B
-Chest[X]
+Chest[2X][X]
 
 #0x16C
-Chest[X]
+Chest[2X][X]
 
 #0x16D
-Roof[X]
+Roof[2X][X]
 
 #0x16E
-Gate[X]
+Gate[2X][X]
 
 #0x16F
-Church[X]
+Church[2X][X]
 
 #0x170
-Ruins[X]
+Ruins[2X][X]
 
 #0x171
-Cliff[X]
+Cliff[2X][X]
 
 #0x172
-Ballista[X]
+Ballista[2X][X]
 
 #0x173
-Long B[X]
+Long B[2X][X]
 
 #0x174
-Killer B[X]
+Killer B[2X][X]
 
 #0x175
-Flat[X]
+Flat[2X][X]
 
 #0x176
-Wreck[X]
+Wreck[2X][X]
 
 #0x178
-Stairs[X]
+Stairs[2X][X]
 
 #0x17A
-Glacier[X]
+Glacier[2X][X]
 
 #0x17B
-Arena[X]
+Arena[2X][X]
 
 #0x17C
-Valley[X]
+Valley[2X][X]
 
 #0x17D
-Fence[X]
+Fence[2X][X]
 
 #0x17E
-Snag[X]
+Snag[2X][X]
 
 #0x17F
-Bridge[X]
+Bridge[2X][X]
 
 #0x180
-Sky[X]
+Sky[2X][X]
 
 #0x181
-Deeps[X]
+Deeps[2X][X]
 
 #0x182
-Ruins[X]
+Ruins[2X][X]
 
 #0x183
-Inn[X]
+Inn[2X][X]
 
 #0x184
-Barrel[X]
+Barrel[2X][X]
 
 #0x185
-Bone[X]
+Bone[2X][X]
 
 #0x186
-Dark[X]
+Dark[2X][X]
 
 #0x187
-Water[X]
+Water[2X][X]
 
 #0x188
-Gunnels[X]
+Gunnels[2X][X]
 
 #0x189
-Deck[X]
+Deck[2X][X]
 
 #0x18A
-Brace[X]
+Brace[2X][X]
 
 #0x18B
-Mast[X]
+Mast[2X][X]
 
 #0x4A0
-Road[X]
+Road[2X][X]

@@ -14,7 +14,7 @@ Assuming the worst, the[N]
 mercenaries walk heavily.[AN][Event]
 Valletta, the biggest port town in[N]
 Dia, has become a hell on earth.[AN]
-The scent of death hangs in the air.[AN][Event][X]
+The scent of death hangs in the air.[AN][Event][2X][X]
 
 
 
@@ -46,7 +46,7 @@ so this is all we have left...[....][AN]
 [MidLeft]
 Do I look like I care?![AN]
 Shut up, and bring me[N]
-more damn valuables![A][X]
+more damn valuables![A][2X][X]
 
 
 
@@ -72,7 +72,7 @@ Don't worry about them.[AN]
 Focus on loading up the[N]
 ship with goods and women.[AN]
 C'mon lads, don't be[N]
-afraid of those jackoffs![A][X]
+afraid of those jackoffs![A][2X][X]
 
 
 
@@ -134,7 +134,7 @@ Mommyyy![AN]
 
 [Left]
 ...![AN]
-It's a survivor![AN][X]
+It's a survivor![AN][2X][X]
 
 
 
@@ -144,7 +144,7 @@ It's a survivor![AN][X]
 
 [MidRight][LoadPirate]
 Huh? A kid? We don't[N]
-need you around. Just die![A][X]
+need you around. Just die![A][2X][X]
 
 
 
@@ -154,7 +154,7 @@ need you around. Just die![A][X]
 
 [MidRight][LoadIsaac]
 Hey, asshole. Over here.[N]
-Try taking me on instead![A][X]
+Try taking me on instead![A][2X][X]
 
 
 
@@ -174,7 +174,7 @@ It's not safe for you.[AN]
 
 [MidRight]
 ...[....][N]
-Thank you...[A][Clear][X]
+Thank you...[A][Clear][2X][X]
 
 
 
@@ -205,7 +205,7 @@ But, I know I saw them![AN]
 At any rate, if that's true,[N]
 we don't have very much time.[AN]
 We'll have to seize the boat[N]
-now, before it goes out to sea.[A][X]
+now, before it goes out to sea.[A][2X][X]
 
 
 
@@ -217,7 +217,7 @@ now, before it goes out to sea.[A][X]
 [MidRight][LoadPirate]
 Go, fellas![AN]
 Don't let 'em[N]
-make a fool of us![A][X]
+make a fool of us![A][2X][X]
 
 
 
@@ -232,7 +232,7 @@ righteous heroes![AN]
 Let's give them[N]
 a warm welcome, eh?![AN]
 And make sure to bring[N]
-their women back alive![A][X]
+their women back alive![A][2X][X]
 
 
 
@@ -245,7 +245,7 @@ their women back alive![A][X]
 Damn! It looks[N]
 like I was too late.[AN]
 Commander! Everyone![N]
-Please be safe, guys...[A][X]
+Please be safe, guys...[A][2X][X]
 
 
 
@@ -291,7 +291,7 @@ That seems to be the case.[N]
 We should join them.[AN]
 
 [MidLeft]
-Yeah, let's hurry![A][X]
+Yeah, let's hurry![A][2X][X]
 
 
 
@@ -312,7 +312,7 @@ Lead the front, Phelix.[AN]
 [MidLeft]
 Affirmative![AN]
 I'll teach those[N]
-bastards a due lesson![A][X]
+bastards a due lesson![A][2X][X]
 
 
 
@@ -335,7 +335,7 @@ skills with a bow.[AN]
 
 [MidLeft]
 Leave it to me, commander.[N]
-I never miss my target.[A][X]
+I never miss my target.[A][2X][X]
 
 
 
@@ -363,7 +363,7 @@ can you lend a hand?[AN]
 
 [MidLeft]
 With pleasure, Sir Isaac.[N]
-I'm always happy to assist you.[A][X]
+I'm always happy to assist you.[A][2X][X]
 
 
 
@@ -374,7 +374,7 @@ I'm always happy to assist you.[A][X]
 [MidLeft][LoadHesus]
 Damn! I can't count on[N]
 those goons for anything![AN]
-Bah! I'll handle this myself![A][X]
+Bah! I'll handle this myself![A][2X][X]
 
 
 
@@ -384,7 +384,7 @@ Bah! I'll handle this myself![A][X]
 
 [MidLeft][LoadHesus]
 Wh-what?[N]
-Me... beaten...?[A][X]
+Me... beaten...?[A][2X][X]
 
 
 
@@ -400,7 +400,7 @@ Heh... as ya can see...[N]
 I can't hold out long...[AN]
 My wife... taken away...[AN]
 Take this... help her...[N]
-P... please...[A][X]
+P... please...[A][2X][X]
 
 
 
@@ -414,7 +414,7 @@ I couldn't help anyone...[AN]
 Here... Take this staff...[AN]
 Please... avenge us...[AN][CloseEyes]
 Oh... I can't...[N]
-see any longer...[A][X]
+see any longer...[A][2X][X]
 
 
 
@@ -430,7 +430,7 @@ I could only look on[AN]
 while the people were[N]
 taken away, or killed.[AN]
 I'm sorry...[AN]
-I'm so sorry.[A][X]
+I'm so sorry.[A][2X][X]
 
 
 
@@ -483,7 +483,7 @@ And I'll make sure[N]
 you meet the same fate.[AN]
 
 [MidRight]
-S-stop![A][X]
+S-stop![A][2X][X]
 
 
 
@@ -512,7 +512,7 @@ who have been killed.[AN]
 
 [MidLeft]
 Yeah...[N]
-I hope so.[A][X]
+I hope so.[A][2X][X]
 
 
 
@@ -586,4 +586,4 @@ See you on the battlefield, worm.[AN]
 [ClearFace]
 
 [MidLeft]
-Jeez, that man is fearsome...[A][X]
+Jeez, that man is fearsome...[A][2X][X]

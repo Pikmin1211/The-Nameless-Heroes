@@ -1,254 +1,254 @@
 #0x71
-Chevalier[X]
+Chevalier[2X][X]
 
 #0x66
-Legionnaire[X]
+Legionnaire[2X][X]
 
 #0x248
-Sw[_o][_r][_d] K[_n]i[_g][_h]t[X]
+Sw[_o][_r][_d] K[_n]i[_g][_h]t[2X][X]
 
 #0xD3B
-L[_a][_n][_c]e K[_n]i[_g][_h]t[X]
+L[_a][_n][_c]e K[_n]i[_g][_h]t[2X][X]
 
 #0x249
-Paladin[X]
+Paladin[2X][X]
 
 #0x24A
-L[_a][_n][_c]e Armor[X]
+L[_a][_n][_c]e Armor[2X][X]
 
 #0x288
-Axe Armor[X]
+Axe Armor[2X][X]
 
 #0x24B
-General[X]
+General[2X][X]
 
 #0x24C
-Thief[X]
+Thief[2X][X]
 
 #0x24D
-Mercenary[X]
+Mercenary[2X][X]
 
 #0x24E
-Hero[X]
+Hero[2X][X]
 
 #0x24F
-Myrmidon[X]
+Myrmidon[2X][X]
 
 #0x250
-Swordmaster[X]
+Swordmaster[2X][X]
 
 #0x251
-Assassin[X]
+Assassin[2X][X]
 
 #0x252
-Archer[X]
+Archer[2X][X]
 
 #0x253
-Sniper[X]
+Sniper[2X][X]
 
 #0x254
-F[_o][_r][_r][_e][_s]t K[_n]i[_g][_h]t[X]
+F[_o][_r][_r][_e][_s]t K[_n]i[_g][_h]t[2X][X]
 
 #0x255
-Wyvern Rider[X]
+Wyvern Rider[2X][X]
 
 #0x256
-Wyvern Lord[X]
+Wyvern Lord[2X][X]
 
 #0x257
-Wyv[_e][_r][_n] K[_n]i[_g][_h]t[X]
+Wyv[_e][_r][_n] K[_n]i[_g][_h]t[2X][X]
 
 #0x25C
-Dark Flier[X]
+Dark Flier[2X][X]
 
 #0x258
-Mage[X]
+Mage[2X][X]
 
 #0x259
-Sage[X]
+Sage[2X][X]
 
 #0x25A
-Mage Knight[X]
+Mage Knight[2X][X]
 
 #0x25B
-Bishop[X]
+Bishop[2X][X]
 
 #0x268
-Dark Mage[X]
+Dark Mage[2X][X]
 
 #0x269
-Sorcerer[X]
+Sorcerer[2X][X]
 
 #0x26A
-Summoner[X]
+Summoner[2X][X]
 
 #0x262
-Rogue[X]
+Rogue[2X][X]
 
 #0x267
-Great Knight[X]
+Great Knight[2X][X]
 
 #0x261
-Recruit[X]
+Recruit[2X][X]
 
 #0x260
-Pupil[X]
+Pupil[2X][X]
 
 #0x25F
-Journeyman[X]
+Journeyman[2X][X]
 
 #0x25E
-Manakete[X]
+Manakete[2X][X]
 
 #0x263
-Fighter[X]
+Fighter[2X][X]
 
 #0x264
-Warrior[X]
+Warrior[2X][X]
 
 #0x265
-Brigand[X]
+Brigand[2X][X]
 
 #0x275
-Pirate[X]
+Pirate[2X][X]
 
 #0x266
-Berserker[X]
+Berserker[2X][X]
 
 #0x26B
-Monk[X]
+Monk[2X][X]
 
 #0x26D
-Priest[X]
+Priest[2X][X]
 
 #0x26C
-Bard[X]
+Bard[2X][X]
 
 #0x26E
-[_P][_e][_g][_a][_s][_u][_s] [_K][_n][_i][_g][_h][_t][X]
+[_P][_e][_g][_a][_s][_u][_s] [_K][_n][_i][_g][_h][_t][2X][X]
 
 #0x26F
-Falcoknight[X]
+Falcoknight[2X][X]
 
 #0x270
-Cleric[X]
+Cleric[2X][X]
 
 #0x271
-Troubadour[X]
+Troubadour[2X][X]
 
 #0x272
-Valkyrie[X]
+Valkyrie[2X][X]
 
 #0x273
-Dancer[X]
+Dancer[2X][X]
 
 #0x274
-Soldier[X]
+Soldier[2X][X]
 
 #0x276
-Necromancer[X]
+Necromancer[2X][X]
 
 #0x277
-Fleet[X]
+Fleet[2X][X]
 
 #0x278
-Phantom[X]
+Phantom[2X][X]
 
 #0x58A
-Witch[X]
+Witch[2X][X]
 
 #0x6A
-Halberdier[X]
+Halberdier[2X][X]
 
 #0x27B
-Nomad[X]
+Nomad[2X][X]
 
 #0x27C
-N[_o]m[_a][_d] T[_r][_o][_o][_p][_e][_r][X]
+N[_o]m[_a][_d] T[_r][_o][_o][_p][_e][_r][2X][X]
 
 #0x27D
-Spider[X]
+Spider[2X][X]
 
 #0x27E
-Arachnid[X]
+Arachnid[2X][X]
 
 #0x27F
-Stray Thief[X]
+Stray Thief[2X][X]
 
 #0x280
-Hellhound[X]
+Hellhound[2X][X]
 
 #0x281
-Cerberus[X]
+Cerberus[2X][X]
 
 #0x282
-Axe K[_n]i[_g][_h]t[X]
+Axe K[_n]i[_g][_h]t[2X][X]
 
 #0x283
-Dragoon[X]
+Dragoon[2X][X]
 
 #0x284
-Baron[X]
+Baron[2X][X]
 
 #0x286
-Ballistician[X]
+Ballistician[2X][X]
 
 #0x285
-M[_a][_s]t[_e][_r] [_K][_n]i[_g][_h]t[X]
+M[_a][_s]t[_e][_r] [_K][_n]i[_g][_h]t[2X][X]
 
 #0x28A
-Dracozombie[X]
+Dracozombie[2X][X]
 
 #0x28B
-Demon King[X]
+Demon King[2X][X]
 
 #0x28C
-Civilian[X]
+Civilian[2X][X]
 
 #0x279
-Maid[X]
+Maid[2X][X]
 
 #0xC7
-Harbinger[X]
+Harbinger[2X][X]
 
 #0xC8
-La Pucelle[X]
+La Pucelle[2X][X]
 
 #0x28E
-Queen[X]
+Queen[2X][X]
 
 #0xA1
-Fire Dragon[X]
+Fire Dragon[2X][X]
 
 #0x28F
-Transporter[X]
+Transporter[2X][X]
 
 #0x28D
-King[X]
+King[2X][X]
 
 #0x79
-Tactician[X]
+Tactician[2X][X]
 
 #0x247
-Commandeur[X]
+Commandeur[2X][X]
 
 #0x287
-Command Kn.[X]
+Command Kn.[2X][X]
 
 #0x27A
-War Monk[X]
+War Monk[2X][X]
 
 #0xC6
-Marshall[X]
+Marshall[2X][X]
 
 #0xE66
-T[_h][_a][_u]m[_a]t[_u][_r][_g][_e][X]
+T[_h][_a][_u]m[_a]t[_u][_r][_g][_e][2X][X]
 
 #0xF10
-Sw[_o][_r][_d] Armor[X]
+Sw[_o][_r][_d] Armor[2X][X]
 
 #0xF2B
-Butler[X]
+Butler[2X][X]
 
 #0xF41
-Sergeant[X]
+Sergeant[2X][X]

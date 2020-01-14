@@ -1,283 +1,283 @@
 #0x509
-Pick Units[X]
+Pick Units[2X][X]
 
 #0x50A
-Fortune[X]
+Fortune[2X][X]
 
 #0x50B
-Items[X]
+Items[2X][X]
 
 #0x50C
-Check Map[X]
+Check Map[2X][X]
 
 #0x50D
-Save[X]
+Save[2X][X]
 
 #0x50E
-Select[X]
+Select[2X][X]
 
 #0x50F
-Character[X]
+Character[2X][X]
 
 #0x510 War
-Evaluation[X]
+Evaluation[2X][X]
 
 #0x511 Martial_Arts
-Evaluation[X]
+Evaluation[2X][X]
 
 #0x512 Capture_Fortune_Telling
-Capture[X]
+Capture[2X][X]
 
 #0x513
-Support[X]
+Support[2X][X]
 
 #0x514
-Fortune[X]
+Fortune[2X][X]
 
 #0x515 CaptureAssesment
-Capture[X]
+Capture[2X][X]
 
 #0x516 SurvivalEvaluation
-Survival[X]
+Survival[2X][X]
 
 #0x517 AssetEvalutation
-Assets[X]
+Assets[2X][X]
 
 #0x518 ExperienceEvalutaion
-EXP[X]
+EXP[2X][X]
 
 #0x519 BattleEvaluation
-Combat[X]
+Combat[2X][X]
 
 #0x51A PurposeEvaluation
-Goals[X]
+Goals[2X][X]
 
 #0x51B
-View Map[X]
+View Map[2X][X]
 
 #0x51C
-Formation[X]
+Formation[2X][X]
 
 #0x51D
-Options[X]
+Options[2X][X]
 
 #0x51E
-Debug[X]
+Debug[2X][X]
 
 #0x51F
-Trade[X]
+Trade[2X][X]
 
 #0x520
-List[X]
+List[2X][X]
 
 #0x521
-Use[X]
+Use[2X][X]
 
 #0x522
-Sell[X]
+Sell[2X][X]
 
 #0x523
-Supply[X]
+Supply[2X][X]
 
 #0x524
-Shop[X]
+Shop[2X][X]
 
 #0x525
-Dump[X]
+Dump[2X][X]
 
 #0x526
-Sell?[X]
+Sell?[2X][X]
 
 #0x527
-Sell     Quit[X]
+Sell     Quit[2X][X]
 
 #0x528
-Value[X]
+Value[2X][X]
 
 #0x529
-Give[X]
+Give[2X][X]
 
 #0x52A
-Take[X]
+Take[2X][X]
 
 #0x52B
-Bag[X]
+Bag[2X][X]
 
 #0x52C
-Pick[X]
+Pick[2X][X]
 
 #0x52D
-Units Left[X]
+Units Left[2X][X]
 
 #0x5DE
-Sell unwanted items.[X]
+Sell unwanted items.[2X][X]
 
 #0x52F
-Are you sure?[X]
+Are you sure?[2X][X]
 
 #0x530
-What'll you do?[X]
+What'll you do?[2X][X]
 
 #0x531
-I'll take it.[X]
+I'll take it.[2X][X]
 
 #0x532
-Here you go![X]
+Here you go![2X][X]
 
 #0x533
-Nothing[X]
+Nothing[2X][X]
 
 #0x534
-Owner:[X]
+Owner:[2X][X]
 
 #0x535
-Done[X]
+Done[2X][X]
 
 #0x536
-Left[X]
+Left[2X][X]
 
 #0x537
-x[X]
+x[2X][X]
 
 #0x538
-Choose unit[X]
+Choose unit[2X][X]
 
 #0x539
 Select which units to[N]
 field this battle. The[N]
-number is restricted.[X]
+number is restricted.[2X][X]
 
 #0x53A
 Manage your units'[N]
 items. Item names[N]
 that appear in gray[N]
 cannot be used by[N]
-that unit.[X]
+that unit.[2X][X]
 
 #0x53B
-Manage your units' items.[X]
+Manage your units' items.[2X][X]
 
 #0x53C
 This command cannot be[N]
-used at this time.[X]
+used at this time.[2X][X]
 
 #0x53D
 Valuable battle[N]
 information can be[N]
 viewed here, as well[N]
-as tactician data.[X]
+as tactician data.[2X][X]
 
 #0x53E
 View the map. Check[N]
 the number and type of[N]
 enemies. Also, check for[N]
 shops and change your[N]
-allies' starting positions.[X]
+allies' starting positions.[2X][X]
 
 #0x53F
 Save any changes.[N]
 Choose Restart Chapter[N]
 to restart this chapter.[N]
 You can't return to the[N]
-world map after saving.[X]
+world map after saving.[2X][X]
 
 #0x540
 Exchange items[N]
-between units.[X]
+between units.[2X][X]
 
 #0x541
-Use items.[X]
+Use items.[2X][X]
 
 #0x542
 Send items[N]
-to convoy.[X]
+to convoy.[2X][X]
 
 #0x543
 Buy and sell[N]
-items in the shop.[X]
+items in the shop.[2X][X]
 
 #0x544
-Item display list.[X]
+Item display list.[2X][X]
 
 #0x545
 Sell unwanted items.[N]
 Important items[N]
-cannot be sold.[X]
+cannot be sold.[2X][X]
 
 #0x546
-Place all items in storage.[X]
+Place all items in storage.[2X][X]
 
 #0x547
 Put items in storage. Up to[N]
-100 items can be put in storage.[X]
+100 items can be put in storage.[2X][X]
 
 #0x548
 Receive item.[N]
-A unit can carry up to 5 items.[X]
+A unit can carry up to 5 items.[2X][X]
 
 #0x54E
-Arrange your army.[X]
+Arrange your army.[2X][X]
 
 #0x54F
 Set game and[N]
-window speeds.[X]
+window speeds.[2X][X]
 
 #0x550
 Save the current[N]
-state of your army.[X]
+state of your army.[2X][X]
 
 #0x551
-Start battle.[X]
+Start battle.[2X][X]
 
 #0x600
-Enter Armory[X]
+Enter Armory[2X][X]
 
 #0x601
-Enter Shop[X]
+Enter Shop[2X][X]
 
 #0x602
-Enter ? Shop[X]
+Enter ? Shop[2X][X]
 
 #0x603
-Manage Items[X]
+Manage Items[2X][X]
 
 #0x604
-Enter Armory[X]
+Enter Armory[2X][X]
 
 #0x605
-Enter Shop[X]
+Enter Shop[2X][X]
 
 #0x606
-Enter ? Shop[X]
+Enter ? Shop[2X][X]
 
 #0x607
-Manage Items[X]
+Manage Items[2X][X]
 
 #0x608
-The party's next destination.[X]
+The party's next destination.[2X][X]
 
 #0x609
-The current number of units.[X]
+The current number of units.[2X][X]
 
 #0x60A
-Manage your party's items.[X]
+Manage your party's items.[2X][X]
 
 #0x549
 Details of the[N]
-battle thus far.[X]
+battle thus far.[2X][X]
 
 #0x54A
 Details about the[N]
-enemy leader.[X]
+enemy leader.[2X][X]
 
 #0x54B
 Details about the[N]
-battle to come.[X]
+battle to come.[2X][X]
 
 #0x54C
 View support[N]
 relationships[N]
-between units.[X]
+between units.[2X][X]
 
 #0x54D
-View the map.[X]
+View the map.[2X][X]

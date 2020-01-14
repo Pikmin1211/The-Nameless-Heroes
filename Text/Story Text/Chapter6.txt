@@ -62,7 +62,7 @@ We'll let them handle the rest.[AN]
 
 [MidLeft]
 Then it's time.[N]
-Mercenaries, move out![A][X]
+Mercenaries, move out![A][2X][X]
 
 
 
@@ -124,7 +124,7 @@ I see...[AN]
 So, get a move on![AN]
 
 [MidRight]
-Yes, sir![A][X]
+Yes, sir![A][2X][X]
 
 
 
@@ -146,7 +146,7 @@ good hands there.[AN]
 
 [MidLeft]
 R-right. [CloseEyes]Deep breaths.[.....][OpenEyes][N]
-We're all gonna be fine.[A][X]
+We're all gonna be fine.[A][2X][X]
 
 
 
@@ -251,7 +251,7 @@ We fight for justice![AN]
 
 [MidRight]
 And don't you all go dying[N]
-on me, you got that? Now go![A][X]
+on me, you got that? Now go![A][2X][X]
 
 
 
@@ -319,7 +319,7 @@ And remember, we're always open.[AN]
 
 [MidLeft]
 I'd be happy to help if[N]
-the opportunity comes.[A][Clear][X]
+the opportunity comes.[A][Clear][2X][X]
 
 
 
@@ -408,7 +408,7 @@ You can head on back once everything's[N]
 cleaned up. And don't get reckless.[AN]
 
 [MidLeft]
-Understood![A][Clear][X]
+Understood![A][Clear][2X][X]
 
 
 
@@ -494,7 +494,7 @@ H-huh?[AN]
 [MidRight]
 Hahah, it's nothing.[AN]
 Remember to look after[N]
-yourself too, got it?[A][X]
+yourself too, got it?[A][2X][X]
 
 
 
@@ -608,7 +608,7 @@ Someone's hollerin'.[N]
 Is it at us...?[AN]
 
 [MidRight]
-Ah, it's...[A][X]
+Ah, it's...[A][2X][X]
 
 
 
@@ -622,7 +622,7 @@ Looks like we're[N]
 about to take off![AN]
 Don't forget to[N]
 keep in touch![AN]
-Take care, lad![A][X]
+Take care, lad![A][2X][X]
 
 
 
@@ -653,7 +653,7 @@ Bon voyage, friend.[AN]
 
 [MidRight]
 Uh, right.[N]
-Thanks.[A][X]
+Thanks.[A][2X][X]
 
 
 
@@ -689,7 +689,7 @@ gratuitous violence around.[AN]
 We must properly represent[N]
 the glory of Etruria.[AN]
 Now then, sorry to[N]
-keep you waiting, ma'am.[A][X]
+keep you waiting, ma'am.[A][2X][X]
 
 
 
@@ -734,7 +734,7 @@ We are honorable knights. I would[N]
 never do something so... barbaric.[AN]
 I believe you've seen enough[N]
 violence today, don't you agree?[AN]
-Men, release these women.[A][X]
+Men, release these women.[A][2X][X]
 
 
 
@@ -755,7 +755,7 @@ Perhaps for the rest of[N]
 their little lives... Gahaha![AN]
 Alright, let's get a move on.[AN]
 We must report the prescence[N]
-of the Nameless, posthaste.[A][X]
+of the Nameless, posthaste.[A][2X][X]
 
 
 
@@ -840,7 +840,7 @@ We'll need to fend off both[N]
 the Etrurians and the bandits...[AN]
 It'll be tough, but we'll[N]
 have to grin and bear it.[AN]
-Thanks for the advice.[A][X]
+Thanks for the advice.[A][2X][X]
 
 
 
@@ -876,7 +876,7 @@ they look real hard for it.[AN]
 Nothin' ta worry about, boy.[AN]
 
 [MidRight]
-I hope yer right, chief.[A][X]
+I hope yer right, chief.[A][2X][X]
 
 
 
@@ -889,7 +889,7 @@ I hope yer right, chief.[A][X]
 Looks like that's the last of them.[N]
 Let's get out of here ourselves.[AN]
 No sense in keeping on fighting[N]
-when we don't really have to.[A][X]
+when we don't really have to.[A][2X][X]
 
 
 
@@ -902,7 +902,7 @@ Heheheh! Looks like we're[N]
 gonna be making a killin'.[AN]
 Nice gig, ain't it?[AN]
 Now, stay put so my[N]
-axe can get a clean hit![A][X]
+axe can get a clean hit![A][2X][X]
 
 
 
@@ -912,7 +912,7 @@ axe can get a clean hit![A][X]
 
 [MidLeft][LoadMike]
 Argh...[N]
-I screwed up...[A][X]
+I screwed up...[A][2X][X]
 
 
 
@@ -923,7 +923,7 @@ I screwed up...[A][X]
 [MidLeft][LoadNuma]
 You pathetic Resistance![AN]
 Let's see you squirm after[N]
-I skewer you on my spear![A][X]
+I skewer you on my spear![A][2X][X]
 
 
 
@@ -934,7 +934,7 @@ I skewer you on my spear![A][X]
 
 [MidLeft][LoadNuma]
 Ergh...[N]
-How... how could...?[A][X]
+How... how could...?[A][2X][X]
 
 
 
@@ -985,7 +985,7 @@ apologize to Audrey,[AN]
 and everyone else. Capiche?[AN]
 
 [MidRight]
-Y-yeah, I got it...[A][X]
+Y-yeah, I got it...[A][2X][X]
 
 
 
@@ -1040,7 +1040,7 @@ Watch yourself out there, kid.[AN]
 [Clear]
 
 [MidRight]
-Is he on my side...?[A][X]
+Is he on my side...?[A][2X][X]
 
 
 
@@ -1105,7 +1105,7 @@ any more people to die.[AN]
 
 [MidLeft]
 As long as you don't[N]
-overdo it, Sofia.[A][X]
+overdo it, Sofia.[A][2X][X]
 
 
 
@@ -1120,7 +1120,7 @@ Who knows what would happen to us[N]
 if they found you hiding here?[AN]
 I know you've had it hard, but[N]
 we just want to live in peace...[AN]
-Please, take this and leave.[A][X]
+Please, take this and leave.[A][2X][X]
 
 
 
@@ -1144,7 +1144,7 @@ myself, so please, take this one.[AN]
 Wealth is useless if you can't use it[N]
 to bring happiness to others, right?[AN]
 Thanks for dropping by. Perhaps we'll[N]
-meet again someday.[A][X]
+meet again someday.[A][2X][X]
 
 
 
@@ -1162,7 +1162,7 @@ without passing on my techniques?[AN]
 So I decided to write down what I've[N]
 learned in a book. I have it here.[AN]
 You seem like a strong warrior. I'd[N]
-be honored if you would accept it.[A][X]
+be honored if you would accept it.[A][2X][X]
 
 
 
@@ -1175,4 +1175,4 @@ What are you waiting[N]
 for, you wimps?[AN]
 All right, then...[AN]
 I'll lead the[N]
-charge! After me![A][X]
+charge! After me![A][2X][X]

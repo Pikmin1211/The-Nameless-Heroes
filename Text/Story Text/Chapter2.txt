@@ -16,7 +16,7 @@ of Devils appeared on the horizon.[AN][Event]
 It is an isolated island,[N]
 covered with ominous fog.[AN]
 Isaac and the others step ashore[N]
-with a great degree of caution...[A][Event][X]
+with a great degree of caution...[A][Event][2X][X]
 
 
 
@@ -51,7 +51,7 @@ best that we try and stay grouped up.[AN]
 Agreed. Those pirates[N]
 have the advantage here.[AN]
 We need to be careful[N]
-not to be taken by surprise.[A][X]
+not to be taken by surprise.[A][2X][X]
 
 
 
@@ -80,7 +80,7 @@ They won't see us coming in[N]
 the fog until it's too late![AN]
 
 [MidLeft]
-Yeah![A][X]
+Yeah![A][2X][X]
 
 
 
@@ -130,7 +130,7 @@ You kidding me?[AN]
 You're the ones who[N]
 ordered us to do this![AN]
 Now I have to put[N]
-up with it by myself?![A][X]
+up with it by myself?![A][2X][X]
 
 
 
@@ -141,7 +141,7 @@ up with it by myself?![A][X]
 Alright, let's move out.[AN]
 For this mission, we can't[N]
 see well because of the fog.[AN]
-Everybody stay vigilant.[A][X]
+Everybody stay vigilant.[A][2X][X]
 
 
 
@@ -155,7 +155,7 @@ Oh? Is it my turn?[AN]
 Fear not, sir. My eyes[N]
 are a sharp as a hawk's.[AN]
 Allow me to direct[N]
-you through the fog.[A][Clear][X]
+you through the fog.[A][Clear][2X][X]
 
 
 
@@ -173,7 +173,7 @@ from a long distance.[AN]
 However, I'll be wide open[N]
 while I'm operating it.[AN]
 If possible, I'd ask you[N]
-to try and protect me.[A][Clear][X]
+to try and protect me.[A][Clear][2X][X]
 
 
 
@@ -236,7 +236,7 @@ Sniff...[N]
 Ugh...[AN]
 
 [MidLeft]
-[ToggleMouthMove]...[A][X]
+[ToggleMouthMove]...[A][2X][X]
 
 
 
@@ -302,7 +302,7 @@ think about it any longer.[AN]
 [MidRight]
 You're right...[AN]
 That would be[N]
-for the best...[A][X]
+for the best...[A][2X][X]
 
 
 
@@ -312,7 +312,7 @@ for the best...[A][X]
 
 [MidRight][LoadIsaac]
 [ToggleMouthMove]...[....][AN][CloseEyes]
-.....[.....][A][X]
+.....[.....][A][2X][X]
 
 
 
@@ -413,7 +413,7 @@ This way, sir![AN][Clear]
 Wait, Isaac![AN]
 
 [FarLeft]
-...[A][Clear][.....][X]
+...[A][Clear][.....][2X][X]
  
 
 
@@ -423,7 +423,7 @@ Wait, Isaac![AN]
 
 [MidRight][LoadIsaac][CloseEyes]
 [ToggleMouthMove]...[....][AN][OpenEyes]
-.....[.....][A][X]
+.....[.....][A][2X][X]
 
 
 
@@ -452,7 +452,7 @@ Eek!!![AN]
 [FarRight][MoveRight][FarRight][LoadPirate]
 Tsk, useless wench.[AN]
 We almost caught that guy...[N]
-Hurry! They shouldn't be far![A][X]
+Hurry! They shouldn't be far![A][2X][X]
 
 
 
@@ -480,7 +480,7 @@ Choose which you like.[AN][Clear]
 Oi, you forgot the[N]
 third option here, eh?[AN]
 To kill all[N]
-of ya bastards![A][X]
+of ya bastards![A][2X][X]
 
 
 
@@ -492,7 +492,7 @@ of ya bastards![A][X]
 I'm the head of this pirate[N]
 crew, the mighty Rosh![AN][ClearText]
 Hope you've enjoyed your life,[N]
-'cuz it's about to end![A][X]
+'cuz it's about to end![A][2X][X]
 
 
 
@@ -502,7 +502,7 @@ Hope you've enjoyed your life,[N]
 
 [MidLeft][LoadRosh]
 I'm the... mighty... Rosh...[N]
-This ain't... uuugh...[A][X]
+This ain't... uuugh...[A][2X][X]
 
 
 
@@ -609,4 +609,4 @@ dashing on a majestic steed?[AN]
 
 [MidLeft]
 Ahaha, I think this guide is[N]
-about over. Until next time.[A][X]
+about over. Until next time.[A][2X][X]

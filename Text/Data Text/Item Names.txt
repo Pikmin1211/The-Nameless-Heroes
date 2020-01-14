@@ -1,626 +1,626 @@
 #0x2DB
-Iron Sword[X]
+Iron Sword[2X][X]
 
 #0x2DC
-Slim Sword[X]
+Slim Sword[2X][X]
 
 #0x2DD
-Steel Sword[X]
+Steel Sword[2X][X]
 
 #0x2DE
-Silver Sword[X]
+Silver Sword[2X][X]
 
 #0x2DF
-Iron Blade[X]
+Iron Blade[2X][X]
 
 #0x2E0
-Steel Blade[X]
+Steel Blade[2X][X]
 
 #0x2E1
-Silver Blade[X]
+Silver Blade[2X][X]
 
 #0x2E2
-Poison Sword[X]
+Poison Sword[2X][X]
 
 #0x2E3
-Rapier[X]
+Rapier[2X][X]
 
 #0xCC
-Flamberge[X]
+Flamberge[2X][X]
 
 #0x2E4
-Brave Sword[X]
+Brave Sword[2X][X]
 
 #0x2E5
-Wo Dao[X]
+Wo Dao[2X][X]
 
 #0x2E6
-Killing Edge[X]
+Killing Edge[2X][X]
 
 #0x2E7
-Armorslayer[X]
+Armorslayer[2X][X]
 
 #0x2E8
-Wyrmslayer[X]
+Wyrmslayer[2X][X]
 
 #0x2E9
-Light Brand[X]
+Light Brand[2X][X]
 
 #0x2EA
-Runesword[X]
+Runesword[2X][X]
 
 #0x2EB
-La[_n]cerea[_v]er[X]
+La[_n]cerea[_v]er[2X][X]
 
 #0x2EC
-Zanbato[X]
+Zanbato[2X][X]
 
 #0x2F0
-Iron Lance[X]
+Iron Lance[2X][X]
 
 #0x2F1
-Slim Lance[X]
+Slim Lance[2X][X]
 
 #0x2F2
-Steel Lance[X]
+Steel Lance[2X][X]
 
 #0x2F3
-Silver Lance[X]
+Silver Lance[2X][X]
 
 #0x2F4
-Toxin Lance[X]
+Toxin Lance[2X][X]
 
 #0x2F5
-Brave Lance[X]
+Brave Lance[2X][X]
 
 #0x2F6
-Killer Lance[X]
+Killer Lance[2X][X]
 
 #0x2F7
-Horseslayer[X]
+Horseslayer[2X][X]
 
 #0x2F8
-Javelin[X]
+Javelin[2X][X]
 
 #0x2F9
-Spear[X]
+Spear[2X][X]
 
 #0x2FA
-Axereaver[X]
+Axereaver[2X][X]
 
 #0x301
-Iron Axe[X]
+Iron Axe[2X][X]
 
 #0x302
-Steel Axe[X]
+Steel Axe[2X][X]
 
 #0x303
-Silver Axe[X]
+Silver Axe[2X][X]
 
 #0x304
-Poison Axe[X]
+Poison Axe[2X][X]
 
 #0x305
-Brave Axe[X]
+Brave Axe[2X][X]
 
 #0x306
-Killer Axe[X]
+Killer Axe[2X][X]
 
 #0x307
-Halberd[X]
+Halberd[2X][X]
 
 #0x308
-Hammer[X]
+Hammer[2X][X]
 
 #0x309
-Devil Axe[X]
+Devil Axe[2X][X]
 
 #0x30A
-Hand Axe[X]
+Hand Axe[2X][X]
 
 #0x30B
-Tomahawk[X]
+Tomahawk[2X][X]
 
 #0x30C
-Swordreaver[X]
+Swordreaver[2X][X]
 
 #0x30D
-Swordslayer[X]
+Swordslayer[2X][X]
 
 #0x311
-Hatchet[X]
+Hatchet[2X][X]
 
 #0x312
-Iron Bow[X]
+Iron Bow[2X][X]
 
 #0x313
-Steel Bow[X]
+Steel Bow[2X][X]
 
 #0x314
-Silver Bow[X]
+Silver Bow[2X][X]
 
 #0x315
-Poison Bow[X]
+Poison Bow[2X][X]
 
 #0x316
-Killer Bow[X]
+Killer Bow[2X][X]
 
 #0x317
-Brave Bow[X]
+Brave Bow[2X][X]
 
 #0x318
-Short Bow[X]
+Short Bow[2X][X]
 
 #0x319
-Longbow[X]
+Longbow[2X][X]
 
 #0x31A
-Iron Ballista[X]
+Iron Ballista[2X][X]
 
 #0x31B
-Long Ballista[X]
+Long Ballista[2X][X]
 
 #0x31C
-Killer Ballista[X]
+Killer Ballista[2X][X]
 
 #0x330
-Fire[X]
+Fire[2X][X]
 
 #0x331
-Thunder[X]
+Thunder[2X][X]
 
 #0x332
-Elfire[X]
+Elfire[2X][X]
 
 #0x320
-Blizzard[X]
+Blizzard[2X][X]
 
 #0x335
-Thoron[X]
+Thoron[2X][X]
 
 #0x89
-Bolganone[X]
+Bolganone[2X][X]
 
 #0x336
-Excalibur[X]
+Excalibur[2X][X]
 
 #0x337
-Lightning[X]
+Lightning[2X][X]
 
 #0x338
-Shine[X]
+Shine[2X][X]
 
 #0x339
-Divine[X]
+Divine[2X][X]
 
 #0x33A
-Purge[X]
+Purge[2X][X]
 
 #0x33B
-Aura[X]
+Aura[2X][X]
 
 #0x8D supreme_light
-Radiate[X]
+Radiate[2X][X]
 
 #0x33D
-Flux[X]
+Flux[2X][X]
 
 #0x33E
-Ruin[X]
+Ruin[2X][X]
 
 #0x33F
-Nosferatu[X]
+Nosferatu[2X][X]
 
 #0x340
-Eclipse[X]
+Eclipse[2X][X]
 
 #0x341 nosferatu2
-Necro[X]
+Necro[2X][X]
 
 #0x342
-Gleipnir[X]
+Gleipnir[2X][X]
 
 #0x349
-Heal[X]
+Heal[2X][X]
 
 #0x34A
-Mend[X]
+Mend[2X][X]
 
 #0x34B
-Recover[X]
+Recover[2X][X]
 
 #0x34C
-Physic[X]
+Physic[2X][X]
 
 #0x34D
-Fortify[X]
+Fortify[2X][X]
 
 #0x34E
-Restore[X]
+Restore[2X][X]
 
 #0x34F
-Silence[X]
+Silence[2X][X]
 
 #0x350
-Sleep[X]
+Sleep[2X][X]
 
 #0x351
-Berserk[X]
+Berserk[2X][X]
 
 #0x352
-Warp[X]
+Warp[2X][X]
 
 #0x353
-Rescue[X]
+Rescue[2X][X]
 
 #0x354
-Torch[X]
+Torch[2X][X]
 
 #0x355
-Hammerne[X]
+Hammerne[2X][X]
 
 #0x356
-Unlock[X]
+Unlock[2X][X]
 
 #0x357
-Barrier[X]
+Barrier[2X][X]
 
 #0x30E
-Dragon Axe[X]
+Dragon Axe[2X][X]
 
 #0x35B
-Angelic Robe[X]
+Angelic Robe[2X][X]
 
 #0x35C
-Energy Ring[X]
+Energy Ring[2X][X]
 
 #0x35D
-Skill Book[X]
+Skill Book[2X][X]
 
 #0x35E
-Speedwing[X]
+Speedwing[2X][X]
 
 #0x35F
-Goddess Icon[X]
+Goddess Icon[2X][X]
 
 #0x360
-Dracoshield[X]
+Dracoshield[2X][X]
 
 #0x361
-Talisman[X]
+Talisman[2X][X]
 
 #0x362
-Boots[X]
+Boots[2X][X]
 
 #0x363
-Spirit Dust[X]
+Spirit Dust[2X][X]
 
 #0x364
-Hero Crest[X]
+Hero Crest[2X][X]
 
 #0x365
-Knight Crest[X]
+Knight Crest[2X][X]
 
 #0x366
-Orion's Bolt[X]
+Orion's Bolt[2X][X]
 
 #0x367
-Elysian Whip[X]
+Elysian Whip[2X][X]
 
 #0x368
-Guiding Ring[X]
+Guiding Ring[2X][X]
 
 #0x369
-Chest Key[X]
+Chest Key[2X][X]
 
 #0x36A
-Door Key[X]
+Door Key[2X][X]
 
 #0x36B
-Lockpick[X]
+Lockpick[2X][X]
 
 #0x36C
-Vulnerary[X]
+Vulnerary[2X][X]
 
 #0x36D
-Elixir[X]
+Elixir[2X][X]
 
 #0x36E
-Pure Water[X]
+Pure Water[2X][X]
 
 #0x36F
-Antitoxin[X]
+Antitoxin[2X][X]
 
 #0x370
-Torch[X]
+Torch[2X][X]
 
 #0x371
-Fili Shield[X]
+Fili Shield[2X][X]
 
 #0x372
-Member Card[X]
+Member Card[2X][X]
 
 #0x373
-Silver Card[X]
+Silver Card[2X][X]
 
 #0x376
-White Gem[X]
+White Gem[2X][X]
 
 #0x377
-Blue Gem[X]
+Blue Gem[2X][X]
 
 #0x378
-Red Gem[X]
+Red Gem[2X][X]
 
 #0x37A
-Iron Rune[X]
+Iron Rune[2X][X]
 
 #0x453
-Filla's Might[X]
+Filla's Might[2X][X]
 
 #0x454
-Ninis' Grace[X]
+Ninis' Grace[2X][X]
 
 #0x455
-Thor's Ire[X]
+Thor's Ire[2X][X]
 
 #0x456
-Set's Litany[X]
+Set's Litany[2X][X]
 
 #0x32B
-Greatsword[X]
+Greatsword[2X][X]
 
 #0x32C
-Greatlance[X]
+Greatlance[2X][X]
 
 #0x32D
-Greataxe[X]
+Greataxe[2X][X]
 
 #0x32E
-Greatbow[X]
+Greatbow[2X][X]
 
 #0x2ED
-Grannblaze[X]
+Grannblaze[2X][X]
 
 #0xE63
-Grannblaze[X]
+Grannblaze[2X][X]
 
 #0x30F
-Battleaxe[X]
+Battleaxe[2X][X]
 
 #0x33C
-Ivaldi[X]
+Ivaldi[2X][X]
 
 #0x37B
-Master Seal[X]
+Master Seal[2X][X]
 
 #0x37C
-Metis Tome[X]
+Metis Tome[2X][X]
 
 #0x38A
-Dummy[X]
+Dummy[2X][X]
 
 #0x2FD
-Vidofnir[X]
+Vidofnir[2X][X]
 
 #0x343
-Nagalfar[X]
+Nagalfar[2X][X]
 
 #0x2EE
-Audhulma[X]
+Audhulma[2X][X]
 
 #0x2FC
-[_E][_t][_e][_r][_n][_a][_l] [_S][_w][_o][_r][_d][X]
+[_E][_t][_e][_r][_n][_a][_l] [_S][_w][_o][_r][_d][2X][X]
 
 #0x310
-Garm[X]
+Garm[2X][X]
 
 #0x31D
-Nighogg[X]
+Nighogg[2X][X]
 
 #0x2FF
-Hea[_v][_y] Spear[X]
+Hea[_v][_y] Spear[2X][X]
 
 #0x300
-Short Spear[X]
+Short Spear[2X][X]
 
 #0x37D
-Ocean Seal[X]
+Ocean Seal[2X][X]
 
 #0x2EF
-Wind Sword[X]
+Wind Sword[2X][X]
 
 #0x334
-Bolting[X]
+Bolting[2X][X]
 
 #0x346
-Flame Lance[X]
+Flame Lance[2X][X]
 
 #0x333
-Aircalibur[X]
+Aircalibur[2X][X]
 
 #0x8A
-Blazing Bld[X]
+Blazing Bld[2X][X]
 
 #0x8B
-Armads[X]
+Armads[2X][X]
 
 #0x84
-Arrowspate[X]
+Arrowspate[2X][X]
 
 #0x63C
-Thunderbolt[X]
+Thunderbolt[2X][X]
 
 #0x82
-Pachyderm[X]
+Pachyderm[2X][X]
 
 #0x945
-Levin Sword[X]
+Levin Sword[2X][X]
 
 #0x7F
-Binding Bld[X]
+Binding Bld[2X][X]
 
 #0x3AB
-Alondite[X]
+Alondite[2X][X]
 
 #0x6C
-Wind[X]
+Wind[2X][X]
 
 #0x86
-Skill Manual[X]
+Skill Manual[2X][X]
 
 #0x924
-Sleep Sword[X]
+Sleep Sword[2X][X]
 
 #0x7D
-[_L][_e][_a]t[_h][_e][_r] [_S][_h]i[_e]l[_d][X]
+[_L][_e][_a]t[_h][_e][_r] [_S][_h]i[_e]l[_d][2X][X]
 
 #0x76
-Iron Shield[X]
+Iron Shield[2X][X]
 
 #0x53
-Steel S[_h]iel[_d][X]
+Steel S[_h]iel[_d][2X][X]
 
 #0x7C
-Sil[_v]e[_r] S[_h]iel[_d][X]
+Sil[_v]e[_r] S[_h]iel[_d][2X][X]
 
 #0x81
-Spellshield[X]
+Spellshield[2X][X]
 
 #0x69
-P[_r][_a][_y][_e][_r] Am[_u]l[_e]t[X]
+P[_r][_a][_y][_e][_r] Am[_u]l[_e]t[2X][X]
 
 #0xB7
-Iron Rain[X]
+Iron Rain[2X][X]
 
 #0xD12
-D[_r][_a][_g][_o][_n] S[_h]iel[_d][X]
+D[_r][_a][_g][_o][_n] S[_h]iel[_d][2X][X]
 
 #0x59C
-Noble Rapier[X]
+Noble Rapier[2X][X]
 
 #0xAD
-Clear Skill[X]
+Clear Skill[2X][X]
 
 #0x87
-Cmd Manual[X]
+Cmd Manual[2X][X]
 
 #0x85
-Stonehoist[X]
+Stonehoist[2X][X]
 
 #0x6AE
-M[_a][_s]t[_e][_r] [_S]w[_o][_r][_d][X]
+M[_a][_s]t[_e][_r] [_S]w[_o][_r][_d][2X][X]
 
 #0xB5
-Luna[X]
+Luna[2X][X]
 
 #0x6EA
-M[_a]st[_e][_r][_y] Ri[_n]g[X]
+M[_a]st[_e][_r][_y] Ri[_n]g[2X][X]
 
 #0x344
-Stone[X]
+Stone[2X][X]
 
 #0x2FB
-Wing Spear[X]
+Wing Spear[2X][X]
 
 #0xE2A
-Shieldsword[X]
+Shieldsword[2X][X]
 
 #0x4F
-Light Rune[X]
+Light Rune[2X][X]
 
 #0x358
-Latona[X]
+Latona[2X][X]
 
 #0x31E
-Wretched Air[X]
+Wretched Air[2X][X]
 
 #0x380
-1G[X]
+1G[2X][X]
 
 #0x381
-5G[X]
+5G[2X][X]
 
 #0x382
-10G[X]
+10G[2X][X]
 
 #0x383
-50G[X]
+50G[2X][X]
 
 #0x384
-100G[X]
+100G[2X][X]
 
 #0x385
-150G[X]
+150G[2X][X]
 
 #0x386
-200G[X]
+200G[2X][X]
 
 #0x387
-3000G[X]
+3000G[2X][X]
 
 #0x388
-5000G[X]
+5000G[2X][X]
 
 #0x31F
-Dragonstone[X]
+Dragonstone[2X][X]
 
 #0x325
-Rotten Claw[X]
+Rotten Claw[2X][X]
 
 #0x326
-Fetid Claw[X]
+Fetid Claw[2X][X]
 
 #0x327
-Poison Claw[X]
+Poison Claw[2X][X]
 
 #0x328
-Lethal Claw[X]
+Lethal Claw[2X][X]
 
 #0x329
-Fiery Fang[X]
+Fiery Fang[2X][X]
 
 #0x32A
-Hellfang[X]
+Hellfang[2X][X]
 
 #0x375
-Black Gem[X]
+Black Gem[2X][X]
 
 #0x374
-Gold Gem[X]
+Gold Gem[2X][X]
 
 #0x4E
-Mine[X]
+Mine[2X][X]
 
 #0x324
-Deadly Claw[X]
+Deadly Claw[2X][X]
 
 #0xE64
-Sludge Bomb[X]
+Sludge Bomb[2X][X]
 
 #0xF00
-Vorpal Shield[X]
+Vorpal Shield[2X][X]
 
 #0x359
-Dance[X]
+Dance[2X][X]
 
 #0x347
-Firestorm[X]
+Firestorm[2X][X]
 
 #0x348
-Fenrir[X]
+Fenrir[2X][X]
 
 #0xDFE
-Anemone[X]
+Anemone[2X][X]
 
 #0xF3F
-[_D][_i][_m][_e][_n][_s][_i][_o][_n] [_B][_l][_a][_d][_e][X]
+[_D][_i][_m][_e][_n][_s][_i][_o][_n] [_B][_l][_a][_d][_e][2X][X]
 
 #0xBC
-Phoe[_n]i[_x] Vi[_a]l[X]
+Phoe[_n]i[_x] Vi[_a]l[2X][X]
 
 #0x37E
-Life Ring[X]
+Life Ring[2X][X]
 
 #0xF6B
-Ryusei[X]
+Ryusei[2X][X]

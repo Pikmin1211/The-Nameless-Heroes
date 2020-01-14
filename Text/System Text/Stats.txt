@@ -1,530 +1,530 @@
 #0x01 AffinityTexts
-Fi[X]
+Fi[2X][X]
 
 #0x02
-Th[X]
+Th[2X][X]
 
 #0x03
-Wn[X]
+Wn[2X][X]
 
 #0x04
-Ic[X]
+Ic[2X][X]
 
 #0x05
-Dr[X]
+Dr[2X][X]
 
 #0x06
-Li[X]
+Li[2X][X]
 
 #0x07
-An[X]
+An[2X][X]
 
 #0x5D9 dodgetext
-Ddg[X]
+Ddg[2X][X]
 
 #0x6D leadershipstarstxt
-Ldr[X]
+Ldr[2X][X]
 
 #0x64A dodgedescription
 Ability to avoid critical[N]
-hits. Affected by luck.[X]
+hits. Affected by luck.[2X][X]
 
 #0x6E leadershipstarsdesc
 Leadership ability. Your army's[N]
-power increases with each star.[X]
+power increases with each star.[2X][X]
 
 #0x78 skillstext
-Skills[X]
+Skills[2X][X]
 
 #0x800
-Weapon Rank[X]
+Weapon Rank[2X][X]
 
 #0x494
-Sword[X]
+Sword[2X][X]
 
 #0x495
-Lance[X]
+Lance[2X][X]
 
 #0x496
-Axe[X]
+Axe[2X][X]
 
 #0x497
-Bow[X]
+Bow[2X][X]
 
 #0x498
-Staff[X]
+Staff[2X][X]
 
 #0x499
-Fire[X]
+Fire[2X][X]
 
 #0x49A
-Thunder[X]
+Thunder[2X][X]
 
 #0x49B
-Wind[X]
+Wind[2X][X]
 
 #0x49C
-Ice[X]
+Ice[2X][X]
 
 #0x49D
-Anima[X]
+Anima[2X][X]
 
 #0x49E
-Light[X]
+Light[2X][X]
 
 #0x49F
-Dark[X]
+Dark[2X][X]
 
 #0x4A2
-Breath[X]
+Breath[2X][X]
 
 #0x18C
-Current[X]
+Current[2X][X]
 
 #0x18D
-Record[X]
+Record[2X][X]
 
 #0x46D
-Fire[X]
+Fire[2X][X]
 
 #0x46E
-Thunder[X]
+Thunder[2X][X]
 
 #0x46F
-Wind[X]
+Wind[2X][X]
 
 #0x470
-Ice[X]
+Ice[2X][X]
 
 #0x471
-Dark[X]
+Dark[2X][X]
 
 #0x472
-Light[X]
+Light[2X][X]
 
 #0x473
-Anima[X]
+Anima[2X][X]
 
 #0x474
-Name[X]
+Name[2X][X]
 
 #0x475
-Class[X]
+Class[2X][X]
 
 #0x476
-Lv[X]
+Lv[2X][X]
 
 #0x477
-Exp[X]
+Exp[2X][X]
 
 #0x478
-HP[X]
+HP[2X][X]
 
 #0x479
-Max[X]
+Max[2X][X]
 
 #0x47A
-S/M[X]
+S/M[2X][X]
 
 #0x47B
-Skl[X]
+Skl[2X][X]
 
 #0x47C
-Spd[X]
+Spd[2X][X]
 
 #0x47D
-Luk[X]
+Luk[2X][X]
 
 #0x47E
-Def[X]
+Def[2X][X]
 
 #0x47F
-Res[X]
+Res[2X][X]
 
 #0x480
-Affin[X]
+Affin[2X][X]
 
 #0x481
-Equip[X]
+Equip[2X][X]
 
 #0x482
-Atk[X]
+Atk[2X][X]
 
 #0x483
-Hit[X]
+Hit[2X][X]
 
 #0x484 Avid
-Avo[X]
+Avo[2X][X]
 
 #0x485
-Move[X]
+Move[2X][X]
 
 #0x486
-Con[X]
+Con[2X][X]
 
 #0x487
-Aid[X]
+Aid[2X][X]
 
 #0x488
-Trv[X]
+Trv[2X][X]
 
 #0x489
-Cond[X]
+Cond[2X][X]
 
 #0x48A
-Ally[X]
+Ally[2X][X]
 
 #0x48B
-Anim[X]
+Anim[2X][X]
 
 #0x48C
-Sort:[X]
+Sort:[2X][X]
 
 #0x48D
-Str[X]
+Str[2X][X]
 
 #0x48E
-Mag[X]
+Mag[2X][X]
 
 #0x48F
-Rng[X]
+Rng[2X][X]
 
 #0x490
-Crit[X]
+Crit[2X][X]
 
 #0x491
-Wt[X]
+Wt[2X][X]
 
 #0x492
-Mt[X]
+Mt[2X][X]
 
 #0x493
-AS[X]
+AS[2X][X]
 
 #0x4A3
-Poison[X]
+Poison[2X][X]
 
 #0x4A4
-Sleep[X]
+Sleep[2X][X]
 
 #0x4A5
-Silence[X]
+Silence[2X][X]
 
 #0x4A6
-Berserk[X]
+Berserk[2X][X]
 
 #0x4A7
-Sick[X]
+Sick[2X][X]
 
 #0x4A8
-Recovr[X]
+Recovr[2X][X]
 
 #0x4A9
-Petrify[X]
+Petrify[2X][X]
 
 #0x4AA
-Attack[X]
+Attack[2X][X]
 
 #0x4AB
-Defend[X]
+Defend[2X][X]
 
 #0x4AC
-Critical[X]
+Critical[2X][X]
 
 #0x4AD
-Dodge[X]
+Dodge[2X][X]
 
 #0x4B6
-Total[X]
+Total[2X][X]
 
 #0x4C0
-Purpose:[X]
+Purpose:[2X][X]
 
 #0x4C1
-Total[X]
+Total[2X][X]
 
 #0x4C2
-Assets[X]
+Assets[2X][X]
 
 #0x4C3
-Play[X]
+Play[2X][X]
 
 #0x4CB
-Are you sure?[X]
+Are you sure?[2X][X]
 
 #0x4CC Fights
-B[X]
+B[2X][X]
 
 #0x4CD Wins
-W[X]
+W[2X][X]
 
 #0x4CE Losses
-L[X]
+L[2X][X]
 
 #0x4CF
-Total[X]
+Total[2X][X]
 
 #0x4D0
-Assets[X]
+Assets[2X][X]
 
 #0x4D1
-Time[X]
+Time[2X][X]
 
 #0x4D2
-Total[X]
+Total[2X][X]
 
 #0x4D3
-Normal[X]
+Normal[2X][X]
 
 #0x4D4
-Hard[X]
+Hard[2X][X]
 
 #0x4D5
-Complete[X]
+Complete[2X][X]
 
 #0x4D6
-Total[X]
+Total[2X][X]
 
 #0x4D7
 Unit level. The unit becomes[N]
-stronger as it gains levels.[X]
+stronger as it gains levels.[2X][X]
 
 #0x4D8
 Experience points gained. Gain[N]
-100 points to earn a new level.[X]
+100 points to earn a new level.[2X][X]
 
 #0x4D9
 Unit hit points. The unit loses[N]
-consciousness if this reaches 0.[X]
+consciousness if this reaches 0.[2X][X]
 
 #0x4DA
-Weapon name and type.[X]
+Weapon name and type.[2X][X]
 
 #0x4DB
 Strength. A higher number means[N]
-more damage with physical weapons.[X]
+more damage with physical weapons.[2X][X]
 
 #0x4DC
 Magical power. Equates to higher[N]
-power using magical weapons and staves.[X]
+power using magical weapons and staves.[2X][X]
 
 #0x4DD
 Fighting skill. A higher[N]
-number improves the unit's hit.[X]
+number improves the unit's hit.[2X][X]
 
 #0x4DE
 Speed. This affects both[N]
-evasion and attacks.[X]
+evasion and attacks.[2X][X]
 
 #0x4DF
 Luck. This affects many[N]
-different things.[X]
+different things.[2X][X]
 
 #0x4E0
 Defensive skill. Reduces[N]
-damage from weapons.[X]
+damage from weapons.[2X][X]
 
 #0x4E1
 Magical resistance. Reduces[N]
-damage from magic attacks.[X]
+damage from magic attacks.[2X][X]
 
 #0x4E2
 Movement. The normal distance[N]
-you can cross in 1 turn.[X]
+you can cross in 1 turn.[2X][X]
 
 #0x4E3
 Constitution, or physical size.[N]
-Affects rescues.[X]
+Affects rescues.[2X][X]
 
 #0x4E4
 Max rescuing constitution. Units[N]
-with lower Cons can be rescued.[X]
+with lower Cons can be rescued.[2X][X]
 
 #0x4E5
 Traveler. The name of the unit[N]
-with whom this unit is traveling.[X]
+with whom this unit is traveling.[2X][X]
 
 #0x4E6
 Elemental affinity. Determines[N]
-compatibility with other units.[X]
+compatibility with other units.[2X][X]
 
 #0x4E7
 Normal.[N]
-Feeling healthy.[X]
+Feeling healthy.[2X][X]
 
 #0x4E8
 Ooooog...[N]
-Poison slowly steals HP.[X]
+Poison slowly steals HP.[2X][X]
 
 #0x4E9
 Zzzz... Zzzzz...[N]
-Sleeping now... Can't move...[X]
+Sleeping now... Can't move...[2X][X]
 
 #0x4EA
 Rarrrrr! Attack the nearest[N]
-unit, be it friend or foe![X]
+unit, be it friend or foe![2X][X]
 
 #0x4EB
 ......[N]
-Magic and staves are unusable.[X]
+Magic and staves are unusable.[2X][X]
 
 #0x4EC
 Craaack! Turned...to...[N]
-stone. Can't...move![X]
+stone. Can't...move![2X][X]
 
 #0x4ED
 Attack increased[N]
-by 10 points.[X]
+by 10 points.[2X][X]
 
 #0x4EE
 Defense and resistance[N]
-increased by 10 points.[X]
+increased by 10 points.[2X][X]
 
 #0x4EF
 Critical hit rate[N]
-increased by 10 points.[X]
+increased by 10 points.[2X][X]
 
 #0x4F0
 Avoid increased[N]
-by 10 points.[X]
+by 10 points.[2X][X]
 
 #0x4F1
 Amount of damage this weapon[N]
-causes. Affected by defenses.[X]
+causes. Affected by defenses.[2X][X]
 
 #0x4F2
 Chance that the attack will hit.[N]
-Affected by terrain and enemies.[X]
+Affected by terrain and enemies.[2X][X]
 
 #0x4F3
 Weapon Range. A range of 1[N]
-can only hit adjacent spaces.[X]
+can only hit adjacent spaces.[2X][X]
 
 #0x4F4
 Chance the weapon will strike a[N]
-critical blow, doing triple damage.[X]
+critical blow, doing triple damage.[2X][X]
 
 #0x4F5
 Ability to dodge enemy attacks.[N]
-Affects enemy's hit.[X]
+Affects enemy's hit.[2X][X]
 
 #0x4F6
-Sword mastery level.[X]
+Sword mastery level.[2X][X]
 
 #0x4F7
-Lance mastery level.[X]
+Lance mastery level.[2X][X]
 
 #0x4F8
-Axe mastery level.[X]
+Axe mastery level.[2X][X]
 
 #0x4F9
-Bow mastery level.[X]
+Bow mastery level.[2X][X]
 
 #0x4FA
-Anima mastery level.[X]
+Anima mastery level.[2X][X]
 
 #0x4FB
-Light mastery level.[X]
+Light mastery level.[2X][X]
 
 #0x4FC
-Dark mastery level.[X]
+Dark mastery level.[2X][X]
 
 #0x4FD
-Staff mastery level.[X]
+Staff mastery level.[2X][X]
 
 #0x4FE
 Strengthen the bond[N]
-between units by talking.[X]
+between units by talking.[2X][X]
 
 #0x4FF
 The name of the unit[N]
-to whom you can talk.[X]
+to whom you can talk.[2X][X]
 
 #0x500
-Weapon or magic in use.[X]
+Weapon or magic in use.[2X][X]
 
 #0x501
 Weapon or magic in use.[N]
-Does more damage than normal.[X]
+Does more damage than normal.[2X][X]
 
 #0x502
 Wielder and weapon are well[N]
-suited. Hit and power increase.[X]
+suited. Hit and power increase.[2X][X]
 
 #0x503
 Wielder and weapon are well[N]
-suited. Hit and dmg increase.[X]
+suited. Hit and dmg increase.[2X][X]
 
 #0x504
 Wielder and weapon are ill[N]
-suited. Hit and power decrease.[X]
+suited. Hit and power decrease.[2X][X]
 
 #0x505
 Wielder and weapon are ill[N]
-suited. Hit and power decrease.[X]
+suited. Hit and power decrease.[2X][X]
 
 #0x506
 Damage this weapon will do.[N]
-x2: two attacks, x4: four.[X]
+x2: two attacks, x4: four.[2X][X]
 
 #0x507
 Attack Speed.[N]
-Determines number of attacks.[X]
+Determines number of attacks.[2X][X]
 
 #0x508
 Defense.[N]
-Decreases damage from attacks.[X]
+Decreases damage from attacks.[2X][X]
 
 #0x4B9
-  E[X]
+  E[2X][X]
 
 #0x4BA
-  D[X]
+  D[2X][X]
 
 #0x4BB
-  C[X]
+  C[2X][X]
 
 #0x4BC
-  B[X]
+  B[2X][X]
 
 #0x4BD
-  A[X]
+  A[2X][X]
 
 #0x4BE
-  S[X]
+  S[2X][X]
 
 #0x4BF
-Prf[X]
+Prf[2X][X]
 
 #0x74
-[Star][X]
+[Star][2X][X]
 
 #0x4AF
-  1[X]
+  1[2X][X]
 
 #0x4B0
-1-2[X]
+1-2[2X][X]
 
 #0x4B1
-1-3[X]
+1-3[2X][X]
 
 #0x4B2
-  2[X]
+  2[2X][X]
 
 #0x4B3
-2-3[X]
+2-3[2X][X]
 
 #0x4B4
-3-10[X]
+3-10[2X][X]
 
 #0x4B5
-3-15[X]
+3-15[2X][X]
 
 #0x4AE
-RNK[X]
+RNK[2X][X]
 
 #0x4B7
-- -[X]
+- -[2X][X]
 
 #0x4B8
--[X]
+-[2X][X]
