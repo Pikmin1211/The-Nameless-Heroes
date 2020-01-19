@@ -518,8 +518,9 @@ brigands Lv. 10 and up.[2X][X]
 Turns targets to stone for a while.[2X][X]
 
 #0x68
-Removes any skills learned via[N]
-manuals, and returns the manual.[2X][X]
+Returns skills[N]
+learned via manuals[N]
+to manuals.[2X][X]
 
 #0x8DF
 A dance that increases an[N]

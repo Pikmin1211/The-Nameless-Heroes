@@ -1,0 +1,83 @@
+#0x7E4
+Your inventory is full. Select an item to discard.[2X][X]
+
+#0x7E5
+Your inventory is full. Send an item to Supply.[2X][X]
+
+#0x7E6
+Select a unit to rescue.[2X][X]
+
+#0x7E7
+Select which space to drop the unit into.[2X][X]
+
+#0x7E8
+Select a unit to receive the traveler.[2X][X]
+
+#0x7E9
+Select a unit to give the traveler to.[2X][X]
+
+#0x7EA
+Select which unit to trade with.[2X][X]
+
+#0x7EB
+Select which unit to steal from.[2X][X]
+
+#0x7EC
+Select a unit to use the staff on.[2X][X]
+
+#0x7ED
+Select which unit to speak to.[2X][X]
+
+#0x7EE
+Select a unit to refresh.[2X][X]
+
+#0x7EF
+Select a warp point.[2X][X]
+
+#0x7F0 PrepScreenMoveUnitsScroll
+Reorder your units.[2X][X]
+
+#0x7F1
+Select a weapon to attack with.[2X][X]
+
+#0x7F2
+Select a character to restore HP to.[2X][X]
+
+#0x7F3
+Select a character to warp.[2X][X]
+
+#0x7F4
+Select which character to bring next to you.[2X][X]
+
+#0x7F5
+Select a character to restore to normal.[2X][X]
+
+#0x7F6
+Select the character whose weapon needs repair.[2X][X]
+
+#0x7F7
+Select which character's resistance to bolster.[2X][X]
+
+#0x7F8
+Select a door to open.[2X][X]
+
+#0x7F9
+Select a unit to use the staff on.[2X][X]
+
+#0x7FA
+Select an area to light up.[2X][X]
+
+#0x7FB LightRuneMineScrollText
+Select an area to trap.[2X][X]
+
+#0x7FC
+Select an area to trap.[2X][X]
+
+#0x7FD
+Select a character to bless.[2X][X]
+
+#0x7FE
+Select which space to summon into.[2X][X]
+
+#0x7FF
+Select which space to use picks on.[2X][X]

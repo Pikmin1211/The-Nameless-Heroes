@@ -1,0 +1,56 @@
+#0x603
+Manage Items[X]
+
+#0x607
+Manage Items[X]
+
+#0x522 ManageItemsSell
+Sell[2X][X]
+
+#0x526 ManageItemsSellText
+Sell?[2X][X]
+
+#0x527 ManageItemsSellOption
+Sell     Quit[2X][X]
+
+#0x5DE ManageItemsSellDesc
+Sell unwanted items.[2X][X]
+
+#0x528 ManageItemsSellValue
+Value[2X][X]
+
+#0x54E
+Arrange your army.[2X][X]
+
+#0x600
+Enter Armory[2X][X]
+
+#0x601
+Enter Shop[2X][X]
+
+#0x602
+Enter ? Shop[2X][X]
+
+#0x603
+Manage Items[2X][X]
+
+#0x604
+Enter Armory[2X][X]
+
+#0x605
+Enter Shop[2X][X]
+
+#0x606
+Enter ? Shop[2X][X]
+
+#0x607
+Manage Items[2X][X]
+
+#0x608
+The party's next destination.[2X][X]
+
+#0x609
+The current number of units.[2X][X]
+
+#0x60A
+Manage your party's items.[2X][X]

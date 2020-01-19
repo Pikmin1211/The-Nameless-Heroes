@@ -79,8 +79,8 @@ You can't fight, so you[N]
 can't enter the arena.[2X][X]
 
 #0x7D3
-Weapons, magic, and[N]
-staves can't be stolen.[2X][X]
+Equipped weapons[N]
+can't be stolen.[2X][X]
 
 #0x7D4
 There's nothing to repair.[2X][X]
@@ -130,134 +130,44 @@ Item cannot be repaired.[2X][X]
 Your supply convoy is full.[N]
 Select an item to discard.[2X][X]
 
-#0x7E4
-Your inventory is full. Select an item to discard.[2X][X]
-
-#0x7E5
-Your inventory is full. Send an item to Supply.[2X][X]
-
-#0x7E6
-Select a unit to rescue.[2X][X]
-
-#0x7E7
-Select which space to drop the unit into.[2X][X]
-
-#0x7E8
-Select a unit to receive the traveler.[2X][X]
-
-#0x7E9
-Select a unit to give the traveler to.[2X][X]
-
-#0x7EA
-Select which unit to trade with.[2X][X]
-
-#0x7EB
-Select which unit to steal from.[2X][X]
-
-#0x7EC
-Select a unit to use the staff on.[2X][X]
-
-#0x7ED
-Select which unit to speak to.[2X][X]
-
-#0x7EE
-Select a unit to refresh.[2X][X]
-
-#0x7EF
-Select a warp point.[2X][X]
-
-#0x7F0
-Reorder your units.[2X][X]
-
-#0x7F1
-Select a weapon to attack with.[2X][X]
-
-#0x7F2
-Select a character to restore HP to.[2X][X]
-
-#0x7F3
-Select a character to warp.[2X][X]
-
-#0x7F4
-Select which character to bring next to you.[2X][X]
-
-#0x7F5
-Select a character to restore to normal.[2X][X]
-
-#0x7F6
-Select the character whose weapon needs repair.[2X][X]
-
-#0x7F7
-Select which character's resistance to bolster.[2X][X]
-
-#0x7F8
-Select a door to open.[2X][X]
-
-#0x7F9
-Select a unit to use the staff on.[2X][X]
-
-#0x7FA
-Select an area to light up.[2X][X]
-
-#0x7FB
-Select an area to trap.[2X][X]
-
-#0x7FC
-Select an area to trap.[2X][X]
-
-#0x7FD
-Select a character to bless.[2X][X]
-
-#0x7FE
-Select which space to summon into.[2X][X]
-
-#0x7FF
-Select which space to use picks on.[2X][X]
-
 #0x801
  increased.[2X][X]
 
-#0x802
- broke![2X][X]
+#0x802 ItemBroke
+broke![2X][X]
 
-#0x803
- is gone.[2X][X]
+#0x804 ObtainGold
+[_G] [_o][_b][_t][_a][_i][_n][_e][_d].[2X][X]
 
-#0x804 got
-obtained[2X][X]
+#0x805 ObtainItem
+obtained.[2X][X]
 
-#0x805 got2
-obtained[2X][X]
+#0x806 PlayerSteal
+stolen.[2X][X]
 
-#0x806
-stolen[2X][X]
+#0x807 GoldStolen
+G was stolen.[2X][X]
 
-#0x807
- gold.[2X][X]
+#0x808 ChestStolen
+was pilfered.[2X][X]
 
-#0x808
- was pilfered.[2X][X]
-
-#0x809
- gold was stolen.[2X][X]
+#0x809 ItemStolen
+was stolen.[2X][X]
 
 #0x80A
 Support level increased.[2X][X]
 
-#0x80B
+#0x80B PromotionWeaponRankGain
  can now be used.[2X][X]
-
-#0x80C
- sent[2X][X]
 
 #0x80D
 You can now use [2X][X]
 
 #0x80E
-Dropped [2X][X]
+ dropped.[2X][X]
 
-#0x80F
- sent[2X][X]
+#0x80F ItemSentText
+sent[2X][X]
 
 #0x810
 Strength increased.[2X][X]
@@ -298,50 +208,11 @@ Disabled trap.[2X][X]
 #0x81C
 Recovered mine.[2X][X]
 
-#0x81D
-Skill learned.[2X][X]
+#0x81D SkillManualPopup
+ Skill learned.[2X][X]
 
-#0x81E
-Skill learned.[2X][X]
+#0xF60
+ Skill returned.[2X][X]
 
-#0x82C
-Already used[2X][X]
-
-#0x82D
-Inventory full[2X][X]
-
-#0x6F2
-Exchange items[N]
-between units.[2X][X]
-
-#0x6F4
-This unit cannot take part[N]
-in this chapter.[2X][X]
-
-#0x6F6
-Please select the person you want to exchange items with.[2X][X]
-
-#0x6F7
-Sell your unneeded items.[N]
-Important items cannot be sold.[2X][X]
-
-#0x6F8
-Transfer items to and[N]
-from storage.[2X][X]
-
-#0x6F9
-Display all units' items.[2X][X]
-
-#0x6FA
-Buy and sell items.[2X][X]
-
-#0x6FD
-You can not sort this unit.[2X][X]
-
-#0x6FF
-Unit must be[N]
-deployed this chapter.[2X][X]
-
-#0x700
-Unit cannot be[N]
-deployed this chapter.[2X][X]
+#0x6E2
+The village was destroyed.[2X][X]

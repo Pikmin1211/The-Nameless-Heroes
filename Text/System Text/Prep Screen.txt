@@ -1,222 +1,174 @@
-#0x509
+#0x509 PrepScreenPickUnits
 Pick Units[2X][X]
 
-#0x50A
-Fortune[2X][X]
-
-#0x50B
-Items[2X][X]
-
-#0x50C
-Check Map[2X][X]
-
-#0x50D
-Save[2X][X]
-
-#0x50E
-Select[2X][X]
-
-#0x50F
-Character[2X][X]
-
-#0x510 War
-Evaluation[2X][X]
-
-#0x511 Martial_Arts
-Evaluation[2X][X]
-
-#0x512 Capture_Fortune_Telling
-Capture[2X][X]
-
-#0x513
-Support[2X][X]
-
-#0x514
-Fortune[2X][X]
-
-#0x515 CaptureAssesment
-Capture[2X][X]
-
-#0x516 SurvivalEvaluation
-Survival[2X][X]
-
-#0x517 AssetEvalutation
-Assets[2X][X]
-
-#0x518 ExperienceEvalutaion
-EXP[2X][X]
-
-#0x519 BattleEvaluation
-Combat[2X][X]
-
-#0x51A PurposeEvaluation
-Goals[2X][X]
-
-#0x51B
-View Map[2X][X]
-
-#0x51C
-Formation[2X][X]
-
-#0x51D
-Options[2X][X]
-
-#0x51E
-Debug[2X][X]
-
-#0x51F
-Trade[2X][X]
-
-#0x520
-List[2X][X]
-
-#0x521
-Use[2X][X]
-
-#0x522
-Sell[2X][X]
-
-#0x523
-Supply[2X][X]
-
-#0x524
-Shop[2X][X]
-
-#0x525
-Dump[2X][X]
-
-#0x526
-Sell?[2X][X]
-
-#0x527
-Sell     Quit[2X][X]
-
-#0x528
-Value[2X][X]
-
-#0x529
-Give[2X][X]
-
-#0x52A
-Take[2X][X]
-
-#0x52B
-Bag[2X][X]
-
-#0x52C
-Pick[2X][X]
-
-#0x52D
-Units Left[2X][X]
-
-#0x5DE
-Sell unwanted items.[2X][X]
-
-#0x52F
-Are you sure?[2X][X]
-
-#0x530
-What'll you do?[2X][X]
-
-#0x531
-I'll take it.[2X][X]
-
-#0x532
-Here you go![2X][X]
-
-#0x533
-Nothing[2X][X]
-
-#0x534
-Owner:[2X][X]
-
-#0x535
-Done[2X][X]
-
-#0x536
-Left[2X][X]
-
-#0x537
-x[2X][X]
-
-#0x538
-Choose unit[2X][X]
-
-#0x539
+#0x539 PrepScreenPickUnitsDesc
 Select which units to[N]
 field this battle. The[N]
 number is restricted.[2X][X]
 
-#0x53A
+#0x50B PrepScreenItems
+Items[2X][X]
+
+#0x53A PrepScreenItemsDesc
 Manage your units'[N]
 items. Item names[N]
 that appear in gray[N]
 cannot be used by[N]
 that unit.[2X][X]
 
-#0x53B
-Manage your units' items.[2X][X]
+#0x53B PrepScreenItemsDesc2
+Manage your units'[N]
+items. Item names[N]
+that appear in gray[N]
+cannot be used by[N]
+that unit.[2X][X]
 
-#0x53C
-This command cannot be[N]
-used at this time.[2X][X]
+#0x513 PrepScreenSupport
+Support[2X][X]
 
-#0x53D
-Valuable battle[N]
-information can be[N]
-viewed here, as well[N]
-as tactician data.[2X][X]
+#0x54C PrepScreenSupportDesc
+View support[N]
+relationships[N]
+between units.[2X][X]
 
-#0x53E
+#0x50C PrepScreenCheckMap
+Check Map[2X][X]
+
+#0x53E PrepScreenCheckMapDesc
 View the map. Check[N]
 the number and type of[N]
 enemies. Also, check for[N]
 shops and change your[N]
 allies' starting positions.[2X][X]
 
-#0x53F
+#0x50D PrepScreenSave
+Save[2X][X]
+
+#0x53F PrepScreenSaveDesc
 Save any changes.[N]
 Choose Restart Chapter[N]
-to restart this chapter.[N]
-You can't return to the[N]
-world map after saving.[2X][X]
+to restart this chapter.[2X][X]
 
-#0x540
+#0x53C PrepScreenCannotUse
+This command cannot be[N]
+used at this time.[2X][X]
+
+#0x52C PickUnits1
+[_P][_i][_c][_k][2X][X]
+
+#0x52D PickUnits2
+ Units Left[2X][X]
+
+#0x6F4 CannotUseUnit
+This unit cannot take part[N]
+in this chapter.[2X][X]
+
+#0x50E PrepItemsSelectCharacter1
+Select[2X][X]
+
+#0x50F PrepItemsSelectCharacter2
+character[2X][X]
+
+#0x51F PrepItemsTrade
+Trade[2X][X]
+
+#0x540 PrepItemsDesc
 Exchange items[N]
 between units.[2X][X]
 
-#0x541
+#0x520 PrepItemsList
+List[2X][X]
+
+#0x544 PrepItemsListDesc
+Item display list.[2X][X]
+
+#0x534 PrepItemsListOwner
+Owner:[2X][X]
+
+#0x521 PrepItemsUse
+Use[2X][X]
+
+#0x541 PrepItemsUseDesc
 Use items.[2X][X]
 
-#0x542
+#0x52F PrepItemsUseConfirm
+Are you sure?[2X][X]
+
+#0x525 PrepItemsGiveAll
+[_G][_i][_v][_e] [_A][_l][_l][2X][X]
+
+#0x546 PrepItemsGiveAllDesc
+Place all items in storage.[2X][X]
+
+#0x523 PrepItemsSupply
+Supply[2X][X]
+
+#0x542 PrepItemsSupplyDesc
 Send items[N]
 to convoy.[2X][X]
 
-#0x543
-Buy and sell[N]
-items in the shop.[2X][X]
+#0x529 PrepItemsSupplyGive
+Give[2X][X]
 
-#0x544
-Item display list.[2X][X]
-
-#0x545
-Sell unwanted items.[N]
-Important items[N]
-cannot be sold.[2X][X]
-
-#0x546
-Place all items in storage.[2X][X]
-
-#0x547
+#0x547 PrepItemsSupplyGiveDesc
 Put items in storage. Up to[N]
 100 items can be put in storage.[2X][X]
 
-#0x548
+#0x52A PrepItemsSupplyTake
+Take[2X][X]
+
+#0x548 PrepItemsSupplyTakeDesc
 Receive item.[N]
 A unit can carry up to 5 items.[2X][X]
 
-#0x54E
-Arrange your army.[2X][X]
+#0x52B SupplyStock
+[_S][_t][_o][_c][_k][2X][X]
+
+#0x530 SupplyIntro
+What'll you do?[2X][X]
+
+#0x531 SupplyGive
+I'll take it.[2X][X]
+
+#0x532 SupplyTake
+Here you go![2X][X]
+
+#0x533 SupplyEmpty
+Nothing[2X][X]
+
+#0x524 PrepScreenArmory
+[_A][_r][_m][_o][_r][_y][2X][X]
+
+#0x543 PrepScreenArmoryDesc
+Buy and sell[N]
+items in the shop.[2X][X]
+
+
+
+
+#0x538 SupportScreenBottomText
+Choose unit[2X][X]
+
+#0x535 SupportMusicRoomCompletion
+Done[2X][X]
+
+#0x536 SupportScreenCount1
+Left[2X][X]
+
+#0x537 SupportScreenCount2
+x[2X][X]
+
+
+
+
+#0x51B CheckMapViewMap
+View Map[2X][X]
+
+#0x54D CheckMapViewMapDesc
+View the map.[2X][X]
+
+#0x51D CheckMapOptions
+Options[2X][X]
 
 #0x54F
 Set game and[N]
@@ -225,59 +177,3 @@ window speeds.[2X][X]
 #0x550
 Save the current[N]
 state of your army.[2X][X]
-
-#0x551
-Start battle.[2X][X]
-
-#0x600
-Enter Armory[2X][X]
-
-#0x601
-Enter Shop[2X][X]
-
-#0x602
-Enter ? Shop[2X][X]
-
-#0x603
-Manage Items[2X][X]
-
-#0x604
-Enter Armory[2X][X]
-
-#0x605
-Enter Shop[2X][X]
-
-#0x606
-Enter ? Shop[2X][X]
-
-#0x607
-Manage Items[2X][X]
-
-#0x608
-The party's next destination.[2X][X]
-
-#0x609
-The current number of units.[2X][X]
-
-#0x60A
-Manage your party's items.[2X][X]
-
-#0x549
-Details of the[N]
-battle thus far.[2X][X]
-
-#0x54A
-Details about the[N]
-enemy leader.[2X][X]
-
-#0x54B
-Details about the[N]
-battle to come.[2X][X]
-
-#0x54C
-View support[N]
-relationships[N]
-between units.[2X][X]
-
-#0x54D
-View the map.[2X][X]
