@@ -1,43 +1,43 @@
-#0x7BB
+#0x7BB SelectionYes
 Yes[2X][X]
 
-#0x7BC
+#0x7BC SelectionNo
 No[2X][X]
 
-#0x7BD
+#0x7BD SelectionBuy
 Buy[2X][X]
 
-#0x7BE
+#0x7BE SelectionSell
 Sell[2X][X]
 
-#0x7BF
+#0x7BF SelectionAsk
 Ask[2X][X]
 
-#0x7C0
+#0x7C0 SelectionExit
 Exit[2X][X]
 
-#0x7C1
+#0x7C1 SelectionErase
 Erase[2X][X]
 
-#0x7C2
+#0x7C2 SelectionBack
 Back[2X][X]
 
-#0x7C3
+#0x7C3 SelectionExit2
 Exit[2X][X]
 
-#0x7C4
+#0x7C4 SelectionON
 ON[2X][X]
 
-#0x7C5
+#0x7C5 SelectionOFF
 OFF[2X][X]
 
-#0x7C6
+#0x7C6 SelectionStart
 Start[2X][X]
 
-#0x7C7
+#0x7C7 SelectionHave
 Have[2X][X]
 
-#0x7C8
+#0x7C8 SelectionSave
 Save[2X][X]
 
 #0x7C9
@@ -167,7 +167,7 @@ You can now use [2X][X]
  dropped.[2X][X]
 
 #0x80F ItemSentText
-sent[2X][X]
+sent.[2X][X]
 
 #0x810
 Strength increased.[2X][X]
@@ -208,7 +208,7 @@ Disabled trap.[2X][X]
 #0x81C
 Recovered mine.[2X][X]
 
-#0x81D SkillManualPopup
+#0xF8D SkillManualPopup
  Skill learned.[2X][X]
 
 #0xF60

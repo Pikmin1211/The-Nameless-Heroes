@@ -1,0 +1,98 @@
+
+
+[MidLeft][LoadGeese][MidRight][LoadIsaac]
+
+Tell me, Geese.[AN]
+
+You're sure that[N]
+
+this is alright?[AN]
+
+
+
+[MidLeft]
+
+Oh, don't worry 'bout it.[AN]
+
+Ya've already been a big help[N]
+
+boardin' the cargo, and all that.[AN]
+
+Not much more ta go either,[N]
+
+by the looks of things at least.[AN]
+
+
+
+[MidRight]
+
+[CloseEyes]Thank god.[AN][OpenEyes]
+
+We've been moving[N]
+
+cargo all morning.[AN]
+
+Looks like the end's[N]
+
+finally in sight.[AN]
+
+
+
+[MidLeft][ToggleSmile]
+
+Gahahahaha![AN]
+
+Well, since I'm real[N]
+
+grateful for yer help,[AN]
+
+why don't we help[N]
+
+ourselves to a drink?[AN]
+
+Sound good?[AN][ToggleSmile]
+
+
+
+[MidRight]
+
+That does sounds good.[N]
+
+I'll come with you.[AN]
+
+
+
+[MidLeft]
+
+Arr, now yer talkin'![AN]
+
+On Port Russel here,[N]
+
+there's a huge tavern.[AN]
+
+They offer the finest[N]
+
+food - and booze![AN]
+
+Also, if ya come at the[N]
+
+right time o' the month,[AN]
+
+they've got some...[.....][N]
+
+entertainers, and...[AN]
+
+
+
+[FarFarLeft]
+
+Captain![N]
+
+Caaaaptain![AN]
+
+
+
+[MidLeft][Beat]
+
+Eh? Who's that?[A][2X][X]
+

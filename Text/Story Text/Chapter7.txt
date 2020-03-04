@@ -1,0 +1,1205 @@
+#0x5EA Chapter7FourDays
+Four days later...[2X][X]
+
+#0x9AE Chapter7Opening
+
+[MidLeft][LoadGeese][MidRight][LoadIsaac]
+Tell me, Geese.[AN]
+You're sure that[N]
+this is alright?[AN]
+
+[MidLeft]
+Oh, don't worry 'bout it.[AN]
+Ya've already been a big help[N]
+boardin' the cargo, and all that.[AN]
+Not much more ta go either,[N]
+by the looks of things at least.[AN]
+
+[MidRight]
+[CloseEyes]Thank god.[AN][OpenEyes]
+We've been moving[N]
+cargo all morning.[AN]
+Looks like the end's[N]
+finally in sight.[AN]
+
+[MidLeft][ToggleSmile]
+Gahahahaha![AN]
+Well, since I'm real[N]
+grateful for yer help,[AN]
+why don't we help[N]
+ourselves to a drink?[AN]
+Sound good?[AN][ToggleSmile]
+
+[MidRight]
+That does sounds good.[N]
+I'll come with you.[AN]
+
+[MidLeft]
+Arr, now yer talkin'![AN]
+On Port Russel here,[N]
+there's a huge tavern.[AN]
+They offer the finest[N]
+food - and booze![AN]
+Also, if ya come at the[N]
+right time o' the month,[AN]
+they've got some...[.....][N]
+entertainers, and...[AN]
+
+[FarFarLeft]
+Captain![N]
+Caaaaptain![AN]
+
+[MidLeft][Beat]
+Eh? Who's that?[A][2X][X]
+
+
+
+
+#0x9AF Chapter7Opening2
+
+[MidLeft][LoadPirate][MidRight][LoadGeese]
+What's the matter?[N]
+Somethin' wrong?[AN]
+
+[MidLeft]
+Ye... yes, Captain![AN]
+It seems someone[N]
+wants to see you...[AN]
+
+[MidRight]
+Lookin' fer me, huh?[AN]
+I don't remember plannin'[N]
+anything like that here...[AN]
+But even then... what's[N]
+gotten ya all shook up, lad?[AN]
+
+[MidLeft]
+W-well, if my eyes are[N]
+still workin' proper...[AN]
+I'd say that hooded one[N]
+is an Etrurian noble...[AN]
+
+[MidRight]
+...Couldn't be.[AN]
+Why would he be lookin'[N]
+fer mock pirates like us?[AN]
+Ya trying ta say he's here[N]
+to arrest us firsthand?[AN]
+
+[MidLeft]
+If that were true, I think we'd[N]
+have already been taken in...[AN]
+I'm not sure 'bout the reason,[N]
+but they're saying they want you.[AN]
+
+[MidRight]
+Alright, alright.[N]
+I'll humor 'im.[AN]
+
+[MidLeft]
+Let's go,[N]
+Captain![AN]
+This way![AN]
+
+[Clear][MidRight][Clear][MidRight][LoadIsaac][MidLeft][LoadGeese]
+Looks like I'm going[N]
+fer a bit, then.[AN]
+
+[MidRight]
+...This gives me[N]
+a bad feeling.[AN]
+
+[MidLeft]
+Hah, well, we haven't done[N]
+anythin' illegal. Not yet![AN]
+So we should be jus' fine.[N]
+You lot can take a break.[AN]
+Oh, be a pal and look[N]
+after the cargo for me.[AN]
+Wouldn't do to have it[N]
+stolen after all that, eh?[AN]
+
+[MidRight]
+Roger that.[N]
+Take care.[AN]
+
+[MidLeft]
+Alright![N]
+Thanks, mate![A][2X][X]
+
+
+
+
+#0x9B6 Chapter7Opening3
+
+[MidLeft][LoadIsaac]
+Well, nothing to do for now.[N]
+Guess I'll just watch the waves.[AN]
+[ToggleMouthMove]
+...[N]
+.....[AN]
+.......[N]
+.........[AN]
+...........[N]
+.............[AN]
+...............[N]
+.................[AN]
+...[ToggleMouthMove]This is taking too long.[AN]
+
+[FarFarLeft]
+Oi, lad! Sorry ta[N]
+keep ya waitin'![AN]
+[MidLeft][Clear][LoadGeese][MidRight][LoadIsaac]
+
+[MidRight]
+Looks like you're[N]
+still in one piece.[AN]
+
+[MidLeft]
+Haha, guess so...[N]
+Somehow, anyways...[AN]
+
+[MidRight]
+...Huh?[N]
+Anything wrong?[AN]
+
+[MidLeft]
+Hm, nah... I'm not[N]
+sure what ta say...[AN]
+I can at least say[N]
+it's kinda troublin'...[AN]
+But, I can't tell[N]
+ya in good detail.[AN]
+And, sorry, but we're[N]
+going to a Fibernian port,[AN]
+Deil, after we drop off[N]
+the cargo real quickly.[AN]
+After that, I'll take[N]
+ya to a nice tavern,[AN]
+and then yer destination.[AN]
+I'm real sorry about this.[N]
+Can you work with that?[AN]
+
+[MidRight]
+I can see it's[N]
+something important.[AN]
+You've helped[N]
+us out quite a bit.[AN]
+I don't mind if you[N]
+take the detour, Geese.[AN]
+
+[MidLeft]
+Sorry again, mate.[N]
+Thank ya so much![AN]
+I'll pay ya for[N]
+yer protection too.[AN]
+
+[MidRight]
+...Suspicious.[AN]
+
+[MidLeft]
+Oh, come on, lad![N]
+Please don't be so cautious![AN]
+We're just sailin' as usual.[AN]
+Anyway, let's make haste[N]
+and drop off the cargo.[AN]
+We put out to sea as[N]
+soon as we're all done![A][2X][X]
+
+
+
+
+#0x8D5 Chapter7Opening4
+
+[MidLeft][LoadGeese][MidRight][LoadIsaac]
+So, that Etrurian noble asked you[N]
+to escort those entertainers?[AN]
+Seems very hospitable.[AN]
+
+[MidLeft]
+Ya think?[AN]
+Well, entartainers sponsored by[N]
+nobles are usually with knights,[AN]
+for their protection.[AN]
+If some noble likes 'em,[N]
+they're treated with hospitality.[AN]
+
+[MidRight]
+Hospitable enough to come[N]
+ask you in person, right?[AN]
+
+[MidLeft]
+Ya might be[N]
+onto somthing'...[A][2X][X]
+
+
+
+
+#0x8D9 Chapter7Opening5
+
+[MidRight][LoadIsaac]
+
+[FarFarLeft]
+I feel sick...[AN]
+[ClearSpeech]
+
+[FarFarLeft]
+Are you OK?[AN]
+Should I bring[N]
+you something...?[AN]
+[ClearSpeech]
+
+[FarFarLeft]
+Yes, please...[N]
+I'm sorry...[AN]
+I... I'm going[N]
+to lie down...[AN]
+Urgh...[AN]
+[ClearSpeech]
+
+[MidLeft][LoadGeese][MidRight]
+That... is the entertainer[N]
+sponsored by that noble...[AN]
+Looks are decieving, it seems.[AN]
+
+[MidLeft]
+Ya can never tell from lookin'[N]
+whether they can perform or not.[AN]
+There's another fella, a bard,[N]
+and he was a pretty polite guy.[AN]
+He didn't look too well either,[AN]
+but he at least took the time[N]
+to come and say thanks to me.[AN]
+
+[MidRight]
+Sponsored by a noble...[N]
+She's of a high standard.[AN]
+
+[MidLeft]
+Well, if you're interested,[N]
+I can try asking 'em a favor.[AN]
+Make it up to ya' fer what[N]
+happened the other day, eh?[AN]
+
+[MidRight]
+Yeah, that sounds nice.[N]
+I'd appreciate it, Geese.[AN]
+[Event]
+
+[FarFarRight]
+Captain!![N]
+Oh, no! Captain!![AN]
+Pirates! Looks like Zot's crew[N]
+have started gaining on us![AN]
+
+[MidLeft]
+What the hell?![N]
+Oh, for the love of...[AN]
+There couldn't be a worse[N]
+time for them to show up![AN]
+Can't we pull away!?[AN]
+
+[FarFarRight]
+We can't, Captain![N]
+They're much faster![AN]
+
+[MidRight]
+Looks like it's[N]
+our turn, then.[AN]
+
+[MidLeft]
+Sorry... I didn't[N]
+think this'd happen...[AN]
+Zot's pirates are[N]
+based around this area.[AN]
+I thought we were[N]
+far enough away, but...[AN]
+
+[FarFarRight]
+Captain![N]
+Enemy boat approaching![AN]
+They're gonna ram us![AN]
+
+[MidLeft]
+Alright, mates![N]
+Brace yourselves![A][2X][X]
+
+
+
+
+#0x9A9
+
+[Right][LoadIsaac][FarRight][LoadPirate][MidLeft][LoadGeese]
+Gah... [.....]Is...[.....][N]
+Is everyone alright?[AN]
+Has... anyone been[N]
+thrown overboard?[AN]
+
+[Right]
+Looks like we're okay, by[N]
+the skin of our teeth...[AN]
+We wouldn't have been if[N]
+you didn't call it out, though.[AN]
+
+[MidLeft]
+Thank the stars...[AN]
+How about my crew?[N]
+Is everybody safe?![AN]
+
+[FarRight]
+Y-Yes, Captain...[N]
+Seems everyone is safe...[AN]
+But look, Captain![AN]
+It looks like they're[N]
+going to climb onboard![AN]
+And they're aimin' that[N]
+ballista right for us...[AN]
+Seems we're gonna be...[AN]
+
+[MidLeft]
+Calm down![N]
+We're mariners![AN]
+We can handle this.[AN]
+
+[FarRight]
+C-Captain...![N]
+You're right.[AN]
+
+[MidLeft]
+We have no choice[N]
+but to fight back...[AN]
+But unluckily for them,[AN]
+we've got our mercenary[N]
+friends on our side![AN]
+I'm countin' on ya, lads![AN]
+
+[Right]
+Let's do it.[N]
+You handle the boat.[AN]
+And look after[N]
+our guests, too.[AN]
+
+[MidLeft]
+Alright![N]
+Come on, mates![AN]
+Get the weapons[N]
+out of the hold![AN]
+We're on high alert![AN]
+
+[FarRight]
+Y-yes sir![A]
+[Clear][MidLeft][Clear][2X][X]
+
+
+
+
+#0x9C5 Chapter7Ending
+[MidLeft][LoadIsaac][MidRight][LoadGeese]
+Gahaha! I'll be damned...![N]
+They're hightailin' it![AN]
+It's all thanks to ya, lad![AN]
+
+[MidLeft]
+Nonsense. We wouldn't have made[N]
+it without you and your crew.[AN]
+
+[MidRight]
+Ha! Don't be so humble![AN]
+I saw how you guys were fighting[N]
+and it really got me blood pumpin'![AN]
+Zot's blasted crew scurried off![N]
+That feels mighty good...[AN]
+Usually we're the ones runnin'![N]
+Cravens! Serves 'em right![AN]
+
+[MidLeft]
+By the way...[AN]
+Are the ship and the[N]
+entertainers all right?[AN]
+
+[MidRight]
+Ay, both are[N]
+in good shape![AN]
+
+[FarFarLeft]
+H-hey...[AN]
+
+[MidRight]
+Well, speak of the devil...[AN]
+I need to do some checks on the big[N]
+wooden lass, so we can get movin'.[AN]
+You can chat with our[N]
+guests in the meanwhile, eh?[A][2X][X]
+
+
+
+
+
+#0x962 Chapter7Ending2
+[MidLeft][LoadIsaac][FarRight][LoadLarum][Right][LoadLizzy]
+We are safe, too,[N]
+thanks to you.[AN]
+Thank you very much.[AN]
+
+[FarRight]
+Whew! I was worried our[N]
+trip was gonna end there![AN]
+
+[MidLeft]
+Likewise, we're safe thanks[N]
+to both of your help. Thank you.[AN]
+So, I've heard you entertainers[N]
+have to travel with protection.[AN]
+I imagine it's tough to get by[N]
+in... in times like these.[AN]
+
+[FarRight]
+It is! We're so good that people[N]
+are out to get us for themselves.[AN]
+
+[MidLeft]
+Sorry to be a bother, Ms. Larum.[AN]
+But if you don't mind, would you[N]
+put on a dance for my mercenaries?[AN]
+Many of them are wanting to see.[N]
+I won't you force you, though.[AN]
+
+[FarRight]
+Heehee, don't worry about it.[AN]
+After all, if I refused, what[N]
+kind of dancer would I be...?[AN]
+You really helped us out, so I'll[N]
+give you all an extra special dance![AN]
+Now, if you'll excuse me, I need[N]
+to go and get ready! Heehee...[AN]
+[ClearSpeech][MoveFarLeft][Clear][FarLeft][LoadLarum][MoveFarRight][Clear]
+
+[MidLeft]
+...Is she always[N]
+like... that?[AN]
+
+[Right]
+Hahaha...[N]
+Kind of...[AN]
+
+[MidLeft]
+You're... Ms. Lizzy, right?[N]
+Thank you for your help, too.[AN]
+
+[Right]
+Likewise![N]
+But, um, I have a question.[AN]
+Your swordplay... it's the same[N]
+as the Etrurian knight's, isn't it?[AN]
+Were you... a knight, once...?[AN]
+
+[MidLeft]
+Something like that.[AN]
+Sorry, but I can't[N]
+say more than that.[AN]
+
+[Right]
+Oh, no, I'm sorry.[AN]
+I should introduce[N]
+myself properly.[AN]
+My name is Lizzy.[AN]
+I'm an Etrurian knight,[N]
+and despite my looks,[AN]
+I'm an officer too.[AN]
+I'm still something of[N]
+a novice though, ahaha...[AN]
+
+[MidLeft]
+You fought bravely, miss.[AN]
+I'm confident you'll[N]
+grow into a fine officer.[AN]
+
+[Right]
+Oh, thank you, sir![N]
+I'll work hard at it.[AN]
+
+[MidLeft]
+I've met someone like you before...[N]
+He was an admirable knight.[AN]
+Like a hero in some fairy tale...[N]
+a true knight in shining armor.[AN]
+I hope you can turn out like him.[AN]
+
+[Right][HalfCloseEyes][Beat][AN]
+Well...[N]
+Um...[AN][OpenEyes]
+
+[MidLeft]
+Is something the matter?[AN]
+
+[Right]
+Do you... do you[N]
+know his name?[AN]
+
+[MidLeft]
+Sure. His[N]
+name was Liam.[AN]
+
+[Right]
+O-Oh, my... Liam...[N]
+He was my brother.[AN]
+Um... I never thought I'd[N]
+hear my brother's name here.[AN]
+
+[MidLeft][TMM][CloseEyes]
+...![.....][AN]
+[TMM][OpenEyes]
+
+[Right]
+I don't know if you'd heard,[N]
+but Liam was killed in battle.[AN]
+He was stopping by a village,[N]
+and it was attacked by bandits.[AN]
+I think he struggled desperately[N]
+to protect the people there.[AN]
+His armor was worn, and I know[N]
+he always kept it pristine.[AN]
+...I'm happy that I could meet[N]
+someone who knew my brother.[AN]
+
+[MidLeft]
+Um...[AN]
+
+[Right]
+Oh, I'm sorry![N]
+We only just met,[AN]
+and here I am telling[N]
+you such a gloomy story...[AN]
+
+[MidLeft]
+No, I should be the one[N]
+to say sorry. I had no idea.[AN]
+
+[Right]
+Nono, please don't worry about it![AN]
+Our family lineage is one of knights,[N]
+so we're used to death in the family.[AN]
+Though, now that I'm the only child,[N]
+it's a bit more pressure on me...[AN]
+So, I'll have to work hard to[N]
+become a brilliant knight like him![AN]
+For my family, and my brother![AN]
+Anyways, I should be getting[N]
+back to doing my work, ahaha.[AN]
+It'll only be a little while, but[N]
+I'm glad we'll get to work together.[AN]
+
+[MidLeft]
+Likewise...[AN]
+[Right][Clear]
+[MidLeft][Beat][AN]
+So, you're[N]
+Liam's sister...[A][2X][X]
+
+
+
+
+
+#0x919 Chapter7Ending3
+[MidLeft][LoadIsaac]
+[Beat][AN]
+
+[FarFarRight]
+Are you thinking[N]
+about back then?[AN]
+
+[MidLeft]
+Were you listening[N]
+in on us, Audrey?[AN]
+
+[MidRight][LoadAudrey]
+Yeah, I was.[AN]
+Never expected to run into[N]
+someone related with that affair...[AN]
+She wouldn't believe that we...[AN]
+
+[MidLeft]
+Watch it.[AN]
+
+[MidRight]
+Oh, sorry.[AN]
+
+[MidLeft]
+So those entertainer's[N]
+protection is just her.[AN]
+
+[MidRight]
+Yeah, I'm afraid one[N]
+bodyguard isn't enough.[AN]
+There must be something[N]
+else going on here...[AN]
+And Captain Geese[N]
+seemed restless, too.[AN]
+Don't you think so?[AN]
+
+[MidLeft]
+There's no point in speculating.[AN]
+Let's just hope we can make it[N]
+to port without any more problems.[A]
+[MidLeft][Clear][MidRight][Clear][2X][X]
+
+
+
+
+#0x912 Chapter7Ending4
+[MidRight][LoadIsaac][MidLeft][LoadLiam]
+Who on Earth are you...?![N]
+Why are you attacking this village?![AN]
+Don't tell me you're enjoying[N]
+killing these innocent villagers...?![AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+Well?![N]
+Answer me![AN]
+
+[MidRight]
+I'll honor you the[N]
+truth before you die.[AN]
+
+[MidLeft]
+[TMM]...![TMM][AN]
+
+[MidRight]
+This village is suspected of raiding[N]
+villages from other countries nearby.[AN]
+It is our mission to wipe out the bandits.[AN]
+I mustn't leak this fact to other countries,[N]
+which means... no one is allowed to live.[AN]
+
+[MidLeft]
+So you're Etrurian soldiers.[AN]
+And... this village is a[N]
+bandit stronghold, huh?[AN]
+How ridiculous![N]
+That's an outright lie![AN]
+
+[MidRight]
+It's not up to me[N]
+nor you to judge that.[AN]
+Still, I admire[N]
+people like you.[AN]
+
+[MidLeft]
+What!?[AN]
+
+[MidRight]
+Running around to save these people...[AN]
+You're the ideal of a knight.[N]
+And yet my orders are far from that.[AN]
+
+[MidLeft]
+Then why must you continue?![N]
+It's not too late to stop![AN]
+You can still lower your weapons![AN]
+
+[MidRight]
+That's not an option,[N]
+because this is our duty.[AN]
+For the sake of Etruria...[N]
+and for her people...[AN]
+I steel myself as a "knight".[AN]
+
+[MidLeft]
+Obeying orders without question...[N]
+How... how dare you pose as a knight![AN]
+On my honor, I'll defeat you![N]
+To fulfill my duty as a true knight![AN]
+Come![AN]
+
+[MidRight][Beat][A][2X][X]
+
+
+
+#0x91C Chapter7Ending5
+[Left][LoadIsaac][FarRight][LoadArtie]
+Haha! Looks like we made it,[N]
+thanks to me of course![AN]
+You can show some gratitude, eh?[AN]
+
+[Left]
+...Do you have any[N]
+plans after this?[AN]
+
+[FarRight]
+You're not the entertainer's[N]
+guards, are you? I think-[AN]
+
+[Left][Clear][LoadAudrey]
+Hey, Isaac,[N]
+we're going to...[AN]
+
+[FarRight]
+Huh?[AN]
+[ClearSpeech][MoveRight]
+Huhhhh?![AN]
+[ClearSpeech][MoveFarLeft][Clear][FarLeft][LoadArtie]
+Huhhhhhhhh?!![AN]
+
+[Left]
+What...?[N]
+Do I know you?[AN]
+
+[FarLeft][Clear][MidRight][LoadArtie]
+That build...[AN]
+You wouldn't[N]
+happen to be...[AN]
+But I've only[N]
+read about those...![AN]
+Ohh, today is your[N]
+lucky day, Artie![AN]
+[ClearSpeech]
+[Left][Clear][LoadIsaac][MidRight]
+Okay, you've[N]
+convinced me![AN]
+The genius witch Artie[N]
+shall accompany you![AN]
+It's an offer you[N]
+can't refuse! Heehee![A][2X][X]
+
+
+
+
+#0x918 Chapter7Ending6
+[MidLeft][LoadIsaac][Beat][AN]
+
+[FarFarRight]
+E-excuse me...[AN]
+
+[MidLeft]
+Hm? Is it okay for you[N]
+to be here, Ms. Lizzy?[AN]
+
+[MidRight][LoadLizzy]
+Yes. I was told[N]
+it's all right...[AN]
+In fact, I have come[N]
+to ask a favor of you![AN]
+
+[MidLeft]
+Go ahead, if you[N]
+think I'll be of help...[AN]
+
+[MidRight]
+R-right![AN]
+I was wondering if[N]
+you would spar with me![AN]
+You know, for training.[AN]
+I thought it would be[N]
+good experience for me...[AN]
+
+[MidLeft]
+Such fire in your heart...[AN]
+If you really want to, then[N]
+I would be more than happy.[AN]
+
+[MidRight]
+Oh, you will?![N]
+Thank you so much![AN]
+Then, let's get to it![A][2X][X]
+
+
+
+
+#0x9C1 Chapter7Ending7
+[MidRight][LoadGeese][MidLeft][LoadIsaac]
+Hey, are we arriving soon?[AN]
+I'm really starting to get[N]
+sick of being on this boat.[AN]
+
+[MidRight]
+Aye, the port should[N]
+be in eyeshot soon.[AN]
+Once we land in Deil,[AN]
+we'll take a break[N]
+for a couple days,[AN]
+so ya can enjoy bein'[N]
+back on land a bit.[AN]
+Since we'll be puttin'[N]
+back out ta sea again.[AN]
+
+[MidLeft]
+Sounds good.[AN]
+By the way, you remember[N]
+our little deal, right?[AN]
+
+[MidRight]
+Hahaha, course I do![AN]
+I'll treat ya to the[N]
+finest tavern in town.[AN]
+
+[MidLeft]
+Heh. I'm looking forward to it.[AN]
+Do you know where our guests are?[N]
+Haven't seen them since before...[AN]
+
+[MidRight]
+Oh, that bard fellow[N]
+is asleep somewhere.[AN]
+As for that dancer girl,[N]
+she seems terribly seasick.[AN]
+Been in bed a long time,[N]
+or so the knight girl says.[AN]
+
+[MidLeft]
+Hm, so that noisy[N]
+girl is sick in bed...[AN]
+No wonder that it[N]
+seems so quiet.[AN]
+
+[MidRight]
+Ah, thar she is![N]
+That's Port Deil.[AN]
+Alright, mates![N]
+Get the ropes ready![AN]
+We're docking now![A][2X][X]
+
+
+
+
+#0x8C7 Chapter7LizzyLarumSpawns
+[MidLeft][LoadLarum][MidRight][LoadLizzy]
+Here... here we are.[AN]
+I've got to help[N]
+them guard the ship.[AN]
+Larum, go and find[N]
+Elffin, would you?[AN]
+If anything were[N]
+to happen to you...[AN]
+I couldn't face[N]
+my lord again...[AN]
+
+[MidLeft]
+What? Are you saying[N]
+I'd just hold you back?![AN]
+No way! I've already[N]
+made up my mind, Liz.[AN]
+I'll dance for everyone[N]
+to cheer them on![AN]
+
+[MidRight]
+[Beat]
+Guess I can't stop you...[AN]
+But, you have to promise[N]
+to keep close to me![A][2X][X]
+
+
+
+
+#0x8DE Chapter7ArtieSpawns
+[MidLeft][LoadPirate]
+Get out here now,[N]
+ya blasted stowaway![AN]
+
+[MidRight][LoadArtie]
+Ow! H-hey![N]
+That hurts![AN]
+
+[MidLeft]
+You sure picked one hell of a[N]
+time to be causin' trouble...[AN]
+
+[MidRight]
+Come on! I was only[N]
+onboard for a few days.[AN]
+I didn't think you[N]
+sailors were so whiny![AN]
+Give me a break, huh?[AN]
+
+[MidLeft]
+Shut 'yer mouth![AN]
+Listen up, little[N]
+miss "amazing witch".[AN]
+Ya can't be scurrying[N]
+around below deck,[AN]
+so use that magic power[N]
+yer so good at up here.[AN]
+Go ahead an' show it[N]
+off all ya like, now.[AN]
+
+[MidRight]
+A-ahaha...[.....][AN]
+You're... you're[N]
+joking, right?[AN]
+
+[MidLeft]
+Huh? What's wrong?[AN]
+Maybe yer not so[N]
+great as ya think?[AN]
+
+[MidRight]
+All right, fine![N]
+I'll do it! Jeez![AN]
+
+[MidLeft]
+Great, now get to it.[AN]
+And if you try ta[N]
+run back below deck,[AN]
+I'm tossing yer behind[N]
+inta the water. Got it?[A][2X][X]
+
+
+
+
+
+#0x8DB Chapter7IsaacLizzyTalk
+[MidRight][LoadIsaac][MidLeft][LoadLizzy]
+E-excuse me![AN]
+You're the mercenaries[N]
+protecting the ship, right?[AN]
+
+[MidRight]
+Yeah, but...[N]
+Who are you?[AN]
+
+[MidLeft]
+Oh, sorry![AN]
+I'm Lizzy, guardian[N]
+of the bard Elffin.[AN]
+I'm here to help you![AN]
+
+[MidRight]
+An Etrurian[N]
+knight, huh...[AN]
+
+[MidLeft]
+W-what?[AN]
+
+[MidRight]
+Oh, apologies.[AN]
+My name is Isaac,[AN]
+and I'm the commander[N]
+of this mercenary band.[AN]
+Um... Miss Knight?[AN]
+
+[MidLeft]
+It's Lizzy![AN]
+
+[MidRight]
+Miss Lizzy, as you can see,[N]
+our hands are quite full.[AN]
+I'd really appreciate your[N]
+cooperation with all of us.[AN]
+
+[MidLeft]
+Yeah! You can[N]
+leave it to me![A][2X][X]
+
+
+
+
+#0x8CC Chapter7IsaacLarumTalk
+[MidLeft][LoadIsaac][MidRight][LoadLarum]
+Aaaaah![N]
+Pirates![AN]
+
+[MidLeft]
+...I'm not[N]
+a pirate.[AN]
+
+[MidRight]
+Aaaaah! Liz![N]
+Heeeeeelp![AN]
+
+[MidLeft]
+Must be hard[N]
+of hearing...[AN]
+[TMM]..![TMM][N]
+Hey! Watch out![AN]
+
+[MidRight]
+Hey, what are you doing?![N]
+Are you trying to kidnap me?![AN]
+Eek! Someone help meeee![AN]
+[ClearSpeech]
+[MidLeft][MoveRight][MidRight][MoveFarRight][Right][Clear]
+
+[MidLeft][LoadIsaac]
+Whew, close call...[N]
+Are you all right?[AN]
+
+[FarRight][MoveMidRight]
+...Huh?[AN]
+
+[MidLeft]
+A stray ballista bolt.[AN]
+If I'd been a moment later,[N]
+you'd have been skewered.[AN]
+
+[MidRight]
+W-wow...[N]
+So cool...[AN]
+
+[MidLeft]
+Unless you have a death[N]
+wish, I'd get below deck.[AN]
+We're busy enough as is.[AN]
+I can't be watching out[N]
+for you all the time.[AN]
+
+[MidRight]
+Oh! You're the mercenaries[N]
+protecting us, then...?[AN]
+Well, I got all worked[N]
+up for nothing! Heehee![AN]
+
+[MidLeft]
+Because you weren't[N]
+listening to me.[AN]
+
+[MidRight]
+I wasn't?[AN]
+Oh, well, thank you[N]
+for protecting me![AN]
+My name is Larum,[AN]
+and I'm here to help[N]
+with my famous dance![AN]
+
+[MidLeft]
+...Something tells me she's[N]
+going to be a nuisance.[A][2X][X]
+
+
+
+
+#0x8E3 Chapter7IsaacArtieTalk
+[MidRight][LoadIsaac][MidLeft][LoadArtie]
+Hey sir, over this way![N]
+Hey, old man! Here![AN]
+
+[MidRight]
+Hmm...?[AN]
+
+[MidLeft]
+Jeez, you finally noticed![AN]
+It may not be obvious at first,[AN]
+but you're in the prescence[N]
+of the great magician Artie![AN]
+By comparison, you are...[N]
+Argh! What's with that look?![AN]
+Fine, fine, I'll cooperate![AN]
+
+[MidRight]
+Well then, miss "great magician",[N]
+I'd reccommend hiding below deck.[AN]
+Would you not agree with that?[AN]
+
+[MidLeft]
+Ohoho! Of course I wouldn't![AN]
+You, devoid of magic, simply cannot[N]
+understand my supreme magical abilty![AN]
+Watch closely now, and I might[N]
+bless you with a taste of my power![AN]
+
+[MidRight][Beat][A][2X][X]
+
+
+
+
+#0xA65 Chapter7ArtieAudreyTalk
+[MidLeft][LoadAudrey][Beat][AN][ClearSpeech][MoveFarFarRight][Clear]
+
+[MidLeft][LoadArtie][MoveMidLeft]
+Could she be...?[AN]
+I-I have to go and[N]
+get a closer look![A][2X][X]
+
+
+
+
+
+#0x9E1 Chapter7ZotBattle
+[MidLeft][LoadZot]
+Who in the hell are you?[N]
+And why are you out here?![A][2X][X]
+
+
+
+
+
+#0x9E2 Chapter7ZotDeath
+[MidLeft][LoadZot]
+Damn... I thought they[N]
+were... pushovers...[A][CloseEyes][.....][2X][X]
+
+
+
+
+
+#0x93 Chapter7Guide
+[MidLeft][LoadWrys][MidRight][LoadYggdra]
+Okay, Mr. Wrys! Let's see[N]
+what tips you have this time![AN]
+
+[MidLeft]
+Very well, Miss Yggdra.[N]
+Let me get right to it, then.[AN]
+First of all, you should[N]
+note that [Red]there is a time limit.[Red][AN]
+You won't lose if you reach it,[AN]
+but you may want to defeat[N]
+the enemy leader for his item.[AN]
+
+[MidRight]
+So we should try and move[N]
+quickly then... Duly noted.[AN]
+
+[MidLeft]
+You should also be wary[N]
+of enemy reinforcements.[AN]
+The enemy soldiers that appear[N]
+may have powerful weaponry.[AN]
+On the [Red]eighth round [Red]of combat,[AN]
+the pirates from the south[N]
+ship will begin boarding us.[AN]
+
+[MidRight]
+Those soldiers are[N]
+a pain to deal with,[AN]
+especially if they[N]
+have strong weapons...[AN]
+I might want to try and[N]
+[Red]block them from coming.[Red][AN]
+
+[MidLeft]
+It's a good strategy.[AN]
+And as long as you[N]
+prepare to be boarded,[AN]
+you should be able[N]
+to deal with the south.[AN]
+Lastly, I'll talk about[N]
+the enemy's leader.[AN]
+
+[MidRight]
+A berserker...[AN]
+They're both fast and strong,[N]
+so we should be very careful.[AN]
+Who would do best against him?[N]
+Maybe we should send Isaac...?[AN]
+
+[MidLeft]
+Sir Isaac's Intimidate skill can [Red]negate[N]
+the berserker's critical hit rate bonus.[Red][AN]
+He may be your best option against him.[AN]
+
+[MidRight]
+And there's reinforcements[N]
+near the boss too...[AN]
+We really need to hurry[N]
+if we want to defeat him.[AN]
+Looks like we'll need to[N]
+be smart about splitting up.[AN]
+
+[MidLeft]
+I think that about[N]
+wraps it up for now.[AN]
+
+[MidRight]
+Yeah, I think so.[N]
+Until next time![A][2X][X]

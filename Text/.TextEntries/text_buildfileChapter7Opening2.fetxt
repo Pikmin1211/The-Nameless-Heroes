@@ -1,0 +1,140 @@
+
+
+[MidLeft][LoadPirate][MidRight][LoadGeese]
+
+What's the matter?[N]
+
+Somethin' wrong?[AN]
+
+
+
+[MidLeft]
+
+Ye... yes, Captain![AN]
+
+It seems someone[N]
+
+wants to see you...[AN]
+
+
+
+[MidRight]
+
+Lookin' fer me, huh?[AN]
+
+I don't remember plannin'[N]
+
+anything like that here...[AN]
+
+But even then... what's[N]
+
+gotten ya all shook up, lad?[AN]
+
+
+
+[MidLeft]
+
+W-well, if my eyes are[N]
+
+still workin' proper...[AN]
+
+I'd say that hooded one[N]
+
+is an Etrurian noble...[AN]
+
+
+
+[MidRight]
+
+...Couldn't be.[AN]
+
+Why would he be lookin'[N]
+
+fer mock pirates like us?[AN]
+
+Ya trying ta say he's here[N]
+
+to arrest us firsthand?[AN]
+
+
+
+[MidLeft]
+
+If that were true, I think we'd[N]
+
+have already been taken in...[AN]
+
+I'm not sure 'bout the reason,[N]
+
+but they're saying they want you.[AN]
+
+
+
+[MidRight]
+
+Alright, alright.[N]
+
+I'll humor 'im.[AN]
+
+
+
+[MidLeft]
+
+Let's go,[N]
+
+Captain![AN]
+
+This way![AN]
+
+
+
+[Clear][MidRight][Clear][MidRight][LoadIsaac][MidLeft][LoadGeese]
+
+Looks like I'm going[N]
+
+fer a bit, then.[AN]
+
+
+
+[MidRight]
+
+...This gives me[N]
+
+a bad feeling.[AN]
+
+
+
+[MidLeft]
+
+Hah, well, we haven't done[N]
+
+anythin' illegal. Not yet![AN]
+
+So we should be jus' fine.[N]
+
+You lot can take a break.[AN]
+
+Oh, be a pal and look[N]
+
+after the cargo for me.[AN]
+
+Wouldn't do to have it[N]
+
+stolen after all that, eh?[AN]
+
+
+
+[MidRight]
+
+Roger that.[N]
+
+Take care.[AN]
+
+
+
+[MidLeft]
+
+Alright![N]
+
+Thanks, mate![A][2X][X]
+

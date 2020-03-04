@@ -65,6 +65,24 @@ Chapter6ImageSmall:
 Chapter6ImageTitle:
 #incext Png2Dmp "Chapter 6 Title.png" --lz77
 
+Chapter7Image:
+#incext Png2Dmp "Chapter 7.png" --lz77
+
+Chapter7ImageSmall:
+#incext Png2Dmp "Chapter 7 Small.png" --lz77
+
+Chapter7ImageTitle:
+#incext Png2Dmp "Chapter 7 Title.png" --lz77
+
+ExtraBaseImage:
+#incext Png2Dmp "Extra Base.png" --lz77
+
+ExtraImageSmall:
+#incext Png2Dmp "Extra Small.png" --lz77
+
+ExtraBaseImageTitle:
+#incext Png2Dmp "Extra Base Title.png" --lz77
+
 PUSH
 
 ORG 0xA7356C
@@ -118,5 +136,19 @@ ORG 0xA73318
 POIN Chapter6ImageSmall
 ORG 0xA7331C
 POIN Chapter6ImageTitle
+
+ORG 0xA73320
+POIN Chapter7Image
+ORG 0xA73324
+POIN Chapter7ImageSmall
+ORG 0xA73328
+POIN Chapter7ImageTitle
+
+ORG 0xA734E8
+POIN ExtraBaseImage
+ORG 0xA734EC
+POIN ExtraImageSmall
+ORG 0xA734F0
+POIN ExtraBaseImageTitle
 
 POP

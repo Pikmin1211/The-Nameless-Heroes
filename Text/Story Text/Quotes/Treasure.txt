@@ -211,3 +211,16 @@ just step on?[A][2X][X]
 [MidRight][LoadHaltmann]
 Hmm...[N]
 What do I make of this?[A][2X][X]
+
+#0xF94 HestiaTreasure
+[MidRight][LoadHestia]
+Hmm, what's this?[AN]
+Well, I may as well[N]
+procure it for myself...[A][2X][X]
+
+#0xF97 ViktorTreasure
+[MidRight][LoadViktor]
+Hm...?[N]
+[Beat][AN]
+Everyone![N]
+I found something![A][2X][X]

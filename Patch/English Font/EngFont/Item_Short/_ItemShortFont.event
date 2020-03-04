@@ -168,8 +168,12 @@ FontEntry(ItemShortFontLilz,0xD9,4)
 #incbin "y.img.bin"
 
 ItemShortFontLilz:
-FontEntry(0xDA,4)
+FontEntry(ItemShortFontShortSpace,0xDA,4)
 #incbin "z.img.bin"
+
+ItemShortFontShortSpace:
+FontEntry(0xE9,2)
+#incbin "SymSpace3.img.bin"
 
 #define ItemShortFontHook ItemFontSymSpace
 

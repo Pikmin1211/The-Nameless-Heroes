@@ -306,6 +306,42 @@ Heh, well, let's see here...[A][2X][X]
 
 
 
+
+#0xB73 Chapter1BaseTalkMorrisHestia
+
+[MidLeft][LoadHestia][ToggleSmile][Beat][AN][ToggleSmile]
+[MidRight][LoadMorris]
+You seem to be in an awfully[N]
+good mood there, Hestia.[AN]
+
+[MidLeft]
+Quite so. It's just...[AN]
+so satisfying to[N]
+have burned so much.[AN]
+Ahh... I feel splendid.[AN]
+
+[MidRight]
+Those were people, you know.[N]
+Don't you feel... anything?[AN]
+
+[MidLeft]
+Hmm... nope.[AN]
+They are bandits, you know.[N]
+They were destined to die.[AN]
+[ToggleSmile]
+So I can enjoy roasting them![N]
+No hesitation! Full force![AN][ToggleSmile]
+
+[MidRight][CloseEyes]
+Oh, for the[N]
+love of...[A][2X][X]
+
+
+
+
+
+
+
 #0xA59 Chapter1BaseTalkIsaacHermes
 
 [MidRight][LoadIsaac][MidLeft][LoadHermes]

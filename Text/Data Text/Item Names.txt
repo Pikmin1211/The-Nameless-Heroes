@@ -401,22 +401,22 @@ Metis Tome[2X][X]
 Dummy[2X][X]
 
 #0x2FD
-Vidofnir[2X][X]
+Winterer[2X][X]
 
 #0x343
 Nagalfar[2X][X]
 
 #0x2EE
-Audhulma[2X][X]
+Beheader[2X][X]
 
 #0x2FC
 [_E][_t][_e][_r][_n][_a][_l] [_S][_w][_o][_r][_d][2X][X]
 
 #0x310
-Garm[2X][X]
+Mistral[2X][X]
 
 #0x31D
-Nighogg[2X][X]
+Belenus[2X][X]
 
 #0x2FF
 Hea[_v][_y] Spear[2X][X]
@@ -470,7 +470,7 @@ Wind[2X][X]
 Skill Manual[2X][X]
 
 #0x924
-Sleep Sword[2X][X]
+Wind Seal[2X][X]
 
 #0x7D
 [_L][_e][_a]t[_h][_e][_r] [_S][_h]i[_e]l[_d][2X][X]
@@ -624,3 +624,18 @@ Life Ring[2X][X]
 
 #0xF6B
 Ryusei[2X][X]
+
+#0xFC2
+Ruby[2X][X]
+
+#0xFC3
+Sapphire[2X][X]
+
+#0xFC4
+Emerald[2X][X]
+
+#0xFC5
+Topaz[2X][X]
+
+#0xFC6
+Diamond[2X][X]

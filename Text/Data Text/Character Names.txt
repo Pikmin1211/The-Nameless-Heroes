@@ -194,7 +194,10 @@ Phelix[2X][X]
 Alicia[2X][X]
 
 #0x1CD
-Alvin[2X][X]
+Hestia[2X][X]
+
+#0x1CF
+Viktor[2X][X]
 
 #0x1AF
 Wilhelm[2X][X]
@@ -233,7 +236,7 @@ Snag[2X][X]
 Pirate[2X][X]
 
 #0xD54
-Hartmann[2X][X]
+Hartma[_n][_n][2X][X]
 
 #0x1C0
 Hesus[2X][X]
@@ -269,7 +272,7 @@ Freya[2X][X]
 Klimt[2X][X]
 
 #0x1CE
-Gheb[2X][X]
+Oliver[2X][X]
 
 #0x152
 Novala[2X][X]

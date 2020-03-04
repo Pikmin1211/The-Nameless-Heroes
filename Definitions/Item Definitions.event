@@ -16,7 +16,12 @@
 #define Greataxe 0x83
 #define Greatbow 0x84
 #define Grannblaze2 0x85
+#define Winterer 0x8E
+#define Beheader 0x91
 #define Eternal 0x92
+#define EternalSword Eternal
+#define Mistral 0x93
+#define Belenus 0x94
 #define Bolting 0xA7
 #define Firestorm 0xAB
 #define Fenrir 0xAC
@@ -25,6 +30,7 @@
 #define StoneStaff 0xB5
 #define Grannblaze 0xBC
 #define Eternal2 0xBD
+#define EternalSword2 Eternal2
 #define Arrowspate 0xBE
 #define Thunderbolt 0xBF
 #define Pachyderm 0xC0
@@ -34,6 +40,7 @@
 #define Wind 0xC5
 #define Anemone 0xC6
 #define Dimentior 0xC7
+#define DimensionBlade Dimentior
 #define PaviseManual 0xC9
 #define AegisManual 0xCA
 #define MiracleManual 0xCB

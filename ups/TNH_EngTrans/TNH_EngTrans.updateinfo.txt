@@ -1,0 +1,10 @@
+NAME=The Nameless Heroes English
+AUTHOR=Kenpufu
+LOGO_FILENAME=logo.png
+COMMUNITY_URL=http://discordapp.com/invite/zDTdXTR
+
+CHECK_URL=https://www.mediafire.com/file/nfv8htsb424qfux/TNH_EngTrans.7z/file
+CHECK_REGEX=Uploaded: <span>(.+?)</span>
+
+UPDATE_URL=https://www.mediafire.com/file/nfv8htsb424qfux/TNH_EngTrans.7z/file
+UPDATE_REGEX=<textarea id="copy".+?>(.+?)</textarea>

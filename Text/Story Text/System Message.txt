@@ -75,7 +75,6 @@ condition has changed.[AN]
 The clear condition is[N]
 now "all units escape".[A][2X][X]
 
-
 #0xE6E Chapter162SystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
 You have recieved the Grannblaze.[AN]
@@ -86,3 +85,71 @@ can gain a special skill.[A][2X][X]
 [Red]SYSTEM MESSAGE:[Red][AN]
 Goal Achieved.[A][2X][X]
 
+#0xF24 CityTravelSystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+This will take you to the city.[AN]
+Have you finished everything[N]
+you wanted to do in the base?[AN]
+[Yes][2X][X]
+
+#0xF23 BaseTravelSystemMessage
+Return to base?[N]
+[Yes][2X][X]
+
+#0xF8A Chapter162SystemMessage2
+[Red]SYSTEM MESSAGE:[Red][AN]
+To clear this chapter, you[N]
+must either defeat Kempf,[AN]
+or survive for 10 turns and[N]
+defeat at least one Officer.[AN]
+Enemies will begin moving if you[N]
+attack an enemy in the courtyard,[AN]
+are attacked by any enemy,[N]
+or once the 4th turn begins.[AN]
+Enemies will also appear from behind,[N]
+and the Officers will begin to flee.[AN]
+Try to get close to Kempf before[N]
+the enemy beigns to move![A][2X][X]
+
+#0x82A Chapter172Skip1
+[MidLeft][LoadIsaac]
+You are free to[N]
+skip this chapter.[AN]
+I'd like you to decide[N]
+whether you skip or not.[AN]
+Will you skip?[N]
+[Yes][2X][X]
+
+#0x82F Chapter172SkipYes
+[MidLeft][LoadIsaac]
+...You may[N]
+regret this.[A][2X][X]
+
+#0x82B Chapter172SkipNo
+[MidLeft][LoadIsaac]
+... Your decision is[N]
+by no means wrong.[AN]
+Let's move on.[A][2X][X]
+
+#0x9FD Chapter10SystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+Visit the three[N]
+brown roofed houses,[AN]
+then move Isaac to the[N]
+ship's front to proceed![A][2X][X]
+
+#0xFAD Chapter4SystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+To clear the chapter, everyone[N]
+must escape from the escape point.[AN]
+Isaac must escape last.[AN]
+You will fail if two[N]
+civilians are defeated.[A][2X][X]
+
+#0xFB6 Chapter19SystemMessage
+[Red]SYSTEM MESSAGE:[Red][AN]
+To clear the chapter, visit all[N]
+houses and defeat all the bosses.[AN]
+You will fail if three[N]
+civilians are defeated,[AN]
+or if Echidna is defeated.[A][2X][X]

@@ -76,7 +76,7 @@ We're almost there, guys![AN]
 
 [FarRight][LoadBrownHairMan]
 Finally, done with those Etrurian[N]
-bastards! We won't forget this![AN]
+dastards! We won't forget this![AN]
 
 [Right][ClearFace][LoadYoungMan]
 With this momentum,[N]
@@ -132,7 +132,7 @@ the Resistance, though...[A][2X][X]
 
 [MidLeft][LoadRedSoldier]
 These escapees...[AN]
-Shit, they're really[N]
+Blast, they're really[N]
 gaining traction...[AN]
 But their advance[N]
 will be stopped here.[AN]

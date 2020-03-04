@@ -72,7 +72,7 @@ Stop.[AN]
 [MidRight]
 Oh, Number 83? And just who the hell[N]
 do you think you're speaking to, huh?![AN]
-Piss off, you fucking scum![AN]
+Blow off, you damned scum![AN]
 [MidRight][MoveMidRight][Event]
 
 [MidLeft]
@@ -328,12 +328,12 @@ You shall be our slaves until death![A][2X][X]
 
 
 #0x911 Chapter4TurnEvent2
-[MidLeft][LoadAudrey][Right][LoadChloe][FarRight][LoadRem]
+[FarLeft][LoadHestia][Left][LoadAudrey][Right][LoadChloe][FarRight][LoadRem]
 Told you it would be[N]
 easy to find a way in![AN]
 This should be the place.[AN]
 
-[MidLeft]
+[Left]
 Thanks, Rem.[AN]
 According to what those[N]
 "Resistance" people told us,[AN]
@@ -343,7 +343,11 @@ starting just about now.[AN]
 [Right]
 I hope everyone's okay...[AN]
 
-[MidLeft]
+[FarLeft]
+I'm positive they've[N]
+survived somehow.[AN]
+
+[Left]
 I wouldn't worry too much.[N]
 We know them - they're strong.[AN]
 
@@ -362,22 +366,26 @@ Ugh, I'm sorry about that...[A][2X][X]
 
 
 #0xA76 Chapter4TurnEvent2NoRem
-[Right][LoadChloe][MidLeft][LoadAudrey]
+[MidRight][LoadChloe][FarLeft][LoadHestia][Left][LoadAudrey]
 According to what those[N]
 "Resistance" people told us,[AN]
 the riots should be[N]
 starting just about now.[AN]
 
-[Right]
+[MidRight]
 I hope everyone's okay...[AN]
 
-[MidLeft]
+[FarLeft]
+I'm positive they've[N]
+survived somehow.[AN]
+
+[Left]
 I wouldn't worry too much.[N]
 We know them - they're strong.[AN]
 Hey, try to keep close to me, Chloe.[N]
 You don't want to go getting lost again.[AN]
 
-[Right]
+[MidRight]
 Oh, sorry. I'll try...[A][2X][X]
 
 
@@ -434,7 +442,7 @@ Count me in, boss![A][2X][X]
 Boss! Hey! Now there's[N]
 a sight for sore eyes.[AN]
 Glad to see you,[N]
-even in this shithole.[AN]
+even in this hole.[AN]
 
 [MidLeft]
 Good to see you too.[AN]
@@ -804,7 +812,7 @@ Using their iron fist to oppress and[N]
 cooperating with bandits for profits.[AN]
 
 [MidLeft]
-Tsk, the greedy bastards.[AN]
+Tsk, the greedy dastards.[AN]
 This Resistance leader must be pretty[N]
 strong to go up against such people.[AN]
 
@@ -927,7 +935,7 @@ I think I'll use that from now on...[AN]
 By the by, I'm told some remnants of the[N]
 Nameless may be on this island somewhere.[AN]
 Is that true?[AN]
-Are those bastards holding some kind of[N]
+Are those fools holding some kind of[N]
 grudge against me for decieving them?[AN]
 What do you think, Sir Galius?[AN]
 

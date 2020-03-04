@@ -1,0 +1,174 @@
+
+
+[MidRight][LoadIsaac]
+
+
+
+[FarFarLeft]
+
+I feel sick...[AN]
+
+[ClearSpeech]
+
+
+
+[FarFarLeft]
+
+Are you OK?[AN]
+
+Should I bring[N]
+
+you something...?[AN]
+
+[ClearSpeech]
+
+
+
+[FarFarLeft]
+
+Yes, please...[N]
+
+I'm sorry...[AN]
+
+I... I'm going[N]
+
+to lie down...[AN]
+
+Urgh...[AN]
+
+[ClearSpeech]
+
+
+
+[MidLeft][LoadGeese][MidRight]
+
+That... is the entertainer[N]
+
+sponsored by that noble...[AN]
+
+Looks are decieving, it seems.[AN]
+
+
+
+[MidLeft]
+
+Ya can never tell from lookin'[N]
+
+whether they can perform or not.[AN]
+
+There's another fella, a bard,[N]
+
+and he was a pretty polite guy.[AN]
+
+He didn't look too well either,[AN]
+
+but he at least took the time[N]
+
+to come and say thanks to me.[AN]
+
+
+
+[MidRight]
+
+Sponsored by a noble...[N]
+
+She's of a high standard.[AN]
+
+
+
+[MidLeft]
+
+Well, if you're interested,[N]
+
+I can try asking 'em a favor.[AN]
+
+Make it up to ya' fer what[N]
+
+happened the other day, eh?[AN]
+
+
+
+[MidRight]
+
+Yeah, that sounds nice.[N]
+
+I'd appreciate it, Geese.[AN]
+
+[Event]
+
+
+
+[FarFarRight]
+
+Captain!![N]
+
+Oh, no! Captain!![AN]
+
+Pirates! Looks like Zot's crew[N]
+
+have started gaining on us![AN]
+
+
+
+[MidLeft]
+
+What the hell?![N]
+
+Oh, for the love of...[AN]
+
+There couldn't be a worse[N]
+
+time for them to show up![AN]
+
+Can't we pull away!?[AN]
+
+
+
+[FarFarRight]
+
+We can't, Captain![N]
+
+They're much faster![AN]
+
+
+
+[MidRight]
+
+Looks like it's[N]
+
+our turn, then.[AN]
+
+
+
+[MidLeft]
+
+Sorry... I didn't[N]
+
+think this'd happen...[AN]
+
+Zot's pirates are[N]
+
+based around this area.[AN]
+
+I thought we were[N]
+
+far enough away, but...[AN]
+
+
+
+[FarFarRight]
+
+Captain![N]
+
+Enemy boat approaching![AN]
+
+They're gonna ram us![AN]
+
+
+
+[MidLeft]
+
+Alright, mates![N]
+
+Brace yourselves![A][2X][X]
+

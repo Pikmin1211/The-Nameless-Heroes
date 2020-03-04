@@ -37,7 +37,31 @@ power increases with each star.[2X][X]
 Skills[2X][X]
 
 #0x800
-Weapon Rank[2X][X]
+ Weapon Rank [2X][X]
+
+#0x4F6
+Sword mastery level.[2X][X]
+
+#0x4F7
+Lance mastery level.[2X][X]
+
+#0x4F8
+Axe mastery level.[2X][X]
+
+#0x4F9
+Bow mastery level.[2X][X]
+
+#0x4FA
+Anima mastery level.[2X][X]
+
+#0x4FB
+Light mastery level.[2X][X]
+
+#0x4FC
+Dark mastery level.[2X][X]
+
+#0x4FD
+Staff mastery level.[2X][X]
 
 #0x494
 Sword[2X][X]
@@ -214,7 +238,7 @@ Silence[2X][X]
 Berserk[2X][X]
 
 #0x4A7
-Sick[2X][X]
+F[_a]ti[_g][_u]e[2X][X]
 
 #0x4A8
 Recovr[2X][X]
@@ -234,64 +258,13 @@ Critical[2X][X]
 #0x4AD
 Dodge[2X][X]
 
-#0x4B6
-Total[2X][X]
-
-#0x4C0
-Purpose:[2X][X]
-
-#0x4C1
-Total[2X][X]
-
-#0x4C2
-Assets[2X][X]
-
-#0x4C3
-Play[2X][X]
-
-#0x4CB
-Are you sure?[2X][X]
-
-#0x4CC Fights
-B[2X][X]
-
-#0x4CD Wins
-W[2X][X]
-
-#0x4CE Losses
-L[2X][X]
-
-#0x4CF
-Total[2X][X]
-
-#0x4D0
-Assets[2X][X]
-
-#0x4D1
-Time[2X][X]
-
-#0x4D2
-Total[2X][X]
-
-#0x4D3
-Normal[2X][X]
-
-#0x4D4
-Hard[2X][X]
-
-#0x4D5
-Complete[2X][X]
-
-#0x4D6
-Total[2X][X]
-
 #0x4D7
 Unit level. The unit becomes[N]
 stronger as it gains levels.[2X][X]
 
 #0x4D8
 Experience points gained. Gain[N]
-100 points to earn a new level.[2X][X]
+100 points to increase one level.[2X][X]
 
 #0x4D9
 Unit hit points. The unit loses[N]
@@ -305,8 +278,8 @@ Strength. A higher number means[N]
 more damage with physical weapons.[2X][X]
 
 #0x4DC
-Magical power. Equates to higher[N]
-power using magical weapons and staves.[2X][X]
+Magical power. Increases ability[N]
+with magical weapons and items.[2X][X]
 
 #0x4DD
 Fighting skill. A higher[N]
@@ -317,8 +290,8 @@ Speed. This affects both[N]
 evasion and attacks.[2X][X]
 
 #0x4DF
-Luck. This affects many[N]
-different things.[2X][X]
+Luck. Improves dodge,[N]
+as well as hit and avo.[2X][X]
 
 #0x4E0
 Defensive skill. Reduces[N]
@@ -333,8 +306,8 @@ Movement. The normal distance[N]
 you can cross in 1 turn.[2X][X]
 
 #0x4E3
-Constitution, or physical size.[N]
-Affects rescues.[2X][X]
+Constitution. Affects carrying units,[N]
+and ability to wield heavy weaponry.[2X][X]
 
 #0x4E4
 Max rescuing constitution. Units[N]
@@ -346,7 +319,7 @@ with whom this unit is traveling.[2X][X]
 
 #0x4E6
 Elemental affinity. Determines[N]
-compatibility with other units.[2X][X]
+support bonuses given to units.[2X][X]
 
 #0x4E7
 Normal.[N]
@@ -369,8 +342,8 @@ unit, be it friend or foe![2X][X]
 Magic and staves are unusable.[2X][X]
 
 #0x4EC
-Craaack! Turned...to...[N]
-stone. Can't...move![2X][X]
+Craaack! Turned... to...[N]
+stone. Can't... move![2X][X]
 
 #0x4ED
 Attack increased[N]
@@ -388,8 +361,12 @@ increased by 10 points.[2X][X]
 Avoid increased[N]
 by 10 points.[2X][X]
 
+#0xFCC
+Tired... Max HP is halved at +2,[N]
+and halved again for each +1.[2X][X]
+
 #0x4F1
-Amount of damage this weapon[N]
+Amount of damage this unit[N]
 causes. Affected by defenses.[2X][X]
 
 #0x4F2
@@ -401,36 +378,12 @@ Weapon Range. A range of 1[N]
 can only hit adjacent spaces.[2X][X]
 
 #0x4F4
-Chance the weapon will strike a[N]
+Chance the unit will strike a[N]
 critical blow, doing triple damage.[2X][X]
 
 #0x4F5
 Ability to dodge enemy attacks.[N]
 Affects enemy's hit.[2X][X]
-
-#0x4F6
-Sword mastery level.[2X][X]
-
-#0x4F7
-Lance mastery level.[2X][X]
-
-#0x4F8
-Axe mastery level.[2X][X]
-
-#0x4F9
-Bow mastery level.[2X][X]
-
-#0x4FA
-Anima mastery level.[2X][X]
-
-#0x4FB
-Light mastery level.[2X][X]
-
-#0x4FC
-Dark mastery level.[2X][X]
-
-#0x4FD
-Staff mastery level.[2X][X]
 
 #0x4FE
 Strengthen the bond[N]
@@ -447,29 +400,29 @@ Weapon or magic in use.[2X][X]
 Weapon or magic in use.[N]
 Does more damage than normal.[2X][X]
 
-#0x502
-Wielder and weapon are well[N]
-suited. Hit and power increase.[2X][X]
+#0x502 AttackerTriangleAdvantage
+At weapon traingle advantage.[N]
+Attack and hit rate increased.[2X][X]
 
-#0x503
-Wielder and weapon are well[N]
-suited. Hit and dmg increase.[2X][X]
+#0x503 AttackerEffectiveWeapon
+Weapon is effective on target.[N]
+Weapon might will be tripled.[2X][X]
 
-#0x504
-Wielder and weapon are ill[N]
-suited. Hit and power decrease.[2X][X]
+#0x504 DefenderTriangleDisadvantage
+At weapon traingle disadvantage.[N]
+Attack and hit rate decreased.[2X][X]
 
-#0x505
-Wielder and weapon are ill[N]
-suited. Hit and power decrease.[2X][X]
+#0x505 DefenderEffectiveWeapon
+Opponent's weapon is effective.[N]
+Damage taken will be increased.[2X][X]
 
 #0x506
 Damage this weapon will do.[N]
 x2: two attacks, x4: four.[2X][X]
 
 #0x507
-Attack Speed.[N]
-Determines number of attacks.[2X][X]
+Attack speed. Strikes twice when[N]
+4 or higher than opponent's.[2X][X]
 
 #0x508
 Defense.[N]

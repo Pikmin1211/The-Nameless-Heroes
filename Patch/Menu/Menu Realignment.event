@@ -16,6 +16,9 @@
 		ORG $1F5325
 		BYTE 0x0 //shift skl label over
 
+		//ORG $b4102
+		//BYTE 0x //success string on sound room
+
 	//Item R-button menu stuff
 		//ORG $8B576 //Make monster weapons show stats
 		//SHORT 0xE006

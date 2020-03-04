@@ -104,3 +104,87 @@ deployed this chapter.[2X][X]
 
 #0x803
  is gone.[2X][X]
+
+#0x4D
+Now Loading[2X][X]
+
+#0x63
+End[2X][X]
+
+#0x47
+Victory Cond[2X][X]
+
+#0x45
+Players[2X][X]
+
+#0x35
+Rank Display[2X][X]
+
+#0x31
+Set enemy AI[2X][X]
+
+#0x32
+Set colors for individual units[2X][X]
+
+#0x14
+CPU Level[2X][X]
+
+#0x18
+Controller[2X][X]
+
+#0x19
+Rank Display[2X][X]
+
+#0x34
+Set Control Window display[2X][X]
+
+#0x4B6
+Total[2X][X]
+
+#0x4C0
+Purpose:[2X][X]
+
+#0x4C1
+Total[2X][X]
+
+#0x4C2
+Assets[2X][X]
+
+#0x4C3
+Play[2X][X]
+
+#0x4CB
+Are you sure?[2X][X]
+
+#0x4CC Fights
+B[2X][X]
+
+#0x4CD Wins
+W[2X][X]
+
+#0x4CE Losses
+L[2X][X]
+
+#0x4CF
+Total[2X][X]
+
+#0x4D0
+Assets[2X][X]
+
+#0x4D1
+Time[2X][X]
+
+#0x4D2
+Total[2X][X]
+
+#0x4D3
+Normal[2X][X]
+
+#0x4D4
+Hard[2X][X]
+
+#0x4D5
+Complete[2X][X]
+
+#0x4D6
+Total[2X][X]

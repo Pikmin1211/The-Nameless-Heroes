@@ -297,7 +297,8 @@ Set game speed and windows.[2X][X]
 Retreat from the current battle.[2X][X]
 
 #0x666
-View tower and ruins battle records.[2X][X]
+View hints and tips for[N]
+the current chapter.[2X][X]
 
 #0x667
 Stop a battle in progress.[N]

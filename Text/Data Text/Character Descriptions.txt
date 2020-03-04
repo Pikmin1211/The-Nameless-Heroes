@@ -191,3 +191,15 @@ victory streak and high reputation.[2X][X]
 #0xD55
 A mercenary known as "the King of[N]
 the Sky". Skilled in aerial combat.[2X][X]
+
+#0x225
+A former Etrurian mage with a talent[N]
+for fire magic. Can be overbearing.[2X][X]
+
+#0x229
+A mercenary known as "The Lonely[N]
+Lance". Seems cold-hearted, but...?[2X][X]
+
+#0x222
+The leader of Zot's pirate crew.[N]
+None who cross him have lived.[2X][X]

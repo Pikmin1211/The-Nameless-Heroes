@@ -1,0 +1,138 @@
+[MidLeft][LoadIsaac][MidRight][LoadLarum]
+
+Aaaaah![N]
+
+Pirates![AN]
+
+
+
+[MidLeft]
+
+...I'm not[N]
+
+a pirate.[AN]
+
+
+
+[MidRight]
+
+Aaaaah! Liz![N]
+
+Heeeeeelp![AN]
+
+
+
+[MidLeft]
+
+Must be hard[N]
+
+of hearing...[AN]
+
+[TMM]..![TMM][N]
+
+Hey! Watch out![AN]
+
+
+
+[MidRight]
+
+Hey, what are you doing?![N]
+
+Are you trying to kidnap me?![AN]
+
+Eek! Someone help meeee![AN]
+
+[ClearSpeech]
+
+[MidLeft][MoveRight][MidRight][MoveFarRight][Right][Clear]
+
+
+
+[MidLeft][LoadIsaac]
+
+Whew, close call...[N]
+
+Are you all right?[AN]
+
+
+
+[FarRight][MoveMidRight]
+
+...Huh?[AN]
+
+
+
+[MidLeft]
+
+A stray ballista bolt.[AN]
+
+If I'd been a moment later,[N]
+
+you'd have been skewered.[AN]
+
+
+
+[MidRight]
+
+W-wow...[N]
+
+So cool...[AN]
+
+
+
+[MidLeft]
+
+Unless you have a death[N]
+
+wish, I'd get below deck.[AN]
+
+We're busy enough as is.[AN]
+
+I can't be watching out[N]
+
+for you all the time.[AN]
+
+
+
+[MidRight]
+
+Oh! You're the mercenaries[N]
+
+protecting us, then...?[AN]
+
+Well, I got all worked[N]
+
+up for nothing! Heehee![AN]
+
+
+
+[MidLeft]
+
+Because you weren't[N]
+
+listening to me.[AN]
+
+
+
+[MidRight]
+
+I wasn't?[AN]
+
+Oh, well, thank you[N]
+
+for protecting me![AN]
+
+My name is Larum,[AN]
+
+and I'm here to help[N]
+
+with my famous dance![AN]
+
+
+
+[MidLeft]
+
+...Something tells me she's[N]
+
+going to be a nuisance.[A][2X][X]
+

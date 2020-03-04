@@ -36,7 +36,7 @@ left in town...[....][AN]
 Hmph. I expected a lot more[N]
 out of a port town like this.[AN]
 Boys, take another look around![N]
-Kill the bastards if you have to![AN]
+Kill the lot of 'em if you must![AN]
 
 [MidRight]
 P-please spare mercy...[....][AN]
@@ -194,7 +194,7 @@ preventing me from getting in closer...[AN]
 That's good enough.[N]
 Nice work, Kara.[AN]
 Strange, though.[AN]
-Where did these bastards[N]
+Where did these bandits[N]
 get hold of a wyvern...?[AN]
 
 [MidRight]
@@ -238,15 +238,30 @@ their women back alive![A][2X][X]
 
 
 
-#0xA99 Chapter1PhelixSpawns
+#0xA99 Chapter1PhelixHestiaSpawns
 
 
 [MidRight][LoadPhelix]
 Damn! It looks[N]
 like I was too late.[AN]
 Commander! Everyone![N]
-Please be safe, guys...[A][2X][X]
+Please be safe, guys...[AN]
 
+[MidLeft][LoadHestia]
+My, what a dreadful[N]
+scene this is.[AN]
+I'll enjoy burning[N]
+these baseborns...[AN]
+
+[MidRight]
+This is no time[N]
+for gawking.[AN]
+Hestia! Come on,[N]
+we're going![AN]
+
+[MidLeft]
+Tsk, so pushy. Don't[N]
+tell me what to do.[A][2X][X]
 
 
 
@@ -312,7 +327,39 @@ Lead the front, Phelix.[AN]
 [MidLeft]
 Affirmative![AN]
 I'll teach those[N]
-bastards a due lesson![A][2X][X]
+dastards a due lesson![A][2X][X]
+
+
+
+
+#0x9F4 Chapter1TalkIsaacHestia
+[MidRight][LoadIsaac][MidLeft][LoadHestia]
+Ah, commander.[N]
+How do you fare?[AN]
+
+[MidRight]
+...How do I[N]
+look, Hestia?[AN]
+
+[MidLeft]
+Quite well.[N]
+That's good to see.[AN]
+Now then, Isaac.[AN]
+I can go roast[N]
+these guys, right?[AN]
+
+[MidRight]
+Yeah, down to the[N]
+last speck of ash.[AN]
+
+[MidLeft][ToggleSmile]
+Permission granted, then?[N]
+Hehehehe... time to burn.[AN]
+Let me hear you scream[N]
+as I incinirate you![AN]
+It's not like these scum[N]
+have human rights anyways...[AN]
+Heehee... Ahahahaha![A][2X][X]
 
 
 
@@ -553,7 +600,7 @@ be attacking the houses?[AN]
 
 [MidLeft]
 Huh? Why would we do that?[N]
-We already looted the bastards.[AN]
+We already looted those scum.[AN]
 Gahaha![AN]
 
 [MidRight]

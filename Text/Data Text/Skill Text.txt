@@ -22,8 +22,8 @@ Negates effective damage.[2X][X]
 
 #0x5A9
 Cancel[N]
-Negates the opponent's[N]
-counterattack.[2X][X]
+User's attacks cancel opponent's[N]
+follow-ups and criticals.[2X][X]
 
 #0x5A8
 Wrath[N]
@@ -59,7 +59,8 @@ start of every turn.[2X][X]
 
 #0x5AF
 Intimidate[N]
-Enemies within 3 tiles lose 15 avoid.[2X][X]
+Enemies within 3 tiles[N]
+lose 15% crit and avoid.[2X][X]
 
 #0x5C1
 Fortune[N]
@@ -73,7 +74,8 @@ enemy (once per turn).[2X][X]
 
 #0x5C4
 Aegis (Skill%)[N]
-Nullify a magical attack.[2X][X]
+Halves damage from[N]
+bows and magic.[2X][X]
 
 #0x5CA
 Staff Savant[N]
@@ -151,7 +153,8 @@ and defeating an enemy.[2X][X]
 
 #0x5D2
 Life and Death[N]
-Damage dealt and recieved +10.[2X][X]
+AS, damage dealt and[N]
+damage recieved +10.[2X][X]
 
 #0x5D1
 Death Blow[N]
@@ -188,8 +191,8 @@ the start of every turn.[2X][X]
 
 #0x595
 Moonlight (Combat Art)[N]
-Negate the opponent's[N]
-counterattack.[2X][X]
+Atk +3, Hit +20, -5 durability.[N]
+Negates opponent's counter.[2X][X]
 
 #0x0598
 Short Shield[N]
@@ -197,12 +200,13 @@ Short Shield[N]
 
 #0xD0D
 Fury[N]
-Str/Spd/Def/Res +2, but take[N]
-6 damage after attacking.[2X][X]
+Str/Spd/Def/Res +3, but take[N]
+3 damage after attacking.[2X][X]
 
 #0xD0E
 Triangle Adept[N]
-Doubles weapon traingle effects.[2X][X]
+Doubles weapon[N]
+traingle effects.[2X][X]
 
 #0x5A3
 (S Rank) Astra (Lv%)[N]
@@ -233,7 +237,8 @@ Rightful King[N]
 
 #0x5AE
 Charm[N]
-Allies within 3 spaces gain +10 hit.[2X][X]
+Allies within 3 spaces[N]
+gain +15 avo.[2X][X]
 
 #0x5BC
 Divine Shield[N]
@@ -249,27 +254,28 @@ Add half of lost HP to damage.[2X][X]
 
 #0x5B8
 Proximity Shot[N]
-Can use bows at close range[N]
-with reduced accuracy.[2X][X]
+2 range bows become 1-2 range[N]
+with -30 hit at 1 range.[2X][X]
 
 #0x5B9
 Bowrange +[N]
-+1 range with bows. Reduces[N]
-accuracy at extended range.[2X][X]
+2 range bows become 2-3 range[N]
+with -30 hit at 3 range.[2X][X]
 
 #0x5BA
 Sure Shot (Skill%)[N]
-The attack will not[N]
-miss. Breaks shields.[2X][X]
+Disables defensive skills[N]
+and breaks shields.[2X][X]
 
 #0x5BF
 Petrify (Combat Art)[N]
-Turns the opponent to[N]
-stone for this phase.[2X][X]
++6 Atk. Turns the opponent[N]
+to stone for this phase.[2X][X]
 
 #0x5B7
 Enrage (Combat Art)[N]
-Makes the opponent go berserk.[2X][X]
++6 Atk. Makes the[N]
+opponent go berserk.[2X][X]
 
 #0x5C5
 (S Rank) Ignis (Skill%)[N]
@@ -317,8 +323,7 @@ after performing any action.[2X][X]
 
 #0x5CF
 (S Rank) Impale (Skill%)[N]
-Deals double damage. Deals quadruple[N]
-damage if it will defeat the opponent.[2X][X]
+Deals 1.5x damage.[2X][X]
 
 #0x5D6
 (S Rank) Eclipse (Skill%)[N]
@@ -342,8 +347,8 @@ and doubles the length of combat.[2X][X]
 
 #0x5B0
 Adept (Combat Art)[N]
-Attack twice in succesion. Does[N]
-not stack with brave weapons.[2X][X]
+Atk +2, Durability -4.[N]
+Attack twice in succesion.[2X][X]
 
 #0x5C7
 Void Curse[N]
@@ -372,13 +377,13 @@ against fliers.[2X][X]
 
 #0xF4E
 Armorcrusher (Combat Art)[N]
-Double weapon might[N]
-against armors.[2X][X]
+Atk +7, Crit +5, Durability -5.[N]
+Double might against armors.[2X][X]
 
 #0xF4F
 Horsekiller (Combat Art)[N]
-Double weapon might[N]
-against cavalry.[2X][X]
+Atk +5, Hit +15, Durability -4.[N]
+Double might against cavalry.[2X][X]
 
 #0xF50
 Monsterslayer (Combat Art)[N]
@@ -396,8 +401,12 @@ When unable to attack back,[N]
 counter-damage the attacker.[2X][X]
 
 #0xF52
-Savior[N]
+Defender[N]
 Def/Res +10 while rescuing.[2X][X]
+
+#0xF83
+Savior[N]
+Can rescue without penalties.[2X][X]
 
 #0xF53
 Poison Strike[N]
@@ -411,8 +420,8 @@ avoid +30 when attacking.[2X][X]
 
 #0xF55
 Puissance[N]
-Atk/Def/AS + 3 and Hit[N]
-+20 while at full HP.[2X][X]
+Atk/Def/AS + 3 while[N]
+at maximum HP.[2X][X]
 
 #0xF56
 Solidarity[N]
@@ -421,10 +430,10 @@ no allies are within 2 tiles.[2X][X]
 
 #0xF57
 Fortress[N]
-Atk -2, Def +4.[2X][X]
+Atk -2, Def/Res +6.[2X][X]
 
 #0xF5F
-Fury[N]
+Courage[N]
 Attacks are brave at full HP.[N]
 Lose 1 HP after attacking.[2X][X]
 
@@ -501,3 +510,12 @@ Evasion is raised after combat.[2X][X]
 Swift Blade (Combat Art)[N]
 Evasion is raised after combat.[2X][X]
 
+#0xFB7
+Blow Back (Combat Art)[N]
+Atk +2, Avo +15, -3 durability.[N]
+Moves one tile away from target.[2X][X]
+
+#0xFB8
+Blow Away (Combat Art)[N]
+Atk +3, Hit +10, -3 durability.[N]
+Push target one tile away.[2X][X]

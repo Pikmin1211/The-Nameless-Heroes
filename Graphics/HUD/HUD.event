@@ -27,7 +27,7 @@ ORG $BB08B4
 
 // Original image in fantasy2.gba
 // starts at 10 40 01 (0x18)
-ORG $11BFFE8
-#incbin "Supply.dmp"
+//ORG $11BFFE8
+//#incbin "Supply.dmp"
 
 POP
