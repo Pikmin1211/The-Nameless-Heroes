@@ -665,6 +665,10 @@ __TEXTPROCESS222:
 #incbin ".TextEntries\text_buildfile222.fetxt.dmp"
 setText($222, __TEXTPROCESS222)
 
+__TEXTPROCESS232:
+#incbin ".TextEntries\text_buildfile232.fetxt.dmp"
+setText($232, __TEXTPROCESS232)
+
 __TEXTPROCESS5B5:
 #incbin ".TextEntries\text_buildfile5B5.fetxt.dmp"
 setText($5B5, __TEXTPROCESS5B5)
@@ -4056,6 +4060,10 @@ setText($F63, __TEXTPROCESSF63)
 __TEXTPROCESSF62:
 #incbin ".TextEntries\text_buildfileKnightsInTheNightmare.fetxt.dmp"
 setText($F62, __TEXTPROCESSF62)
+
+__TEXTPROCESSFBA:
+#incbin ".TextEntries\text_buildfileFBA.fetxt.dmp"
+setText($FBA, __TEXTPROCESSFBA)
 
 __TEXTPROCESS036:
 #incbin ".TextEntries\text_buildfileOptionSelectionOn.fetxt.dmp"
@@ -8400,6 +8408,34 @@ setText($9E2, __TEXTPROCESS9E2)
 __TEXTPROCESS093:
 #incbin ".TextEntries\text_buildfileChapter7Guide.fetxt.dmp"
 setText($93, __TEXTPROCESS093)
+
+__TEXTPROCESS90B:
+#incbin ".TextEntries\text_buildfileExtraBaseOpening.fetxt.dmp"
+setText($90B, __TEXTPROCESS90B)
+
+__TEXTPROCESS8EF:
+#incbin ".TextEntries\text_buildfileExtraBaseEnding.fetxt.dmp"
+setText($8EF, __TEXTPROCESS8EF)
+
+__TEXTPROCESS05D:
+#incbin ".TextEntries\text_buildfileExtraBaseGuide.fetxt.dmp"
+setText($5D, __TEXTPROCESS05D)
+
+__TEXTPROCESS8FF:
+#incbin ".TextEntries\text_buildfileExtraBaseBattle.fetxt.dmp"
+setText($8FF, __TEXTPROCESS8FF)
+
+__TEXTPROCESS902:
+#incbin ".TextEntries\text_buildfileExtraBaseBattle2.fetxt.dmp"
+setText($902, __TEXTPROCESS902)
+
+__TEXTPROCESS90E:
+#incbin ".TextEntries\text_buildfileExtraBaseIsaacDefeat.fetxt.dmp"
+setText($90E, __TEXTPROCESS90E)
+
+__TEXTPROCESSB1E:
+#incbin ".TextEntries\text_buildfileExtraBaseLizzyDefeat.fetxt.dmp"
+setText($B1E, __TEXTPROCESSB1E)
 
 __TEXTPROCESSD13:
 #incbin ".TextEntries\text_buildfileD13.fetxt.dmp"

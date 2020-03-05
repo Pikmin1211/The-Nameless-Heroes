@@ -203,3 +203,7 @@ Lance". Seems cold-hearted, but...?[2X][X]
 #0x222
 The leader of Zot's pirate crew.[N]
 None who cross him have lived.[2X][X]
+
+#0x232
+A member of Isaac's[N]
+trusted mercenaries.[2X][X]

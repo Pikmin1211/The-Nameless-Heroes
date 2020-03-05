@@ -35,6 +35,9 @@ $RECYCLE.BIN/
 #notes folder
 /Notes
 
+#Screenshot folder
+/Screenshot
+
 #Shortcuts
 *.shortcut
 

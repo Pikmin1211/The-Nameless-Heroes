@@ -489,3 +489,6 @@ Venus Lighthouse[2X][X]
 
 #0xF62 KnightsInTheNightmare
 Combat Preparations[2X][X]
+
+#0xFBA
+Primal Dialga[2X][X]

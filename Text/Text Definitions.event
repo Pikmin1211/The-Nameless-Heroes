@@ -657,5 +657,12 @@
 #define Chapter7ZotBattle $9E1
 #define Chapter7ZotDeath $9E2
 #define Chapter7Guide $093
+#define ExtraBaseOpening $90B
+#define ExtraBaseEnding $8EF
+#define ExtraBaseGuide $05D
+#define ExtraBaseBattle $8FF
+#define ExtraBaseBattle2 $902
+#define ExtraBaseIsaacDefeat $90E
+#define ExtraBaseLizzyDefeat $B1E
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT
