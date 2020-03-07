@@ -268,12 +268,12 @@ Disables defensive skills[N]
 and breaks shields.[2X][X]
 
 #0x5BF
-Petrify (Combat Art)[N]
+(S Rank) Petrify (Lv%)[N]
 +6 Atk. Turns the opponent[N]
 to stone for this phase.[2X][X]
 
 #0x5B7
-Enrage (Combat Art)[N]
+(S Rank) Enrage (Lv%)[N]
 +6 Atk. Makes the[N]
 opponent go berserk.[2X][X]
 
@@ -489,6 +489,7 @@ Effect weakens at range.[2X][X]
 
 #0xF6A
 Seal (Combat Art)[N]
+Atk +4, Hit +15, Durability -3.[N]
 Silence the opponent.[2X][X]
 
 #0xF70
@@ -503,19 +504,20 @@ effects at the start of every turn.[2X][X]
 
 #0xF79
 Eternal Blade (Combat Art)[N]
-Doubles the Eternal Sword's might.[N]
-Evasion is raised after combat.[2X][X]
+Atk + 15, Hit +20, Durability -5.[N]
+Double might against all.[2X][X]
 
 #0xF7D
 Swift Blade (Combat Art)[N]
+Atk/Crit +10, Hit +30, Durability -5.[N]
 Evasion is raised after combat.[2X][X]
 
 #0xFB7
 Blow Back (Combat Art)[N]
-Atk +2, Avo +15, -3 durability.[N]
+Atk +2, Avo +15, Durability -3.[N]
 Moves one tile away from target.[2X][X]
 
 #0xFB8
 Blow Away (Combat Art)[N]
-Atk +3, Hit +10, -3 durability.[N]
+Atk +3, Hit +10, Durability -3.[N]
 Push target one tile away.[2X][X]

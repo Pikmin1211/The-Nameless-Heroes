@@ -7553,6 +7553,10 @@ __TEXTPROCESSFB6:
 #incbin ".TextEntries\text_buildfileChapter19SystemMessage.fetxt.dmp"
 setText($FB6, __TEXTPROCESSFB6)
 
+__TEXTPROCESSB64:
+#incbin ".TextEntries\text_buildfileSpecialWeaponSystemMessage.fetxt.dmp"
+setText($B64, __TEXTPROCESSB64)
+
 __TEXTPROCESS87B:
 #incbin ".TextEntries\text_buildfilePrologueOpening.fetxt.dmp"
 setText($87B, __TEXTPROCESS87B)
@@ -7640,6 +7644,10 @@ setText($5E9, __TEXTPROCESS5E9)
 __TEXTPROCESSF0F:
 #incbin ".TextEntries\text_buildfilePrologueShout.fetxt.dmp"
 setText($F0F, __TEXTPROCESSF0F)
+
+__TEXTPROCESSFC1:
+#incbin ".TextEntries\text_buildfilePrologueHermesTurn1.fetxt.dmp"
+setText($FC1, __TEXTPROCESSFC1)
 
 __TEXTPROCESS87F:
 #incbin ".TextEntries\text_buildfileChapter1Opening.fetxt.dmp"

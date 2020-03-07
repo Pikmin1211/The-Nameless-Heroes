@@ -444,6 +444,7 @@
 #define Chapter10SystemMessage $9FD
 #define Chapter4SystemMessage $FAD
 #define Chapter19SystemMessage $FB6
+#define SpecialWeaponSystemMessage $B64
 #define PrologueOpening $87B
 #define PrologueMemory1 $8C3
 #define PrologueStartEvent1 $8CD
@@ -466,6 +467,7 @@
 #define PrologueGuide2 $008
 #define PrologueTimestamp $5E9
 #define PrologueShout $F0F
+#define PrologueHermesTurn1 $FC1
 #define Chapter1Opening $87F
 #define Chapter1StartEvent $8E9
 #define Chapter1StartEventPart2 $8EA

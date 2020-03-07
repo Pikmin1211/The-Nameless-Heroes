@@ -161,10 +161,10 @@ Witch[2X][X]
 Halberdier[2X][X]
 
 #0x27B
-Nomad[2X][X]
+Arch K[_n]i[_g][_h]t[2X][X]
 
 #0x27C
-N[_o]m[_a][_d] T[_r][_o][_o][_p][_e][_r][2X][X]
+Bow Knight[2X][X]
 
 #0x27D
 Spider[2X][X]

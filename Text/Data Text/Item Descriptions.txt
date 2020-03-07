@@ -648,16 +648,21 @@ Boris only. A brave weapon.[2X][X]
 Grants Avo +15 when held.[2X][X]
 
 #0xFC7
-Grants Str +2 when held.[2X][X]
+Grants Str +2 and Str[N]
+growth +5% when held.[2X][X]
 
 #0xFC8
-Grants Def +2 when held.[2X][X]
+Grants Def +2 and Def[N]
+growth +5% when held.[2X][X]
 
 #0xFC9
-Grants Skill +2 when held.[2X][X]
+Grants Skill +2 and Skill[N]
+growth +5% when held.[2X][X]
 
 #0xFCB
-Grants Luck +4 when held.[2X][X]
+Grants Luck +4 and Luck[N]
+growth +5% when held.[2X][X]
 
 #0xFCA
-Grants Res +2 when held.[2X][X]
+Grants Res +2 and Res[N]
+growth +5% when held.[2X][X]

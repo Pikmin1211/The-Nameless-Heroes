@@ -67,8 +67,8 @@ Plainsmen with high speed and[N]
 strong movement. Equip: [BowIcon][2X][X]
 
 #0x2CF
-A title bestowed upon nomads of great[N]
-skill. Skill: Adept. Equip: [SwordIcon] [BowIcon][2X][X]
+Archers wielding special horse-mounted[N]
+bows. Skill: Luna. Equip: [LanceIcon] [BowIcon] [ShieldIcon][2X][X]
 
 #0x294
 Mounted knights with swift[N]
