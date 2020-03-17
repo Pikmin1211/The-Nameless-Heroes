@@ -534,7 +534,7 @@ save our village...[A][2X][X]
 #0x8D3 PrologueRangeEvent
 
 [MidRight][LoadJulio]
-Hey, assholes![N]
+Hey, buddies![N]
 Get out here![A][2X][X]
 
 

@@ -346,24 +346,20 @@ Craaack! Turned... to...[N]
 stone. Can't... move![2X][X]
 
 #0x4ED
-Attack increased[N]
-by 10 points.[2X][X]
+Atk and Hit +5.[2X][X]
 
 #0x4EE
-Defense and resistance[N]
-increased by 10 points.[2X][X]
+Def and Res +5.[2X][X]
 
 #0x4EF
-Critical hit rate[N]
-increased by 10 points.[2X][X]
+Crit +10, Hit +3.[2X][X]
 
 #0x4F0
-Avoid increased[N]
-by 10 points.[2X][X]
+Avo +20, Spd +2.[2X][X]
 
 #0xFCC
-Tired... Max HP is halved at +2,[N]
-and halved again for each +1.[2X][X]
+Tired... Max HP is halved at 2,[N]
+and quartered at 3 or more.[2X][X]
 
 #0x4F1
 Amount of damage this unit[N]

@@ -458,7 +458,7 @@ Pachyderm[2X][X]
 Levin Sword[2X][X]
 
 #0x7F
-Binding Bld[2X][X]
+[_G][_r][_a][_n] [_C][_e][_n][_t][_u][_r][_i][_o][2X][X]
 
 #0x3AB
 Alondite[2X][X]
@@ -614,7 +614,7 @@ Fenrir[2X][X]
 Anemone[2X][X]
 
 #0xF3F
-[_D][_i][_m][_e][_n][_s][_i][_o][_n] [_B][_l][_a][_d][_e][2X][X]
+[_D][_i][_m][_e][_n][_s][_i][_o][_n][_B][_l][_a][_d][_e][2X][X]
 
 #0xBC
 Phoe[_n]i[_x] Vi[_a]l[2X][X]

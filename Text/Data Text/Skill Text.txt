@@ -219,8 +219,8 @@ Halve opponent's defense.[2X][X]
 
 #0x5A1
 (S Rank) Sol (Skill%)[N]
-Restore HP equal to[N]
-half of damage dealt.[2X][X]
+Restore HP equal[N]
+to damage dealt.[2X][X]
 
 #0x5A6
 (S Rank) Aether (Lv%)[N]

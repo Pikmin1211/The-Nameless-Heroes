@@ -102,7 +102,7 @@ Give it here.[AN]
 
 [MidRight]
 Alright, ya greedy dastard.[AN]
-You military folk are more villanous[N]
+You military folk are more villainous[N]
 than me, and I'm a damned pirate.[AN]
 
 [MidLeft]

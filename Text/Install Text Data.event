@@ -3405,6 +3405,10 @@ __TEXTPROCESSFCA:
 #incbin ".TextEntries\text_buildfileFCA.fetxt.dmp"
 setText($FCA, __TEXTPROCESSFCA)
 
+__TEXTPROCESSF6E:
+#incbin ".TextEntries\text_buildfileF6E.fetxt.dmp"
+setText($F6E, __TEXTPROCESSF6E)
+
 __TEXTPROCESS702:
 #incbin ".TextEntries\text_buildfile702.fetxt.dmp"
 setText($702, __TEXTPROCESS702)

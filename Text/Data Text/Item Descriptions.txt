@@ -370,7 +370,7 @@ For mercenaries, myrmidons,[N]
 and fighters Lv. 10 and up.[2X][X]
 
 #0x415
-For knights, cavaliers,[N]
+For knights, armors,[N]
 and soldiers Lv. 10 and up.[2X][X]
 
 #0x466
@@ -378,8 +378,8 @@ Use this on a worthy[N]
 unit to promote them.[2X][X]
 
 #0x416
-For archers and[N]
-nomads Lv. 10 and up.[2X][X]
+For archers and arch[N]
+knights Lv. 10 and up.[2X][X]
 
 #0x417
 For pegasus knights and[N]
@@ -666,3 +666,6 @@ growth +5% when held.[2X][X]
 #0xFCA
 Grants Res +2 and Res[N]
 growth +5% when held.[2X][X]
+
+#0xF6E
+[_I][_m][_m][_u][_n][_e] [_t][_o] [_S] [_r][_a][_n][_k] [_s][_k][_i][_l][_l][_s]. [_G][_r][_a][_n][_t][_s] [_C][_r][_u][_s][_a][_d][_e].[2X][X]
