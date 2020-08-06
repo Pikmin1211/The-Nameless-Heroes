@@ -550,3 +550,35 @@ Don't you realize our position?![N]
 There's a chance... I could die.[AN]
 If it can be helped, then...[N]
 Please, spare me from hell's fire.[A][2X][X]
+
+#0xFE7 AdelardEscape
+[MidRight][LoadAdelard]
+Gahahaha![N]
+Hate to say I told you so, but...[AN]
+You were so intent on preaching about[N]
+your honor and justice, little miss...[AN]
+They're just used to control you![AN]
+As for me? No thank you. I won't let[N]
+anybody curse me with such things.[AN]
+I live life by my own rules![A][2X][X]
+
+#0xFE5 JoelEscape
+[MidRight][LoadJoel]
+Bwahahaha![N]
+Thank you![AN]
+Freedom never[N]
+felt so good!![A][2X][X]
+
+#0xFE6 JoelEscape2
+[MidRight][LoadJoel]
+Hmm, any sign of a[N]
+trace around here...?[AN]
+...Whoops, looks like[N]
+it's already time to go![A][2X][X]
+
+#0xFE8 JoelEscape3
+[MidRight][LoadJoel]
+Everyone, pick up the pace!![AN]
+I have a hunch, as[N]
+a TREASURRRRE HUNTERRR,[AN]
+that we've gotta get going![A][2X][X]

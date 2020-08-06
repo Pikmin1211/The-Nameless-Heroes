@@ -1,0 +1,112 @@
+[MidLeft][LoadLizzy]
+
+What are you doing, kid?[N]
+
+Get up on your feet, now.[AN]
+
+This is no place to be[N]
+
+kneeling down, you know...[AN]
+
+
+
+[MidRight][LoadEvan]
+
+Hmm?[AN]
+
+What in blazes[N]
+
+are you doing?[AN]
+
+
+
+[MidLeft]
+
+Oh, I'm Lizzy.[N]
+
+I'm an Etrurian knight like you.[AN]
+
+What you're doing... You ought[N]
+
+to be ashamed of yourself, sir![AN]
+
+Bullying someone who can't fight back.[AN]
+
+How terrible! Being a knight is about[N]
+
+protecting those kinds of people![AN]
+
+That's what our job is for![AN]
+
+
+
+[MidRight]
+
+Right, right...[N]
+
+You're a... knight?[AN]
+
+
+
+[MidLeft]
+
+Get your foot off[N]
+
+of that boy's head.[AN]
+
+
+
+[MidRight]
+
+What?[N]
+
+You really don't...[AN]
+
+
+
+[MidLeft]
+
+You...![AN]
+
+Get out of here now, or I'll[N]
+
+force you to. Now scram![AN]
+
+
+
+[MidRight]
+
+Whoa, whoa! I'm an Etrurian knight.[N]
+
+You'd point your sword at an ally?[AN]
+
+
+
+[MidLeft]
+
+That "knights" like you exist...[N]
+
+I don't even want to think about it![AN]
+
+
+
+[MidRight]
+
+You're serious?[N]
+
+You insolent child...[AN]
+
+You need to be taught[N]
+
+the rules around here.[AN]
+
+I guess I'll have to[N]
+
+give you a crash course![AN]
+
+
+
+[MidLeft]
+
+!![A][X]
+

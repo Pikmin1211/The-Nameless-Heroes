@@ -90,8 +90,8 @@ Only weapons, tomes, and[N]
 staves can be repaired.[2X][X]
 
 #0x7D6
-There's no more ammo for[N]
-the ballista.[2X][X]
+There's no more ammo[N]
+for the ballista.[2X][X]
 
 #0x7D7
 There's no need for that.[2X][X]

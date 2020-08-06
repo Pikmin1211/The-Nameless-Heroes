@@ -5,7 +5,6 @@
 #define TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT
 
 #define schwarztemp $051
-#define supreme_light $08D
 #define nosferatu2 $341
 #define FE3EnemyTheme $DD5
 #define FE1EnemyTheme $DD6
@@ -112,7 +111,7 @@
 #define Chapter3Objective $124
 #define MapChapter3Objective $13E
 #define Chapter3Name $0EB
-#define Chapter4Objective $131
+#define Chapter4Objective $130
 #define MapChapter4Objective $128
 #define Chapter4Name $0EC
 #define Chapter5Name $0EE
@@ -154,6 +153,8 @@
 #define Chapter17bObjective $14A
 #define Chapter18Name $0FA
 #define Chapter19Name $0FB
+#define Chapter19Objective $145
+#define MapChapter19Objective $138
 #define AffinityTexts $001
 #define dodgetext $5D9
 #define leadershipstarstxt $06D
@@ -205,6 +206,7 @@
 #define SupplyEmpty $533
 #define PrepScreenArmory $524
 #define PrepScreenArmoryDesc $543
+#define PrepScreenItemUse $4CB
 #define SupportScreenBottomText $538
 #define SupportMusicRoomCompletion $535
 #define SupportScreenCount1 $536
@@ -296,6 +298,8 @@
 #define HestiaRetreat $F95
 #define HestiaDeath $C11
 #define ViktorDeath $F96
+#define AdelardDeath $FE3
+#define JoelDeath $FE4
 #define IsaacEscape $572
 #define IsaacNotEscape $568
 #define FerrisEscape $56A
@@ -387,6 +391,10 @@
 #define HestiaEscape $F99
 #define HestiaEscape2 $F9A
 #define HestiaEscape3 $F9B
+#define AdelardEscape $FE7
+#define JoelEscape $FE5
+#define JoelEscape2 $FE6
+#define JoelEscape3 $FE8
 #define IsaacTreasure $E3F
 #define WolfTreasure $E40
 #define OlsonTreasure $E42
@@ -426,6 +434,8 @@
 #define DonQuixoteTreasue $F7B
 #define HestiaTreasure $F94
 #define ViktorTreasure $F97
+#define AdelardTreasure $FEA
+#define JoelTreasure $FE9
 #define PrologueSystemMessage $D3D
 #define Chapter1BaseSystemMessage $94F
 #define Chapter8BaseSystemMessage $9D6
@@ -589,6 +599,7 @@
 #define Chapter4DanielDeathQuote $988
 #define Chapter4Guide $091
 #define Chapter4GraceAppears $F75
+#define Chapter4IsaacJoelTalk $FE2
 #define Chapter5Opening1 $989
 #define Chapter5Opening2 $97E
 #define Chapter5Opening3 $97F
@@ -637,6 +648,7 @@
 #define Chapter7BaseJeronimoTalk $D43
 #define Chapter7BaseWorldMap $883
 #define Chapter7BaseIsaacGraceTalk $905
+#define Chapter7BaseJoelTalk $BA9
 #define Chapter7FourDays $5EA
 #define Chapter7Opening $9AE
 #define Chapter7Opening2 $9AF
@@ -666,5 +678,46 @@
 #define ExtraBaseBattle2 $902
 #define ExtraBaseIsaacDefeat $90E
 #define ExtraBaseLizzyDefeat $B1E
+#define Chapter8BaseWorldMap $885
+#define Chapter8BaseJeronimoTalk $D44
+#define Chapter8BaseIsaacHermesTalk $90A
+#define Chapter8BaseIsaacLarumTalk $8F2
+#define Chapter8BaseIsaacLizzyTalk $B66
+#define Chapter8BaseIsaacAudreyTalk $B38
+#define Chapter8BaseArtieAudreyTalk $973
+#define Chapter8BaseIsaacJesterTalk $906
+#define Chapter8BaseCivilians $FCF
+#define Chapter8Opening $9C9
+#define Chapter8Opening2 $93F
+#define Chapter8Opening3 $9CB
+#define Chapter8Opening4 $997
+#define Chapter8Opening5 $9BF
+#define Chapter8Opening6 $9AB
+#define Chapter8Opening7 $9DA
+#define Chapter8Opening8 $9CC
+#define Chapter8Opening9 $9CA
+#define Chapter8Opening10 $9C0
+#define Chapter8Opening11 $9CD
+#define Chapter8House $9C7
+#define Chapter8Village $92A
+#define Chapter8Village2 $977
+#define Chapter8Village3 $949
+#define Chapter8House2 $9C8
+#define Chapter8Village4 $930
+#define Chapter8House3 $92B
+#define Chapter8Turn6 $934
+#define Chapter8Turn10 $975
+#define Chapter8EvanDeath $9D0
+#define Chapter8EvenLizzyBattle $A39
+#define Chapter8EvanBattle $9CF
+#define Chapter8Guide $094
+#define Chapter8Ending1 $9D1
+#define Chapter8Ending2 $102B
+#define Chapter8Ending3 $9D2
+#define Chapter8Ending4 $9D3
+#define Chapter8Ending5 $9D5
+#define Chapter8Ending6 $9CE
+#define Chapter8Ending7 $9D4
+#define Chapter8Ending8 $9BA
 
 #endif // TEXT_DEFINITIONS_TEXT_BUILDFILE_TXT

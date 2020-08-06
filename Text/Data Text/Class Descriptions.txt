@@ -183,7 +183,7 @@ Wielders of magic who are stronger,[N]
 but slower, than mages. Equip: [DarkIcon][2X][X]
 
 #0x2B4
-Wielders of deep and ancient magic.[N]
+Wielders of deep and ancient[N]
 magic. Skill: Eclipse. Equip: [DarkIcon] [StaffIcon][2X][X]
 
 #0x2B5

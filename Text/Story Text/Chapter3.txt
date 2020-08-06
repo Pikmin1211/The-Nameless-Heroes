@@ -114,7 +114,7 @@ I'm just making sure.[AN]
 Pirates these days are very[N]
 keen when it comes to disguises.[AN]
 
-[MidLeft]
+[FarLeft]
 If that's the case...[AN]
 then that sounds[N]
 reasonable, I s'pose.[AN]

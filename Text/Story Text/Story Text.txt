@@ -16,3 +16,5 @@
 #include "Chapter7Base.txt"
 #include "Chapter7.txt"
 #include "ExtraBase.txt"
+#include "Chapter8Base.txt"
+#include "Chapter8.txt"

@@ -584,7 +584,7 @@ you doing here?[AN]
 
 [MidRight]
 Chloe is here too, and[N]
-Sophia is on standby outside.[AN]
+Sofia is on standby outside.[AN]
 No way we were just[N]
 going to leave you here.[AN]
 You know that they say nobody[N]
@@ -1118,3 +1118,43 @@ Audrey told me to stay behind, but...[N]
 [CloseEyes]I ended up following anyways. Ah...[AN][OpenEyes]
 I-I'm sure I'll be helpful![N]
 I'll treat everyone's wounds![A][2X][X]
+
+
+
+#0xFE2 Chapter4IsaacJoelTalk
+[MidRight][LoadJoel][MidLeft][LoadIsaac]
+Hello, Sir... Joel, was it?[N]
+I was hoping you could help us.[AN]
+
+[MidRight][MoveMidRight]
+Sorry? I've seen you around,[N]
+but I don't know who ya are...[AN]
+How do ya know my name?[AN]
+
+[MidLeft]
+You're, um, well-known around here.[N]
+You have quite a booming voice.[AN]
+
+[MidRight][MoveMidRight]
+Oh, really?![N]
+[MoveMidRight]
+WELL, IS THAT SO?!![AN]
+
+[MidLeft]
+...Try to keep[N]
+your voice down.[AN]
+
+[MidRight]
+Oh, sorry man.[AN]
+Allow me to properly[N]
+introduce myself.[AN][Smile]
+I'm from Ilia and[N]
+my name is JOEL!![AN]
+I travel the globe[N]
+in search of treasure,[AN]
+so you might call me...[AN]
+[MoveMidRight]
+A TREASURRRE HUNTERRRR!!![AN]
+
+[MidLeft]
+Keep it down![A][2X][X]

@@ -198,7 +198,7 @@ heard the town was being attacked.[AN]
 We headed here, thinking that we[N]
 could help save the town...[AN]
 But I was surprised that all[N]
-of you guys was already there.[AN]
+of you guys were already there.[AN]
 And that the village...[N]
 Well, about what happened...[....][AN]
 
@@ -499,7 +499,8 @@ Please, take a look.[A][2X][X]
 
 [MidRight][LoadCurrent][MidLeft]
 This is the dojo.[AN]
-You can train here.[AN]
+You can train here[N]
+up to three times.[AN]
 Are you ready? Here we go![A][2X][X]
 
 

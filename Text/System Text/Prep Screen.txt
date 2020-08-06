@@ -122,7 +122,7 @@ Receive item.[N]
 A unit can carry up to 5 items.[2X][X]
 
 #0x52B SupplyStock
-[_S][_t][_o][_c][_k][2X][X]
+Bag[2X][X]
 
 #0x530 SupplyIntro
 What'll you do?[2X][X]
@@ -142,6 +142,9 @@ Nothing[2X][X]
 #0x543 PrepScreenArmoryDesc
 Buy and sell[N]
 items in the shop.[2X][X]
+
+#0x4CB PrepScreenItemUse
+Are you sure?[X]
 
 
 

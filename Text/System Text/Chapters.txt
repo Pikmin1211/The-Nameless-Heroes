@@ -50,7 +50,7 @@ Defeat Boss[2X][X]
 Defeat Boss[2X][X]
 
 #0xE8 PrologueName
-Mercenary Sortie[2X][X]
+Merc's Redemption[2X][X]
 
 #0x147 Chapter1Objective
 Defeat Boss[2X][X]
@@ -76,7 +76,7 @@ Survive[2X][X]
 #0xEB Chapter3Name
 Etrurian Ship[2X][X]
 
-#0x131 Chapter4Objective
+#0x130 Chapter4Objective
 Escape[2X][X]
 
 #0x128 MapChapter4Objective
@@ -205,3 +205,10 @@ Don Quixote[2X][X]
 
 #0xFB Chapter19Name
 Eyes of a Knight[2X][X]
+
+#0x145 Chapter19Objective
+Visit all of[N]
+the villages[2X][X]
+
+#0x138 MapChapter19Objective
+Visit[2X][X]

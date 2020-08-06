@@ -277,3 +277,17 @@ cremation is at hand...[A][CloseEyes][.....][2X][X]
 Hapiness... can be[N]
 achieved by anyone.[AN]
 But in time... we all die.[A][CloseEyes][.....][2X][X]
+
+#0xFE3 AdelardDeath
+[MidRight][LoadAdelard]
+Feh... I don't care...[N]
+There's... nothing...[AN]
+Nothing left for me...[A][CloseEyes][.....][2X][X]
+
+#0xFE4 JoelDeath
+[MidRight][LoadJoel]
+Whaaaat?![N]
+I can't die here...[AN]
+I still have so,[N]
+so much left to do!![AN]
+...Hurk...[A][CloseEyes][.....][2X][X]

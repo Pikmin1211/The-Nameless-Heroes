@@ -20,3 +20,6 @@ and numerous.[2X][X]
 #0x701
 Suspended data will be lost.[N]
 Is that all right?[2X][X]
+
+#0x61
+NO DATA[X]

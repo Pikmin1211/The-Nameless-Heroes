@@ -224,3 +224,14 @@ Hm...?[N]
 [Beat][AN]
 Everyone![N]
 I found something![A][2X][X]
+
+#0xFEA AdelardTreasure
+[MidRight][LoadAdelard]
+...My thanks to the[N]
+idiot who dropped this.[A][2X][X]
+
+#0xFE9 JoelTreasure
+[MidRight][LoadJoel]
+Wh-what is THAT?![AN]
+I just HAVE to[N]
+get a closer look![2X][X]

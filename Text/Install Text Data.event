@@ -457,6 +457,38 @@ __TEXTPROCESS1B6:
 #incbin ".TextEntries\text_buildfile1B6.fetxt.dmp"
 setText($1B6, __TEXTPROCESS1B6)
 
+__TEXTPROCESS1C8:
+#incbin ".TextEntries\text_buildfile1C8.fetxt.dmp"
+setText($1C8, __TEXTPROCESS1C8)
+
+__TEXTPROCESS1E3:
+#incbin ".TextEntries\text_buildfile1E3.fetxt.dmp"
+setText($1E3, __TEXTPROCESS1E3)
+
+__TEXTPROCESSFE0:
+#incbin ".TextEntries\text_buildfileFE0.fetxt.dmp"
+setText($FE0, __TEXTPROCESSFE0)
+
+__TEXTPROCESS1F1:
+#incbin ".TextEntries\text_buildfile1F1.fetxt.dmp"
+setText($1F1, __TEXTPROCESS1F1)
+
+__TEXTPROCESS0CF:
+#incbin ".TextEntries\text_buildfile0CF.fetxt.dmp"
+setText($CF, __TEXTPROCESS0CF)
+
+__TEXTPROCESS104E:
+#incbin ".TextEntries\text_buildfile104E.fetxt.dmp"
+setText($104E, __TEXTPROCESS104E)
+
+__TEXTPROCESS104F:
+#incbin ".TextEntries\text_buildfile104F.fetxt.dmp"
+setText($104F, __TEXTPROCESS104F)
+
+__TEXTPROCESS1063:
+#incbin ".TextEntries\text_buildfile1063.fetxt.dmp"
+setText($1063, __TEXTPROCESS1063)
+
 __TEXTPROCESS8D1:
 #incbin ".TextEntries\text_buildfile8D1.fetxt.dmp"
 setText($8D1, __TEXTPROCESS8D1)
@@ -668,6 +700,18 @@ setText($222, __TEXTPROCESS222)
 __TEXTPROCESS232:
 #incbin ".TextEntries\text_buildfile232.fetxt.dmp"
 setText($232, __TEXTPROCESS232)
+
+__TEXTPROCESS23B:
+#incbin ".TextEntries\text_buildfile23B.fetxt.dmp"
+setText($23B, __TEXTPROCESS23B)
+
+__TEXTPROCESSFE1:
+#incbin ".TextEntries\text_buildfileFE1.fetxt.dmp"
+setText($FE1, __TEXTPROCESSFE1)
+
+__TEXTPROCESS221:
+#incbin ".TextEntries\text_buildfile221.fetxt.dmp"
+setText($221, __TEXTPROCESS221)
 
 __TEXTPROCESS5B5:
 #incbin ".TextEntries\text_buildfile5B5.fetxt.dmp"
@@ -1116,6 +1160,38 @@ setText($FB7, __TEXTPROCESSFB7)
 __TEXTPROCESSFB8:
 #incbin ".TextEntries\text_buildfileFB8.fetxt.dmp"
 setText($FB8, __TEXTPROCESSFB8)
+
+__TEXTPROCESSFDF:
+#incbin ".TextEntries\text_buildfileFDF.fetxt.dmp"
+setText($FDF, __TEXTPROCESSFDF)
+
+__TEXTPROCESSFDE:
+#incbin ".TextEntries\text_buildfileFDE.fetxt.dmp"
+setText($FDE, __TEXTPROCESSFDE)
+
+__TEXTPROCESSFDB:
+#incbin ".TextEntries\text_buildfileFDB.fetxt.dmp"
+setText($FDB, __TEXTPROCESSFDB)
+
+__TEXTPROCESSFDC:
+#incbin ".TextEntries\text_buildfileFDC.fetxt.dmp"
+setText($FDC, __TEXTPROCESSFDC)
+
+__TEXTPROCESSFDD:
+#incbin ".TextEntries\text_buildfileFDD.fetxt.dmp"
+setText($FDD, __TEXTPROCESSFDD)
+
+__TEXTPROCESSFF1:
+#incbin ".TextEntries\text_buildfileFF1.fetxt.dmp"
+setText($FF1, __TEXTPROCESSFF1)
+
+__TEXTPROCESSFD9:
+#incbin ".TextEntries\text_buildfileFD9.fetxt.dmp"
+setText($FD9, __TEXTPROCESSFD9)
+
+__TEXTPROCESSFEE:
+#incbin ".TextEntries\text_buildfileFEE.fetxt.dmp"
+setText($FEE, __TEXTPROCESSFEE)
 
 __TEXTPROCESS071:
 #incbin ".TextEntries\text_buildfile071.fetxt.dmp"
@@ -2046,7 +2122,7 @@ __TEXTPROCESS33B:
 setText($33B, __TEXTPROCESS33B)
 
 __TEXTPROCESS08D:
-#incbin ".TextEntries\text_buildfilesupreme_light.fetxt.dmp"
+#incbin ".TextEntries\text_buildfile08D.fetxt.dmp"
 setText($8D, __TEXTPROCESS08D)
 
 __TEXTPROCESS33D:
@@ -2632,6 +2708,14 @@ setText($FC5, __TEXTPROCESSFC5)
 __TEXTPROCESSFC6:
 #incbin ".TextEntries\text_buildfileFC6.fetxt.dmp"
 setText($FC6, __TEXTPROCESSFC6)
+
+__TEXTPROCESSFD4:
+#incbin ".TextEntries\text_buildfileFD4.fetxt.dmp"
+setText($FD4, __TEXTPROCESSFD4)
+
+__TEXTPROCESSFFC:
+#incbin ".TextEntries\text_buildfileFFC.fetxt.dmp"
+setText($FFC, __TEXTPROCESSFFC)
 
 __TEXTPROCESS392:
 #incbin ".TextEntries\text_buildfile392.fetxt.dmp"
@@ -3409,6 +3493,18 @@ __TEXTPROCESSF6E:
 #incbin ".TextEntries\text_buildfileF6E.fetxt.dmp"
 setText($F6E, __TEXTPROCESSF6E)
 
+__TEXTPROCESSFD5:
+#incbin ".TextEntries\text_buildfileFD5.fetxt.dmp"
+setText($FD5, __TEXTPROCESSFD5)
+
+__TEXTPROCESSFFD:
+#incbin ".TextEntries\text_buildfileFFD.fetxt.dmp"
+setText($FFD, __TEXTPROCESSFFD)
+
+__TEXTPROCESS1057:
+#incbin ".TextEntries\text_buildfile1057.fetxt.dmp"
+setText($1057, __TEXTPROCESS1057)
+
 __TEXTPROCESS702:
 #incbin ".TextEntries\text_buildfile702.fetxt.dmp"
 setText($702, __TEXTPROCESS702)
@@ -3913,9 +4009,9 @@ __TEXTPROCESSE09:
 #incbin ".TextEntries\text_buildfileYggdraRuin.fetxt.dmp"
 setText($E09, __TEXTPROCESSE09)
 
-__TEXTPROCESS061:
-#incbin ".TextEntries\text_buildfile061.fetxt.dmp"
-setText($61, __TEXTPROCESS061)
+__TEXTPROCESS1062:
+#incbin ".TextEntries\text_buildfile1062.fetxt.dmp"
+setText($1062, __TEXTPROCESS1062)
 
 __TEXTPROCESSE34:
 #incbin ".TextEntries\text_buildfileE34.fetxt.dmp"
@@ -4401,9 +4497,9 @@ __TEXTPROCESS0EB:
 #incbin ".TextEntries\text_buildfileChapter3Name.fetxt.dmp"
 setText($EB, __TEXTPROCESS0EB)
 
-__TEXTPROCESS131:
+__TEXTPROCESS130:
 #incbin ".TextEntries\text_buildfileChapter4Objective.fetxt.dmp"
-setText($131, __TEXTPROCESS131)
+setText($130, __TEXTPROCESS130)
 
 __TEXTPROCESS128:
 #incbin ".TextEntries\text_buildfileMapChapter4Objective.fetxt.dmp"
@@ -4568,6 +4664,14 @@ setText($FA, __TEXTPROCESS0FA)
 __TEXTPROCESS0FB:
 #incbin ".TextEntries\text_buildfileChapter19Name.fetxt.dmp"
 setText($FB, __TEXTPROCESS0FB)
+
+__TEXTPROCESS145:
+#incbin ".TextEntries\text_buildfileChapter19Objective.fetxt.dmp"
+setText($145, __TEXTPROCESS145)
+
+__TEXTPROCESS138:
+#incbin ".TextEntries\text_buildfileMapChapter19Objective.fetxt.dmp"
+setText($138, __TEXTPROCESS138)
 
 __TEXTPROCESS001:
 #incbin ".TextEntries\text_buildfileAffinityTexts.fetxt.dmp"
@@ -5317,6 +5421,10 @@ __TEXTPROCESS543:
 #incbin ".TextEntries\text_buildfilePrepScreenArmoryDesc.fetxt.dmp"
 setText($543, __TEXTPROCESS543)
 
+__TEXTPROCESS4CB:
+#incbin ".TextEntries\text_buildfilePrepScreenItemUse.fetxt.dmp"
+setText($4CB, __TEXTPROCESS4CB)
+
 __TEXTPROCESS538:
 #incbin ".TextEntries\text_buildfileSupportScreenBottomText.fetxt.dmp"
 setText($538, __TEXTPROCESS538)
@@ -5712,6 +5820,10 @@ setText($665, __TEXTPROCESS665)
 __TEXTPROCESS666:
 #incbin ".TextEntries\text_buildfile666.fetxt.dmp"
 setText($666, __TEXTPROCESS666)
+
+__TEXTPROCESSD29:
+#incbin ".TextEntries\text_buildfileD29.fetxt.dmp"
+setText($D29, __TEXTPROCESSD29)
 
 __TEXTPROCESS667:
 #incbin ".TextEntries\text_buildfile667.fetxt.dmp"
@@ -6128,6 +6240,10 @@ setText($834, __TEXTPROCESS834)
 __TEXTPROCESS701:
 #incbin ".TextEntries\text_buildfile701.fetxt.dmp"
 setText($701, __TEXTPROCESS701)
+
+__TEXTPROCESS061:
+#incbin ".TextEntries\text_buildfile061.fetxt.dmp"
+setText($61, __TEXTPROCESS061)
 
 __TEXTPROCESS81F:
 #incbin ".TextEntries\text_buildfile81F.fetxt.dmp"
@@ -6961,6 +7077,14 @@ __TEXTPROCESSF96:
 #incbin ".TextEntries\text_buildfileViktorDeath.fetxt.dmp"
 setText($F96, __TEXTPROCESSF96)
 
+__TEXTPROCESSFE3:
+#incbin ".TextEntries\text_buildfileAdelardDeath.fetxt.dmp"
+setText($FE3, __TEXTPROCESSFE3)
+
+__TEXTPROCESSFE4:
+#incbin ".TextEntries\text_buildfileJoelDeath.fetxt.dmp"
+setText($FE4, __TEXTPROCESSFE4)
+
 __TEXTPROCESS572:
 #incbin ".TextEntries\text_buildfileIsaacEscape.fetxt.dmp"
 setText($572, __TEXTPROCESS572)
@@ -7325,6 +7449,22 @@ __TEXTPROCESSF9B:
 #incbin ".TextEntries\text_buildfileHestiaEscape3.fetxt.dmp"
 setText($F9B, __TEXTPROCESSF9B)
 
+__TEXTPROCESSFE7:
+#incbin ".TextEntries\text_buildfileAdelardEscape.fetxt.dmp"
+setText($FE7, __TEXTPROCESSFE7)
+
+__TEXTPROCESSFE5:
+#incbin ".TextEntries\text_buildfileJoelEscape.fetxt.dmp"
+setText($FE5, __TEXTPROCESSFE5)
+
+__TEXTPROCESSFE6:
+#incbin ".TextEntries\text_buildfileJoelEscape2.fetxt.dmp"
+setText($FE6, __TEXTPROCESSFE6)
+
+__TEXTPROCESSFE8:
+#incbin ".TextEntries\text_buildfileJoelEscape3.fetxt.dmp"
+setText($FE8, __TEXTPROCESSFE8)
+
 __TEXTPROCESSE3F:
 #incbin ".TextEntries\text_buildfileIsaacTreasure.fetxt.dmp"
 setText($E3F, __TEXTPROCESSE3F)
@@ -7484,6 +7624,14 @@ setText($F94, __TEXTPROCESSF94)
 __TEXTPROCESSF97:
 #incbin ".TextEntries\text_buildfileViktorTreasure.fetxt.dmp"
 setText($F97, __TEXTPROCESSF97)
+
+__TEXTPROCESSFEA:
+#incbin ".TextEntries\text_buildfileAdelardTreasure.fetxt.dmp"
+setText($FEA, __TEXTPROCESSFEA)
+
+__TEXTPROCESSFE9:
+#incbin ".TextEntries\text_buildfileJoelTreasure.fetxt.dmp"
+setText($FE9, __TEXTPROCESSFE9)
 
 __TEXTPROCESSD3D:
 #incbin ".TextEntries\text_buildfilePrologueSystemMessage.fetxt.dmp"
@@ -8137,6 +8285,10 @@ __TEXTPROCESSF75:
 #incbin ".TextEntries\text_buildfileChapter4GraceAppears.fetxt.dmp"
 setText($F75, __TEXTPROCESSF75)
 
+__TEXTPROCESSFE2:
+#incbin ".TextEntries\text_buildfileChapter4IsaacJoelTalk.fetxt.dmp"
+setText($FE2, __TEXTPROCESSFE2)
+
 __TEXTPROCESS989:
 #incbin ".TextEntries\text_buildfileChapter5Opening1.fetxt.dmp"
 setText($989, __TEXTPROCESS989)
@@ -8329,6 +8481,10 @@ __TEXTPROCESS905:
 #incbin ".TextEntries\text_buildfileChapter7BaseIsaacGraceTalk.fetxt.dmp"
 setText($905, __TEXTPROCESS905)
 
+__TEXTPROCESSBA9:
+#incbin ".TextEntries\text_buildfileChapter7BaseJoelTalk.fetxt.dmp"
+setText($BA9, __TEXTPROCESSBA9)
+
 __TEXTPROCESS5EA:
 #incbin ".TextEntries\text_buildfileChapter7FourDays.fetxt.dmp"
 setText($5EA, __TEXTPROCESS5EA)
@@ -8448,6 +8604,170 @@ setText($90E, __TEXTPROCESS90E)
 __TEXTPROCESSB1E:
 #incbin ".TextEntries\text_buildfileExtraBaseLizzyDefeat.fetxt.dmp"
 setText($B1E, __TEXTPROCESSB1E)
+
+__TEXTPROCESS885:
+#incbin ".TextEntries\text_buildfileChapter8BaseWorldMap.fetxt.dmp"
+setText($885, __TEXTPROCESS885)
+
+__TEXTPROCESSD44:
+#incbin ".TextEntries\text_buildfileChapter8BaseJeronimoTalk.fetxt.dmp"
+setText($D44, __TEXTPROCESSD44)
+
+__TEXTPROCESS90A:
+#incbin ".TextEntries\text_buildfileChapter8BaseIsaacHermesTalk.fetxt.dmp"
+setText($90A, __TEXTPROCESS90A)
+
+__TEXTPROCESS8F2:
+#incbin ".TextEntries\text_buildfileChapter8BaseIsaacLarumTalk.fetxt.dmp"
+setText($8F2, __TEXTPROCESS8F2)
+
+__TEXTPROCESSB66:
+#incbin ".TextEntries\text_buildfileChapter8BaseIsaacLizzyTalk.fetxt.dmp"
+setText($B66, __TEXTPROCESSB66)
+
+__TEXTPROCESSB38:
+#incbin ".TextEntries\text_buildfileChapter8BaseIsaacAudreyTalk.fetxt.dmp"
+setText($B38, __TEXTPROCESSB38)
+
+__TEXTPROCESS973:
+#incbin ".TextEntries\text_buildfileChapter8BaseArtieAudreyTalk.fetxt.dmp"
+setText($973, __TEXTPROCESS973)
+
+__TEXTPROCESS906:
+#incbin ".TextEntries\text_buildfileChapter8BaseIsaacJesterTalk.fetxt.dmp"
+setText($906, __TEXTPROCESS906)
+
+__TEXTPROCESSFCF:
+#incbin ".TextEntries\text_buildfileChapter8BaseCivilians.fetxt.dmp"
+setText($FCF, __TEXTPROCESSFCF)
+
+__TEXTPROCESS9C9:
+#incbin ".TextEntries\text_buildfileChapter8Opening.fetxt.dmp"
+setText($9C9, __TEXTPROCESS9C9)
+
+__TEXTPROCESS93F:
+#incbin ".TextEntries\text_buildfileChapter8Opening2.fetxt.dmp"
+setText($93F, __TEXTPROCESS93F)
+
+__TEXTPROCESS9CB:
+#incbin ".TextEntries\text_buildfileChapter8Opening3.fetxt.dmp"
+setText($9CB, __TEXTPROCESS9CB)
+
+__TEXTPROCESS997:
+#incbin ".TextEntries\text_buildfileChapter8Opening4.fetxt.dmp"
+setText($997, __TEXTPROCESS997)
+
+__TEXTPROCESS9BF:
+#incbin ".TextEntries\text_buildfileChapter8Opening5.fetxt.dmp"
+setText($9BF, __TEXTPROCESS9BF)
+
+__TEXTPROCESS9AB:
+#incbin ".TextEntries\text_buildfileChapter8Opening6.fetxt.dmp"
+setText($9AB, __TEXTPROCESS9AB)
+
+__TEXTPROCESS9DA:
+#incbin ".TextEntries\text_buildfileChapter8Opening7.fetxt.dmp"
+setText($9DA, __TEXTPROCESS9DA)
+
+__TEXTPROCESS9CC:
+#incbin ".TextEntries\text_buildfileChapter8Opening8.fetxt.dmp"
+setText($9CC, __TEXTPROCESS9CC)
+
+__TEXTPROCESS9CA:
+#incbin ".TextEntries\text_buildfileChapter8Opening9.fetxt.dmp"
+setText($9CA, __TEXTPROCESS9CA)
+
+__TEXTPROCESS9C0:
+#incbin ".TextEntries\text_buildfileChapter8Opening10.fetxt.dmp"
+setText($9C0, __TEXTPROCESS9C0)
+
+__TEXTPROCESS9CD:
+#incbin ".TextEntries\text_buildfileChapter8Opening11.fetxt.dmp"
+setText($9CD, __TEXTPROCESS9CD)
+
+__TEXTPROCESS9C7:
+#incbin ".TextEntries\text_buildfileChapter8House.fetxt.dmp"
+setText($9C7, __TEXTPROCESS9C7)
+
+__TEXTPROCESS92A:
+#incbin ".TextEntries\text_buildfileChapter8Village.fetxt.dmp"
+setText($92A, __TEXTPROCESS92A)
+
+__TEXTPROCESS977:
+#incbin ".TextEntries\text_buildfileChapter8Village2.fetxt.dmp"
+setText($977, __TEXTPROCESS977)
+
+__TEXTPROCESS949:
+#incbin ".TextEntries\text_buildfileChapter8Village3.fetxt.dmp"
+setText($949, __TEXTPROCESS949)
+
+__TEXTPROCESS9C8:
+#incbin ".TextEntries\text_buildfileChapter8House2.fetxt.dmp"
+setText($9C8, __TEXTPROCESS9C8)
+
+__TEXTPROCESS930:
+#incbin ".TextEntries\text_buildfileChapter8Village4.fetxt.dmp"
+setText($930, __TEXTPROCESS930)
+
+__TEXTPROCESS92B:
+#incbin ".TextEntries\text_buildfileChapter8House3.fetxt.dmp"
+setText($92B, __TEXTPROCESS92B)
+
+__TEXTPROCESS934:
+#incbin ".TextEntries\text_buildfileChapter8Turn6.fetxt.dmp"
+setText($934, __TEXTPROCESS934)
+
+__TEXTPROCESS975:
+#incbin ".TextEntries\text_buildfileChapter8Turn10.fetxt.dmp"
+setText($975, __TEXTPROCESS975)
+
+__TEXTPROCESS9D0:
+#incbin ".TextEntries\text_buildfileChapter8EvanDeath.fetxt.dmp"
+setText($9D0, __TEXTPROCESS9D0)
+
+__TEXTPROCESSA39:
+#incbin ".TextEntries\text_buildfileChapter8EvenLizzyBattle.fetxt.dmp"
+setText($A39, __TEXTPROCESSA39)
+
+__TEXTPROCESS9CF:
+#incbin ".TextEntries\text_buildfileChapter8EvanBattle.fetxt.dmp"
+setText($9CF, __TEXTPROCESS9CF)
+
+__TEXTPROCESS094:
+#incbin ".TextEntries\text_buildfileChapter8Guide.fetxt.dmp"
+setText($94, __TEXTPROCESS094)
+
+__TEXTPROCESS9D1:
+#incbin ".TextEntries\text_buildfileChapter8Ending1.fetxt.dmp"
+setText($9D1, __TEXTPROCESS9D1)
+
+__TEXTPROCESS102B:
+#incbin ".TextEntries\text_buildfileChapter8Ending2.fetxt.dmp"
+setText($102B, __TEXTPROCESS102B)
+
+__TEXTPROCESS9D2:
+#incbin ".TextEntries\text_buildfileChapter8Ending3.fetxt.dmp"
+setText($9D2, __TEXTPROCESS9D2)
+
+__TEXTPROCESS9D3:
+#incbin ".TextEntries\text_buildfileChapter8Ending4.fetxt.dmp"
+setText($9D3, __TEXTPROCESS9D3)
+
+__TEXTPROCESS9D5:
+#incbin ".TextEntries\text_buildfileChapter8Ending5.fetxt.dmp"
+setText($9D5, __TEXTPROCESS9D5)
+
+__TEXTPROCESS9CE:
+#incbin ".TextEntries\text_buildfileChapter8Ending6.fetxt.dmp"
+setText($9CE, __TEXTPROCESS9CE)
+
+__TEXTPROCESS9D4:
+#incbin ".TextEntries\text_buildfileChapter8Ending7.fetxt.dmp"
+setText($9D4, __TEXTPROCESS9D4)
+
+__TEXTPROCESS9BA:
+#incbin ".TextEntries\text_buildfileChapter8Ending8.fetxt.dmp"
+setText($9BA, __TEXTPROCESS9BA)
 
 __TEXTPROCESSD13:
 #incbin ".TextEntries\text_buildfileD13.fetxt.dmp"

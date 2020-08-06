@@ -12,10 +12,10 @@ POP
 
 //Item descriptions
 PUSH
-	ORG $F707DA //Ruin tome
+	ORG $123F7EA //Ruin tome
 	SHORT 0x396 //High crit description
 
-	ORG $F6FE4A //Slim Sword
+	ORG $123EE5A //Slim Sword
 	SHORT 0x38B //Iron Sword description //Slim Sword ID used for Alondite
 POP
 

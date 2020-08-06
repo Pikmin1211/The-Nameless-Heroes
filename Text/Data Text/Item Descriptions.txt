@@ -669,3 +669,13 @@ growth +5% when held.[2X][X]
 
 #0xF6E
 [_I][_m][_m][_u][_n][_e] [_t][_o] [_S] [_r][_a][_n][_k] [_s][_k][_i][_l][_l][_s]. [_G][_r][_a][_n][_t][_s] [_C][_r][_u][_s][_a][_d][_e].[2X][X]
+
+#0xFD5
+[_A] [_s][_p][_e][_a][_r] [_t][_h][_a][_t] [_l][_a][_u][_n][_c][_h][_e][_s] [_l][_o][_n][_g] [_r][_a][_n][_g][_e] [_l][_i][_g][_h][_t][_n][_i][_n][_g] [_s][_t][_r][_i][_k][_e][_s].[2X][X]
+
+#0xFFD
+Grants Max HP +5 and HP[N]
+growth +5% when held.[2X][X]
+
+#0x1057
+Effective against: [ArmorIcon][2X][X]

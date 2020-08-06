@@ -1,0 +1,122 @@
+[MidLeft][LoadBarrelle][MidRight][LoadIsaac]
+
+[FarFarRight]
+
+Looks like the enemies[N]
+
+aren't around...[AN]
+
+
+
+[MidLeft][Clear][MidRight][Clear]
+
+[FarLeft][LoadBarrelle][Left][LoadIsaac]
+
+[MidRight][LoadRedSoldier]
+
+[Left]
+
+!![AN]
+
+
+
+[MidRight]
+
+Ow...[AN]
+
+Hey hey, wait[N]
+
+a minute...![AN]
+
+
+
+[FarLeft]
+
+Isaac, he's one of us.[N]
+
+Can you lower your sword?[AN]
+
+
+
+[Left]
+
+Oh, I'm sorry. I thought you[N]
+
+were an enemy. Forgive me.[AN]
+
+
+
+[MidRight][Clear][LoadYoungMan]
+
+Whew, that[N]
+
+was scary...[AN]
+
+
+
+[FarLeft]
+
+So how is it out there?[AN]
+
+
+
+[MidRight]
+
+Our allies are buying us time[N]
+
+by pulling over their carts.[AN]
+
+Seems they haven't gotten very far.[N]
+
+We can still catch up if we move now.[AN]
+
+
+
+[FarLeft]
+
+Great. Then let's gather everyone[N]
+
+and go get those people back.[AN]
+
+
+
+[Left]
+
+What are our orders,[N]
+
+Miss Larum?[AN]
+
+
+
+[MidRight][Clear][LoadLarum]
+
+Well, we owe these guys a lot,[N]
+
+so of course we should help them![AN]
+
+
+
+[Left]
+
+But we can't leave Elffin alone...[N]
+
+Miss Larum, will you stay with him?[AN]
+
+We'll handle things on our own.[AN]
+
+
+
+[MidRight]
+
+Hum... alright![N]
+
+I'll leave it to you![AN]
+
+
+
+[Clear][LoadYoungMan]
+
+Then let's go[N]
+
+and help everyone![A][X]
+

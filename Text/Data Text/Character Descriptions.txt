@@ -207,3 +207,15 @@ None who cross him have lived.[2X][X]
 #0x232
 A member of Isaac's[N]
 trusted mercenaries.[2X][X]
+
+#0x23B
+A treasure hunter from Ilia.[N]
+Loud-mouthed and easily excited.[2X][X]
+
+#0xFE1
+A skilled knight serving Etruria.[N]
+Cold, lazy and cynical.[2X][X]
+
+#0x221
+An Etrurian commander. Does[N]
+his work dispassionately.[2X][X]

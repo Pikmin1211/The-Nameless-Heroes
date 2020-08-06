@@ -166,7 +166,7 @@ Def[2X][X]
 Res[2X][X]
 
 #0x480
-Affin[2X][X]
+Aff[2X][X]
 
 #0x481
 Equip[2X][X]
@@ -181,7 +181,7 @@ Hit[2X][X]
 Avo[2X][X]
 
 #0x485
-Move[2X][X]
+Mov[2X][X]
 
 #0x486
 Con[2X][X]

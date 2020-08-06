@@ -1,4 +1,4 @@
-﻿cd %~dp0
+﻿cd "%~dp0"
 
 copy TheNamelessHeroes.gba TheNamelessHeroes_EngTrans.gba
 

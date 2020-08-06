@@ -1,0 +1,94 @@
+[MidLeft][LoadYggdra]
+
+Save suspend data?[N]
+
+[Yes]
+
+
+
+[MidRight][LoadIsaac]
+
+What do you do[N]
+
+if I say neither?[AN]
+
+
+
+[MidLeft]
+
+I'll figure it out when it happens.[N]
+
+Well then, let's get into tactics.[AN]
+
+You don't have a strict time limit,[N]
+
+but you still want to move quickly.[AN]
+
+
+
+[MidRight]
+
+Yes, I can see bandits scattered about.[N]
+
+No doubt the people's homes are in danger.[AN]
+
+
+
+[MidLeft]
+
+More bandits will arrive overtime.[AN]
+
+Naturally they'll be attacking the homes,[N]
+
+so you should try to split up to cover them.[AN]
+
+Some [Red]cavalry will also arrive to the west,[Red][N]
+
+so don't be getting caught offgaurd.[AN]
+
+If you've [Red]challanged yourself[Red], there will[N]
+
+be even more arriving shortly afterwards.[AN]
+
+
+
+[MidRight]
+
+Dealing with the bandits and Etrurians...[AN]
+
+We'll have to keep busy. It also[N]
+
+seems like there's powerful enemies.[AN]
+
+It may be easier if we make use of[N]
+
+any [Red]promotion items [Red]we've gathered here.[AN]
+
+
+
+[MidLeft]
+
+Remember that mastery skills won't activate[N]
+
+until you reach S rank in your weapon.[AN]
+
+For now, [Red]the enemies aren't able to use them.[Red][AN]
+
+
+
+[MidRight]
+
+For now, huh...[AN]
+
+
+
+[MidLeft]
+
+Don't take it for granted.[N]
+
+Well, that's all for now.[AN]
+
+Let me know if you need to[N]
+
+record your progress, okay?[A][X]
+
