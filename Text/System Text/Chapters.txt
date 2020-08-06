@@ -50,7 +50,7 @@ Defeat Boss[2X][X]
 Defeat Boss[2X][X]
 
 #0xE8 PrologueName
-Mercenary Sortie[2X][X]
+Merc's Redemption[2X][X]
 
 #0x147 Chapter1Objective
 Defeat Boss[2X][X]
@@ -76,7 +76,7 @@ Survive[2X][X]
 #0xEB Chapter3Name
 Etrurian Ship[2X][X]
 
-#0x131 Chapter4Objective
+#0x130 Chapter4Objective
 Escape[2X][X]
 
 #0x128 MapChapter4Objective
@@ -92,7 +92,7 @@ Fight for Freedom[2X][X]
 The Resistance[2X][X]
 
 #0xF4 Chapter7Name
-With a New Fate[2X][X]
+With that Fate[2X][X]
 
 #0xF1 Chapter8Name
 As a Knight[2X][X]
@@ -154,7 +154,7 @@ the Liberation[2X][X]
 Attack[2X][X]
 
 #0xF8 Chapter16Name
-Desolate Capital[2X][X]
+God's Thunder[2X][X]
 
 #0x10C BaseName
 Base[2X][X]
@@ -199,3 +199,16 @@ the bandits[2X][X]
 
 #0x14A Chapter17bObjective
 Stop Lizzy[2X][X]
+
+#0xFA Chapter18Name
+Don Quixote[2X][X]
+
+#0xFB Chapter19Name
+Eyes of a Knight[2X][X]
+
+#0x145 Chapter19Objective
+Visit all of[N]
+the villages[2X][X]
+
+#0x138 MapChapter19Objective
+Visit[2X][X]

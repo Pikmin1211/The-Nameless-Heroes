@@ -11,6 +11,9 @@
     #include "Patch/_Master Hack Installer.event"
 
     #include "Graphics/_Master Graphics Installer.event"
+
+    ALIGN 16 // ups correction
+    WORD 0 0 0 0
     
 #else
     ERROR You are not assembling FE8 events!

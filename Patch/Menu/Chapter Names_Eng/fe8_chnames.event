@@ -1,0 +1,35 @@
+#include "Extensions/Hack Installation.txt"
+
+PUSH
+ORG $8B894
+jumpToHack(Chname)
+ORG $8B8DC
+jumpToHack(Chname)
+ORG $8b9dc
+BYTE 0x1E 0xE0 //skip check
+POP
+
+ALIGN 4
+Chname:
+#incbin "fe8_chapter_names.dmp"
+POIN ChFont
+POIN ChTable
+POIN SpecialChapter
+
+ALIGN 4
+ChFont:
+#incbin "font.png.dmp"
+
+ALIGN 4
+ChTable:
+#incbin "chartable.dmp"
+
+ALIGN 4
+SpecialChapter:
+//    ChID Text
+SHORT 0x00 0xE3 // Prologue
+SHORT 0x41 0x00 // Arena
+SHORT 0x39 0x00 // Base
+WORD 0x0
+
+ALIGN 4

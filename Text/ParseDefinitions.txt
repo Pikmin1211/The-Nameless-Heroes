@@ -20,6 +20,7 @@
 [Smile] = [ToggleSmile]
 [TMM] = [ToggleMouthMove]
 [2X] = [0x00]
+[ClearSpeech] = [CloseSpeechSlow]
 
 [FarFarLeft] = [OpenFarFarLeft]
 [FarLeft] = [OpenFarLeft]
@@ -113,6 +114,8 @@
 [_y] = [0xD9][0x40]
 [_z] = [0xDA][0x40]
 
+[2px] = [0xE9][0x40]
+
 # Icons are Serif Only
 [ArmorIcon] = [0xDB][0x40]
 [DragonIcon] = [0xDC][0x40]
@@ -172,14 +175,21 @@
 [LoadAmon] = [LoadFace][0x4C][0x1]
 [LoadEchidna] = [LoadFace][0x58][0x1]
 [LoadElfin] = [LoadFace][0x0D][0x1]
+[LoadElffin] = [LoadFace][0x0D][0x1]
 [LoadLalum] = [LoadFace][0x1C][0x1]
+[LoadLarum] = [LoadLalum]
 [LoadPhelix] = [LoadFace][0x17][0x1]
 [LoadEdmund] = [LoadFace][0x1F][0x1]
 [LoadGrace] = [LoadFace][0x27][0x1]
 [LoadHaltmann] = [LoadFace][0x47][0x1]
 [LoadDonQuixote] = [LoadFace][0x1D][0x1]
 [LoadQuixote] = [LoadDonQuixote]
+[LoadHestia] = [LoadFace][0xC0][0x1]
+[LoadViktor] = [LoadFace][0xC1][0x1]
+[LoadJoel] = [LoadFace][0xC3][0x1]
+[LoadAdelard] = [LoadFace][0xC2][0x1]
 
+[LoadCalvin] = [LoadFace][0x53][0x1]
 
 [LoadDarth] = [LoadFace][0x44][0x1]
 [LoadSchwartz] = [LoadFace][0x32][0x1]
@@ -199,8 +209,10 @@
 [LoadArcard] = [LoadFace][0x40][0x1]
 [LoadGalius] = [LoadFace][0x42][0x1]
 [LoadDenny] = [LoadFace][0x2E][0x1]
+[LoadLiam] = [LoadFace][0x4C][0x1]
+[LoadEvan] = [LoadFace][0x38][0x1]
 
-
+[LoadCarl] = [LoadFace][0x54][0x1]
 [LoadWrys] = [LoadFace][0x2D][0x1]
 [LoadGeese] = [LoadFace][0x56][0x1]
 [LoadSoldier] = [LoadFace][0x6B][0x1]
@@ -227,3 +239,4 @@
 [LoadArena] = [LoadFace][][0x1]
 
 [LoadCurrent] = [LoadFace][CurrentPortrait]
+[LoadActive] = [LoadFace][CurrentPortrait]

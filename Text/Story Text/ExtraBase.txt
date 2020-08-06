@@ -1,0 +1,261 @@
+#0x90B ExtraBaseOpening
+[MidRight][LoadLizzy][MidLeft][LoadIsaac]
+Are you ready?[AN]
+
+[MidRight]
+Yes, of course![N]
+I'll give it my all![AN]
+I may not look like much, but[N]
+I take pride in my swordsmanship![AN]
+
+[MidLeft]
+Great, then, let's see[N]
+how you fare against me.[AN]
+Let's try not to hurt each[N]
+other too badly though.[AN]
+
+[MidRight]
+Thanks for your concern.[N]
+Okay, then let's do this![A][2X][X]
+
+
+
+
+
+#0x8EF ExtraBaseEnding
+[MidRight][LoadLizzy][MidLeft][LoadIsaac]
+Had enough?[AN]
+
+[MidRight]
+Don't...[AN][MoveMidRight]
+underestimate me![AN][MoveMidRight][ClearSpeech]
+
+[MidLeft][MoveRight]
+...In that case.[AN][Event]
+
+[MidRight]
+...![AN]
+
+[Right]
+This fight[N]
+is over.[AN][Event]
+[Right][Clear][MidLeft][LoadIsaac]
+
+[MidRight]
+I... lost...[.....][AN]
+I hate to admit it, but[N]
+you really are far stronger.[AN]
+
+[MidLeft]
+You did well, Miss Lizzy.[N]
+If I had to pick something,[AN]
+I'd say you don't have[N]
+enough battlefield experience.[AN]
+Sparring and daily drills[N]
+are important too, but...[AN]
+In the end, what's really[N]
+important is actual battle.[AN]
+If you don't fight real battles,[AN]
+you just won't be able to[N]
+see what's truly important.[AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+The more you fight for real,[N]
+the stronger you'll become.[AN]
+
+[MidRight]
+Y-you think so?[AN]
+
+[MidLeft]
+Yes, in fact,[N]
+I guarantee it.[AN]
+
+[MidRight]
+Thank you so much![AN]
+Speaking of, what are[N]
+your group's plans now?[AN]
+
+[MidLeft]
+After we've seen you[N]
+guys off to the island,[AN]
+we'll rest and then head[N]
+back to the mainland.[AN]
+
+[MidRight]
+I see... that's too bad.[AN]
+I guess that means we'll[N]
+be saying goodbye soon.[AN]
+
+[MidLeft]
+Yeah, I guess so.[AN]
+Until then, we can help[N]
+you with your training.[AN]
+If you don't mind.[AN]
+
+[MidRight]
+No, of course I don't mind![N]
+Please do teach me all you can.[AN]
+
+[MidLeft]
+It would be my[N]
+pleasure, Lizzy.[A][2X][X]
+
+
+
+
+#0x5D ExtraBaseGuide
+[MidLeft][LoadIsaac][MidRight][LoadLizzy]
+Alright, Sir Isaac...[N]
+I'm not gonna lose![AN]
+Here I come! Haah![AN]
+[ClearSpeech][MoveLeft]
+
+[MidLeft][MoveMidLeft]
+Hold a moment.[AN]
+
+[Left]
+H-Huh? Is there[N]
+something wrong?[AN]
+[Clear][MidRight][LoadLizzy]
+
+[MidLeft]
+Did you bother to[N]
+check my abilities?[AN]
+If you can't do that,[AN]
+it'll be tough for[N]
+you to win battles.[AN]
+
+[MidRight]
+Oh, you're right![N]
+Let me look, then...[AN]
+Hm... you have a shield...[N]
+Wait, we're on a timer too?[AN]
+Aren't you going to at least[N]
+give me a chance, Sir Isaac?[AN]
+
+[MidLeft]
+Let's not suggest I'm[N]
+fixing the match, here.[AN]
+I'm actually doing my[N]
+best to hold back on you.[AN]
+If you can impress me,[AN]
+I'll award you with[N]
+this [Red]Seraph Robe.[Red][AN]
+I'll [Red]only attack you,[Red][AN]
+so feel free to [Red]hide[N]
+behind your allies.[Red][AN]
+If you change your[N]
+mind about fighting me,[AN]
+you can just stand away[N]
+from me and run the timer.[AN]
+
+[MidRight]
+Hiding behind my allies[N]
+doesn't feel very knightly...[AN]
+
+[MidLeft]
+Once you're in my range,[N]
+it's difficult to escape,[AN]
+since I can outpace you.[AN]
+You should take advantage[N]
+of the resources you have.[AN]
+
+[MidRight]
+It's still not how[N]
+a knight should act...[AN]
+
+[MidLeft]
+Well, in this case,[AN]
+I obviously [Red]won't[N]
+kill you if you lose,[Red][AN]
+so how you fight here[N]
+is really up to you.[AN]
+
+[MidRight]
+H-huh. Should I be[N]
+happy about that...?[AN]
+
+[MidLeft]
+Your best bet to defeat[N]
+me is a magic sword.[AN]
+A [Red]Light Brand [Red]does[N]
+nicely, if you have one.[AN]
+
+[MidRight]
+I think I might...[AN]
+Anyways, I think I have[N]
+everything figured out now.[AN]
+Let's resume our match![N]
+Hyaaaah![AN][ClearSpeech][MoveLeft]
+
+[MidLeft][MoveMidLeft]
+J-just hold on[N]
+another moment...[AN]
+
+[Left]
+What is it[N]
+this time?[AN]
+[Clear][MidRight][LoadLizzy]
+
+[MidLeft]
+This is still the Guide Corner.[N]
+We need to get back to the arena.[AN]
+
+[MidRight]
+Oh, you're right![A][2X][X]
+
+
+
+
+#0x8FF ExtraBaseBattle
+[MidRight][LoadLizzy]
+I won't lose![N]
+Let's do this![AN]
+[Clear]
+
+[MidLeft][LoadIsaac]
+Strike when you're ready.[N]
+Show me what you're made of.[A][2X][X]
+
+
+
+
+#0x902 ExtraBaseBattle2
+[MidLeft][LoadIsaac]
+How's this?[AN]
+[Clear]
+
+[MidRight][LoadLizzy]
+Argh...! You're[N]
+way too strong...[AN]
+[Clear]
+
+[MidLeft][LoadIsaac]
+Oh, so you're[N]
+still standing?[AN]
+Heh. I'm impressed.[AN]
+[Clear]
+
+[MidRight][LoadLizzy]
+D-don't underestimate me![N]
+I'm a knight, after all![AN]
+T-this is nothing![A][2X][X]
+
+
+
+
+#0x90E ExtraBaseIsaacDefeat
+[MidLeft][LoadIsaac]
+[TMM]...![TMM][AN]
+Very well done.[N]
+...However![A][2X][X]
+
+
+
+
+#0xB1E ExtraBaseLizzyDefeat
+[MidRight][LoadLizzy]
+Ack... I'm not[N]
+out just yet...![A][2X][X]

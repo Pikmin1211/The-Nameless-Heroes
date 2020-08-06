@@ -1,2 +1,1 @@
-Increases damage with the Eternal
-Sword. Evasion is raised after combat.
+A spear that launches long range lightning strikes.

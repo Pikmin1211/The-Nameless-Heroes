@@ -1,0 +1,134 @@
+[MidRight][LoadIsaac][MidLeft][LoadLiam]
+
+Who on Earth are you...?![N]
+
+Why are you attacking this village?![AN]
+
+Don't tell me you're enjoying[N]
+
+killing these innocent villagers...?![AN]
+
+
+
+[MidRight][Beat][AN]
+
+
+
+[MidLeft]
+
+Well?![N]
+
+Answer me![AN]
+
+
+
+[MidRight]
+
+I'll honor you the[N]
+
+truth before you die.[AN]
+
+
+
+[MidLeft]
+
+[TMM]...![TMM][AN]
+
+
+
+[MidRight]
+
+This village is suspected of raiding[N]
+
+villages from other countries nearby.[AN]
+
+It is our mission to wipe out the bandits.[AN]
+
+I mustn't leak this fact to other countries,[N]
+
+which means... no one is allowed to live.[AN]
+
+
+
+[MidLeft]
+
+So you're Etrurian soldiers.[AN]
+
+And... this village is a[N]
+
+bandit stronghold, huh?[AN]
+
+How ridiculous![N]
+
+That's an outright lie![AN]
+
+
+
+[MidRight]
+
+It's not up to me[N]
+
+nor you to judge that.[AN]
+
+Still, I admire[N]
+
+people like you.[AN]
+
+
+
+[MidLeft]
+
+What!?[AN]
+
+
+
+[MidRight]
+
+Running around to save these people...[AN]
+
+You're the ideal of a knight.[N]
+
+And yet my orders are far from that.[AN]
+
+
+
+[MidLeft]
+
+Then why must you continue?![N]
+
+It's not too late to stop![AN]
+
+You can still lower your weapons![AN]
+
+
+
+[MidRight]
+
+That's not an option,[N]
+
+because this is our duty.[AN]
+
+For the sake of Etruria...[N]
+
+and for her people...[AN]
+
+I steel myself as a "knight".[AN]
+
+
+
+[MidLeft]
+
+Obeying orders without question...[N]
+
+How... how dare you pose as a knight![AN]
+
+On my honor, I'll defeat you![N]
+
+To fulfill my duty as a true knight![AN]
+
+Come![AN]
+
+
+
+[MidRight][Beat][A][2X][X]
+

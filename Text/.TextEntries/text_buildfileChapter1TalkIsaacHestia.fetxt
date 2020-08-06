@@ -1,0 +1,54 @@
+[MidRight][LoadIsaac][MidLeft][LoadHestia]
+
+Ah, commander.[N]
+
+How do you fare?[AN]
+
+
+
+[MidRight]
+
+...How do I[N]
+
+look, Hestia?[AN]
+
+
+
+[MidLeft]
+
+Quite well.[N]
+
+That's good to see.[AN]
+
+Now then, Isaac.[AN]
+
+I can go roast[N]
+
+these guys, right?[AN]
+
+
+
+[MidRight]
+
+Yeah, down to the[N]
+
+last speck of ash.[AN]
+
+
+
+[MidLeft][ToggleSmile]
+
+Permission granted, then?[N]
+
+Hehehehe... time to burn.[AN]
+
+Let me hear you scream[N]
+
+as I incinirate you![AN]
+
+It's not like these scum[N]
+
+have human rights anyways...[AN]
+
+Heehee... Ahahahaha![A][2X][X]
+

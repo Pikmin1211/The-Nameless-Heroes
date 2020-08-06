@@ -376,7 +376,7 @@ Royal Army (Siege)[2X][X]
 #0xE09 YggdraRuin
 Prelude to Ruin[2X][X]
 
-#0x61
+#0x1062
 Royal Army (Blitzkrieg)[2X][X]
 
 #0xE34
@@ -489,3 +489,6 @@ Venus Lighthouse[2X][X]
 
 #0xF62 KnightsInTheNightmare
 Combat Preparations[2X][X]
+
+#0xFBA
+Primal Dialga[2X][X]

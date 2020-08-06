@@ -45,6 +45,8 @@
 #define Geronimo 0x32
 #define Geronimo2 0x33
 #define HaguroAlly 0x34
+#define Hestia 0x28
+#define Victor 0x29
 
 // Boss
 #define Darth 0x43

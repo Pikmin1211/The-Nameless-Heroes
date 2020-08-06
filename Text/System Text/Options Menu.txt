@@ -1,8 +1,104 @@
-#0x9
+#0x36 OptionSelectionOn
+On[2X][X]
+
+#0x37 OptionSelectionOff
+Off[2X][X]
+
+#0x38 OptionSelection1
+1[2X][X]
+
+#0x39 OptionSelection2
+2[2X][X]
+
+#0x3A OptionSelection3
+3[2X][X]
+
+#0x3B OptionSelection4
+4[2X][X]
+
+#0x3C OptionSelectionSlow
+Slow[2X][X]
+
+#0x3D OptionSelectionNormal
+Normal[2X][X]
+
+#0x3E OptionSelectionFast
+Fast[2X][X]
+
+#0x3F OptionSelectionMax
+Max[2X][X]
+
+#0x40 OptionSelectionSolo
+Solo[2X][X]
+
+#0x41 OptionSelectionStrat
+Strat[2X][X]
+
+#0x42 OptionSelectionDetail
+Detail[2X][X]
+
+#0x43 OptionSelectionBoth
+Both[2X][X]
+
+#0x44 OptionSelectionSingle
+Single[2X][X]
+
+#0x4B OptionSelectionOn2
+On[2X][X]
+
+#0x4C OptionSelectionOff2
+Off[2X][X]
+
+#0x18 OptionSelectionAutosaveAction
+[_A][_c]ti[_o]n[2X][X]
+
+#0x16 OptionSelectionAutosaveTurn
+  [2px]Turn[2X][X]
+
+#0x9 OptionAnimation
 Animation[2X][X]
 
-#0xA
+#0x1A OptionAnimationDesc1
+Show animation without backgrounds[2X][X]
+
+#0x1B OptionAnimationDesc2
+Show animation with backgrounds[2X][X]
+
+#0x1C OptionAnimationDescOff
+Turn combat animation off[2X][X]
+
+#0x10 OptionGameSpeed
+Game Speed[2X][X]
+
+#0x1E OptionGameSpeedDesc
+Set unit movement speed[2X][X]
+
+#0x1F OptionGameSpeedDescFast
+Set unit movement speed (fast)[2X][X]
+
+#0xF OptionTextSpeed
+Text Speed[2X][X]
+
+#0x20 OptionTextSpeedDescSlow
+Set message speed (slow)[2X][X]
+
+#0x21 OptionTextSpeedDesc
+Set message speed[2X][X]
+
+#0x22 OptionTextSpeedDescFast
+Set message speed (fast)[2X][X]
+
+#0x23 OptionTextSpeedDescMax
+Set message speed (autoscroll)[2X][X]
+
+#0xA OptionAutosave
 Autosave[2X][X]
+
+#0x24 OptionAutosaveDescOn
+Save after each action taken[2X][X]
+
+#0x14 OptionAutosaveDescOff
+Save at the start of each turn[2X][X]
 
 #0xB
 Unit Window[2X][X]
@@ -16,11 +112,9 @@ Subtitle Help[2X][X]
 #0xE
 Autocursor[2X][X]
 
-#0xF
-Text Speed[2X][X]
 
-#0x10
-Game Speed[2X][X]
+
+
 
 #0x11
 Music[2X][X]
@@ -31,56 +125,22 @@ Sound Effects[2X][X]
 #0x13
 Window Color[2X][X]
 
-#0x14
-CPU Level[2X][X]
-
 #0x15
 Autoend Turns[2X][X]
-
-#0x16 Unit_Color
-OFF[2X][X]
 
 #0x17
 Show Objective[2X][X]
 
-#0x18
-Controller[2X][X]
 
-#0x19
-Rank Display[2X][X]
-
-#0x1A
-Show animation without backgrounds[2X][X]
-
-#0x1B
-Show animation with backgrounds[2X][X]
-
-#0x1C
-Turn combat animation off[2X][X]
 
 #0x1D
 Set animation for each unit manually[2X][X]
 
-#0x1E
-Set unit movement speed[2X][X]
 
-#0x1F
-Set unit movement speed (fast)[2X][X]
 
-#0x20
-Set message speed (slow)[2X][X]
 
-#0x21
-Set message speed[2X][X]
 
-#0x22
-Set message speed (fast)[2X][X]
 
-#0x23
-Set message speed (autoscroll)[2X][X]
-
-#0x24
-Turn autosave on or off[2X][X]
 
 #0x25
 Show both unit windows[2X][X]
@@ -101,7 +161,7 @@ Show detailed Combat Info window[2X][X]
 Turn Combat Info window off[2X][X]
 
 #0x2B
-Set Easy/Help Scroll display[2X][X]
+Set help text scroll display[2X][X]
 
 #0x2C
 Set cursor to start on main hero[2X][X]
@@ -118,80 +178,5 @@ Turn sound effects on or off[2X][X]
 #0x30
 Change window color[2X][X]
 
-#0x31
-Set enemy AI[2X][X]
-
-#0x32
-Set colors for individual units[2X][X]
-
 #0x33
 Turn Chapter Goal display on or off[2X][X]
-
-#0x34
-Set Control Window display[2X][X]
-
-#0x35
-Rank Display[2X][X]
-
-#0x36
-ON[2X][X]
-
-#0x37
-OFF[2X][X]
-
-#0x38
-1[2X][X]
-
-#0x39
-2[2X][X]
-
-#0x3A
-3[2X][X]
-
-#0x3B
-4[2X][X]
-
-#0x3C
-Slow[2X][X]
-
-#0x3D
-Norm[2X][X]
-
-#0x3E
-Fast[2X][X]
-
-#0x3F
-Max[2X][X]
-
-#0x40
-Solo[2X][X]
-
-#0x41 Strat
-S[2X][X]
-
-#0x42 Detail
-D[2X][X]
-
-#0x43
-TWO[2X][X]
-
-#0x44
-ONE[2X][X]
-
-#0x45
-Players[2X][X]
-
-#0x47
-Victory Cond[2X][X]
-
-#0x4B
-ON[2X][X]
-
-#0x4C
-OFF[2X][X]
-
-#0x4D
-Now Loading[2X][X]
-
-#0x63
-End[2X][X]

@@ -1,0 +1,46 @@
+[MidLeft][LoadIsaac]
+
+[CloseEyes]
+
+[Beat][AN]
+
+
+
+[MidRight][LoadAudrey]
+
+Are you worried[N]
+
+about her?[AN]
+
+
+
+[MidLeft][OpenEyes]
+
+...Audrey.[AN]
+
+What makes[N]
+
+you think that?[AN]
+
+
+
+[MidRight]
+
+You've often been absorbed[N]
+
+in thought since we met her.[AN]
+
+Everyone understands...[N]
+
+After all, we were there too.[AN]
+
+That's why we all follow[N]
+
+you, Isa... no, commander.[AN]
+
+
+
+[MidLeft]
+
+...Yeah.[A][2X][X]
+

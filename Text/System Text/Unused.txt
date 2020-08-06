@@ -1,0 +1,190 @@
+#0x50A
+Fortune[2X][X]
+
+#0x510
+Evaluation[2X][X]
+
+#0x511
+Evaluation[2X][X]
+
+#0x512
+Evaluation[2X][X]
+
+#0x514
+Fortune[2X][X]
+
+#0x515 CaptureAssesment
+Capture[2X][X]
+
+#0x516 SurvivalEvaluation
+Survival[2X][X]
+
+#0x517 AssetEvalutation
+Assets[2X][X]
+
+#0x518 ExperienceEvalutaion
+EXP[2X][X]
+
+#0x519 BattleEvaluation
+Combat[2X][X]
+
+#0x51A PurposeEvaluation
+Goals[2X][X]
+
+#0x51C
+Formation[2X][X]
+
+#0x51E
+Debug[2X][X]
+
+#0x53D
+Valuable battle[N]
+information can be[N]
+viewed here, as well[N]
+as tactician data.[2X][X]
+
+#0x549
+Details of the[N]
+battle thus far.[2X][X]
+
+#0x54A
+Details about the[N]
+enemy leader.[2X][X]
+
+#0x54B
+Details about the[N]
+battle to come.[2X][X]
+
+#0x6F5
+Select two units and exchange items.[2X][X]
+
+#0x80C
+ sent[2X][X]
+
+#0x81E
+Skill learned.[2X][X]
+
+#0x6F2
+Exchange items[N]
+between units.[2X][X]
+
+#0x82C
+Already used[2X][X]
+
+#0x82D
+Inventory full[2X][X]
+
+#0x6F6
+Please select the person you want to exchange items with.[2X][X]
+
+#0x6F7
+Sell your unneeded items.[N]
+Important items cannot be sold.[2X][X]
+
+#0x6F8
+Transfer items to and[N]
+from storage.[2X][X]
+
+#0x6F9
+Display all units' items.[2X][X]
+
+#0x6FA
+Buy and sell items.[2X][X]
+
+#0x6FD
+You can not sort this unit.[2X][X]
+
+#0x6FF
+Unit must be[N]
+deployed this chapter.[2X][X]
+
+#0x700
+Unit cannot be[N]
+deployed this chapter.[2X][X]
+
+#0x803
+ is gone.[2X][X]
+
+#0x4D
+Now Loading[2X][X]
+
+#0x63
+End[2X][X]
+
+#0x47
+Victory Cond[2X][X]
+
+#0x45
+Players[2X][X]
+
+#0x35
+Rank Display[2X][X]
+
+#0x31
+Set enemy AI[2X][X]
+
+#0x32
+Set colors for individual units[2X][X]
+
+#0x14
+CPU Level[2X][X]
+
+#0x18
+Controller[2X][X]
+
+#0x19
+Rank Display[2X][X]
+
+#0x34
+Set Control Window display[2X][X]
+
+#0x4B6
+Total[2X][X]
+
+#0x4C0
+Purpose:[2X][X]
+
+#0x4C1
+Total[2X][X]
+
+#0x4C2
+Assets[2X][X]
+
+#0x4C3
+Play[2X][X]
+
+#0x4CB
+Are you sure?[2X][X]
+
+#0x4CC Fights
+B[2X][X]
+
+#0x4CD Wins
+W[2X][X]
+
+#0x4CE Losses
+L[2X][X]
+
+#0x4CF
+Total[2X][X]
+
+#0x4D0
+Assets[2X][X]
+
+#0x4D1
+Time[2X][X]
+
+#0x4D2
+Total[2X][X]
+
+#0x4D3
+Normal[2X][X]
+
+#0x4D4
+Hard[2X][X]
+
+#0x4D5
+Complete[2X][X]
+
+#0x4D6
+Total[2X][X]

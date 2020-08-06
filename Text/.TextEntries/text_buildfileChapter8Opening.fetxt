@@ -1,0 +1,202 @@
+
+
+[Right][LoadIsaac][FarRight][LoadLizzy][MidLeft][LoadBarrelle]
+
+Is everyone[N]
+
+comfortable?[AN]
+
+
+
+[FarRight]
+
+Mr. Barrelle, thank you very[N]
+
+much for helping my client.[AN]
+
+As an Etrurian Knight, please[N]
+
+allows me to express my graditudes![AN]
+
+
+
+[MidLeft][Beat][AN]
+
+
+
+[FarRight]
+
+Oh... sorry...[AN]
+
+D-did I say something[N]
+
+rude to you just now...?[AN]
+
+
+
+[Right]
+
+Sir Barrelle, she doesn't know[N]
+
+how things are around here.[AN]
+
+Please don't be upset with her.[AN]
+
+
+
+[MidLeft]
+
+No, I'm not upset...[AN]
+
+Just confused,[N]
+
+hearing that.[AN]
+
+
+
+[FarRight]
+
+...?[AN][Event]
+
+
+
+[MidLeft]
+
+Miss Knight, I'm afraid[N]
+
+that on this island,[AN]
+
+you shouldn't tell people[N]
+
+you're an Etrurian Knight,[AN]
+
+unless you're wanting[N]
+
+to scare them off.[AN]
+
+
+
+[FarRight]
+
+Wh-what do you mean?[AN]
+
+Why... are Etrurian[N]
+
+Knights seen that way?[AN]
+
+
+
+[MidLeft]
+
+Seems you really don't know.[N]
+
+Alright then, let me tell you.[AN]
+
+The people of the Western Isles[N]
+
+are oppressed by Etrurian lords.[AN]
+
+If you put up any resistsance,[N]
+
+you're arrested promptly.[AN]
+
+So everyone is afraid of even[N]
+
+the words "Etrurian knight."[AN]
+
+
+
+[FarRight][MoveFarRight]
+
+No, that can't be true![N]
+
+Etrurians wouldn't do such things![AN]
+
+The lords came to these islands[N]
+
+to protect the people from bandits![AN]
+
+It's... it's impossible that[N]
+
+such things could happen![AN]
+
+
+
+[MidLeft]
+
+Now there's a joke. It's the[N]
+
+complete opposite, young lady.[AN]
+
+Not satisfied with just[N]
+
+screwing us themselves,[AN]
+
+the lords are more than eager to[N]
+
+cooporate with the bandits too.[AN]
+
+They gather up people and send[N]
+
+them down to the death mines.[AN]
+
+
+
+[FarRight]
+
+Etrurians are a proud people![N]
+
+They couldn't do such things![AN]
+
+I think... I think need to[N]
+
+go get some fresh air...[AN]
+
+[Clear]
+
+
+
+[Right][Clear][MidRight][LoadIsaac]
+
+I understand how she feels.[AN]
+
+I couldn't believe what[N]
+
+horrors I saw here either.[AN]
+
+
+
+[MidLeft]
+
+The Isles are an Etrurian sanctuary.[AN]
+
+They'll do unsavory things so long[N]
+
+as it's behind their people's backs.[AN]
+
+
+
+[FarFarLeft]
+
+Barrelle! We've got trouble![N]
+
+He's having another seizure,[AN]
+
+and we're losing control of[N]
+
+the situation! Please help![AN]
+
+
+
+[MidLeft]
+
+Can you come help[N]
+
+me with this?[AN]
+
+
+
+[MidRight]
+
+Of course.[A][X]
+

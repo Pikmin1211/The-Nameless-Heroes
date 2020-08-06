@@ -134,7 +134,7 @@ BYTE 0x04
 
 ORG 0xAB06C0
 POIN NomadList
-BYTE 0x05
+BYTE 0x07
 
 ORG 0xAB06DC
 POIN TroubadourList
@@ -162,7 +162,7 @@ BYTE 0x08
 
 ORG 0xAB0784
 POIN RangerList
-BYTE 0x06
+BYTE 0x07
 
 ORG 0xAB07A0
 POIN WarriorList
@@ -358,7 +358,7 @@ MaidList:
 BYTE Letter_M Letter_a Letter_i Letter_d
 
 NomadList:
-BYTE Letter_N Letter_o Letter_m Letter_a Letter_d
+BYTE Letter_A Letter_r Letter_c Letter_h Letter_Space Letter_K Letter_n
 
 TroubadourList:
 BYTE Letter_T Letter_r Letter_o Letter_u Letter_b
@@ -379,7 +379,7 @@ CommandKnightList:
 BYTE Letter_C Letter_m Letter_m Letter_n Letter_d Letter_Space Letter_K Letter_n
 
 RangerList:
-BYTE Letter_R Letter_a Letter_n Letter_g Letter_e Letter_r
+BYTE Letter_F Letter_o Letter_r Letter_r Letter_e Letter_s Letter_t
 
 AssassinList:
 BYTE Letter_A Letter_s Letter_s Letter_a Letter_s Letter_s Letter_i Letter_n

@@ -199,8 +199,8 @@ Purge[2X][X]
 #0x33B
 Aura[2X][X]
 
-#0x8D supreme_light
-Radiate[2X][X]
+#0x8D
+Sagittae[2X][X]
 
 #0x33D
 Flux[2X][X]
@@ -401,22 +401,22 @@ Metis Tome[2X][X]
 Dummy[2X][X]
 
 #0x2FD
-Vidofnir[2X][X]
+Winterer[2X][X]
 
 #0x343
 Nagalfar[2X][X]
 
 #0x2EE
-Audhulma[2X][X]
+Beheader[2X][X]
 
 #0x2FC
 [_E][_t][_e][_r][_n][_a][_l] [_S][_w][_o][_r][_d][2X][X]
 
 #0x310
-Garm[2X][X]
+Mistral[2X][X]
 
 #0x31D
-Nighogg[2X][X]
+Belenus[2X][X]
 
 #0x2FF
 Hea[_v][_y] Spear[2X][X]
@@ -458,7 +458,7 @@ Pachyderm[2X][X]
 Levin Sword[2X][X]
 
 #0x7F
-Binding Bld[2X][X]
+[_G][_r][_a][_n] [_C][_e][_n][_t][_u][_r][_i][_o][2X][X]
 
 #0x3AB
 Alondite[2X][X]
@@ -470,7 +470,7 @@ Wind[2X][X]
 Skill Manual[2X][X]
 
 #0x924
-Sleep Sword[2X][X]
+Wind Seal[2X][X]
 
 #0x7D
 [_L][_e][_a]t[_h][_e][_r] [_S][_h]i[_e]l[_d][2X][X]
@@ -509,7 +509,7 @@ Cmd Manual[2X][X]
 Stonehoist[2X][X]
 
 #0x6AE
-M[_a][_s]t[_e][_r] [_S]w[_o][_r][_d][2X][X]
+[_M][_e][_i][_s][_t][_e][_r][_s][_c][_h][_w][_e][_r][_t][2X][X]
 
 #0xB5
 Luna[2X][X]
@@ -608,19 +608,40 @@ Dance[2X][X]
 Firestorm[2X][X]
 
 #0x348
-Fenrir[2X][X]
+Cleave Bow[2X][X]
 
 #0xDFE
 Anemone[2X][X]
 
 #0xF3F
-[_D][_i][_m][_e][_n][_s][_i][_o][_n] [_B][_l][_a][_d][_e][2X][X]
+[_D][_i][_m][_e][_n][_s][_i][_o][_n][_B][_l][_a][_d][_e][2X][X]
 
 #0xBC
 Phoe[_n]i[_x] Vi[_a]l[2X][X]
 
 #0x37E
-Life Ring[2X][X]
+Prayer Ring[2X][X]
 
 #0xF6B
 Ryusei[2X][X]
+
+#0xFC2
+Ruby[2X][X]
+
+#0xFC3
+Sapphire[2X][X]
+
+#0xFC4
+Emerald[2X][X]
+
+#0xFC5
+Topaz[2X][X]
+
+#0xFC6
+Diamond[2X][X]
+
+#0xFD4
+Brionac[2X][X]
+
+#0xFFC
+Life Ring[2X][X]

@@ -320,7 +320,7 @@ Try to find and[N]
 capture weakened ones,[AN]
 and take their weapons.[AN]
 Now, we rout those[N]
-bastards. Let's go![A][2X][X]
+bandit scum. Let's go![A][2X][X]
 
 
 
@@ -391,11 +391,11 @@ village for your own gain...[AN]
 I'll make you pay for that.[AN]
 
 [Clear][MidLeft][LoadJulio]
-Damn![AN]
-What the hell[N]
-are you bastards!?[AN]
+Curses![AN]
+Who the hell[N]
+are you people!?[AN]
 My men were[N]
-no fuckin' match![A][2X][X]
+no damned match![A][2X][X]
 
 
 
@@ -534,7 +534,7 @@ save our village...[A][2X][X]
 #0x8D3 PrologueRangeEvent
 
 [MidRight][LoadJulio]
-Hey, assholes![N]
+Hey, buddies![N]
 Get out here![A][2X][X]
 
 
@@ -593,12 +593,12 @@ For each Leadership Star[N]
 within your allied forces,[AN]
 all of your allies will gain[N]
 [Red]3% accuracy and avoidance[Red].[AN]
-For the enemy, it is [Red]5%[Red] for each.[AN]
+For the enemy, it is [Red]5% [Red]for each.[AN]
 It will affect a lot on the battlefield,[N]
 so make sure to pay attention.[AN]
 Secondly, there's [Red]Capture[Red].[AN]
 This command will appear when [Red]your[N]
-constitution is higher[Red] than the enemy's.[AN]
+constitution is higher [Red]than the enemy's.[AN]
 If you can defeat the enemy,[N]
 you will capture them.[AN]
 By doing this you can [Red]take[N]
@@ -632,8 +632,8 @@ Most of them are just waiting for[N]
 you to get close so they can jump you.[AN]
 May be good to practice capturing.[AN]
 Actually, I think there are some bandits[N]
-[Red]hiding in a house down below[Red] for you to[AN]
-get to [Red]the lower half[Red] of the village.[AN]
+[Red]hiding in a house down below [Red]for you to[AN]
+get to [Red]the lower half [Red]of the village.[AN]
 Seems like they're ready to signal their[N]
 friends to start attacking as well,[AN]
 so be careful when you start to[N]
@@ -674,3 +674,28 @@ Present[2X][X]
 #0xF0F PrologueShout
 Oh, no...[N]
 This is serious![A][2X][X]
+
+
+
+
+#0xFC1 PrologueHermesTurn1
+[MidLeft][LoadIsaac][MidRight][LoadHermes]
+Hey there, commander![N]
+Did I make it in time?[AN]
+It's not easy to get going[N]
+on such a short notice![AN]
+
+[MidLeft]
+I was wondering where[N]
+you went off to, Hermes.[AN]
+Is everything ready?[AN]
+
+[MidRight]
+You bet! I'm all ready to[N]
+serve your item storage needs.[AN]
+If you need help managing your[N]
+inventory, give me a call.[AN]
+
+[MidLeft]
+Don't let me[N]
+down, Hermes.[A][2X][X]

@@ -259,3 +259,35 @@ Well, well...[AN]
 So this is how[N]
 I crash and burn.[AN]
 I applaude the effort.[A][CloseEyes][.....][2X][X]
+
+#0xF95 HestiaRetreat
+[MidRight][LoadHestia]
+...I'm pretty beat up.[AN]
+Looks like I'll[N]
+withdraw for now.[2X][X]
+
+#0xC11 HestiaDeath
+[MidRight][LoadHestia]
+Ur... urk...[AN]
+It seems... my[N]
+cremation is at hand...[A][CloseEyes][.....][2X][X]
+
+#0xF96 ViktorDeath
+[MidRight][LoadViktor]
+Hapiness... can be[N]
+achieved by anyone.[AN]
+But in time... we all die.[A][CloseEyes][.....][2X][X]
+
+#0xFE3 AdelardDeath
+[MidRight][LoadAdelard]
+Feh... I don't care...[N]
+There's... nothing...[AN]
+Nothing left for me...[A][CloseEyes][.....][2X][X]
+
+#0xFE4 JoelDeath
+[MidRight][LoadJoel]
+Whaaaat?![N]
+I can't die here...[AN]
+I still have so,[N]
+so much left to do!![AN]
+...Hurk...[A][CloseEyes][.....][2X][X]

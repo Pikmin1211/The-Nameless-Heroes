@@ -1,0 +1,156 @@
+[MidRight][LoadLizzy][MidLeft][LoadIsaac]
+
+Had enough?[AN]
+
+
+
+[MidRight]
+
+Don't...[AN][MoveMidRight]
+
+underestimate me![AN][MoveMidRight][ClearSpeech]
+
+
+
+[MidLeft][MoveRight]
+
+...In that case.[AN][Event]
+
+
+
+[MidRight]
+
+...![AN]
+
+
+
+[Right]
+
+This fight[N]
+
+is over.[AN][Event]
+
+[Right][Clear][MidLeft][LoadIsaac]
+
+
+
+[MidRight]
+
+I... lost...[.....][AN]
+
+I hate to admit it, but[N]
+
+you really are far stronger.[AN]
+
+
+
+[MidLeft]
+
+You did well, Miss Lizzy.[N]
+
+If I had to pick something,[AN]
+
+I'd say you don't have[N]
+
+enough battlefield experience.[AN]
+
+Sparring and daily drills[N]
+
+are important too, but...[AN]
+
+In the end, what's really[N]
+
+important is actual battle.[AN]
+
+If you don't fight real battles,[AN]
+
+you just won't be able to[N]
+
+see what's truly important.[AN]
+
+
+
+[MidRight][Beat][AN]
+
+
+
+[MidLeft]
+
+The more you fight for real,[N]
+
+the stronger you'll become.[AN]
+
+
+
+[MidRight]
+
+Y-you think so?[AN]
+
+
+
+[MidLeft]
+
+Yes, in fact,[N]
+
+I guarantee it.[AN]
+
+
+
+[MidRight]
+
+Thank you so much![AN]
+
+Speaking of, what are[N]
+
+your group's plans now?[AN]
+
+
+
+[MidLeft]
+
+After we've seen you[N]
+
+guys off to the island,[AN]
+
+we'll rest and then head[N]
+
+back to the mainland.[AN]
+
+
+
+[MidRight]
+
+I see... that's too bad.[AN]
+
+I guess that means we'll[N]
+
+be saying goodbye soon.[AN]
+
+
+
+[MidLeft]
+
+Yeah, I guess so.[AN]
+
+Until then, we can help[N]
+
+you with your training.[AN]
+
+If you don't mind.[AN]
+
+
+
+[MidRight]
+
+No, of course I don't mind![N]
+
+Please do teach me all you can.[AN]
+
+
+
+[MidLeft]
+
+It would be my[N]
+
+pleasure, Lizzy.[A][2X][X]
+

@@ -144,12 +144,8 @@ FontEntry(SerifShortFontLils,0xCF,3)
 #incbin "r.img.bin"
 
 SerifShortFontLils:
-FontEntry(SerifShortFontLilt,0xD0,4)
+FontEntry(SerifShortFontLilu,0xD0,4)
 #incbin "s.img.bin"
-
-SerifShortFontLilt:
-FontEntry(SerifShortFontLilu,0xC9,4)
-#incbin "t.img.bin"
 
 SerifShortFontLilu:
 FontEntry(SerifShortFontLilv,0xD6,4)

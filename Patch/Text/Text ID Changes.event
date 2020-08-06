@@ -12,24 +12,23 @@ POP
 
 //Item descriptions
 PUSH
-	ORG $F707DA //Ruin tome
+	ORG $123F7EA //Ruin tome
 	SHORT 0x396 //High crit description
 
-	ORG $F6FE4A //Slim Sword
-	SHORT 0x38B //Iron Sword description
-
-	ORG $F6FE6E //Steel Sword
-	SHORT 0x38B //Iron Sword description
-
-	ORG $F71BF6 //Sleep Sword
-	SHORT 0x38D //Steel Sword description
-
-	ORG $F7098C //Sleep Staff Use
-	SHORT 0x38D //Steel Sword description
+	ORG $123EE5A //Slim Sword
+	SHORT 0x38B //Iron Sword description //Slim Sword ID used for Alondite
 POP
 
 //Class Descriptions
 PUSH
 	ORG $85B766 //Commandeur
 	SHORT 0x292
+POP
+
+//Options Menu
+PUSH
+	ORG $AAF738 // Options Menu Autosave Off
+	SHORT 0x14
+	ORG $AAF732 // Options Menu Autosave On
+	SHORT 0x18
 POP

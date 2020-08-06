@@ -198,7 +198,7 @@ heard the town was being attacked.[AN]
 We headed here, thinking that we[N]
 could help save the town...[AN]
 But I was surprised that all[N]
-of you guys was already there.[AN]
+of you guys were already there.[AN]
 And that the village...[N]
 Well, about what happened...[....][AN]
 
@@ -302,6 +302,42 @@ Please, help yourself![AN]
 If you insist... maybe[N]
 one or two couldn't hurt.[AN]
 Heh, well, let's see here...[A][2X][X]
+
+
+
+
+
+#0xB73 Chapter1BaseTalkMorrisHestia
+
+[MidLeft][LoadHestia][ToggleSmile][Beat][AN][ToggleSmile]
+[MidRight][LoadMorris]
+You seem to be in an awfully[N]
+good mood there, Hestia.[AN]
+
+[MidLeft]
+Quite so. It's just...[AN]
+so satisfying to[N]
+have burned so much.[AN]
+Ahh... I feel splendid.[AN]
+
+[MidRight]
+Those were people, you know.[N]
+Don't you feel... anything?[AN]
+
+[MidLeft]
+Hmm... nope.[AN]
+They are bandits, you know.[N]
+They were destined to die.[AN]
+[ToggleSmile]
+So I can enjoy roasting them![N]
+No hesitation! Full force![AN][ToggleSmile]
+
+[MidRight][CloseEyes]
+Oh, for the[N]
+love of...[A][2X][X]
+
+
+
 
 
 
@@ -463,7 +499,8 @@ Please, take a look.[A][2X][X]
 
 [MidRight][LoadCurrent][MidLeft]
 This is the dojo.[AN]
-You can train here.[AN]
+You can train here[N]
+up to three times.[AN]
 Are you ready? Here we go![A][2X][X]
 
 

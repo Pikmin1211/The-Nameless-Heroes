@@ -370,7 +370,7 @@ For mercenaries, myrmidons,[N]
 and fighters Lv. 10 and up.[2X][X]
 
 #0x415
-For knights, cavaliers,[N]
+For knights, armors,[N]
 and soldiers Lv. 10 and up.[2X][X]
 
 #0x466
@@ -378,8 +378,8 @@ Use this on a worthy[N]
 unit to promote them.[2X][X]
 
 #0x416
-For archers and[N]
-nomads Lv. 10 and up.[2X][X]
+For archers and arch[N]
+knights Lv. 10 and up.[2X][X]
 
 #0x417
 For pegasus knights and[N]
@@ -493,16 +493,16 @@ For some units Lv. 10 and up[N]
 who have not changed class.[2X][X]
 
 #0x3AD
-The Sacred Twin winged lance. Def +5.[2X][X]
+[_A] [_s][_p][_e][_a][_r] [_o][_f] [_m][_y][_s][_t][_i][_c] [_i][_c][_e]. [_G][_r][_a][_n][_t][_s] [_S][_e][_a][_l]. [_D][_e][_f] +3.[2X][X]
 
 #0x39E
-The Sacred Twin ice blade. Res +5.[2X][X]
+[_A] [_b][_l][_a][_d][_e] [_o][_f] [_h][_o][_n][_o][_r]. [_G][_r][_a][_n][_t][_s] [_L][_u][_n][_a]. [_D][_e][_f] +2, [_R][_e][_s] +3.[2X][X]
 
 #0x3C0
-The Sacred Twin black axe. Spd +5.[2X][X]
+[_A][_n] [_a][_x][_e] [_o][_f] [_w][_i][_n][_d]. [_G][_r][_a][_n][_t][_s] [_D][_a][_r][_t][_i][_n][_g] [_B][_l][_o][_w]. [_R][_e][_s] +3.[2X][X]
 
 #0x3CE
-The Sacred Twin serpent bow. Luck +5.[2X][X]
+[_A] [_s][_u][_n] [_d][_e][_m][_o][_n]'[_s] [_b][_o][_w]. [_G][_r][_a][_n][_t][_s] [_M][_a][_g][_i][_c] [_B][_l][_a][_d][_e]. [_L][_u][_c][_k] +5.[2X][X]
 
 #0x3AF
 Effective against: [ArmorIcon][2X][X]
@@ -518,8 +518,9 @@ brigands Lv. 10 and up.[2X][X]
 Turns targets to stone for a while.[2X][X]
 
 #0x68
-Removes any skills learned via[N]
-manuals, and returns the manual.[2X][X]
+Returns skills[N]
+learned via manuals[N]
+to manuals.[2X][X]
 
 #0x8DF
 A dance that increases an[N]
@@ -618,9 +619,6 @@ Negates enemy resistance.[2X][X]
 #0x38C
 Isaac only.[2X][X]
 
-#0x38D
-Inflicts sleep.[2X][X]
-
 #0x409
 A dance that allows[N]
 allies to move again.[2X][X]
@@ -645,3 +643,39 @@ fully heal after combat.[2X][X]
 
 #0xF6C
 Boris only. A brave weapon.[2X][X]
+
+#0xFB5
+Grants Avo +15 when held.[2X][X]
+
+#0xFC7
+Grants Str +2 and Str[N]
+growth +5% when held.[2X][X]
+
+#0xFC8
+Grants Def +2 and Def[N]
+growth +5% when held.[2X][X]
+
+#0xFC9
+Grants Skill +2 and Skill[N]
+growth +5% when held.[2X][X]
+
+#0xFCB
+Grants Luck +4 and Luck[N]
+growth +5% when held.[2X][X]
+
+#0xFCA
+Grants Res +2 and Res[N]
+growth +5% when held.[2X][X]
+
+#0xF6E
+[_I][_m][_m][_u][_n][_e] [_t][_o] [_S] [_r][_a][_n][_k] [_s][_k][_i][_l][_l][_s]. [_G][_r][_a][_n][_t][_s] [_C][_r][_u][_s][_a][_d][_e].[2X][X]
+
+#0xFD5
+[_A] [_s][_p][_e][_a][_r] [_t][_h][_a][_t] [_l][_a][_u][_n][_c][_h][_e][_s] [_l][_o][_n][_g] [_r][_a][_n][_g][_e] [_l][_i][_g][_h][_t][_n][_i][_n][_g] [_s][_t][_r][_i][_k][_e][_s].[2X][X]
+
+#0xFFD
+Grants Max HP +5 and HP[N]
+growth +5% when held.[2X][X]
+
+#0x1057
+Effective against: [ArmorIcon][2X][X]

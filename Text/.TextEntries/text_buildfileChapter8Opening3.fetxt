@@ -1,0 +1,266 @@
+[Left][LoadSelene][Right][LoadBarrelle][FarRight][LoadIsaac][FarLeft][LoadElffin]
+
+[Beat][AN]
+
+[Clear]
+
+
+
+[Left]
+
+Well, it seems the medicine worked.[AN]
+
+Mister bard here should be sound asleep,[N]
+
+at least for the next little while.[AN]
+
+
+
+[FarRight]
+
+Thank you for helping him.[N]
+
+I wonder if this will be enough.[AN]
+
+
+
+[Left]
+
+I'm sorry, but[N]
+
+I don't know...[AN]
+
+I've been treating[N]
+
+him since yesterday,[AN]
+
+but he still hasn't[N]
+
+begun to recover.[AN]
+
+This wound...[AN]
+
+he may have been shot[N]
+
+with a poison arrow.[AN]
+
+We acted quite late,[AN]
+
+so I'm afraid it[N]
+
+may have spread...[AN]
+
+Even if he recovers,[AN]
+
+there may still be[N]
+
+traces left...[AN]
+
+
+
+[FarRight]
+
+Is that so...[AN]
+
+
+
+[Left]
+
+Mmm...[N][.....]
+
+[CloseEyes][Beat][AN][.....][OpenEyes]
+
+Oh! I'm sorry...[AN]
+
+I haven't slept since yesterday...[N]
+
+I think I need to take a break.[AN]
+
+[Clear]
+
+
+
+
+
+[Right][MoveMidLeft][Clear][MidLeft][LoadBarrelle][FarRight][MoveMidRight]
+
+Is... is she serious?[N]
+
+I'm really sorry for this...[AN]
+
+
+
+[MidLeft]
+
+Don't worry about it, Isaac.[AN]
+
+In these times, helping each other[N]
+
+is of the utmost importance.[AN]
+
+
+
+[MidRight]
+
+Yes, you're right.[N]
+
+Thank you both.[AN]
+
+
+
+[MidLeft]
+
+Speaking of which, that knight girl...[N]
+
+Is she your client or something?[AN]
+
+She's been going around town helping[N]
+
+people with things. Does she owe you?[AN]
+
+
+
+[MidRight]
+
+No, she's been hired[N]
+
+by our ship's captain.[AN]
+
+It would be his[N]
+
+order, if anyone's.[AN]
+
+
+
+[MidLeft]
+
+Oh, I see...[N]
+
+Actually then...[AN]
+
+Do they really care?[AN]
+
+
+
+[MidRight]
+
+They care about as much as we do.[AN]
+
+In any case, once the request is over,[N]
+
+we're going to be leaving this town.[AN]
+
+
+
+[MidLeft]
+
+Huh... that seems[N]
+
+reasonable enough.[AN]
+
+
+
+[FarFarLeft]
+
+At this time...[Event][AN]
+
+
+
+[MidRight]
+
+Huh...?[N]
+
+What's that noise?[AN]
+
+
+
+[MidLeft]
+
+Shh...[AN]
+
+
+
+[FarFarLeft]
+
+Attention all citizens![AN]
+
+You now have a unique right, the[N]
+
+privilege and pleasure to serve Etruria![AN]
+
+All capable men will assemble in[N]
+
+the town square at once! I repeat...[AN][Event]
+
+
+
+[MidRight]
+
+This is...[AN]
+
+
+
+[MidLeft]
+
+No doubt about it.[AN]
+
+The Etrurians have finally[N]
+
+reached this town, too.[AN]
+
+I wonder... did they[N]
+
+know that we were here?[AN]
+
+
+
+[MidRight]
+
+Well, what are[N]
+
+we going to do?[AN]
+
+
+
+[MidLeft]
+
+We'll have to evacuate.[AN]
+
+They're a small force at the moment,[N]
+
+so we should leave before more arrive.[AN]
+
+It's unfortuante, but... some of us[N]
+
+may not be able to escape in time.[AN]
+
+
+
+[MidRight]
+
+It can't be helped...[N]
+
+Let's work together, then.[AN]
+
+We have a large enough group,[N]
+
+from the resistance and the mine.[AN]
+
+
+
+[MidLeft]
+
+Thank you. Let's prepare then.[N]
+
+But... wait. That knight girl.[AN]
+
+She's still outside, right?[AN]
+
+
+
+[MidRight]
+
+[Beat][N]
+
+No way...[A][X]
+

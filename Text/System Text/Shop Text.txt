@@ -16,13 +16,13 @@ Has been transferred.[2X][X]
 [Left][LoadYggdra][2X][X]
 
 #0x836
-Welcome to the armory![A][N]
+Welcome to the armory![A][ClearText]
 These are the weapons[N]
 we have for sale.[A][2X][X]
 
 #0x837
 Welcome to the[N]
-general store![A][N]
+general store![A][ClearText]
 Here are all the items[N]
 we have for sale.[A][2X][X]
 

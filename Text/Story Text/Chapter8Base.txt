@@ -1,0 +1,322 @@
+#0x885 Chapter8BaseWorldMap
+Four days after driving off Zot's pirates,[AN]
+the ship finally arrived at the Fibernian[N]
+port, Deil, with the passengers aboard safe.[AN][Event]
+The mercenaries were relieved to finally[N]
+set foot on dry land after a long voyage.[AN]
+However, the sick bard had grown more ill.[AN]
+Geese asked Isaac for his help, and they[N]
+begun to search for someone to treat him.[AN][Event]
+A Resistance member onboard suggested they[N]
+join up with the Resistance in town.[AN][Event]
+With their help, they found a safe place[N]
+for the bard to rest and recover his ails.[AN]
+Two days later, just as the mercenaries[N]
+were finishing preparations to leave Deil,[AN][Event]
+roars and screams echoed through the town.[AN]
+It was not until then they realized that[N]
+this place was anything but a safe haven.[A][2X][X]
+
+
+
+
+#0xD44 Chapter8BaseJeronimoTalk
+[MidRight][LoadCurrent][MidLeft][LoadGeronimo]
+I'm Geronimo, the recorder.[AN]
+I'm in charge of recording[N]
+everyone's Ranking.[AN]
+It seems we're being dragged[N]
+into something quite worrisome...[AN]
+Anyways, here's my evaluation.[A][2X][X]
+
+
+
+#0x90A Chapter8BaseIsaacHermesTalk
+[MidRight][LoadIsaac][MidLeft][LoadHermes]
+Oh, hello, hello![N]
+Come in, commander.[AN]
+I've worked hard to procure[N]
+some fine items for you today![AN]
+
+[MidRight]
+Procure...?[AN]
+These are stolen[N]
+goods again, huh?[AN]
+
+[MidLeft]
+W-whoa whoa! Hey now![AN]
+Don't be ridiculous,[N]
+these aren't stolen goods.[AN]
+I'm running an honest[N]
+to god business here.[AN]
+Well then, what kind of item[N]
+are you looking for today?[AN]
+
+[MidRight]
+I'm looking for a physic staff.[AN]
+With that we can fight while[N]
+keeping our healers safe.[AN]
+
+[MidLeft]
+Of course I have one, but...[N]
+maybe you should think grander?[AN]
+I've an even more potent staff here.[AN]
+It has the amazing ability to heal[N]
+everyone in a radius around you.[AN]
+
+[MidRight]
+A fortify staff, is it?[N]
+Gotta be expensive...[AN]
+
+[MidLeft]
+On the contrary![N]
+For you, a mere 4500 gold.[AN]
+And, I'll throw in that physic[N]
+staff you wanted, no charge![AN]
+
+[MidRight]
+...Okay, these have[N]
+to be stolen, right?[AN]
+
+[MidLeft]
+It's not![N]
+I swear![A][2X][X]
+
+
+
+
+#0x8F2 Chapter8BaseIsaacLarumTalk
+
+[FarLeft][LoadLarum][Left][LoadLizzy][MidRight][LoadIsaac]
+How is Sir Elffin? He was[N]
+still quite ill, right?[AN]
+
+[Left]
+His seizures have just[N]
+started settling down.[AN]
+But, he seems to be[N]
+getting worse by the day.[AN]
+At this rate, he'll...[AN]
+
+[FarLeft]
+No! Don't say it...[N]
+I'm sure he will...[AN][CloseEyes]
+Elffin will...[AN][OpenEyes]
+
+[Left]
+Y-you're right.[N]
+Sorry, Larum...[AN]
+
+[MidRight]
+[Beat][AN]
+Together with Geese's crew,[AN]
+we're looking for somewhere[N]
+he can be properly treated.[AN]
+It shouldn't be too long.[AN]
+
+[FarLeft]
+Um, Mr. Isaac...[AN]
+Do you think he's[N]
+going to be alright?[AN]
+
+[MidRight]
+I have no idea.[N]
+I'm not much for medicine.[AN]
+What I do know is that we're[N]
+all going to try our damndest.[AN]
+
+[FarLeft]
+Yeah...[N]
+Thank you.[AN]
+[Clear]
+
+[MidRight]
+She's taking it[N]
+pretty badly, huh.[AN]
+
+[Left]
+I can't blame her.[N]
+He keeps getting worse...[AN]
+Our hopes for his recovery[N]
+seem to be dwindling...[AN]
+
+[MidRight]
+I'm going to go[N]
+out searching again.[AN]
+
+[Left]
+I'll join you.[A][2X][X]
+
+
+
+
+
+#0xB66 Chapter8BaseIsaacLizzyTalk
+[MidLeft][LoadLizzy][MidRight][LoadIsaac]
+Lizzy, that sword and shield...[N]
+They look rather valuable.[AN]
+
+[MidLeft]
+Hm? Oh, these?[AN]
+They've been passed down in[N]
+my family for generations.[AN]
+You won't believe it,[AN]
+but it's said that when the[N]
+sword and shield are combined,[AN]
+it creates a legendary blade.[AN]
+Apparently, it can control time.[AN]
+But, I think that's just all[N]
+fairy tales and folklore, right?[AN]
+
+[MidRight]
+I know you trust me,[AN]
+but don't go telling that[N]
+to any random stranger.[AN]
+You're likely to get mugged.[AN]
+[Clear]
+
+[MidLeft]
+...What did he[N]
+mean by that?[A][2X][X]
+
+
+
+
+#0xB38 Chapter8BaseIsaacAudreyTalk
+[MidLeft][LoadIsaac]
+[CloseEyes]
+[Beat][AN]
+
+[MidRight][LoadAudrey]
+Are you worried[N]
+about her?[AN]
+
+[MidLeft][OpenEyes]
+...Audrey.[AN]
+What makes[N]
+you think that?[AN]
+
+[MidRight]
+You've often been absorbed[N]
+in thought since we met her.[AN]
+Everyone understands...[N]
+After all, we were there too.[AN]
+That's why we all follow[N]
+you, Isa... no, commander.[AN]
+
+[MidLeft]
+...Yeah.[A][2X][X]
+
+
+
+
+#0x973 Chapter8BaseArtieAudreyTalk
+[MidLeft][LoadAudrey][CloseEyes][MidRight][LoadArtie]
+Hey![AN]
+[MoveFarLeft][Clear][LoadArtie]
+Hey![AN]
+[MoveMidRight][Clear][LoadArtie]
+Heeey![AN]
+
+[MidLeft]
+[Beat][AN]
+[OpenEyes]
+Hey! Don't be orbiting[N]
+around me like that![AN]
+You're being a pest![N]
+How irritating![AN]
+
+[MidRight]
+How old are you, Ms. Audrey?[AN]
+What's your favorite food?[N]
+How fast does your race grow?[N]
+Do you sleep as long as us?[N]
+What do you derive your power from?[AN]
+
+[MidLeft][MoveMidLeft]
+Can it! Enough![N]
+Good for nothing...[AN]
+[Clear]
+
+[MidRight]
+Oh, hey,[N]
+wait up![A][2X][X]
+
+
+
+
+#0x906 Chapter8BaseIsaacJesterTalk
+[MidRight][LoadIsaac][MidLeft][LoadJester]
+Sir Isaac![AN]
+
+[MidRight]
+Jester. We'll be parting[N]
+ways in this coming town.[AN]
+I wish you the best of luck[N]
+back in the Resistance.[AN]
+And remember, getting yourself[N]
+killed will gain you nothing.[AN]
+Do your best to keep on living.[AN]
+
+[MidLeft]
+Y-yeah! Thank you very much![N]
+Oh, I had something to ask...[AN]
+You're looking for somewhere to[N]
+treat that entertainer, right?[AN]
+
+[MidRight]
+Yeah, that's right.[AN]
+We're trying every venue, but[N]
+we've still had no luck yet.[AN]
+It's a sad world where no inn[N]
+lets a dying man get some rest.[AN]
+
+[MidLeft]
+I have an idea. How about[N]
+you ask the Resistance?[AN]
+
+[MidRight]
+The Resistance?[AN]
+Well, they might help,[AN]
+but is it really that[N]
+easy to contact them?[AN]
+They're not necessarily[N]
+even in this town.[AN]
+
+[MidLeft]
+It's certainly true[N]
+that you can't usually.[AN]
+But, I'm a Resistance member.[N]
+I'll try to see what I can do.[AN]
+We have something like...[N]
+Our own set of signals.[AN]
+
+[MidRight]
+I'll leave it[N]
+to you, then.[AN]
+
+[MidLeft]
+Roger that![N]
+I'll do my best![A][2X][X]
+
+
+
+
+#0xFCF Chapter8BaseCivilians
+[MidLeft][LoadIsaac]
+[FarFarRight]
+Heeey![N]
+Wait up![AN]
+
+[MidLeft]
+Hm?[AN]
+
+[FarRight][LoadGingerMan][Right][LoadBrownHairMan]
+We escaped thanks[N]
+to you, sir![AN]
+Let us thank you.[N]
+Please, take this![AN]
+
+[FarRight]
+Us Western Islers never[N]
+leave a debt unpaid![A][X]

@@ -1,3 +1,4 @@
 #include "Menu Realignment.event"
 #include "Monster Weapon Display.event"
 #include "Class Change Text.event"
+#include "Chapter Names_Eng/fe8_chnames.event"

@@ -1,0 +1,1376 @@
+#0x9C9 Chapter8Opening
+
+[Right][LoadIsaac][FarRight][LoadLizzy][MidLeft][LoadBarrelle]
+Is everyone[N]
+comfortable?[AN]
+
+[FarRight]
+Mr. Barrelle, thank you very[N]
+much for helping my client.[AN]
+As an Etrurian Knight, please[N]
+allows me to express my graditudes![AN]
+
+[MidLeft][Beat][AN]
+
+[FarRight]
+Oh... sorry...[AN]
+D-did I say something[N]
+rude to you just now...?[AN]
+
+[Right]
+Sir Barrelle, she doesn't know[N]
+how things are around here.[AN]
+Please don't be upset with her.[AN]
+
+[MidLeft]
+No, I'm not upset...[AN]
+Just confused,[N]
+hearing that.[AN]
+
+[FarRight]
+...?[AN][Event]
+
+[MidLeft]
+Miss Knight, I'm afraid[N]
+that on this island,[AN]
+you shouldn't tell people[N]
+you're an Etrurian Knight,[AN]
+unless you're wanting[N]
+to scare them off.[AN]
+
+[FarRight]
+Wh-what do you mean?[AN]
+Why... are Etrurian[N]
+Knights seen that way?[AN]
+
+[MidLeft]
+Seems you really don't know.[N]
+Alright then, let me tell you.[AN]
+The people of the Western Isles[N]
+are oppressed by Etrurian lords.[AN]
+If you put up any resistsance,[N]
+you're arrested promptly.[AN]
+So everyone is afraid of even[N]
+the words "Etrurian knight."[AN]
+
+[FarRight][MoveFarRight]
+No, that can't be true![N]
+Etrurians wouldn't do such things![AN]
+The lords came to these islands[N]
+to protect the people from bandits![AN]
+It's... it's impossible that[N]
+such things could happen![AN]
+
+[MidLeft]
+Now there's a joke. It's the[N]
+complete opposite, young lady.[AN]
+Not satisfied with just[N]
+screwing us themselves,[AN]
+the lords are more than eager to[N]
+cooporate with the bandits too.[AN]
+They gather up people and send[N]
+them down to the death mines.[AN]
+
+[FarRight]
+Etrurians are a proud people![N]
+They couldn't do such things![AN]
+I think... I think need to[N]
+go get some fresh air...[AN]
+[Clear]
+
+[Right][Clear][MidRight][LoadIsaac]
+I understand how she feels.[AN]
+I couldn't believe what[N]
+horrors I saw here either.[AN]
+
+[MidLeft]
+The Isles are an Etrurian sanctuary.[AN]
+They'll do unsavory things so long[N]
+as it's behind their people's backs.[AN]
+
+[FarFarLeft]
+Barrelle! We've got trouble![N]
+He's having another seizure,[AN]
+and we're losing control of[N]
+the situation! Please help![AN]
+
+[MidLeft]
+Can you come help[N]
+me with this?[AN]
+
+[MidRight]
+Of course.[A][X]
+
+
+
+
+#0x93F Chapter8Opening2
+[Left][LoadSelene][Right][LoadBarrelle][FarLeft][LoadElffin]
+Agh...[N]
+Argh...![AN]
+Ugh...[AN]
+
+[Left]
+You can see how it's gotten...[N]
+I can't deal with him on my own.[AN]
+Could you two please restrain him?[AN]
+I need to give him this medicine,[N]
+but I can't while he's...[AN]
+thrashing about like this.[AN]
+
+[Right]
+Got it. Isaac, you[N]
+hold down his legs.[AN]
+
+[FarRight][LoadIsaac]
+Okay. Let's do it.[AN]
+
+[Left]
+Okay, open up...[N]
+Just like that, okay?[A][X]
+
+
+
+
+#0x9CB Chapter8Opening3
+[Left][LoadSelene][Right][LoadBarrelle][FarRight][LoadIsaac][FarLeft][LoadElffin]
+[Beat][AN]
+[Clear]
+
+[Left]
+Well, it seems the medicine worked.[AN]
+Mister bard here should be sound asleep,[N]
+at least for the next little while.[AN]
+
+[FarRight]
+Thank you for helping him.[N]
+I wonder if this will be enough.[AN]
+
+[Left]
+I'm sorry, but[N]
+I don't know...[AN]
+I've been treating[N]
+him since yesterday,[AN]
+but he still hasn't[N]
+begun to recover.[AN]
+This wound...[AN]
+he may have been shot[N]
+with a poison arrow.[AN]
+We acted quite late,[AN]
+so I'm afraid it[N]
+may have spread...[AN]
+Even if he recovers,[AN]
+there may still be[N]
+traces left...[AN]
+
+[FarRight]
+Is that so...[AN]
+
+[Left]
+Mmm...[N][.....]
+[CloseEyes][Beat][AN][.....][OpenEyes]
+Oh! I'm sorry...[AN]
+I haven't slept since yesterday...[N]
+I think I need to take a break.[AN]
+[Clear]
+
+
+[Right][MoveMidLeft][Clear][MidLeft][LoadBarrelle][FarRight][MoveMidRight]
+Is... is she serious?[N]
+I'm really sorry for this...[AN]
+
+[MidLeft]
+Don't worry about it, Isaac.[AN]
+In these times, helping each other[N]
+is of the utmost importance.[AN]
+
+[MidRight]
+Yes, you're right.[N]
+Thank you both.[AN]
+
+[MidLeft]
+Speaking of which, that knight girl...[N]
+Is she your client or something?[AN]
+She's been going around town helping[N]
+people with things. Does she owe you?[AN]
+
+[MidRight]
+No, she's been hired[N]
+by our ship's captain.[AN]
+It would be his[N]
+order, if anyone's.[AN]
+
+[MidLeft]
+Oh, I see...[N]
+Actually then...[AN]
+Do they really care?[AN]
+
+[MidRight]
+They care about as much as we do.[AN]
+In any case, once the request is over,[N]
+we're going to be leaving this town.[AN]
+
+[MidLeft]
+Huh... that seems[N]
+reasonable enough.[AN]
+
+[FarFarLeft]
+At this time...[Event][AN]
+
+[MidRight]
+Huh...?[N]
+What's that noise?[AN]
+
+[MidLeft]
+Shh...[AN]
+
+[FarFarLeft]
+Attention all citizens![AN]
+You now have a unique right, the[N]
+privilege and pleasure to serve Etruria![AN]
+All capable men will assemble in[N]
+the town square at once! I repeat...[AN][Event]
+
+[MidRight]
+This is...[AN]
+
+[MidLeft]
+No doubt about it.[AN]
+The Etrurians have finally[N]
+reached this town, too.[AN]
+I wonder... did they[N]
+know that we were here?[AN]
+
+[MidRight]
+Well, what are[N]
+we going to do?[AN]
+
+[MidLeft]
+We'll have to evacuate.[AN]
+They're a small force at the moment,[N]
+so we should leave before more arrive.[AN]
+It's unfortuante, but... some of us[N]
+may not be able to escape in time.[AN]
+
+[MidRight]
+It can't be helped...[N]
+Let's work together, then.[AN]
+We have a large enough group,[N]
+from the resistance and the mine.[AN]
+
+[MidLeft]
+Thank you. Let's prepare then.[N]
+But... wait. That knight girl.[AN]
+She's still outside, right?[AN]
+
+[MidRight]
+[Beat][N]
+No way...[A][X]
+
+
+
+#0x997 Chapter8Opening4
+[MidLeft][LoadLizzy]
+Is it really possible...?[N]
+Is what he said true?[AN]
+Knights are supposed to[N]
+protect everyone...[AN]
+But, people are afraid?[N]
+That just can't be true.[AN]
+Well... maybe I can find[N]
+out by talking to someone.[AN]
+
+[FarFarLeft]
+Attention all citizens![AN]
+You now have a unique right, the[N]
+privilege and pleasure to serve Etruria![AN]
+All capable men will assemble in[N]
+the town square at once! I repeat...[AN]
+
+[MidLeft]
+H-huh?[N]
+What's this?[AN]
+
+[FarFarLeft]
+No, noooooo![N]
+Stop! Please, stop![AN]
+I don't want to go![N]
+I dooooont'!![AN]
+
+[FarLeft]
+No, please...[N]
+Please let me go...[AN]
+
+[FarFarLeft]
+Sir, please, sir![N]
+Please have mercy![AN]
+
+[MidLeft]
+What... is happening?[AN]
+There's suddenly screaming[N]
+from all around the town...[AN]
+
+[FarFarLeft]
+Somebody, help![N]
+Somebody!![AN]
+
+[MidLeft]
+It's an Etrurian knight's[N]
+duty to protect people...[AN]
+I have to go help them![A][X]
+
+
+
+#0x9BF Chapter8Opening5
+[MidRight][LoadBlondeKid][MidLeft][LoadEvan]
+Get over here![N]
+You little brat![AN]
+
+[MidRight]
+No... no, no, no![N]
+Please let me go sir![AN]
+Please... sir...[AN]
+
+[MidLeft]
+Don't make me chase[N]
+after you again.[AN]
+[MoveMidLeft]
+
+[MidRight]
+Ack![AN]
+[MoveMidRight]
+
+[MidLeft]
+Listen up, kid.[AN]
+You've been given a great[N]
+opportunity to serve Etruria.[AN]
+What's so bad about that?[N]
+It's a great honor, isn't it?![AN]
+Well? Speak up![AN]
+
+[MidRight]
+Ugh...[AN]
+[MoveMidRight]
+
+[MidLeft]
+Now get up, whelp.[N]
+You're wasting my time.[AN]
+Get on your knees[N]
+and apologize to me.[AN]
+If you make it quick[N]
+I might forgive you.[AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+Hmm? What's the matter?[N]
+I said on your knees![AN]
+Or do you need help?[N]
+How about this![AN]
+[MoveMidLeft]
+
+[MidRight]
+Ack...[AN]
+[Clear]
+
+[MidLeft]
+Gahahaha![N]
+You call that groveling?![AN]
+Hands on the ground, kid![N]
+There, was that so bad?[AN]
+
+[MidRight][LoadBlondeKid]
+Ugh...[AN]
+Why do we have to[N]
+suffer like this...[A][X]
+
+
+
+
+#0x9AB Chapter8Opening6
+[MidLeft][LoadLizzy]
+What are you doing, kid?[N]
+Get up on your feet, now.[AN]
+This is no place to be[N]
+kneeling down, you know...[AN]
+
+[MidRight][LoadEvan]
+Hmm?[AN]
+What in blazes[N]
+are you doing?[AN]
+
+[MidLeft]
+Oh, I'm Lizzy.[N]
+I'm an Etrurian knight like you.[AN]
+What you're doing... You ought[N]
+to be ashamed of yourself, sir![AN]
+Bullying someone who can't fight back.[AN]
+How terrible! Being a knight is about[N]
+protecting those kinds of people![AN]
+That's what our job is for![AN]
+
+[MidRight]
+Right, right...[N]
+You're a... knight?[AN]
+
+[MidLeft]
+Get your foot off[N]
+of that boy's head.[AN]
+
+[MidRight]
+What?[N]
+You really don't...[AN]
+
+[MidLeft]
+You...![AN]
+Get out of here now, or I'll[N]
+force you to. Now scram![AN]
+
+[MidRight]
+Whoa, whoa! I'm an Etrurian knight.[N]
+You'd point your sword at an ally?[AN]
+
+[MidLeft]
+That "knights" like you exist...[N]
+I don't even want to think about it![AN]
+
+[MidRight]
+You're serious?[N]
+You insolent child...[AN]
+You need to be taught[N]
+the rules around here.[AN]
+I guess I'll have to[N]
+give you a crash course![AN]
+
+[MidLeft]
+!![A][X]
+
+
+
+#0x9DA Chapter8Opening7
+[MidRight][LoadEvan][MidLeft][LoadLizzy][HalfCloseEyes]
+Ugh... he's strong...[N]
+Am I really losing to...[AN]
+Someone like him...?[AN][HalfCloseEyes]
+
+[MidRight]
+Gahaha! Is vigor all you've got?[N]
+How dare you talk down to me![AN]
+You just wanted to sound high[N]
+and mighty, didn't you?![AN]
+Just keep watching... this runt[N]
+will be killed as your warning...[AN]
+This is what your weakness caused![AN]
+
+[MidLeft]
+No... stop it![A][X]
+
+
+
+#0x9CC Chapter8Opening8
+[MidLeft][LoadIsaac]
+Your opponent...[N]
+Is me![A][X]
+
+
+
+#0x9CA Chapter8Opening9
+[MidRight][LoadIsaac]
+Get a hold of yourself![N]
+We have to escape! Hurry![AN]
+
+[MidLeft][LoadLizzy]
+...![A][X]
+
+
+
+#0x9C0 Chapter8Opening10
+[MidLeft][LoadEvan]
+Urg... Huh...[N]
+...Oh! Emergency![AN]
+It's the Resistance![AN]
+Everyone, drop what you're[N]
+doing and deal with them![AN]
+Catch them at all costs![A][X]
+
+
+
+
+#0x9CD Chapter8Opening11
+[Right][LoadBarrelle][FarRight][LoadSelene][MidLeft][LoadIsaac]
+I'm sorry. Seems we started quite a mess.[N]
+Those Etrurians seem to be looking for us.[AN]
+I guess now is the time to strike back.[AN]
+
+[Right]
+Hmm... you may have a point.[N]
+But, we're small in number.[AN]
+I'm not sure we have a chance...[AN]
+
+[MidLeft]
+Right now, our forces and[N]
+theirs are about comparable.[AN]
+We need to beat them before[N]
+their reinforcements arrive.[AN]
+I ask for your assistance.[AN]
+
+[FarRight]
+...There's no[N]
+choice, Barrelle.[AN]
+I'll help out, too![AN]
+
+[Right]
+Now isn't the time to be rattled.[N]
+Alright. We'll help you out.[AN]
+
+[MidLeft]
+Thank you.[AN]
+
+[Right][Clear][FarRight][Clear]
+[MidRight][LoadLizzy][HalfCloseEyes]
+...I'm so sorry.[AN]
+This is... it's[N]
+all my fault...[AN][HalfCloseEyes]
+
+[MidLeft]
+Your act was respectable as a knight,[N]
+but inappropriate as an officer.[AN]
+You should have thought more carefully[N]
+about the repercussions of that.[AN]
+
+[MidRight]
+[Beat][N]
+I just...[AN]
+I just wanted to help someone in need...[N]
+And right in front of me...![AN]
+
+[MidLeft]
+Let's save this for later and[N]
+focus on what's in front of us.[AN]
+...Just between you and me though,[N]
+I respect what you did back there.[AN]
+
+[MidRight]
+...![A][X]
+
+
+#0x9C7 Chapter8House
+[MidRight][LoadActive][Left][LoadGingerMan][FarLeft][LoadElffin]
+Ugh...[N]
+Argh...[AN]
+
+[Left]
+We'll take care of[N]
+him, don't worry.[AN]
+You should focus on[N]
+the enemies out there.[AN]
+Oh, and, don't attract[N]
+any attention over here.[AN]
+Best of luck, friends![A][X]
+
+
+
+
+#0x92A Chapter8Village
+[MidLeft][LoadActive][MidRight][LoadOldMom]
+Seems the Etrurians[N]
+finally arrived here...[AN]
+The rumors say that[N]
+they take all the men,[AN]
+and leave the women[N]
+and children behind...[AN]
+Then the town becomes[N]
+infested with bandits.[AN]
+Here, take this.[N]
+Please, help us.[A][X]
+
+
+
+#0x977 Chapter8Village2
+[MidLeft][LoadActive][MidRight][LoadBlondeHairMan]
+No... don't come closer![N]
+Eh... wait...[AN]
+You're no Etrurian soldier.[AN]
+I was thinking of fighting back and[N]
+dying instead of being taken to Eburacum.[AN]
+But now that the Resistance is here...[AN]
+Here, take this axe. It's quite weighty![N]
+You may want to give it to someone strong.[A][X]
+
+
+
+#0x949 Chapter8Village3
+[MidRight][LoadActive][MidLeft][LoadMythra]
+H-hey! You're from[N]
+the Resistance, right?[AN]
+Allow me to join you, please![AN]
+I'm fed up with being trampled[N]
+underfoot by those Etrurians![AN]
+I'm sure my archery skills[N]
+will be of use to you![A][X]
+
+
+
+#0x9C8 Chapter8House2
+[MidLeft][LoadActive][MidRight][LoadRedSoldier]
+Shh! I'm a Reistance soldier[N]
+sneaking into the Etrurian's ranks.[AN]
+I'm not your enemy, don't worry.[AN]
+I don't have much time, so[N]
+I'll have to make this quick.[AN]
+The Etrurian cavalry will[N]
+be reinforcing from the south.[AN]
+Watch out, and good luck![A][X]
+
+
+
+#0x930 Chapter8Village4
+[MidLeft][LoadActive][MidRight][LoadOldMan]
+Oh, are you from the Resistance?[AN]
+People around here heard[N]
+what you did down in Eburacum.[AN]
+Were I younger, I would join you...[N]
+But alas, my age has caught up to me.[AN]
+You're here to save our town, right?[AN]
+Please take this. It's my old silver shield.[N]
+It will protect you, just as you protect us.[A][X]
+
+
+
+
+#0x92B Chapter8House3
+[MidLeft][LoadActive][MidRight][LoadBraidGirl][CloseEyes]
+My husband and sons were taken by them...[N]
+Gods, what am I to do now... Agh...[AN]
+Please... do something about them...![A][X]
+
+
+
+#0x934 Chapter8Turn6
+[MidLeft][LoadRedSoldier][MidRight][LoadEvan]
+Pathetic. How long does it[N]
+take to wipe these scum out?![AN]
+
+[MidLeft]
+M-my apologies sir...[AN]
+The enemy's counterattack[N]
+was stronger than expected.[AN]
+
+[MidRight]
+Having trouble with them[N]
+is most disappointing.[AN]
+The cavalry reserves[N]
+will be here before long.[AN]
+When they arrive, crush[N]
+them in one fell swoop.[AN]
+Do I make myself clear?[AN]
+
+[MidLeft]
+Yes sir.[N]
+Without fail.[A][X]
+
+
+
+#0x975 Chapter8Turn10
+[MidRight][LoadEvan][MidLeft][LoadRedSoldier]
+Commander Evan![AN]
+I've been informed a cavalry[N]
+platoon is being sent our way.[AN]
+
+[MidRight]
+Excellent. To think this would[N]
+become such a tough battle...[AN]
+Hopefully this can turn[N]
+the tides in our favor.[A]
+
+[MidLeft]
+Another thing, sir...[AN]
+It seems bandits are taking[N]
+advantage of the situation,[AN]
+and attacking the citizenry...[AN]
+
+[MidRight]
+Leave them be. Focus on[N]
+the Resistance, first.[AN]
+How can we worry about[N]
+bandits at a time like this?[A][X]
+
+
+
+#0x9D0 Chapter8EvanDeath
+[MidLeft][LoadEvan]
+Ha... hahaha...[N]
+This is... no use...[AN]
+You will struggle...[N]
+To your last breath...[AN]
+You'll regret... this...[A][CloseEyes][.....][X]
+
+
+
+#0xA39 Chapter8EvenLizzyBattle
+[MidRight][LoadLizzy][MidLeft][LoadEvan]
+Oh, so it's you again, huh?[AN]
+An Etrurian knight siding[N]
+with the Resistance...[AN]
+Have you no shame, girl?[AN]
+
+[MidRight]
+Shame? Never! I fight[N]
+for what I believe in![AN]
+This time, I defeat you![AN]
+
+[MidLeft]
+Just like before,[N]
+all bark and no bite.[AN]
+Alright, come![A][X]
+
+
+
+#0x9CF Chapter8EvanBattle
+[MidLeft][LoadEvan]
+Don't make light of Etrurian[N]
+knights, Resistance scum![AN]
+I'll see you lying cold[N]
+and dead on the ground![A][X]
+
+
+
+#0x94 Chapter8Guide
+[MidLeft][LoadYggdra]
+Save suspend data?[N]
+[Yes]
+
+[MidRight][LoadIsaac]
+What do you do[N]
+if I say neither?[AN]
+
+[MidLeft]
+I'll figure it out when it happens.[N]
+Well then, let's get into tactics.[AN]
+You don't have a strict time limit,[N]
+but you still want to move quickly.[AN]
+
+[MidRight]
+Yes, I can see bandits scattered about.[N]
+No doubt the people's homes are in danger.[AN]
+
+[MidLeft]
+More bandits will arrive overtime.[AN]
+Naturally they'll be attacking the homes,[N]
+so you should try to split up to cover them.[AN]
+Some [Red]cavalry will also arrive to the west,[Red][N]
+so don't be getting caught offgaurd.[AN]
+If you've [Red]challanged yourself[Red], there will[N]
+be even more arriving shortly afterwards.[AN]
+
+[MidRight]
+Dealing with the bandits and Etrurians...[AN]
+We'll have to keep busy. It also[N]
+seems like there's powerful enemies.[AN]
+It may be easier if we make use of[N]
+any [Red]promotion items [Red]we've gathered here.[AN]
+
+[MidLeft]
+Remember that mastery skills won't activate[N]
+until you reach S rank in your weapon.[AN]
+For now, [Red]the enemies aren't able to use them.[Red][AN]
+
+[MidRight]
+For now, huh...[AN]
+
+[MidLeft]
+Don't take it for granted.[N]
+Well, that's all for now.[AN]
+Let me know if you need to[N]
+record your progress, okay?[A][X]
+
+
+
+
+#0x9D1 Chapter8Ending1
+[Right][LoadIsaac][FarRight][LoadLizzy][MidLeft][LoadBarrelle]
+No way...[AN]
+All those Etrurians,[N]
+and yet... we won?[AN]
+
+[Right]
+Seems to be so.[N]
+But, Barrelle...[AN]
+What will you do next time?[AN]
+We've repelled them for now,[N]
+but surely they'll be back.[AN]
+
+[MidLeft]
+...I know. We've had enough time[N]
+for the citizens to evacuate.[AN]
+Though I'm afraid not everyone made it...[AN]
+
+[FarRight]
+That... can't be true...[N]
+Barelle, I'm sorry...[AN]
+
+[MidLeft]
+Hey, no need to apoligize, little knight.[AN]
+The real problem is those rich windbags,[N]
+paying off the knights to turn on the people...[AN]
+Of all the Etrurian knights I've met, you're[N]
+the first to be more than a glorified merc.[AN]
+Consider it a sign of my respect.[N]
+You're what a real knight should be like.[AN]
+
+[FarRight][ToggleSmile]
+O-of course...[AN]
+I'm just doing my[N]
+duty as a knight.[AN][ToggleSmile]
+
+[MidLeft]
+Well said. There aren't many people willing[N]
+to stand up for their honor like you did.[AN]
+
+[FarRight][Beat]
+You'd...[N]
+Um...[AN]
+
+[Right]
+Heh, I guess you're not used to praise.[N]
+You look completely flabbergasted.[AN]
+
+[FarRight]
+I, um... if[N]
+you'd excuse me![AN]
+[MoveFarRight][Clear]
+[Right][MoveMidRight]
+
+[MidLeft]
+Ahaha, you trying to tease me, Isaac?[N]
+Anyways, have you decided what to do?[AN]
+If you're still set on leaving,[N]
+I'd probably do it quickly.[AN]
+
+[MidRight]
+I'm not so sure.[AN]
+I personally[N]
+will be staying.[AN]
+
+[MidLeft]
+I know how you feel, but...[N]
+I wouldn't do that if I were you.[AN]
+The Schwarzritter have been[N]
+working behind the scenes,[AN]
+throwing people into the mines.[AN]
+They're encircling the island,[N]
+growing closer and closer,[AN]
+targetting our people down.[AN]
+You should go before they find[N]
+you. Hell, they may have already.[AN]
+
+[MidRight]
+It's...[N]
+[Beat][AN]
+Could you run that[N]
+name by me again?[AN]
+
+[MidLeft]
+You're joking, right?[N]
+Yet your face is dead serious...[AN]
+The Schwarzritter. The[N]
+Black Knights, if you would.[AN]
+Just saying it gives me chills...[AN]
+
+[MidRight]
+...Thanks for the info.[N]
+If you'd excuse me.[AN]
+[Clear]
+
+[MidLeft]
+He's gotta[N]
+be kidding...[A][X]
+
+
+#0x102B Chapter8Ending2
+[MidRight][LoadIsaac][MidLeft][LoadCarl]
+What do you think of[N]
+your duties, Isaac?[AN]
+It certainly isn't[N]
+glorius work.[AN]
+You'll gain neither[N]
+fame nor honor.[AN]
+I wonder... do you have[N]
+any pride as a knight?[AN]
+
+[MidRight]
+General Carl?[AN]
+What's gotten into[N]
+you all of a sudden?[AN]
+Well... it's true that[N]
+our work isn't very grand.[AN]
+I'm sure nobody will be[N]
+celebrating for us.[AN]
+We know, however.[AN]
+We know we're fighting to[N]
+prevent a terrible war,[AN]
+one that would take the[N]
+lives of so many.[AN]
+In that, I have pride.[AN]
+Even if I cannot become a[N]
+knight of some fairytale.[AN]
+
+[MidLeft]
+I am sorry to involve[N]
+you in this, Isaac.[AN]
+I'm sure you would[N]
+have preferred more...[AN]
+More savory work.[AN]
+
+[MidRight]
+It's not[N]
+a problem.[AN]
+
+[MidLeft]
+You don't have to hide it.[N]
+I heard it from your attendent.[AN]
+Right now, the kingdom is[N]
+rife with shady business.[AN]
+If left alone, it will surely[N]
+become a spark for another war.[AN]
+And once again, many innocent[N]
+lives will be smothered out.[AN]
+I am glad to hear you have[N]
+pride in your work like I do.[AN]
+Let us both work together,[N]
+for the sake of Etruria.[AN]
+
+[MidRight]
+Yes, General.[N]
+For Etruria![A][X]
+
+
+
+#0x9D2 Chapter8Ending3
+[MidLeft][LoadIsaac][CloseEyes][Beat][AN]
+
+[MidRight][LoadAudrey]
+...Isaac, all the[N]
+mercenaries are here.[AN]
+What did you need us all[N]
+for on such short notice?[AN]
+
+[MidLeft][OpenEyes]
+Thanks, Audrey.[AN]
+Alright, everyone. Some of you have[N]
+nothing to do with this, but...[AN][Event]
+A while ago, the Resistance gave[N]
+me some... troubling information.[AN]
+The Schwarzritter are here on the isles.[AN]
+It seems Roartz figured out our[N]
+location and has sent them after us.[AN]
+
+[FarFarRight][Beat][AN]
+
+[MidRight]
+Roartz...[N]
+He trapped General[N]
+Carl and us...[AN]
+I won't forgive that![AN]
+
+[MidLeft]
+For those of us expelled from the[N]
+country, there is a great risk here.[AN]
+Yet... I will not be leaving the islands.[AN]
+I won't make you stay here with me.[N]
+You are free to leave if you so choose.[AN]
+
+[MidRight]
+But why, Isaac?[N]
+What will you do?[AN]
+We've been wandering[N]
+to run from them.[AN]
+But you want to stay here[N]
+and let them find you...?[AN]
+
+[MidLeft]
+...It's atonement.[AN]
+
+[MidRight]
+That knight girl, huh?[AN]
+
+[MidLeft]
+I killed her brother.[AN]
+Now she lives with[N]
+her own strange fate.[AN]
+I want to do my duty.[AN]
+
+[MidRight]
+...I see.[AN]
+
+[MidLeft]
+[Beat][AN]
+
+[MidRight]
+Isaac, I'll stay by your side.[AN]
+As your caretaker, I musn't[N]
+leave my young master by himself.[AN][Event]
+
+[FarFarRight]
+Me too, Commander![AN]
+That guy robbed me of my[N]
+career as an officer![AN]
+I'll never forgive them![AN]
+
+[FarFarLeft]
+I'll follow you, commander.[N]
+It's what I've always been best at.[AN]
+
+[FarFarRight]
+You must still need[N]
+my help, right, Isaac?[AN]
+
+[FarFarLeft]
+Oi, boss man! Never forget[N]
+that ya can count on me![AN]
+
+[FarFarRight]
+...Don't be[N]
+conceited.[AN]
+
+[FarFarLeft]
+It's my turn to help[N]
+you now, Commander.[AN]
+
+[FarFarRight]
+Gahaha! We've always[N]
+been through hell together![AN]
+Damned if I'm sitting[N]
+this one out, Isaac![AN]
+
+[FarFarLeft]
+Oh, Commander! Do you need an[N]
+extra pair of hands? I know you do![AN]
+
+[FarFarRight]
+Family always help[N]
+each other out![AN]
+
+[FarFarLeft]
+Heh, I'll toss my hat[N]
+in the ring for ya, chief.[AN]
+
+[FarFarRight]
+If you die, you'll need[N]
+someone to cremate you, right?[AN]
+
+[MidRight]
+Seems like that's everybody.[AN]
+We've overcome a lot together,[N]
+haven't we, Commander?[AN]
+
+[MidLeft]
+Everyone...[AN]
+We'll be facing[N]
+tough battles ahead.[AN]
+I hope you all[N]
+won't regret this.[A][X]
+
+
+
+
+#0x9D3 Chapter8Ending4
+[MidRight][LoadLizzy][MidLeft][LoadLarum]
+I can't believe something like[N]
+this was going on in the Western Isles...[AN]
+
+[MidRight]
+This place doesn't[N]
+feel very safe...[AN]
+
+[MidLeft]
+But with Elffin like this,[AN]
+I don't think he has the[N]
+strength to travel by boat...[AN]
+Dad entrusted this to me...[N]
+Oh, what do I do...[AN]
+
+[FarFarRight]
+Excuse me.[AN]
+
+[MidLeft]
+!![AN]
+
+[Clear][MidRight][Clear][FarLeft][LoadLarum][Left][LoadLizzy][MidRight][LoadIsaac]
+Elffin... doesn't look to be[N]
+doing much better, I see.[AN]
+
+[FarLeft]
+We need to keep a close eye on him.[N]
+I'm very grateful for all your help.[AN]
+You were leaving today, right?[AN]
+
+[MidRight]
+About that...[AN]
+
+[FarLeft]
+?[AN]
+
+[Left]
+?[AN]
+
+[MidRight]
+We intend to stay on the isles, for now.[AN]
+Actually, I was going to ask you a favor.[N]
+Would you be willing to hire us?[AN]
+
+[FarLeft]
+Um... did you happen to hear[N]
+what we were saying earlier?[AN]
+
+[MidRight]
+What?[AN]
+I'm sorry, I don't[N]
+know what you mean.[AN]
+
+[FarLeft]
+Oh, nevermind then...[AN]
+
+[MidRight]
+I don't feel comfortable[N]
+leaving a job half done.[AN]
+I'd feel bad about leaving[N]
+you here on this island.[AN]
+Maybe we're more troublesome[N]
+than I think we are...[AN]
+But, what do you think?[AN]
+
+[Left]
+Larum... I think you should hire them.[N]
+They're not worth your suspicion.[AN]
+
+[FarLeft]
+Well, you might be right...[AN]
+We don't have much choice anyways.[N]
+Alright, you're officially hired.[AN]
+
+[MidRight]
+Thank you.[AN]
+Then, we'll follow[N]
+your orders from here.[AN]
+
+[FarLeft]
+Then you better all[N]
+get ready to work hard![AN]
+
+[Left]
+Ahaha...[N]
+Larum...[A][X]
+
+
+
+#0x9D5 Chapter8Ending5
+[MidLeft][LoadBarrelle][MidRight][LoadIsaac]
+[FarFarRight]
+Looks like the enemies[N]
+aren't around...[AN]
+
+[MidLeft][Clear][MidRight][Clear]
+[FarLeft][LoadBarrelle][Left][LoadIsaac]
+[MidRight][LoadRedSoldier]
+[Left]
+!![AN]
+
+[MidRight]
+Ow...[AN]
+Hey hey, wait[N]
+a minute...![AN]
+
+[FarLeft]
+Isaac, he's one of us.[N]
+Can you lower your sword?[AN]
+
+[Left]
+Oh, I'm sorry. I thought you[N]
+were an enemy. Forgive me.[AN]
+
+[MidRight][Clear][LoadYoungMan]
+Whew, that[N]
+was scary...[AN]
+
+[FarLeft]
+So how is it out there?[AN]
+
+[MidRight]
+Our allies are buying us time[N]
+by pulling over their carts.[AN]
+Seems they haven't gotten very far.[N]
+We can still catch up if we move now.[AN]
+
+[FarLeft]
+Great. Then let's gather everyone[N]
+and go get those people back.[AN]
+
+[Left]
+What are our orders,[N]
+Miss Larum?[AN]
+
+[MidRight][Clear][LoadLarum]
+Well, we owe these guys a lot,[N]
+so of course we should help them![AN]
+
+[Left]
+But we can't leave Elffin alone...[N]
+Miss Larum, will you stay with him?[AN]
+We'll handle things on our own.[AN]
+
+[MidRight]
+Hum... alright![N]
+I'll leave it to you![AN]
+
+[Clear][LoadYoungMan]
+Then let's go[N]
+and help everyone![A][X]
+
+
+
+
+#0x9CE Chapter8Ending6
+[MidLeft][LoadIsaac]
+Sorry we're late.[AN]
+
+[MidRight][LoadGeese]
+Never expected to[N]
+encounter Etrurians so fast.[AN]
+Seems like bad luck, eh?[N]
+We should be goin' soon.[AN]
+After all, they might be[N]
+back before we know it.[AN]
+
+[MidLeft]
+Um, actually...[AN]
+We've decided[N]
+to stay here.[AN]
+
+[MidRight]
+Oh, really?[AN]
+Ya seemed to want to[N]
+leave pretty badly...[AN]
+What changed yer mind?[AN]
+Actually, I won't ask.[N]
+I know that look in yer eyes.[AN]
+
+[MidLeft]
+It was only a short while, but[N]
+you were a great help. Thank you.[AN]
+
+[MidRight]
+Don't mention it, lad.[N]
+We do business on the isles.[AN]
+We may bump into each[N]
+other again if we're lucky.[AN]
+I'll count on ya then![AN]
+
+[MidLeft]
+Likewise.[AN]
+
+[MidRight]
+Good luck to ya, lad![N]
+Hope we'll both be okay![AN]
+
+[MidLeft]
+Yeah, to the[N]
+both of us.[A][X]
+
+
+
+
+
+#0x9D4 Chapter8Ending7
+[Right][LoadIsaac][FarRight][LoadLarum][MidLeft][LoadBarrelle]
+It's out of the blue,[N]
+but I have an idea.[AN]
+
+[FarRight]
+Hmm?[AN]
+
+[MidLeft]
+Unfortunately, we can't stay here.[N]
+After all, those knights will be back.[AN]
+So, if you like... how about you come[N]
+to another Resistance base with us?[AN]
+We can treat that bard fellow better[N]
+without all this commotion going on.[AN]
+
+[Right]
+It's not a bad idea.[N]
+What do you think, Miss Larum?[AN]
+
+[FarRight]
+Well, we don't have much choice...[N]
+Then, please allow us to join you![AN]
+We'll be sure to help out, too![AN]
+
+[Right][Beat][AN]
+
+[MidLeft]
+Haha, that's great news![N]
+I'll be counting on you.[AN]
+Let's get moving now then.[N]
+We don't want to stick around.[AN]
+
+[Right]
+By the way, how[N]
+long is the trip?[AN]
+
+[MidLeft]
+About a day by carriage.[AN]
+We'll have to use multiple and split[N]
+them up to not look suspicious.[AN]
+
+[FarRight]
+Oh, that's fast![AN]
+
+[Right]
+Assuming nothing[N]
+happens on the way...[A][X]
+
+
+
+
+#0x9BA Chapter8Ending8
+[MidLeft][LoadHaguro][ToggleSmile]
+Hehehe... soon...[AN]
+Soon we can finally be[N]
+together again... Commander...[AN]
+
+[MidRight][LoadGalius]
+You look happy, Haguro.[AN]
+Seems you already know the[N]
+Nameless' location, then.[AN]
+And that Resistance base.[AN]
+Looks like working together[N]
+has paid off, hasn't it?[AN]
+Teamwork is such a wonderful[N]
+thing, wouldn't you agree?[AN]
+
+[MidLeft]
+...Mr. Galius.[AN]
+You remember, don't you?[N]
+Your promise to me...[AN]
+
+[MidRight]
+But of course. We will[N]
+destroy the Nameless...[AN]
+but leave Isaac alone for you.[N]
+Does that satisfy you?[AN]
+
+[MidLeft]
+Yes! That's perfect![N]
+I'm so happy to hear that...[AN]
+I can kill them all with[N]
+no worries, then...[AN]
+Ah, Commander Isaac...[N]
+How I yearn to see you...[AN]
+[Clear]
+
+[MidRight]
+Gahaha![AN]
+She's almost as crazy as me.[N]
+She makes a wonderful ally.[A][X]
+

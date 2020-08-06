@@ -523,3 +523,62 @@ I'm ready to fall over...[A][2X][X]
 Argh, I feel so useless![AN]
 I can't do anything[N]
 to help them now...[A][2X][X]
+
+#0xF98 ViktorEscape
+[MidRight][LoadViktor]
+... If even one of[N]
+you dies, it's all over![AN]
+We'll only win[N]
+if everyone's alive![AN]
+So don't overdo it![A][2X][X]
+
+#0xF99 HestiaEscape
+[MidRight][LoadHestia]
+Well, it's ladies first after[N]
+all. Commander, I'm withdrawing![A][2X][X]
+
+#0xF9A HestiaEscape2
+[MidRight][LoadHestia]
+We finally arrived...[AN]
+If anyone asks how[N]
+things went here...[AN]
+It was good.[A][2X][X]
+
+#0xF9B HestiaEscape3
+[MidRight][LoadHestia]
+Don't you realize our position?![N]
+There's a chance... I could die.[AN]
+If it can be helped, then...[N]
+Please, spare me from hell's fire.[A][2X][X]
+
+#0xFE7 AdelardEscape
+[MidRight][LoadAdelard]
+Gahahaha![N]
+Hate to say I told you so, but...[AN]
+You were so intent on preaching about[N]
+your honor and justice, little miss...[AN]
+They're just used to control you![AN]
+As for me? No thank you. I won't let[N]
+anybody curse me with such things.[AN]
+I live life by my own rules![A][2X][X]
+
+#0xFE5 JoelEscape
+[MidRight][LoadJoel]
+Bwahahaha![N]
+Thank you![AN]
+Freedom never[N]
+felt so good!![A][2X][X]
+
+#0xFE6 JoelEscape2
+[MidRight][LoadJoel]
+Hmm, any sign of a[N]
+trace around here...?[AN]
+...Whoops, looks like[N]
+it's already time to go![A][2X][X]
+
+#0xFE8 JoelEscape3
+[MidRight][LoadJoel]
+Everyone, pick up the pace!![AN]
+I have a hunch, as[N]
+a TREASURRRRE HUNTERRR,[AN]
+that we've gotta get going![A][2X][X]

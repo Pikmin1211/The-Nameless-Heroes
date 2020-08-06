@@ -351,7 +351,7 @@ With help from the Resistance, Isaac[N]
 and his mercenaries escape the mines,[AN]
 taking refuge on a Resistance ship.[AN][Event]
 The ship, now laden with escapee[N]
-civilains, moves into the ocean.[AN][Event]
+civilians, moves into the ocean.[AN][Event]
 On the request of captain Geese,[AN]
 the ship sets course from Dia to[N]
 the port town of Russel.[AN][Event]
@@ -399,3 +399,44 @@ another of Audrey's lectures.[AN]
 
 [MidRight]
 Ah... hahaha...[A][2X][X]
+
+
+
+
+#0xBA9 Chapter7BaseJoelTalk
+[MidLeft][LoadIsaac][MidRight][LoadJoel]
+Whew, guess we can relax now.[AN]
+I had come to this island since[N]
+I heard about some treasure here,[AN]
+but I never expected all this.[AN]
+Jeez, talk about unlucky.[N]
+Bahahaha!![AN]
+
+[MidLeft]
+So what are you going[N]
+to do now, Sir Joel?[AN]
+
+[MidRight]
+Well, let me think.[N]
+[Beat][AN]
+Could I join with you and[N]
+your mercenary band for a while?[AN]
+You're travelling around, right?[N]
+Sounds perfect for a guy like me![AN]
+[MoveMidRight]
+PLEASE, ALLOW ME TO JOIN YOU!![AN]
+
+[MidLeft]
+Yes, of course.[AN]
+I've listened to your yelling[N]
+in the mines for quite some time,[AN]
+So it'd be strange without it.[AN]
+
+[MidRight][Smile]
+Well, thank you!![AN]
+If you want, I can yell for[N]
+you whenever you want!!![AN]
+
+[MidLeft]
+Just be careful about when[N]
+and where you're doing it...[A][2X][X]
