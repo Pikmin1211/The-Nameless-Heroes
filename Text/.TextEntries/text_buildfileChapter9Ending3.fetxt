@@ -1,0 +1,90 @@
+[MidRight][LoadIsaac][MidLeft][LoadLizzy]
+
+Isaac...[N]
+
+are you okay?[AN]
+
+
+
+[MidRight][Beat][AN]
+
+
+
+[MidLeft]
+
+Isaac...?[AN]
+
+
+
+[MidRight]
+
+Yeah...[N]
+
+I'm fine.[AN]
+
+
+
+[MidLeft]
+
+Hey, Isaac. I need[N]
+
+to ask you something.[AN]
+
+You said that you were[N]
+
+a former Etrurian knight,[AN]
+
+right? You told me that?[AN]
+
+
+
+[MidRight]
+
+Yes, I did.[N]
+
+What about it?[AN]
+
+
+
+[MidLeft]
+
+Our enemy... that girl.[N]
+
+She called you something...[AN]
+
+The Nameless.[AN]
+
+I've never heard of a[N]
+
+unit with that name before.[AN]
+
+Who are you guys, exactly...?[AN]
+
+
+
+[MidRight]
+
+...Are you suspicious[N]
+
+of me? Is that it?[AN]
+
+
+
+[MidLeft][MoveMidLeft]
+
+No, that's not it![AN]
+
+I've never heard of that unit[N]
+
+before, so... I was curious.[AN]
+
+I'm not accusing you of...!![AN]
+
+
+
+[MidRight]
+
+I'm sorry, Lizzy, but I[N]
+
+can't tell you. Not yet.[A][2X][X]
+

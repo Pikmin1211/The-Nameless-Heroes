@@ -219,3 +219,11 @@ Cold, lazy and cynical.[2X][X]
 #0x221
 An Etrurian commander. Does[N]
 his work dispassionately.[2X][X]
+
+#0x223
+An Etrurian troop leader would do[N]
+anything to achieve his ambitions.[2X][X]
+
+#0x9D
+Isaac's former subordinate.[N]
+She is obsessed with him.[2X][X]

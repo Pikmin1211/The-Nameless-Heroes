@@ -1,0 +1,1093 @@
+#0x95 Chapter9Opening
+[Right][LoadCalvin][FarRight][LoadBarrelle][MidLeft][LoadEchidna]
+Good grief. Well, I'm[N]
+glad that's all settled.[AN]
+Are we good? Can we stop[N]
+talking about traitors?[AN]
+We don't have to go[N]
+through all this...[AN]
+finger pointing right[N]
+now, don't you agree?[AN]
+There's no evidence,[AN]
+so it shouldn't even[N]
+be open for debate.[AN]
+
+[Right][Beat][AN]
+[FarRight][Beat][AN]
+[FarFarLeft][Beat][AN]
+
+[MidLeft]
+Good. Then let's address[N]
+more important matters.[AN]
+Calvin, what do you think[N]
+about our current situation?[AN]
+
+[Right]
+Since the Eburacum insident,[AN]
+Etruria has stepped up both[N]
+their offense and oppression.[AN]
+Let me make this clear...[N]
+we continue to lose our battles.[AN]
+Lately, we've faced so many defeats,[N]
+our morale has gone to the gutter.[AN]
+People suspect there is some sort[N]
+of compromise to our operation...[AN]
+As you may know from earlier.[AN]
+
+[FarRight]
+It's more likely that they've[N]
+been able to read our strategy,[AN]
+then that there's a spy going around.[AN]
+They may be rotten and without morals,[N]
+but they're still educated soldiers.[AN]
+
+[MidLeft]
+The experience gap is unfortunately[N]
+not something we have control over.[AN]
+This is certainly a tough situation.[AN]
+Don't we have any more experienced[N]
+soldiers at our disposal...?[AN]
+
+[FarRight]
+I wish I had good[N]
+news for you.[AN]
+
+[MidLeft]
+Don't sweat it.[AN]
+Argh... it's frustrating,[N]
+but we have no choice.[AN]
+We'll have to move in to[N]
+reinforce our troops,[AN]
+now that the Etrurians[N]
+are more aggressive.[AN]
+We'll need some plan to[N]
+make up our disadvantage...[AN]
+I've got no ideas for any[N]
+sort of counterattack.[AN]
+
+[Right]
+That sounds like the[N]
+best course of action.[AN]
+
+[FarRight]
+I agree with you.[AN]
+We should save our[N]
+strength for now.[AN]
+
+[MidLeft]
+Thanks for your support, everyone.[N]
+Then we'll enact this right away.[AN]
+What a meeting this has been...[AN]
+I'm sorry to say it, but we'll[N]
+be laying low for the time being.[AN]
+Does anyone have any objections?[AN]
+
+[Right]
+Let's[N]
+do it![AN]
+
+[FarRight]
+Right.[AN]
+
+[MidLeft]
+So... shall we[N]
+call it here, then?[AN]
+It's starting[N]
+to get late...[AN][Event]
+What in the...?![N]
+What was that?[AN]
+
+[FarFarLeft]
+I can't believe[N]
+they found us here...[AN]
+No way! It has[N]
+to a traitor![AN]
+No way that they[N]
+found us otherwise![AN]
+
+[FarLeft]
+I knew there[N]
+was a traitor...[AN]
+
+[FarFarRight]
+Who could[N]
+it be...?[AN]
+
+[FarRight]
+Well, this went south quickly.[N]
+What a complicated situation.[AN]
+
+[MidLeft]
+Quiet down, all of you![AN]
+You better not be sitting[N]
+around instead of investigating.[AN]
+Bunch of pathetic little...[AN]
+Forget it. I'm gonna take[N]
+a look around myself, then.[AN]
+
+[FarFarRight]
+M-Miss Echidna! It's dangerous![AN]
+That scream... they were being[N]
+attacked for sure! No doubt![AN]
+
+[MidLeft]
+I'm not going to make[N]
+any of you join me.[AN]
+But need I remind you[N]
+what we stand for?[AN]
+I'm going to go see[N]
+if I can help them.[AN]
+
+[FarRight]
+I'll join you then, Echidna.[AN]
+Calvin, take some of the men[N]
+and secure an escape route.[AN]
+
+[Right]
+Hehe, don't go dying on me, friend.[AN]
+I'll have that escape route ready[N]
+before you can blink twice![AN]
+[Clear][FarRight][Clear][MidRight][LoadBarrelle]
+
+[MidLeft]
+Sorry for dragging you[N]
+into this, Barrelle.[AN]
+
+[MidRight]
+I volunteered, so[N]
+don't worry about it.[AN]
+Maybe someone just[N]
+slipped and fell, right?[AN]
+
+[MidLeft]
+Yeah, here's[N]
+hoping...[A][2X][X]
+
+
+
+#0x9DB Chapter9Opening2
+[Right][LoadLizzy][FarRight][LoadIsaac][MidLeft][LoadEchidna]
+Sorry to disturb[N]
+your sleep, guys.[AN]
+Do you know[N]
+what's going on?[AN]
+
+[FarRight]
+Yeah. You're sure[N]
+the enemy is out there?[AN]
+
+[MidLeft]
+I was just looking outside.[AN]
+Yet I didn't see a soul inside,[N]
+and the torches weren't lit.[AN]
+Seems almost deceptively safe,[N]
+if you catch my drift.[AN]
+
+[FarRight]
+So, do you[N]
+have a plan?[AN]
+
+[MidLeft]
+Of course.[AN]
+That's why I came[N]
+to find you guys.[AN]
+
+[MidLeft][Clear][LoadBarrelle]
+Haha, that's right.[AN]
+On three, we all[N]
+burst out of here.[AN]
+One! Two! Three![A][2X][X]
+
+
+
+#0x9DC Chapter9Opening3
+[Left][LoadLizzy]
+I don't see anyone...[N]
+Is anybody here?[AN]
+There's not much light[N]
+so I can't see far...[AN]
+
+[Right][LoadBarrelle]
+Don't let your guard[N]
+down, alright kid?[AN]
+Anyways, we're looking[N]
+for any victims here.[AN]
+Maybe we should[N]
+light the torches?[AN]
+
+[Left][Clear][LoadEchidna]
+It's true that it's hard to see,[N]
+but that'd also draw attention.[AN]
+Let's keep them put out until[N]
+we can be sure it's safe here.[AN]
+
+[Right][Clear][LoadIsaac]
+If the enemy is lurking about,[N]
+we're in for a real treat...[AN]
+Is this where you said you[N]
+heard those screams, Echidna?[AN]
+
+[Left]
+Yeah, I think so.[AN]
+If someone screamed[N]
+loudly back here,[AN]
+you'd be able to hear[N]
+it from the meeting hall.[AN]
+
+[Left][Clear][LoadLizzy][Right][Clear][MidRight][LoadIsaac][Left]
+[Beat][AN]
+I think we should[N]
+light the torches.[AN]
+I don't think we can[N]
+do this without seeing...[AN]
+It's just too dark.[AN]
+I'll just take[N]
+this match and...[AN]
+[Clear]
+Huh?![AN]
+[LoadLizzy]
+Oww...[AN]
+
+[MidRight]
+Here, take my hand.[N]
+I'll help you up.[AN]
+
+[Left]
+...Thank you, Isaac.[AN]
+But, what the heck[N]
+did I just trip over?[AN]
+It didn't feel hard...[N]
+Wait... what is...?![AN]
+Is this a... person?![AN]
+
+[Left][Clear][MidRight][Clear][MidRight][LoadLizzy][MidLeft][LoadIsaac]
+As I thought,[N]
+they're dead.[AN]
+Echidna, we'll[N]
+have to stay sharp.[AN]
+
+[MidRight][Clear][LoadEchidna]
+[Beat][AN]
+I can't believe this...[N]
+I'm sorry, friends...[AN]
+We'll recover your[N]
+bodies properly later.[AN]
+You... you dastards!![AN]
+Show yourselves, you[N]
+cowards! God damnit!![AN]
+
+[FarFarLeft]
+Hehehe...[N]
+Ah! How wonderful...[AN]
+It seems that our[N]
+information was right...[AN]
+Oh, I'm such a lucky lady![AN]
+I've been looking for[N]
+you for so long, Captain,[AN]
+and we finally meet again![AN]
+
+[MidRight][Clear][MidLeft][Clear]
+[MidRight][LoadIsaac]
+...!![AN]
+That voice...[N]
+You're...[A][2X][X]
+
+
+
+#0x1076 Chapter9CG
+Hehehe...[N]
+Is it truly you?[AN]
+Captain Isaac?[AN]
+I've been looking[N]
+for you forever.[AN]
+Oh... at last...[A][2X][X]
+
+
+
+#0x9DD Chapter9Opening4
+[MidLeft][LoadHaguro][MidRight][LoadIsaac]
+Haguro...[AN]
+Is that really you?[N]
+You're... alive...?[AN]
+
+[MidLeft]
+Yes, my Captain![N]
+It's me, your Haguro![AN]
+It's so nice to[N]
+finally see you again...[AN]
+Always, always I've[N]
+been looking for you![AN][CloseEyes]
+Ah... this is like[N]
+a dream come true...[AN][OpenEyes]
+
+[MidRight]
+Haguro, tell me.[AN]
+What happened to you[N]
+in these last years?[AN]
+Why... why are you[N]
+wearing that insignia?[AN]
+It's the Schwarzritter's...[AN]
+
+[MidLeft]
+My Captain... you[N]
+remember, don't you?[AN]
+The day they banished[N]
+us from our country...[AN]
+
+[MidRight]
+...I'll never[N]
+forget that day.[AN]
+
+[MidLeft]
+To escape the strike force,[N]
+Sir Weitz, Sir Niekay,[AN]
+and all the others...[AN]
+They all risked their[N]
+lives to act as decoys.[AN]
+
+[MidRight]
+And that's...[N]
+where you were.[AN]
+
+[MidLeft]
+I was waek and pathetic.[AN]
+But you had always helped me,[AN]
+so I was so happy to finally[N]
+be of some use to you...[AN]
+And then, when I was[N]
+surrounded by soldiers,[AN]
+I thought I would die...[N]
+I swung my sword desperately.[AN]
+When I opened my eyes...[AN]
+They were all dead, their[N]
+blood pooling at my feet.[AN]
+That's when I learned I[N]
+had a talent for killing.[AN]
+I was captured, but...[N]
+I was saved by someone,[AN]
+and assigned to this place.[AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+The Schwarzritter are an[N]
+Etrurian order of dark knights.[AN]
+We're doing our best to do the...[N]
+dirty jobs for our glorious Etruria.[AN]
+It was our old unit after all...[N]
+The Captain's unit, the Nameless...[AN]
+
+[MidRight]
+Haguro...[N]
+Do you resent me?[AN]
+I... I escaped before[N]
+they could kill me.[AN]
+
+[MidLeft]
+No, that's not it at all![N]
+I still like you, Captain.[AN]
+But as an officer,[AN]
+it's my duty to destroy the[N]
+Resistance hideout here,[AN]
+and defeat the Nameless.[AN]
+Um, hey, Captain...[AN]
+Can you just... allow me[N]
+to capture you now...?[AN]
+If you do that, I can[N]
+help you, Captain![AN]
+
+[MidRight]
+You're only[N]
+talking about me...[AN]
+What about[N]
+everyone else?[AN]
+
+[MidLeft]
+I'm sorry. I can't[N]
+help them, because...[AN]
+I... I just want you.[AN]
+I want you to see[N]
+me like I see you.[AN]
+I just want to be[N]
+with you forever...[AN]
+I don't need anybody[N]
+else, my Captain...[AN]
+
+[MidRight]
+I have my own[N]
+goals to achieve.[AN]
+So, Haguro...[AN]
+I can't give in[N]
+to you here.[AN]
+We'll just have[N]
+to fight it out.[AN]
+
+[MidLeft]
+Hehehe...[AN]
+Just what I'd[N]
+expect of my Captain.[AN]
+Then I'll just have[N]
+to take you by force...[AN]
+I'm... much stronger[N]
+than I was back then.[AN]
+I followed your[N]
+teachings every day...[AN]
+And I became the[N]
+leader of this squad![AN]
+I'll show you just[N]
+how much I've grown![AN]
+Are you ready, Captain?[A][2X][X]
+
+
+
+
+#0x9D8 Chapter9Opening5
+[MidLeft][LoadIsaac][MidRight][LoadEchidna]
+Isaac... that girl.[N]
+Did you know her?[AN]
+
+[MidLeft]
+...She used to be my subordinate.[AN]
+I used to train her back when she[N]
+was just a rookie, and now...[AN]
+She seems to have gotten stronger.[N]
+She belongs to the Schwarzritter,[AN]
+one of the most elite orders of[N]
+knights in all of Etruria...[AN]
+We'll have to be very careful.[AN]
+
+[MidRight]
+Well, isn't that great.[N]
+Agh, my arm is killing me...[AN]
+Sorry you saw all of that.[AN]
+She's gonna have to pay[N]
+for all that she's done...[AN]
+
+[FarFarLeft]
+Echidna! It's an emergency![AN]
+They're coming in through[N]
+our secret passageways![AN]
+
+[MidLeft][Beat][N]
+You should leave this to us.[AN]
+I don't have time to explain,[AN]
+but I think me and my group[N]
+are the most suited for this.[AN]
+
+[MidRight]
+...Alright, I'll trust you.[N]
+Here, this is for you, then.[AN]
+
+[MidLeft]
+What...[N]
+is this?[AN]
+
+[MidRight]
+A Master Seal.[AN]
+Give it to your[N]
+strongest ally.[AN]
+We'll leave the[N]
+rest to you.[AN]
+Don't die out[N]
+there, okay?[A][2X][X]
+
+
+
+#0x9E5 Chapter9Ending
+[MidLeft][LoadIsaac][MidRight][LoadHaguro]
+Heheh... I always[N]
+knew you were strong...[AN]
+It just makes me love[N]
+you more and more...[AN]
+Hey... Captain...[N]
+Am I stronger now?[AN]
+All my effort...[N]
+did you notice it?[AN]
+
+[MidLeft]
+Your skills have[N]
+improved in every way.[AN]
+And you are a fine[N]
+commander, as well.[AN]
+It's just that...[AN]
+I don't want to have to[N]
+see you again like this.[AN]
+
+[MidRight][Beat][AN]
+
+[FarFarRight]
+Captain Haguro, Ma'am![AN]
+We're all prepared[N]
+to begin the retrat![AN]
+
+[MidRight]
+Alright, then[N]
+begin withdrawing.[AN]
+
+[FarFarRight]
+Yes Ma'am![AN]
+
+[MidRight]
+Well, now that we've picked up[N]
+our wounded, I'll leave it at that.[AN]
+Our mission to strike a blow to[N]
+the Resistance was accomplished.[AN]
+But is that enough? Captain... No.[N]
+...Isaac. I will never let you go.[AN]
+I'm not going to give up here.[N]
+We'll meet again soon, okay?[AN]
+[Clear]
+
+[MidLeft]
+You lead the front lines to act as[N]
+a decoy so your wounded could retreat.[AN]
+...You've grown more than I thought.[A][2X][X]
+
+
+
+
+#0xB3B Chapter9Ending2
+[MidRight][LoadYoungHaguro][MoveMidRight]
+Captain![AN]
+[MoveMidRight]
+Captaaaain!![AN]
+[CloseEyes]
+I'm sorry...[N]
+This is...[AN]
+It's my fault.[AN]
+[OpenEyes]
+
+[MidLeft][LoadIsaac][CloseEyes]
+...Don't cry, Haguro.[N]
+It's not a deep wound.[AN]
+It's just... the blood[N]
+makes it look worse.[AN]
+
+[MidRight]
+But... but...[AN]
+You were just[N]
+protecting me...[AN]
+and then I...[N]
+It's my fault...[AN]
+I'm too weak and I...[AN]
+
+[MidLeft][OpenEyes]
+You're still a junior,[AN]
+it's only natural that[N]
+you're not as strong as me.[AN]
+You'll become strong...[N]
+Nothing will end here.[AN]
+A wound like this is[N]
+nothing compared to...[AN]
+to your life, isn't[N]
+that right, Haguro...?[AN]
+
+[MidRight]
+W-whaaa![N]
+Captaaain![AN]
+
+[MidLeft][ToggleSmile]
+Don't cry, don't cry.[AN]
+On the battlefield, an officer[N]
+should be smiling and composed.[AN]
+I taught you that, right?[N]
+Come on, show me your smile.[AN]
+
+[MidRight]
+[Beat][AN]
+...Yes, Captain.[AN]
+[ToggleSmile]...Hehe.[AN]
+
+[MidLeft]
+Now that's a warm smile.[N]
+Well, then, we should get going.[AN]
+Haguro, until we can make it to[N]
+safety, you'll have to cover me.[AN]
+
+[MidRight]
+O-Of course! I'll do my best![N]
+I'll be strong! Stronger than ever![AN]
+So that I can help you... I'll[N]
+be strong no matter what![AN]
+
+[MidLeft][ToggleSmile]
+Heh... All the more reason I'm...[N]
+Glad that I could save you...[A][2X][X]
+
+
+
+#0x9E6 Chapter9Ending3
+[MidRight][LoadIsaac][MidLeft][LoadLizzy]
+Isaac...[N]
+are you okay?[AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+Isaac...?[AN]
+
+[MidRight]
+Yeah...[N]
+I'm fine.[AN]
+
+[MidLeft]
+Hey, Isaac. I need[N]
+to ask you something.[AN]
+You said that you were[N]
+a former Etrurian knight,[AN]
+right? You told me that?[AN]
+
+[MidRight]
+Yes, I did.[N]
+What about it?[AN]
+
+[MidLeft]
+Our enemy... that girl.[N]
+She called you something...[AN]
+The Nameless.[AN]
+I've never heard of a[N]
+unit with that name before.[AN]
+Who are you guys, exactly...?[AN]
+
+[MidRight]
+...Are you suspicious[N]
+of me? Is that it?[AN]
+
+[MidLeft][MoveMidLeft]
+No, that's not it![AN]
+I've never heard of that unit[N]
+before, so... I was curious.[AN]
+I'm not accusing you of...!![AN]
+
+[MidRight]
+I'm sorry, Lizzy, but I[N]
+can't tell you. Not yet.[A][2X][X]
+
+
+
+#0x9E7 Chapter9Ending4
+[Right][LoadIsaac][FarRight][LoadLizzy][MidLeft][LoadAudrey]
+Oh, there[N]
+you guys are.[AN]
+
+[Right]
+Is something the[N]
+matter, Audrey?[AN]
+
+[MidLeft]
+Echidna is calling you.[AN]
+Especially Lizzy. You[N]
+had better get moving.[AN]
+
+[FarRight]
+Huh...?[AN]
+
+[MidLeft]
+Lord Elffin has[N]
+regained conciousness.[AN]
+Larum is already on[N]
+her way there now.[AN]
+
+[FarRight]
+Oh!! We have[N]
+to hurry![A][2X][X]
+
+
+
+#0x9E4 Chapter9Ending5
+[Left][LoadElffin][Right][LoadLarum]
+Ah...! Oh, thank[N]
+God... Elffin![AN]
+
+[Left]
+Thank you Larum, I appreciate it.[N]
+I'm not sure that I'm fully recovered...[AN]
+I do remember getting on the ship, but[N]
+after that my memory is hazy at best.[AN]
+
+[Right]
+You've been on the brink[N]
+of death all this time![AN]
+[MoveRight]
+I've been worried[N]
+sick about you...![AN]
+[MoveRight]
+People said there was[N]
+no way to help us![AN]
+
+[Left]
+Yes... I remember hearing you[N]
+cry, in my waning conciousness.[AN]
+
+[Right][MoveRight]
+G-geez![N]
+Elffin![AN]
+
+[FarFarRight]
+Larum! I heard Lord[N]
+Elffin is finally awake?![AN]
+
+[Right][Clear][Left][Clear]
+[FarRight][LoadLarum][Right][LoadLizzy][FarLeft][LoadElffin]
+Lizzy. I'm truly indebted[N]
+to you for your help.[AN]
+
+[Right]
+N-No, I didn't...[N]
+I'm just doing my job.[AN]
+More importantly,[N]
+how is your health?[AN]
+
+[FarRight]
+Yeah! Are you[N]
+feeling okay?[AN]
+
+[FarLeft]
+Well, as of right now, the pain is dulled.[AN]
+But maybe because of how long I've been[N]
+asleep, my body feels very shakey...[AN]
+I'm going to need more time to regain[N]
+my balance if I want to walk anywhere.[AN]
+
+[FarRight]
+We can help[N]
+you until then![AN]
+
+[Right]
+Yes, we'll take[N]
+care of you![AN]
+
+[FarFarRight]
+Excuse me. Sorry[N]
+to interrupt.[AN]
+
+[FarRight][Clear][Left][LoadLarum][FarRight][LoadIsaac]
+Looks like you really[N]
+are awake, then.[AN]
+
+[Left]
+Oh![N]
+Isaac![AN]
+
+[FarLeft]
+It appears I am in your debt, as well.[N]
+My name is Elffin, and I'm a bard.[AN]
+Thank you for saving our lives and[N]
+helping us in our time of need.[AN]
+
+[FarRight]
+A pleasure to finally meet you.[N]
+I'm glad you're doing alright.[AN]
+My name is Isaac, and I'm the[N]
+captain of my mercenary group.[AN]
+Larum and Lizzy have asked me to[N]
+assist them in escorting you.[AN]
+Sir Elffin, have you decided on[N]
+what you want to do right now?[AN]
+
+[FarRight][Clear][Right][Clear]
+[FarFarRight]
+Don't worry about that![N]
+He's already made his mind![AN]
+
+[Right][LoadIsaac][FarRight][LoadEchidna]
+Is that true?[N]
+Elffin![AN]
+
+[FarLeft]
+Yes, I've already been asked to join[N]
+the Resistance since I've awoken.[AN]
+And I've decided to accept the offer.[AN]
+If my wisdom can be of any use to you,[N]
+I sincerely hope that I can repay you.[AN]
+
+[FarRight]
+You're sure? Then, I guess we'll[N]
+be allies from now on, right?[AN]
+
+[Right]
+Yes, I[N]
+suppose so.[AN]
+
+[FarRight]
+C'mon then, Elffin![AN]
+I'd like to introduce[N]
+you to a few friends![AN]
+Everyone, please come in![AN]
+
+[FarRight][Clear][Right][Clear][Left][Clear][FarLeft][Clear]
+[MidLeft][LoadElffin]
+It's a bit hard to swallow, but...[AN]
+I guess I should see for myself[N]
+what's going on on this island.[A][2X][X]
+
+
+
+#0x9C6 Chapter9JesterEnding
+[MidRight][LoadJester][MidLeft][LoadEchidna]
+Ah, Jester! Good to[N]
+see you in one piece.[AN]
+
+[MidRight]
+As a member of[N]
+the Resistance,[AN]
+I'd never fail[N]
+so easily![AN]
+
+[MidLeft]
+Heh, by now I figured[N]
+you'd have run off already.[AN]
+
+[MidRight]
+W-what?! I'm not[N]
+that irresponsible![AN]
+
+[MidLeft]
+You say that after leaving[N]
+your sister alone at home.[AN]
+
+[MidRight]
+Ugh... This has nothing[N]
+to do with that, alright?![AN]
+
+[MidLeft]
+In any case, it's good[N]
+you're still alright.[AN]
+I guess I made the right[N]
+call with you after all.[AN]
+
+[MidRight]
+Yes Ma'am![AN]
+Actually, I was hoping we[N]
+could talk about that...[AN]
+
+[MidLeft]
+No... that's[N]
+alright.[AN]
+
+[MidRight]
+I still don't[N]
+understand....[AN]
+
+[MidLeft]
+Let's just say[N]
+it's a long story.[AN]
+What's important is[N]
+that you're okay.[AN]
+So, keep up the[N]
+good work, alright?[AN]
+
+[MidRight]
+Thank you! I will.[N]
+Guess I'll be going...[AN]
+
+[MidLeft]
+Hold up, kid...[AN]
+I got you something.[N]
+Here, catch![AN]
+
+[MidRight]
+This is...[AN]
+
+[MidLeft]
+Best of[N]
+luck, kid.[A][2X][X]
+
+
+
+#0x994 Chapter9Turn3
+[MidLeft][LoadIsaac]
+Their frontal assault[N]
+is approaching fast.[AN]
+Hurry and light the torches[N]
+by the front corridor![AN]
+We can use them to stave[N]
+off the attack for now.[A][2X][X]
+
+
+#0x97D Chapter9Turn7
+[MidLeft][LoadLizzy]
+We've got more coming from[N]
+the left and right sides![AN]
+Hurry and light more torches![AN]
+We should be okay as long as[N]
+we can see them coming![A][2X][X]
+
+
+
+#0x948 Chapter9Turn8
+[MidLeft][LoadIsaac]
+I think my eyes[N]
+are getting adjusted...[AN]
+I feel like I can see[N]
+further in the dark.[AN]
+But our vision is[N]
+still rather limited...[AN]
+Let's work together to[N]
+extend our vision range.[A][2X][X]
+
+
+#0x9C3 Chapter9VSHaguro
+[MidLeft][LoadHaguro]
+Oh! You guys...[AN]
+I don't know what[N]
+you think you're doing.[AN]
+Well, that's okay...[N]
+I'll finish you off.[A][2X][X]
+
+
+#0x8E8 Chapter9LizzyVSHaguro
+[MidLeft][LoadHaguro]
+What were you doing so[N]
+close to my Captain...?[AN]
+Who do you think you are?[N]
+I... I don't like you.[AN]
+I'll kill you for sure.[N]
+Stay away from him!![AN]
+[Clear]
+
+[MidRight][LoadLizzy]
+Damn! She's strong...[A][2X][X]
+
+
+#0x99E Chapter9IsaacVSHaguro
+[MidLeft][LoadHaguro]
+Hey, Captain...[N]
+Since that day...[AN]
+I've been working so[N]
+hard on my skills.[AN]
+I was trying to get[N]
+your attention...[AN]
+Always![AN]
+[Clear]
+
+[MidRight][LoadIsaac]
+...Get ready.[N]
+Haguro![A][2X][X]
+
+
+#0x99D Chapter9HaguroDeath
+[MidLeft][LoadHaguro]
+Ah... ahaha....[N]
+I'm... really sorry.[AN]
+Next time I'll make[N]
+sure that I...[AN]
+I don't lose...[A][2X][X]
+
+
+#0xF86 Chapter9HaguroAfterDefeat
+[MidLeft][LoadHaguro][CloseEyes]
+Ah...[AN]
+[Clear]
+[MidRight][LoadIsaac]
+...Haguro![AN]
+[Clear]
+[MidLeft][LoadHaguro][ToggleSmile]
+Hm...[N]
+I knew it...[AN]
+You're so kind, Captain.[N]
+You still think of me...[AN]
+That's so considerate.[N]
+That makes me happy.[AN]
+Was I able to show you[N]
+my... my burning passion?[A][2X][X]
+
+
+
+#0x7B Chapter9Guide
+[MidRight][LoadBowKnight][MidLeft][LoadHaguro]
+Excuse me, Mr. Tactician.[AN]
+Any news on how our[N]
+opration is proceeding?[AN]
+
+[MidRight]
+Yes, Ma'am! We're starting with[N]
+an attack on the central corridor.[AN]
+After we divert their focus there,[AN]
+we will launch a [Red]surprise attack[N]
+from the left and right sides.[Red][AN]
+A classic pincer maneuver.[AN]
+Since their vision range is[N]
+limited in the dark of night,[AN]
+they will likely use torches.[AN]
+We can take advantage of that and[N]
+[Red]topple them [Red]to reduce their vision.[AN]
+
+[MidLeft]
+Hehe, I think that's a good plan.[AN]
+Speaking of, your position, the[N]
+[Red]Tactician, [Red]is unlike any other.[AN]
+Your mere presence alone is enough[N]
+to bolster the morale of our troops.[AN]
+Try to keep to the back line, okay?[AN]
+
+[MidRight]
+Thank you for your concern.[N]
+Back to the operation...[AN]
+We will use many reinforcements,[N]
+especially towards the center.[AN]
+We place confidence in our[N]
+troops stamina and endurance,[AN]
+but we expect quite a struggle.[AN]
+
+[MidLeft]
+You don't underestimate anyone,[N]
+do you? That's smart of you.[AN]
+My Captain is out there...[N]
+I have faith he can handle it.[AN]
+
+[MidRight]
+Hm... in that case, perhaps[N]
+we should divert more troops...[AN]
+
+[MidLeft]
+How do I think my Captain would react...[N]
+Hehe... I'm starting to have some fun![AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+I think that should do.[N]
+Please, proceed with that.[AN]
+
+[MidRight]
+Yes Ma'am![AN]
+If you'd[N]
+excuse me.[AN]
+[Clear]
+
+[MidLeft]
+For now, I'll stay back[N]
+and watch my Captain...[AN]
+I'll just [Red]kill anyone who[N]
+comes too close to me.[Red][AN]
+I can't wait for him...[AN]
+Now, is that enough[N]
+information for you?[AN]
+I know you're listening[N]
+in over there. Heehee![A][2X][X]
+
+
+
+#0x99B Chapter9IsaacDeath
+[MidRight][LoadIsaac]
+I think I...[N]
+Messed up...[AN]
+[Clear]
+
+[MidLeft][LoadHaguro]
+Oh, wonderful![N]
+I've finally got you![AN]
+Everyone, please take[N]
+care of the others![AN]
+Now we can finally[N]
+be together...[AN]
+Are you ready, my Captain?[N]
+Heehee...[AN]
+[Clear]
+
+[MidRight][LoadIsaac][Beat][A][2X][X]
+
+
+#0x947 Chapter9ResistanceHideoutLocation
+Resistance Hideout[2X][X]

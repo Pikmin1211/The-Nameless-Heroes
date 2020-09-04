@@ -1,0 +1,204 @@
+[MidRight][LoadLizzy]
+
+Oh... Larum?[AN]
+
+What are you[N]
+
+doing here?[AN]
+
+
+
+[MidLeft][LoadLarum]
+
+A-ahh![AN]
+
+[MoveMidLeft]
+
+W-who's there?![AN]
+
+Oh... Lizzy...[N]
+
+Why are you up?[AN]
+
+
+
+[MidRight]
+
+I'm just having a bit[N]
+
+of trouble sleeping.[AN]
+
+I thought a walk might[N]
+
+help clear my thoughts.[AN]
+
+So, what are you doing[N]
+
+awake at this hour?[AN]
+
+Are you practicing?[AN]
+
+
+
+[MidLeft]
+
+Well...[N]
+
+I can't tell you that yet.[AN]
+
+It's a dance, but I won't[N]
+
+tell you more than that![AN]
+
+This time of day... er...[AN]
+
+This time of night is[N]
+
+perfect for solo practice![AN]
+
+
+
+[MidRight]
+
+Well, it seems you're busy.[N]
+
+Sorry for interrupting you.[AN]
+
+I'll take my leave then...[AN]
+
+
+
+[MidLeft]
+
+Gosh! If you want to be so[N]
+
+persistant, Liz, I guess...[AN]
+
+If you want to see it, I[N]
+
+could show you. Interested?[AN]
+
+
+
+[MidRight]
+
+N-no, that's okay![N]
+
+I'm just gonna...[AN]
+
+Continue on my[N]
+
+walk, alright?[AN]
+
+
+
+[MidLeft]
+
+Heehee, well, if[N]
+
+you say so then![AN]
+
+
+
+[MidRight]
+
+Haha, it's nice to[N]
+
+see you smile again.[AN]
+
+I'm relieved.[AN]
+
+
+
+[MidLeft]
+
+You're one to talk, Liz![AN]
+
+From what I can see, you[N]
+
+bear such a heavy burden...[AN]
+
+Compared to that, well,[N]
+
+what I'm feeling is nothing.[AN]
+
+Your father in law gave me this[N]
+
+escort job in the first place.[AN]
+
+I felt so relieved when the[N]
+
+Resistance took Elffin in.[AN]
+
+I wanted to thank them. I had[N]
+
+to repay the favor somehow.[AN]
+
+Dancing is all I know, so...[AN]
+
+For Elffin's sake, I want to[N]
+
+dance for the people here.[AN]
+
+But, Liz... you don't feel[N]
+
+safe in here, do you?[AN]
+
+
+
+[MidRight]
+
+Well, not exactly,[N]
+
+but... Hey, Larum.[AN]
+
+
+
+[MidLeft]
+
+Mhmm?[AN]
+
+
+
+[MidRight]
+
+What do you plan on doing?[N]
+
+Y'know, when Elffin is better?[AN]
+
+
+
+[MidLeft]
+
+Well, that's Elffin's[N]
+
+choice, really...[AN]
+
+If it was up to me...[AN]
+
+I'd like to continue to[N]
+
+help out the Resistance.[AN]
+
+I'm sure Elffin would[N]
+
+be a great help, too.[AN]
+
+
+
+[MidRight]
+
+In that case, Larum,[N]
+
+I want to help you too.[AN]
+
+
+
+[MidLeft]
+
+Aw... thank you, Liz.[N]
+
+Now then, enough chitchat...[AN]
+
+It's time for me to dance![A][2X][X]
+
