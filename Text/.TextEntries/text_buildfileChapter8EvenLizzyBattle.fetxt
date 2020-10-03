@@ -1,4 +1,4 @@
-[MidRight][LoadLizzy][MidLeft][LoadEvan]
+[MidLeft][LoadEvan]
 
 Oh, so it's you again, huh?[AN]
 
@@ -8,9 +8,11 @@ with the Resistance...[AN]
 
 Have you no shame, girl?[AN]
 
+[Clear]
 
 
-[MidRight]
+
+[MidRight][LoadLizzy]
 
 Shame? Never! I fight[N]
 
@@ -18,9 +20,11 @@ for what I believe in![AN]
 
 This time, I defeat you![AN]
 
+[Clear]
 
 
-[MidLeft]
+
+[MidLeft][LoadEvan]
 
 Just like before,[N]
 

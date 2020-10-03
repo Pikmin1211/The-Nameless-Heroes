@@ -708,18 +708,20 @@ You'll regret... this...[A][CloseEyes][.....][X]
 
 
 #0xA39 Chapter8EvenLizzyBattle
-[MidRight][LoadLizzy][MidLeft][LoadEvan]
+[MidLeft][LoadEvan]
 Oh, so it's you again, huh?[AN]
 An Etrurian knight siding[N]
 with the Resistance...[AN]
 Have you no shame, girl?[AN]
+[Clear]
 
-[MidRight]
+[MidRight][LoadLizzy]
 Shame? Never! I fight[N]
 for what I believe in![AN]
 This time, I defeat you![AN]
+[Clear]
 
-[MidLeft]
+[MidLeft][LoadEvan]
 Just like before,[N]
 all bark and no bite.[AN]
 Alright, come![A][X]

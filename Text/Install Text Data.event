@@ -489,6 +489,22 @@ __TEXTPROCESS1063:
 #incbin ".TextEntries\text_buildfile1063.fetxt.dmp"
 setText($1063, __TEXTPROCESS1063)
 
+__TEXTPROCESS109A:
+#incbin ".TextEntries\text_buildfile109A.fetxt.dmp"
+setText($109A, __TEXTPROCESS109A)
+
+__TEXTPROCESS0C5:
+#incbin ".TextEntries\text_buildfile0C5.fetxt.dmp"
+setText($C5, __TEXTPROCESS0C5)
+
+__TEXTPROCESS109B:
+#incbin ".TextEntries\text_buildfile109B.fetxt.dmp"
+setText($109B, __TEXTPROCESS109B)
+
+__TEXTPROCESS1032:
+#incbin ".TextEntries\text_buildfile1032.fetxt.dmp"
+setText($1032, __TEXTPROCESS1032)
+
 __TEXTPROCESS8D1:
 #incbin ".TextEntries\text_buildfile8D1.fetxt.dmp"
 setText($8D1, __TEXTPROCESS8D1)
@@ -1201,6 +1217,26 @@ __TEXTPROCESSFEE:
 #incbin ".TextEntries\text_buildfileFEE.fetxt.dmp"
 setText($FEE, __TEXTPROCESSFEE)
 
+__TEXTPROCESS1093:
+#incbin ".TextEntries\text_buildfile1093.fetxt.dmp"
+setText($1093, __TEXTPROCESS1093)
+
+__TEXTPROCESS1061:
+#incbin ".TextEntries\text_buildfile1061.fetxt.dmp"
+setText($1061, __TEXTPROCESS1061)
+
+__TEXTPROCESS1075:
+#incbin ".TextEntries\text_buildfile1075.fetxt.dmp"
+setText($1075, __TEXTPROCESS1075)
+
+__TEXTPROCESSFDA:
+#incbin ".TextEntries\text_buildfileFDA.fetxt.dmp"
+setText($FDA, __TEXTPROCESSFDA)
+
+__TEXTPROCESS1060:
+#incbin ".TextEntries\text_buildfile1060.fetxt.dmp"
+setText($1060, __TEXTPROCESS1060)
+
 __TEXTPROCESS071:
 #incbin ".TextEntries\text_buildfile071.fetxt.dmp"
 setText($71, __TEXTPROCESS071)
@@ -1397,9 +1433,9 @@ __TEXTPROCESS274:
 #incbin ".TextEntries\text_buildfile274.fetxt.dmp"
 setText($274, __TEXTPROCESS274)
 
-__TEXTPROCESS276:
-#incbin ".TextEntries\text_buildfile276.fetxt.dmp"
-setText($276, __TEXTPROCESS276)
+__TEXTPROCESS25D:
+#incbin ".TextEntries\text_buildfile25D.fetxt.dmp"
+setText($25D, __TEXTPROCESS25D)
 
 __TEXTPROCESS277:
 #incbin ".TextEntries\text_buildfile277.fetxt.dmp"
@@ -1860,6 +1896,10 @@ setText($F2D, __TEXTPROCESSF2D)
 __TEXTPROCESSF42:
 #incbin ".TextEntries\text_buildfileF42.fetxt.dmp"
 setText($F42, __TEXTPROCESSF42)
+
+__TEXTPROCESS2C2:
+#incbin ".TextEntries\text_buildfile2C2.fetxt.dmp"
+setText($2C2, __TEXTPROCESS2C2)
 
 __TEXTPROCESS2DB:
 #incbin ".TextEntries\text_buildfile2DB.fetxt.dmp"

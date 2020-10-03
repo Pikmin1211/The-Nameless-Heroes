@@ -317,3 +317,7 @@ Skill: Pavise. Equip: [LanceIcon] [BowIcon] [ShieldIcon][2X][X]
 #0xF42
 An experienced and fierce warrior.[N]
 Skill: Luna. Equip: [SwordIcon] [LanceIcon] [ShieldIcon][2X][X]
+
+#0x2C2
+A title granted to a prince with[N]
+magical mastery. Equip: [AnimaIcon] [DarkIcon] [StaffIcon][2X][X]

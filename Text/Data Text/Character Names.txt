@@ -357,3 +357,18 @@ Marx[2X][X]
 
 #0x1063
 Barrigan[2X][X]
+
+#0x109A
+Mitos[X]
+
+#0xC5
+Viola[X]
+
+#0x109B
+Dragoon[X]
+
+#0x1032
+Ilian[X]
+
+#0x1CB
+Joerg[X]
