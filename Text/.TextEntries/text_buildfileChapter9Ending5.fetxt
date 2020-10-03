@@ -1,0 +1,250 @@
+[Left][LoadElffin][Right][LoadLarum]
+
+Ah...! Oh, thank[N]
+
+God... Elffin![AN]
+
+
+
+[Left]
+
+Thank you Larum, I appreciate it.[N]
+
+I'm not sure that I'm fully recovered...[AN]
+
+I do remember getting on the ship, but[N]
+
+after that my memory is hazy at best.[AN]
+
+
+
+[Right]
+
+You've been on the brink[N]
+
+of death all this time![AN]
+
+[MoveRight]
+
+I've been worried[N]
+
+sick about you...![AN]
+
+[MoveRight]
+
+People said there was[N]
+
+no way to help us![AN]
+
+
+
+[Left]
+
+Yes... I remember hearing you[N]
+
+cry, in my waning conciousness.[AN]
+
+
+
+[Right][MoveRight]
+
+G-geez![N]
+
+Elffin![AN]
+
+
+
+[FarFarRight]
+
+Larum! I heard Lord[N]
+
+Elffin is finally awake?![AN]
+
+
+
+[Right][Clear][Left][Clear]
+
+[FarRight][LoadLarum][Right][LoadLizzy][FarLeft][LoadElffin]
+
+Lizzy. I'm truly indebted[N]
+
+to you for your help.[AN]
+
+
+
+[Right]
+
+N-No, I didn't...[N]
+
+I'm just doing my job.[AN]
+
+More importantly,[N]
+
+how is your health?[AN]
+
+
+
+[FarRight]
+
+Yeah! Are you[N]
+
+feeling okay?[AN]
+
+
+
+[FarLeft]
+
+Well, as of right now, the pain is dulled.[AN]
+
+But maybe because of how long I've been[N]
+
+asleep, my body feels very shakey...[AN]
+
+I'm going to need more time to regain[N]
+
+my balance if I want to walk anywhere.[AN]
+
+
+
+[FarRight]
+
+We can help[N]
+
+you until then![AN]
+
+
+
+[Right]
+
+Yes, we'll take[N]
+
+care of you![AN]
+
+
+
+[FarFarRight]
+
+Excuse me. Sorry[N]
+
+to interrupt.[AN]
+
+
+
+[FarRight][Clear][Left][LoadLarum][FarRight][LoadIsaac]
+
+Looks like you really[N]
+
+are awake, then.[AN]
+
+
+
+[Left]
+
+Oh![N]
+
+Isaac![AN]
+
+
+
+[FarLeft]
+
+It appears I am in your debt, as well.[N]
+
+My name is Elffin, and I'm a bard.[AN]
+
+Thank you for saving our lives and[N]
+
+helping us in our time of need.[AN]
+
+
+
+[FarRight]
+
+A pleasure to finally meet you.[N]
+
+I'm glad you're doing alright.[AN]
+
+My name is Isaac, and I'm the[N]
+
+captain of my mercenary group.[AN]
+
+Larum and Lizzy have asked me to[N]
+
+assist them in escorting you.[AN]
+
+Sir Elffin, have you decided on[N]
+
+what you want to do right now?[AN]
+
+
+
+[FarRight][Clear][Right][Clear]
+
+[FarFarRight]
+
+Don't worry about that![N]
+
+He's already made his mind![AN]
+
+
+
+[Right][LoadIsaac][FarRight][LoadEchidna]
+
+Is that true?[N]
+
+Elffin![AN]
+
+
+
+[FarLeft]
+
+Yes, I've already been asked to join[N]
+
+the Resistance since I've awoken.[AN]
+
+And I've decided to accept the offer.[AN]
+
+If my wisdom can be of any use to you,[N]
+
+I sincerely hope that I can repay you.[AN]
+
+
+
+[FarRight]
+
+You're sure? Then, I guess we'll[N]
+
+be allies from now on, right?[AN]
+
+
+
+[Right]
+
+Yes, I[N]
+
+suppose so.[AN]
+
+
+
+[FarRight]
+
+C'mon then, Elffin![AN]
+
+I'd like to introduce[N]
+
+you to a few friends![AN]
+
+Everyone, please come in![AN]
+
+
+
+[FarRight][Clear][Right][Clear][Left][Clear][FarLeft][Clear]
+
+[MidLeft][LoadElffin]
+
+It's a bit hard to swallow, but...[AN]
+
+I guess I should see for myself[N]
+
+what's going on on this island.[A][2X][X]
+

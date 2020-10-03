@@ -1,0 +1,120 @@
+[MidLeft][LoadHermes][CloseEyes]
+
+Man, it's late. Business is[N]
+
+slow as usual at this hour...[AN]
+
+[OpenEyes]
+
+
+
+[MidRight][LoadIsaac]
+
+Sorry if I'm bothering[N]
+
+you at this hour, Hermes.[AN]
+
+The sign still said "open",[N]
+
+so I thought I'd stop by.[AN]
+
+
+
+[MidLeft]
+
+Oh, it's you, sir![N]
+
+Sorry you had to see that...[AN]
+
+Um, is there something[N]
+
+you're looking for tonight?[AN]
+
+
+
+[MidRight]
+
+Well, I had nothing[N]
+
+particular in mind.[AN]
+
+I'd like to see what[N]
+
+you have to offer,[AN]
+
+if that's alright.[AN]
+
+
+
+[MidLeft]
+
+Yes, yes![N]
+
+Of course, sir![AN]
+
+Then let me present[N]
+
+you something...[AN]
+
+How about this...[N]
+
+The Blizzard tome![AN]
+
+What do you think?[AN]
+
+
+
+[MidRight]
+
+Are you feeling[N]
+
+tired, by chance?[AN]
+
+
+
+[MidLeft]
+
+No, no! I'm fine, really.[N]
+
+More importantly, the tome![AN]
+
+The enemy first will feel[N]
+
+a sudden chill in the air...[AN]
+
+Then, they will be lulled[N]
+
+into a cold, deep sleep.[AN]
+
+I imagine being lost in the[N]
+
+Ilian mountains is like that.[AN]
+
+
+
+[MidRight]
+
+That's... pretty[N]
+
+gruesome to imagine.[AN]
+
+So, what's the price?[AN]
+
+
+
+[MidLeft][CloseEyes]
+
+A mere 3,000 gold...[N]
+
+What... uh....[OpenEyes][AN]
+
+What do you think?[AN]
+
+
+
+[MidRight]
+
+I knew he[N]
+
+was sleepy...[A][2X][X]
+

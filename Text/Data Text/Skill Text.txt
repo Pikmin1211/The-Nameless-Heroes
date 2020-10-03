@@ -22,7 +22,7 @@ Nullify[N]
 Negates effective damage.[2X][X]
 
 #0x5A9
-Cancel[N]
+Antipursuit[N]
 User's attacks cancel opponent's[N]
 follow-ups and criticals.[2X][X]
 
@@ -558,3 +558,28 @@ in all physical weapon types.[2X][X]
 #0xFEE
 (S Rank) Pierce (Lv%)[N]
 Ignore enemy defense.[2X][X]
+
+#0x1093
+Spellsword[N]
+Swords always use the higher of[N]
+Str or Mag and get range +1.[2X][X]
+
+#0x1061
+Daunt[N]
+Enemies within 3 tiles[N]
+recieve -20% avoid.[2X][X]
+
+#0x1075
+Charisma[N]
+Allies within 3 tiles[N]
+recieve +5% hit and avoid.[2X][X]
+
+#0xFDA
+Mageblood[N]
+Can use all magic[N] 
+types up to A rank.[2X][X]
+
+#0x1060
+Cancel (Skill%)[N]
+Negate the opponent's[N]
+counterattack.[2X][X]

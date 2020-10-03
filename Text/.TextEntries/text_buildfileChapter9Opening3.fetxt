@@ -1,0 +1,180 @@
+[Left][LoadLizzy]
+
+I don't see anyone...[N]
+
+Is anybody here?[AN]
+
+There's not much light[N]
+
+so I can't see far...[AN]
+
+
+
+[Right][LoadBarrelle]
+
+Don't let your guard[N]
+
+down, alright kid?[AN]
+
+Anyways, we're looking[N]
+
+for any victims here.[AN]
+
+Maybe we should[N]
+
+light the torches?[AN]
+
+
+
+[Left][Clear][LoadEchidna]
+
+It's true that it's hard to see,[N]
+
+but that'd also draw attention.[AN]
+
+Let's keep them put out until[N]
+
+we can be sure it's safe here.[AN]
+
+
+
+[Right][Clear][LoadIsaac]
+
+If the enemy is lurking about,[N]
+
+we're in for a real treat...[AN]
+
+Is this where you said you[N]
+
+heard those screams, Echidna?[AN]
+
+
+
+[Left]
+
+Yeah, I think so.[AN]
+
+If someone screamed[N]
+
+loudly back here,[AN]
+
+you'd be able to hear[N]
+
+it from the meeting hall.[AN]
+
+
+
+[Left][Clear][LoadLizzy][Right][Clear][MidRight][LoadIsaac][Left]
+
+[Beat][AN]
+
+I think we should[N]
+
+light the torches.[AN]
+
+I don't think we can[N]
+
+do this without seeing...[AN]
+
+It's just too dark.[AN]
+
+I'll just take[N]
+
+this match and...[AN]
+
+[Clear]
+
+Huh?![AN]
+
+[LoadLizzy]
+
+Oww...[AN]
+
+
+
+[MidRight]
+
+Here, take my hand.[N]
+
+I'll help you up.[AN]
+
+
+
+[Left]
+
+...Thank you, Isaac.[AN]
+
+But, what the heck[N]
+
+did I just trip over?[AN]
+
+It didn't feel hard...[N]
+
+Wait... what is...?![AN]
+
+Is this a... person?![AN]
+
+
+
+[Left][Clear][MidRight][Clear][MidRight][LoadLizzy][MidLeft][LoadIsaac]
+
+As I thought,[N]
+
+they're dead.[AN]
+
+Echidna, we'll[N]
+
+have to stay sharp.[AN]
+
+
+
+[MidRight][Clear][LoadEchidna]
+
+[Beat][AN]
+
+I can't believe this...[N]
+
+I'm sorry, friends...[AN]
+
+We'll recover your[N]
+
+bodies properly later.[AN]
+
+You... you dastards!![AN]
+
+Show yourselves, you[N]
+
+cowards! God damnit!![AN]
+
+
+
+[FarFarLeft]
+
+Hehehe...[N]
+
+Ah! How wonderful...[AN]
+
+It seems that our[N]
+
+information was right...[AN]
+
+Oh, I'm such a lucky lady![AN]
+
+I've been looking for[N]
+
+you for so long, Captain,[AN]
+
+and we finally meet again![AN]
+
+
+
+[MidRight][Clear][MidLeft][Clear]
+
+[MidRight][LoadIsaac]
+
+...!![AN]
+
+That voice...[N]
+
+You're...[A][2X][X]
+

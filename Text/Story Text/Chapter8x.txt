@@ -1,0 +1,436 @@
+#0x998 Chapter8xOpening
+
+[MidLeft][LoadBarrelle][Right][LoadIsaac][FarRight][LoadLizzy]
+These villages...[N]
+All savagely looted...[AN]
+I'm... I'm sorry.[AN]
+If I had just...[N]
+If I had known...[AN]
+
+[MidLeft]
+That's just the reality of[N]
+these islands, I'm afraid.[AN]
+The powerless are at the[N]
+mercy of the Etrurians.[AN]
+What a wretched place.[AN]
+Any sign of defiance is[N]
+met with a burned village,[AN]
+and innocent people sent[N]
+to die in those mines.[AN]
+They mask their demands[N]
+like they're requests...[AN]
+But there is no doubt.[AN]
+The Etrurian lords are the[N]
+aboslute authority here.[AN]
+
+[Right]
+So, that's why you're so vocal[N]
+about being resistance troops.[AN]
+On the field it seems foolish[N]
+to paint a target on yourself,[AN]
+but you're trying not to get[N]
+innocent villagers involved.[AN]
+
+[MidLeft]
+That's about right.[AN]
+If the Etrurians thought it[N]
+was the villagers dissenting,[AN]
+who knows what kind of things[N]
+they would do to them...[AN]
+Plus, it helps spread word[N]
+about the Resistance.[AN]
+...Looks like we're catching[N]
+up to our enemies about now.[AN]
+It's late, so I would think[N]
+they'd be resting somewhere.[AN]
+
+[FarRight]
+I see lights up ahead...[N]
+Could that be them?[AN]
+
+[MidLeft]
+Yeah, it is.[AN]
+They're lined[N]
+up in formation.[AN]
+
+[Right]
+Not good. Seems like they[N]
+noticed something's wrong.[AN]
+
+[MidLeft]
+If they were just resting, then[N]
+they'll need time to mobilize.[AN]
+If we hurry we can catch up.[AN]
+The further the distance between[N]
+us, the harder this will become.[AN]
+I want to save these people.[N]
+I'm counting on your support.[AN]
+
+[FarRight]
+Right![N]
+Let's go![A][2X][X]
+
+
+
+#0x999 Chapter8xOpening2
+
+[MidLeft][LoadEvil][MidRight][LoadMoneyMan]
+Mr. Evil, sir...[N]
+We've brought your meals.[AN]
+It is a pleasure to have you[N]
+stay at our humble village,[AN]
+during your important mission.[AN]
+
+[MidLeft]
+Is this all? Just scraps?![N]
+Bring more alcohol and women![AN]
+More!! You bumbling old fool![N]
+You ingrates owe your lives to us![AN]
+It is your duty to serve us![AN]
+
+[MidRight][Beat][AN]
+
+[MidLeft]
+What's the matter?[AN]
+...Oh, I see. That[N]
+look in your eyes...[AN]
+Planning to rebel,[N]
+are you? Hmm?[AN]
+
+[MidRight]
+N-no...[N]
+No, sir...[AN]
+
+[MidLeft]
+Bah. You bore me.[N]
+Away with you![AN]
+
+[MidRight]
+As you[N]
+wish, sir...[AN]
+[Clear]
+
+[MidLeft]
+This mission is dreadfully boring...[AN]
+At least being able to shove these[N]
+fools around makes it tolerable.[AN]
+
+[MidRight][LoadRedSoldier]
+Sir Evil! I have[N]
+something to report![AN]
+There's a group[N]
+approaching our rear.[AN]
+It appears to be[N]
+Resistance soldiers.[AN]
+
+[MidLeft]
+Those Resistance scum.[AN]
+They thought our[N]
+guard was down, hmm?[AN]
+Order the waiting troops[N]
+to prepare an assault,[AN]
+and the wagons to flee.[AN]
+I'll prepare my little[N]
+arachnid friends as well.[AN]
+They challenged Etruria,[N]
+so we show them its might![AN]
+
+[MidRight]
+Yes sir![N]
+On the double![A][2X][X]
+
+
+
+#0x9A3 Chapter8xEnding
+
+[FarLeft][LoadIsaac][Left][LoadLizzy][MidRight][LoadBlondeHairMan]
+Oh, thank god![N]
+We're finally safe...[AN]
+
+[Clear][LoadYoungMan]
+Ahhh... I'm so relieved.[N]
+Really relieved...[AN]
+[Clear]
+
+[Left][Clear][MidRight][LoadLizzy]
+I'm really glad we[N]
+made it in time...[AN]
+[CloseEyes]
+Oh...? I'm also...[N]
+shedding tears...?[AN]
+[OpenEyes]
+
+[FarLeft][Beat][AN]
+
+[FarFarRight]
+Tears of joy, huh?[AN]
+Better than tears[N]
+of grief, aren't they?[AN]
+[ClearSpeech]
+
+[MidRight][Clear][Left][LoadLizzy][MidRight][LoadBarrelle]
+So, did you take a look?[AN]
+What we just stole back[N]
+from those transporters.[AN]
+A mountainous pile, ain't it?[N]
+No wonder they get so rich.[AN]
+
+[Left]
+Quite a lot of[N]
+food and money...[AN]
+Was it all taken[N]
+from villagers?[AN]
+
+[MidRight]
+So it seems. I can[N]
+almost see their smiles,[AN]
+knowing that the lords[N]
+won't be coming back.[AN]
+We'll use it all well.[AN]
+Distribute it among[N]
+the Resistance forces.[AN]
+But, before that,[N]
+I'll give this to you.[AN]
+Consider it payment[N]
+for your hard work.[A][2X][X]
+
+
+
+#0x996 Chapter8xBadEnding
+
+[MidRight][LoadBarrelle][FarLeft][LoadIsaac][Left][LoadLizzy]
+No... we couldn't[N]
+save them after all...[AN]
+
+[FarLeft][Beat][AN]
+
+[MidRight]
+Gods damn it all![AN]
+They had the[N]
+edge over us...[AN]
+
+[FarLeft]
+What do[N]
+we do now?[AN]
+
+[MidRight]
+Now that they've gotten away,[N]
+there's nothing more we can do.[AN]
+I'm sorry, lad. I wasted our time.[AN]
+Let's hurry on back to Deil.[N]
+The others are waiting there...[AN]
+
+[FarLeft][Beat][AN]
+
+[Left][Beat][A][2X][X]
+
+
+#0x966 Chapter8xRangeEvent
+
+[MidLeft][LoadEvil][MidRight][LoadRedSoldier]
+Sir Evil, the enemy troop[N]
+has almost made it here![AN]
+You should evacuate now![AN]
+
+[MidLeft]
+Hmm... seems I've[N]
+underestimated them.[AN]
+At this rate, they'll[N]
+rob our transporters.[AN]
+I guess it's time to[N]
+enact my backup plan...[AN]
+Alright then, soldier![AN]
+Take those villagers and[N]
+line them up in a row.[AN]
+We must buy time for the[N]
+transporters to escape![AN]
+
+[MidRight]
+Sir! Yes, sir![N]
+Right away![AN]
+[Clear]
+
+[MidLeft]
+Heheh, those miserable lot will[N]
+serve well as our shields...[AN]
+
+[MidLeft][Clear]
+[FarLeft][LoadLoli][Right][LoadBrownHairMan][FarRight][LoadBlondeHairMan][Left][LoadKelikGirl]
+W-what are they going[N]
+to do with us...?[AN]
+
+[FarLeft]
+I'm scared...[AN]
+
+[Right][Beat][AN]
+
+[FarRight]
+I hope we'll be able[N]
+to return home alive...[A][2X][X]
+
+
+
+#0x95A Chapter8xRangeEvent2
+[MidLeft][LoadIsaac]
+They would go so far as to use[N]
+innocents for defensive line...[AN]
+Apparently, they hold no value[N]
+on human life. Despicable...[AN]
+Everyone, do not harm the[N]
+civilians. Pay attention.[A][2X][X]
+
+
+
+#0xAC5 Chapter8xVillage1
+[MidRight][LoadCurrent][MidLeft][LoadGingerMan]
+All the lords on this[N]
+island are greedy,[AN]
+exploitative bandits.[AN]
+This island used to be[N]
+peaceful and prosperous,[AN]
+until that dastard Arcard[N]
+showed up... Gods damn him.[A][2X][X]
+
+
+
+#0x95E Chapter8xVillage2
+[MidRight][LoadCurrent][MidLeft][LoadMoneyMan]
+Ah, welcome, Resistance.[AN]
+Up ahead is a dreadful[N]
+sorcerer named Evil.[AN]
+All who stood against him[N]
+were killed by his dark magic.[AN]
+Those who survived were taken[N]
+away as sacrifice for...[AN]
+For God knows what terrors.[N]
+Here, take this staff.[AN]
+It's a special staff that[N]
+can heal allies from far away.[AN]
+It was supposed to be given[N]
+to the Etrurian lords...[AN]
+But I've had enough of them.[AN]
+Please be a beacon of hope[N]
+in these dark, dreary times.[A][2X][X]
+
+
+
+#0x92D Chapter8xHouse
+[MidRight][LoadCurrent][MidLeft][LoadGingerMan]
+Lots of horse-drawn carriages[N]
+passed by here pretty quickly.[AN]
+I'd bet they're carrying goods[N]
+stolen from the nearby villages.[AN]
+Sorry to say, but I can't join[N]
+you. I prefer a peaceful life.[AN]
+On that note, I don't want[N]
+to be drawing attention here,[AN]
+so could you please leave?[A][2X][X]
+
+
+
+#0x99F Chapter8xVSEvil
+[MidLeft][LoadEvil]
+Hmph, seems my men are[N]
+incompetent as ever.[AN]
+Taste the power of[N]
+my elder magic![A][2X][X]
+
+
+
+#0x9A0 Chapter8xEvilDeath
+[MidLeft][LoadEvil]
+Damn you...[N]
+Gods damn you...![A][2X][X]
+
+
+
+#0x5F Chapter8xGuide
+Wrys:[N]
+Welcome back, sir Isaac.[N]
+This is the guide corner,[N]
+which gives you tactical advice.[N]
+Is something the matter?[AN]
+[N]
+Isaac:[N]
+Sir Wrys, isn't it...[N]
+different than usual?[AN]
+[N]
+Wrys:[N]
+I think you're just[N]
+imagining things.[AN]
+Now then, let's begin.[N]
+You must chase down[N]
+those transporters,[N]
+but your [Red]vision is reduced.[Red][AN]
+[N]
+Isaac:[N]
+We're the pursuers in the[N]
+darkness. Sounds difficult.[AN]
+We'll need to move quickly,[N]
+but also move carefully.[AN]
+[N]
+Wrys:[N]
+That's right. But don't worry.[N]
+Even [Red]destroying one transporter[N]
+would be a successful mission.[Red][AN]
+There's five wagons in all,[N]
+but two of them will only begin[N]
+to escape once you move closer.[AN]
+[N]
+Isaac:[N]
+I see. So if we're in a rough spot,[N]
+it may be better not to push[N]
+ourselves to try and catch them all.[AN]
+I'm a bit concerned about those[N]
+mountains. It's difficult to see.[AN]
+[N]
+Wrys:[N]
+Their leader, the sorcerer Evil,[N]
+has mastered control over his familiars.[AN]
+They are [Red]giant spiders[Red], and they[N]
+offer little reward for their defeat.[A][2X][X]
+
+
+
+#0x99 Chapter8xGuide2
+Isaac:[N]
+Giant spiders? I've never[N]
+heard of such creatures before.[AN]
+[N]
+Wrys:[N]
+They are summoned to[N]
+this realm from another.[AN]
+[N]
+Isaac:[N]
+I see...[AN]
+[N]
+Wrys:[N]
+By the way, [Red]defeating any[N]
+innocents will result in[N]
+a failure of the mission,[Red][AN]
+as you might expect.[AN]
+[N]
+Isaac:[N]
+I'll keep my eyes open for[N]
+any civilians on the field.[AN]
+[N]
+Wrys:[N]
+I wish you[N]
+good luck.[AN]
+[N]
+Isaac:[N]
+Until next[N]
+time, then.[A][2X][X]
+
+
+
+#0x99C Chapter8xTransporterDeath
+[MidLeft][LoadRedSoldier]
+Damn it! We're toppling over![AN]
+Hey, the horses... Wait![N]
+Get back here, you two![A][2X][X]
+
+
+
+#0x5E2 Chapter8xDeilLocation
+Deil[X]

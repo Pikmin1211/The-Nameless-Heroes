@@ -145,8 +145,8 @@ Dancer[2X][X]
 #0x274
 Soldier[2X][X]
 
-#0x276
-Necromancer[2X][X]
+#0x25D
+Master Lord[2X][X]
 
 #0x277
 Fleet[2X][X]

@@ -1,0 +1,486 @@
+#0x887 Chapter9BaseWorldMap
+Isaac's band of mercenaries decide to stay[N]
+on the island to atone for their dark past.[AN][Event]
+At Barrelle's suggestion, they travel to[N]
+a Resistance hideout to treat Elffin.[AN]
+The hideout is deep in the mountains,[AN][Event]
+a two day ride by wagon, and is completely[N]
+unnoticable to anyone who would look for it.[AN][Event]
+From here, the group assists the Resistance[N]
+and attempt to tend to Elffin's illness.[AN][Event]
+Some dayss pass, and Elffin's condition[N]
+finally begins to turn for the better.[AN][Event]
+Meanwhile, several Resistance leaders begin[N]
+an urgent meeting about their next mission.[AN][Event]
+In the middle of this meeting, a group[N]
+dressed in black approaches the hideout.[AN][Event]
+It was not until a guard cried out that[N]
+this mysterious group was noticed...[A][2X][X]
+
+
+
+#0x93C Chapter9BaseLizzyLarumTalk
+[MidRight][LoadLizzy]
+Oh... Larum?[AN]
+What are you[N]
+doing here?[AN]
+
+[MidLeft][LoadLarum]
+A-ahh![AN]
+[MoveMidLeft]
+W-who's there?![AN]
+Oh... Lizzy...[N]
+Why are you up?[AN]
+
+[MidRight]
+I'm just having a bit[N]
+of trouble sleeping.[AN]
+I thought a walk might[N]
+help clear my thoughts.[AN]
+So, what are you doing[N]
+awake at this hour?[AN]
+Are you practicing?[AN]
+
+[MidLeft]
+Well...[N]
+I can't tell you that yet.[AN]
+It's a dance, but I won't[N]
+tell you more than that![AN]
+This time of day... er...[AN]
+This time of night is[N]
+perfect for solo practice![AN]
+
+[MidRight]
+Well, it seems you're busy.[N]
+Sorry for interrupting you.[AN]
+I'll take my leave then...[AN]
+
+[MidLeft]
+Gosh! If you want to be so[N]
+persistant, Liz, I guess...[AN]
+If you want to see it, I[N]
+could show you. Interested?[AN]
+
+[MidRight]
+N-no, that's okay![N]
+I'm just gonna...[AN]
+Continue on my[N]
+walk, alright?[AN]
+
+[MidLeft]
+Heehee, well, if[N]
+you say so then![AN]
+
+[MidRight]
+Haha, it's nice to[N]
+see you smile again.[AN]
+I'm relieved.[AN]
+
+[MidLeft]
+You're one to talk, Liz![AN]
+From what I can see, you[N]
+bear such a heavy burden...[AN]
+Compared to that, well,[N]
+what I'm feeling is nothing.[AN]
+Your father in law gave me this[N]
+escort job in the first place.[AN]
+I felt so relieved when the[N]
+Resistance took Elffin in.[AN]
+I wanted to thank them. I had[N]
+to repay the favor somehow.[AN]
+Dancing is all I know, so...[AN]
+For Elffin's sake, I want to[N]
+dance for the people here.[AN]
+But, Liz... you don't feel[N]
+safe in here, do you?[AN]
+
+[MidRight]
+Well, not exactly,[N]
+but... Hey, Larum.[AN]
+
+[MidLeft]
+Mhmm?[AN]
+
+[MidRight]
+What do you plan on doing?[N]
+Y'know, when Elffin is better?[AN]
+
+[MidLeft]
+Well, that's Elffin's[N]
+choice, really...[AN]
+If it was up to me...[AN]
+I'd like to continue to[N]
+help out the Resistance.[AN]
+I'm sure Elffin would[N]
+be a great help, too.[AN]
+
+[MidRight]
+In that case, Larum,[N]
+I want to help you too.[AN]
+
+[MidLeft]
+Aw... thank you, Liz.[N]
+Now then, enough chitchat...[AN]
+It's time for me to dance![A][2X][X]
+
+
+
+#0xB25 Chapter9BaseIsaacLizzyTalk
+[MidLeft][LoadIsaac][MidRight][LoadLizzy][MoveMidRight]
+U-um...[N]
+Mr. Isaac![AN]
+
+[MidLeft]
+Ah, if it isn't Miss Lizzy.[N]
+Did you need something?[AN]
+
+[MidRight]
+There was something I wanted[N]
+to talk about, actually.[AN]
+I've learned a lot from you,[AN]
+but I still feel like there's[N]
+something stuck between us.[AN]
+I think the reason is because[N]
+of how we speak to each other![AN]
+[MoveMidRight]
+What I mean is... maybe we[N]
+should speak more casually?[AN]
+Like... I could stop calling[N]
+you "Sir" or "Mister" Isaac.[AN]
+
+[MidLeft]
+Hmm... I think[N]
+it's a good idea.[AN]
+That's fine with[N]
+me, Lady Lizzy.[AN]
+Address me however[N]
+you would like.[AN]
+
+[MidRight]
+O-oh, um...[AN]
+I mean,[N]
+that's not...[AN]
+
+[MidLeft]
+...Lizzy.[AN]
+I look forward to[N]
+working with you.[AN]
+
+[MidRight][ToggleSmile]
+Yeah![N]
+As do I![AN]
+[Clear][ToggleSmile]
+
+[MidLeft]
+[Beat][A][2X][X]
+
+
+
+#0x60 Chapter9BaseIsaacAudreyTalk
+[MidLeft][LoadIsaac][MidRight][LoadAudrey]
+Echidna and the others should be[N]
+in the middle of their meeting.[AN]
+Isaac, you were summoned to[N]
+that meeting too, weren't you?[AN]
+Is it okay for you to be here...?[AN]
+
+[MidLeft]
+Yeah, it seems like there's nothing[N]
+I need to be at the meeting for.[AN]
+It's late now, so I'm going to bed.[AN]
+
+[MidRight]
+Just don't be up[N]
+drinking again.[AN]
+
+[MidLeft]
+What makes you[N]
+say that...?[AN]
+
+[MidRight]
+You snore really loudly, Isaac.[AN]
+They say drinking before bed[N]
+is a bad habit, you know.[AN]
+
+[MidLeft]
+...Am I[N]
+that loud?[AN]
+
+[MidRight]
+Yup, in fact, I can hear[N]
+you from a few rooms away.[AN]
+
+[MidLeft]
+...I guess I'll[N]
+refrain for tonight.[A][2X][X]
+
+
+
+#0x5E Chapter9BaseJesterBarrelleTalk
+[MidRight][LoadBarrelle][MidLeft][LoadJester]
+Hey, Sir Barrelle. What[N]
+are you doing here?[AN]
+Weren't you supposed to[N]
+be in that meeting?[AN]
+
+[MidRight]
+Oh, Jester. We're just taking a break.[N]
+Things got a little heated in there.[AN]
+
+[MidLeft]
+Heating up, you say? Sounds like a[N]
+good way to start our next mission![AN]
+
+[MidRight]
+Huh? No,[N]
+that's...[AN]
+
+[MidLeft]
+Huh?[AN]
+
+[MidRight]
+What I meant is...[N]
+Well, we got off to a bad start.[AN]
+There's been some troubling intel.[AN]
+They suspect someone is leaking our[N]
+information to the Etrurians.[AN]
+
+[MidLeft]
+What?! Are you saying someone[N]
+in the Resistance is a traitor?![AN]
+
+[MidRight]
+Quiet down, lad. I don't think so.[AN]
+With our defeats lately, everyone[N]
+is getting a little too on edge.[AN]
+I have a feeling that's why the[N]
+others are becoming so wary.[AN]
+Echidna was trying to keep the[N]
+others in line, but that was it.[AN]
+Oh, it looks like the meeting is[N]
+about to resume, so I'll be going.[AN]
+It's late, so get some sleep, lad.[AN]
+
+[MidLeft]
+Yes, sir![A][2X][X]
+
+
+
+#0x9B5 Chapter9BaseIsaacMythraTalk
+[MidLeft][LoadIsaac][MidRight][LoadMythra]
+Aah! If it isn't Sir[N]
+Isaac. Good evening![AN]
+
+[MidLeft]
+Mythra, it's late. Where[N]
+are you going at this hour?[AN]
+
+[MidRight]
+Well, I was thinking[N]
+of getting a drink...[AN]
+Care to join me, Isaac?[AN]
+
+[MidLeft]
+I appreciate it, but I was[N]
+actually just on my way to bed.[AN]
+Sorry, but maybe another time.[AN]
+
+[MidRight]
+Aw, really? What a shame![N]
+But you owe me next time![AN]
+[Clear]
+
+[MidLeft]
+She doesn't seem like a grown woman[N]
+no matter how you look at it...[AN]
+Well, maybe that's rude of me...[A][2X][X]
+
+
+
+#0xA6E Chapter9BaseSeleneLarumTalk
+[MidLeft][LoadLarum]
+Wow, that's such[N]
+a pretty dance![AN]
+
+[MidRight][LoadSelene]
+...Oh dear, were[N]
+you watching me?[AN]
+
+[MidLeft]
+Yeah, I watched you a lot![AN]
+Your moves are all so[N]
+romantic and mysterious...[AN]
+There's something magical[N]
+about the way you dance.[AN]
+
+[MidRight]
+My mother used to[N]
+perform this dance.[AN]
+Sadly... she's no[N]
+longer with us.[AN]
+
+[MidLeft][MoveMidLeft]
+Hey, so, what was[N]
+your mother like?[AN]
+
+[MidRight]
+She was famous all[N]
+over the continent.[AN]
+A woman I admired and[N]
+dreamt to be like...[AN]
+But also a woman that[N]
+I deeply despised.[AN]
+
+[MidLeft][MoveMidLeft]
+You despised your[N]
+own mother? Why?[AN]
+
+[MidRight]
+Every time I danced[N]
+I could hear it...[AN]
+They would murmur the[N]
+name of my mother...[AN]
+And I hated it. They[N]
+always compared us.[AN]
+I got so fed up that[N]
+I stopped dancing.[AN]
+
+[MidLeft]
+Well, it was amazing[N]
+to watch you just now.[AN]
+You shouldn't quit![N]
+That's what I believe.[AN]
+
+[MidRight]
+You're the reason I chose[N]
+to dance again, you know.[AN]
+
+[MidLeft]
+Huh? Me?[AN]
+
+[MidRight]
+Watching you dance, you[N]
+seemed to shine like the sun.[AN]
+It reminded me of how I used[N]
+to dream about my mother...[AN]
+And when I saw that, I knew[N]
+I couldn't lose to you.[AN]
+
+[MidLeft]
+Heheh, well, you picked a[N]
+formidable rival, you know.[AN]
+
+[MidRight]
+Haha! Well, we'll see if[N]
+you can keep up with me.[AN]
+
+[MidLeft][Clear]
+[MidRight]
+Mother...[AN]
+I carry in my veins the[N]
+rhythm of your dance.[AN]
+I won't... let you down![A][2X][X]
+
+
+
+#0x91E Chapter9BaseIsaacHermesTalk
+[MidLeft][LoadHermes][CloseEyes]
+Man, it's late. Business is[N]
+slow as usual at this hour...[AN]
+[OpenEyes]
+
+[MidRight][LoadIsaac]
+Sorry if I'm bothering[N]
+you at this hour, Hermes.[AN]
+The sign still said "open",[N]
+so I thought I'd stop by.[AN]
+
+[MidLeft]
+Oh, it's you, sir![N]
+Sorry you had to see that...[AN]
+Um, is there something[N]
+you're looking for tonight?[AN]
+
+[MidRight]
+Well, I had nothing[N]
+particular in mind.[AN]
+I'd like to see what[N]
+you have to offer,[AN]
+if that's alright.[AN]
+
+[MidLeft]
+Yes, yes![N]
+Of course, sir![AN]
+Then let me present[N]
+you something...[AN]
+How about this...[N]
+The Blizzard tome![AN]
+What do you think?[AN]
+
+[MidRight]
+Are you feeling[N]
+tired, by chance?[AN]
+
+[MidLeft]
+No, no! I'm fine, really.[N]
+More importantly, the tome![AN]
+The enemy first will feel[N]
+a sudden chill in the air...[AN]
+Then, they will be lulled[N]
+into a cold, deep sleep.[AN]
+I imagine being lost in the[N]
+Ilian mountains is like that.[AN]
+
+[MidRight]
+That's... pretty[N]
+gruesome to imagine.[AN]
+So, what's the price?[AN]
+
+[MidLeft][CloseEyes]
+A mere 3,000 gold...[N]
+What... uh....[OpenEyes][AN]
+What do you think?[AN]
+
+[MidRight]
+I knew he[N]
+was sleepy...[A][2X][X]
+
+
+
+#0xFC0 Chapter9BaseIsaacHermesYes
+[MidRight]
+Alright. Here's[N]
+the gold then.[AN]
+
+[MidLeft][CloseEyes]
+Th... thank you.[N]
+Here's your...[AN]
+Merchan... dise.[OpenEyes][AN]
+
+[MidRight]
+Wake up, Hermes.[AN]
+You'll catch a cold if[N]
+you fall asleep here.[AN]
+
+[MidLeft]
+Oh, sorry... Isaac...[AN]
+I'm gonna head home and[N]
+get some shut-eye now...[AN]
+
+[MidRight]
+Have a[N]
+good night.[A][2X][X]
+
+
+
+#0xD45 Chapter9BaseGeronimo
+[MidRight][LoadCurrent][MidLeft][LoadGeronimo]
+I'm Geronimo, the recorder.[AN]
+I'm in charge of recording[N]
+everyone's Ranking.[AN]
+Well, I was about to go to[N]
+bed... myself... Zzz...[AN]
+[Beat][AN]
+[MoveMidLeft]
+Ah! Sorry! Anyways,[N]
+here's my evaluation![A][2X][X]

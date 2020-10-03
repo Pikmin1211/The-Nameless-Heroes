@@ -45,15 +45,6 @@ menu [Red]every time [Red]you visit the base.[A][2X][X]
 The Seize point has been blocked.[N]
 Check the guide, or just wait.[A][2X][X]
 
-## Chapter10BaseSystemMessage
-[Red]SYSTEM MESSAGE:[Red][AN]
-In the next chapter, Lizzy[N]
-will be escorting Elffin.[N]
-She will temporarily[N]
-be unavailable in preparations.[AN]
-Make sure to prepare her[N]
-equipment before moving on.[A][2X][X]
-
 #0xE61 Chapter12SystemMessage
 [Red]SYSTEM MESSAGE:[Red][AN]
 The chapter clear[N]

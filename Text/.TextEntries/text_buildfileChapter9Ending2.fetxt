@@ -1,0 +1,132 @@
+[MidRight][LoadYoungHaguro][MoveMidRight]
+
+Captain![AN]
+
+[MoveMidRight]
+
+Captaaaain!![AN]
+
+[CloseEyes]
+
+I'm sorry...[N]
+
+This is...[AN]
+
+It's my fault.[AN]
+
+[OpenEyes]
+
+
+
+[MidLeft][LoadIsaac][CloseEyes]
+
+...Don't cry, Haguro.[N]
+
+It's not a deep wound.[AN]
+
+It's just... the blood[N]
+
+makes it look worse.[AN]
+
+
+
+[MidRight]
+
+But... but...[AN]
+
+You were just[N]
+
+protecting me...[AN]
+
+and then I...[N]
+
+It's my fault...[AN]
+
+I'm too weak and I...[AN]
+
+
+
+[MidLeft][OpenEyes]
+
+You're still a junior,[AN]
+
+it's only natural that[N]
+
+you're not as strong as me.[AN]
+
+You'll become strong...[N]
+
+Nothing will end here.[AN]
+
+A wound like this is[N]
+
+nothing compared to...[AN]
+
+to your life, isn't[N]
+
+that right, Haguro...?[AN]
+
+
+
+[MidRight]
+
+W-whaaa![N]
+
+Captaaain![AN]
+
+
+
+[MidLeft][ToggleSmile]
+
+Don't cry, don't cry.[AN]
+
+On the battlefield, an officer[N]
+
+should be smiling and composed.[AN]
+
+I taught you that, right?[N]
+
+Come on, show me your smile.[AN]
+
+
+
+[MidRight]
+
+[Beat][AN]
+
+...Yes, Captain.[AN]
+
+[ToggleSmile]...Hehe.[AN]
+
+
+
+[MidLeft]
+
+Now that's a warm smile.[N]
+
+Well, then, we should get going.[AN]
+
+Haguro, until we can make it to[N]
+
+safety, you'll have to cover me.[AN]
+
+
+
+[MidRight]
+
+O-Of course! I'll do my best![N]
+
+I'll be strong! Stronger than ever![AN]
+
+So that I can help you... I'll[N]
+
+be strong no matter what![AN]
+
+
+
+[MidLeft][ToggleSmile]
+
+Heh... All the more reason I'm...[N]
+
+Glad that I could save you...[A][2X][X]
+

@@ -1,0 +1,130 @@
+
+
+[MidLeft][LoadEvil][MidRight][LoadMoneyMan]
+
+Mr. Evil, sir...[N]
+
+We've brought your meals.[AN]
+
+It is a pleasure to have you[N]
+
+stay at our humble village,[AN]
+
+during your important mission.[AN]
+
+
+
+[MidLeft]
+
+Is this all? Just scraps?![N]
+
+Bring more alcohol and women![AN]
+
+More!! You bumbling old fool![N]
+
+You ingrates owe your lives to us![AN]
+
+It is your duty to serve us![AN]
+
+
+
+[MidRight][Beat][AN]
+
+
+
+[MidLeft]
+
+What's the matter?[AN]
+
+...Oh, I see. That[N]
+
+look in your eyes...[AN]
+
+Planning to rebel,[N]
+
+are you? Hmm?[AN]
+
+
+
+[MidRight]
+
+N-no...[N]
+
+No, sir...[AN]
+
+
+
+[MidLeft]
+
+Bah. You bore me.[N]
+
+Away with you![AN]
+
+
+
+[MidRight]
+
+As you[N]
+
+wish, sir...[AN]
+
+[Clear]
+
+
+
+[MidLeft]
+
+This mission is dreadfully boring...[AN]
+
+At least being able to shove these[N]
+
+fools around makes it tolerable.[AN]
+
+
+
+[MidRight][LoadRedSoldier]
+
+Sir Evil! I have[N]
+
+something to report![AN]
+
+There's a group[N]
+
+approaching our rear.[AN]
+
+It appears to be[N]
+
+Resistance soldiers.[AN]
+
+
+
+[MidLeft]
+
+Those Resistance scum.[AN]
+
+They thought our[N]
+
+guard was down, hmm?[AN]
+
+Order the waiting troops[N]
+
+to prepare an assault,[AN]
+
+and the wagons to flee.[AN]
+
+I'll prepare my little[N]
+
+arachnid friends as well.[AN]
+
+They challenged Etruria,[N]
+
+so we show them its might![AN]
+
+
+
+[MidRight]
+
+Yes sir![N]
+
+On the double![A][2X][X]
+
